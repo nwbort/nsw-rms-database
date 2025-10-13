@@ -26,7 +26,7 @@ The repository is organized as follows:
 
 ## How it Works
 
-The scraping process is fully automated using GitHub Actions. The `scrape.yml` workflow is configured to run daily at 6:23 AM UTC.
+The scraping process is fully automated using GitHub Actions. The `scrape.yml` workflow is configured to run 23 minutes past the hour.
 
 The workflow performs the following steps:
 1. checks out the repository.
