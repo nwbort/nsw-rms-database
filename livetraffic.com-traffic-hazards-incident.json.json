@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1760719200000,
+  "lastPublished": 1760722020000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -5157,80 +5157,6 @@
     },
     {
       "type": "Feature",
-      "id": 252859,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8073605,
-          -33.7898615
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1760654573000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck",
-        "adviceA": "Expect delays",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1760655739908,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [
-          "Site Cleared"
-        ],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "M4 Motorway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Roper Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Erskine Park",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 252855,
       "geometry": {
         "type": "Point",
@@ -5301,6 +5227,80 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8073605,
+          -33.7898615
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760654573000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Expect delays",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1760655739908,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [
+          "Site Cleared"
+        ],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M4 Motorway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Roper Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Erskine Park",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
       }
     },
     {
@@ -12065,8 +12065,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.035452,
-          -33.966607
+          151.0504994,
+          -33.9611113
         ],
         "collections": []
       },
@@ -12093,7 +12093,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1760719198617,
+        "lastUpdated": 1760720067474,
         "otherAdvice": "<p>Damaged power lines due to crash.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -12101,24 +12101,19 @@
         "weblinkName": null,
         "attendingGroups": [
           "Emergency services",
-          "Transport for NSW"
+          "Transport for NSW",
+          "Utility Company"
         ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "hjinEkryx[Mc@KWGSIUQc@CKAAEM_@_AUk@MYa@cASa@_@aA[q@KU[u@y@kB_CkFs@gBOa@yAyDYq@Sg@]y@}@wB[q@S]]k@OS}BiDuAwBGK_@i@OYU_@Wc@Ug@O]IQ[s@KWMWgAmCWi@M[Wo@M[EKIWGSEOAKEQCWAMAKAS?QAY@W@[@OBO@UPqBDc@BYNeB?AL{A@MFw@NcB??AG"
-          }
-        ],
+        "encodedPolylines": [],
         "displayName": "CRASH Car",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Clancy Street",
+            "crossStreet": "Belmore Road",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
+                "affectedDirection": "Westbound",
                 "closedLanes": "",
                 "description": "",
                 "extent": "Closed",
@@ -12131,7 +12126,7 @@
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Belmore Road",
+            "secondLocation": "Clancy Street",
             "suburb": "Padstow",
             "trafficVolume": ""
           }
