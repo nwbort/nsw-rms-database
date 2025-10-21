@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1761045990000,
+  "lastPublished": 1761051510000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3749,80 +3749,6 @@
     },
     {
       "type": "Feature",
-      "id": 253210.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7116413,
-          -34.0663159
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1760960314000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car on fire",
-        "adviceA": "Use an alternative route",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1760962587978,
-        "otherAdvice": "<p>Consider using Liz Kernohan Drive.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Car on fire",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "MacArthur Road off-ramp",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Off-ramp"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Camden Bypass",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Spring Farm",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 253213,
       "geometry": {
         "type": "Point",
@@ -5834,80 +5760,6 @@
     },
     {
       "type": "Feature",
-      "id": 253247,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1783124,
-          -33.9088903
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761002157000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Exercise caution",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1761002956068,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Motorway Crew"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "St Peters Interchange",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "M8 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "St Peters",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 253242,
       "geometry": {
         "type": "Point",
@@ -5973,6 +5825,80 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Leichhardt",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1783124,
+          -33.9088903
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761002157000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1761002956068,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "St Peters Interchange",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "near",
+            "mainStreet": "M8 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "St Peters",
             "trafficVolume": ""
           }
         ],
@@ -9252,80 +9178,6 @@
     },
     {
       "type": "Feature",
-      "id": 253312,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.893695,
-          -34.389876
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761035049000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Repairs",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1761035049569,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "TRAFFIC LIGHTS BLACKED OUT Repairs",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Balgownie Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Fairy Meadow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "TrafficSignals"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 253311,
       "geometry": {
         "type": "Point",
@@ -9401,6 +9253,80 @@
     },
     {
       "type": "Feature",
+      "id": 253315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2133457,
+          -33.853316
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761048795000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1761050142426,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Sydney Harbour Tunnel",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 253313,
       "geometry": {
         "type": "Point",
@@ -9433,7 +9359,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1761044409011,
+        "lastUpdated": 1761050191530,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -9466,6 +9392,80 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Maitland",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.893695,
+          -34.389876
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761035049000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Repairs",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
+        "lastUpdated": 1761050191735,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS BLACKED OUT Repairs",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Balgownie Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Fairy Meadow",
             "trafficVolume": ""
           }
         ],
