@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1761212010000,
+  "lastPublished": 1761215610000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3745,156 +3745,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253456,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9277224,
-          -33.8041392
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761120698000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Wires down",
-        "adviceA": "Exercise caution",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1761125757042,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Utility Company"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Wires down",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Great Western Highway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Blacktown Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Metella Road",
-            "suburb": "Prospect",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253433,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.793824,
-          -34.207273
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761110658000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Power failure",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1761127710470,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Utility Company"
-        ],
-        "encodedPolylines": [],
-        "displayName": "TRAFFIC LIGHTS BLACKED OUT Power failure",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Toggerai Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Appin Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Appin",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "TrafficSignals"
       }
     },
     {
@@ -10710,6 +10560,80 @@
     },
     {
       "type": "Feature",
+      "id": 253569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.109182,
+          -33.916248
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761213489000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "lastUpdated": 1761213489735,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Duke Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Canterbury Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Campsie",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 253567,
       "geometry": {
         "type": "Point",
@@ -10726,7 +10650,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -10742,7 +10666,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1761211355319,
+        "lastUpdated": 1761214832231,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
