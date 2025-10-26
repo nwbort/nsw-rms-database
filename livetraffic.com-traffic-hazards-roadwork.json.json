@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1761477810000,
+  "lastPublished": 1761483210000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -31160,7 +31160,7 @@
     },
     {
       "type": "Feature",
-      "id": 252067,
+      "id": 252070.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -31180,7 +31180,17 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
-            "startTime": "8:30pm",
+            "startTime": "12:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "12:00am",
             "toDay": ""
           },
           {
@@ -31199,8 +31209,18 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "8:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "12:00am",
+            "startTime": "8:30pm",
             "toDay": ""
           },
           {
@@ -31210,7 +31230,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "8:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
@@ -31220,7 +31240,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Friday",
-            "startTime": "8:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
@@ -31230,32 +31250,32 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Saturday",
-            "startTime": "8:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           }
         ],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
+        "ended": false,
+        "isNewIncident": true,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1759994822000,
+        "created": 1759995364000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Check signage",
         "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1761415200000,
+        "end": 1761933600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1761415261885,
+        "lastUpdated": 1761415261921,
         "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -31264,7 +31284,7 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1760866200000,
+        "start": 1761471000000,
         "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
@@ -31406,7 +31426,7 @@
     },
     {
       "type": "Feature",
-      "id": 252070.0,
+      "id": 252067,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -31426,26 +31446,6 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
-            "startTime": "12:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "12:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
             "startTime": "8:30pm",
             "toDay": ""
           },
@@ -31455,7 +31455,7 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
-            "fromDay": "Tuesday",
+            "fromDay": "Monday",
             "startTime": "8:30pm",
             "toDay": ""
           },
@@ -31466,7 +31466,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "8:30pm",
+            "startTime": "12:00am",
             "toDay": ""
           },
           {
@@ -31476,7 +31476,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:00pm",
+            "startTime": "8:30pm",
             "toDay": ""
           },
           {
@@ -31486,7 +31486,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Friday",
-            "startTime": "9:00pm",
+            "startTime": "8:30pm",
             "toDay": ""
           },
           {
@@ -31496,32 +31496,32 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Saturday",
-            "startTime": "9:00pm",
+            "startTime": "8:30pm",
             "toDay": ""
           }
         ],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1759995364000,
+        "created": 1759994822000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Check signage",
         "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1761933600000,
+        "end": 1761415200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1761415261921,
+        "lastUpdated": 1761415261885,
         "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -31530,7 +31530,7 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1761471000000,
+        "start": 1760866200000,
         "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
@@ -31545,6 +31545,84 @@
             "region": "Sydney",
             "secondLocation": "Marsden Street",
             "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.811334,
+          -34.483413
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761274013000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1761631200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1761481808489,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761508800000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Whites Lane",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Burley Griffin Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "",
+            "suburb": "Stockinbingal",
             "trafficVolume": ""
           }
         ],
