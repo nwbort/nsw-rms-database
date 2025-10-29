@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1761704100000,
+  "lastPublished": 1761708600000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -2227,6 +2227,93 @@
     },
     {
       "type": "Feature",
+      "id": 253611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2084533,
+          -33.8675034
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Santa's Sydney Sleigh Ride",
+            "linkURL": "https://whatson.cityofsydney.nsw.gov.au/events/santas-sydney-sleigh-ride"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "251127-Santa_Sydney_Sleigh_Ride-RoadClosureMap",
+            "fileName": "251127-Santa_Sydney_Sleigh_Ride-RoadClosureMap.pdf",
+            "fileType": "PDF",
+            "linkName": "251127-Santa_Sydney_Sleigh_Ride-RoadClosureMap",
+            "sizeInBytes": 102575,
+            "uniqueFileName": "494144_1761705536196_251127-Santa_Sydney_Sleigh_Ride-RoadClosureMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1761259744000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1764329400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761705823170,
+        "otherAdvice": "<p><strong>Santa&#39;s Sydney Sleigh Ride in the Sydney CBD. Events start from 6.30pm and the Sleigh Ride will start at Customs House Square near Circular Quay at 8.10pm</strong>, travel along Pitt St and arrive at Martin Pl at approx. 8.20pm. The sleigh will then leave Martin Pl at 8.35pm, arriving at Town Hall at 8.45pm.</p><p><strong>The following road closures will be in place from 5pm to 10.30pm to safely facilitate the event:</strong></p><ul><li><strong>Pitt St</strong> between Hunter St and King St </li><li><strong>Hunter St </strong>between Castlereagh St and Pitt St (westbound)</li></ul><p>Managed access to Pitt St car parks will be maintained via contra flow conditions from Hunter St to Martin Pl and from King St to Martin Pl. Vehicles cannot cross Martin Place on Pitt Street. </p><p>Traffic in the CBD on approach to Pitt St will be heavy before, during and after the event. Motorists should allow plenty of extra travel time and watch out for pedestrians in the area.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Road Closures affect both directions unless stated otherwise. Roads will be progressively reopened after infrastructure removal and cleaning. </p><p><strong>SYDNEY CBD - FROM 5PM TO 10.30PM </strong></p><ul><li>Hunter St* between Castlereagh St and Pitt St (westbound)</li><li>Pitt St^ between Hunter St and King St </li></ul><p>*Local traffic access only (vehicles making deliveries or accessing Hunter St car parks). </p><p>^Managed access to Pitt St car parks (e.g. Angel Pl, Fullerton Hotel car park, Secure car park, Wilson car park, Telstra Broadcast Building car park) will be maintained via contra flow conditions from Hunter St to Martin Pl and from King Street to Martin Place. Vehicles cannot cross Martin Pl on Pitt St.</p>",
+            "title": "Road Closures",
+            "id": "722501"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1764162000000,
+        "displayName": "Christmas Event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hunter Street to King Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "from",
+            "mainStreet": "Pitt Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 254094,
       "geometry": {
         "type": "Point",
@@ -2273,14 +2360,19 @@
         ]
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Vic100 event website",
+            "linkURL": "https://goforbroke.org.au/vic100/"
+          }
+        ],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "<p>Visit <a href=\"\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -2297,9 +2389,15 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761701447601,
+        "lastUpdated": 1761708415388,
         "otherAdvice": "<p>800 riders are expected to take part in the inaugural Vic100 cycle ride travelling 100km from Penrith to Mount Victoria via Bells Line of Road. Closures will be in place along parts of the course, while on other sections cyclists will share roads with motorists. The ride starts from Tench Reserve in Jamisontown, near Penrith, and finishes at the Victoria and Albert Guest House in Mount Victoria. </p><p>Roads will be closed between 6.30am and 12pm along parts of the course including Bells Line of Road. Some roads around the start area in Penrith will close from 4.30am and some roads around the finish area in Mount Victoria will remain closed til 4pm near the finish line.</p><p><strong>Bells Line of Rd closures:</strong></p><ul><li>Bells Line of Road will be closed between Bell and Kurrajong between 6.30am and midday. The road will reopen in stages with access reopened by 10am from Kurrajong and Bilpin, and 12pm from Bell.</li><li><strong>Motorists travelling between Lithgow and Sydney on Sunday will need to use the Great Western Highway instead.</strong></li><li>Bells Line of Rd closed in both directions between Kurrajong, Old Bells Line of Rd and Bilpin, Valley Ridges Rd from 7am to 10am.</li><li>From Bell, no access to Bells Line of Rd from 6.30am until 12pm midday.</li><li>From Bilpin, westbound access towards Bell closed 7am until midday, eastbound access towards Kurrajong closed 7am to 10am.</li></ul><p><strong>Local access: </strong>Cyclists will be travelling from Kurrajong to Bell in the westbound lane of Bells Line of Rd. Local traffic from properties along Bells Line of Rd needing to exit while the event is underway will be permitted to travel in the eastbound lane only, under direction of traffic control and under a reduced 40km/h speed limit.</p><p><strong>Darling Causeway closures:</strong></p><ul><li>The Darling Causeway will be closed from Bell to Mount Victoria from 9.30am to 12.30pm. </li><li>During this time, motorists from Lithgow or Dargan can travel eastbound as far as Bell then will get turned around to return westbound back towards Lithgow.</li><li>Motorists travelling between Mount Victoria and Lithgow can use the Great Western Hwy.</li></ul>",
-        "arrangementElements": [],
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>Penrith City Council</strong></p><p><strong>Jamisontown </strong></p><p><strong>From 4:30am to 8:00am</strong></p><ul><li>Jamison Rd between Tench Ave and Mulgoa Rd (Westbound)</li><li>Tench Ave between Access Rd to Tench Reserve Boat Ramp and northern entry to Nepean Shores, The East Bank (Both directions)</li><li>Tench Ave between the northern entry to Nepean Shores, The East Bank and Jamison Rd (Southbound)</li></ul><p><br></p><p><strong>Agnes Banks</strong></p><p><strong>From 5:45am to 8:30am</strong></p><ul><li>Crowleys Ln between Castlereagh Rd and Yarramundi Ln (Both directions)</li><li>Old Kurrajong Rd between Yarramundi Ln and Kurrajong Rd (Both directions)</li><li>Yarramundi Ln between Crowleys Ln and Old Kurrajong Rd (Both directions)</li></ul><p><strong>Hawkesbury City Council</strong></p><p><strong>Kurrajong </strong></p><p><strong>From 6:00am to 9:30am</strong></p><ul><li>Old Bells Line of Road between Grose Vale Road and Bells Line of Road (Northbound)</li></ul><p><strong>Kurrajong Heights &amp; Hills, Bilpin and</strong></p><p><strong>From 7:00am to 10:00am</strong></p><ul><li>Bells Line of Road between Old Bells Line of Road and Valley Ridges Rd (Both directions)</li></ul><p><strong>Blue Mountains City Council</strong></p><p><strong>Bell, Mt Tomah &amp; Berambing</strong></p><p><strong>From 6:30am to 12:00pm</strong></p><ul><li>Bells Line of Road between Darling Causeway and Valley Ridges Rd (Eastbound)</li></ul><p><strong>From 7:00am to 12:00pm</strong></p><ul><li>Bells Line of Road between Valley Ridges Rd and Darling Causeway (Westbound)</li></ul><p><strong>From 9:30am to 12:30pm</strong></p><ul><li>Darling Causeway between Bells Line of Road and Hartley Vale Road (Both directions) </li></ul><p><strong>Mt Victoria</strong></p><p><strong>From 9:30am to 12:30pm</strong></p><ul><li>Darling Causeway Hartley Vale Road and Station St (Both directions)</li></ul><p><strong>From 9:30am to 1pm</strong></p><ul><li>Station Street between Great Western Highway and Cobb Lane (Both directions)</li></ul><p><strong>From 9:30am to 4pm</strong></p><ul><li>Harley Ave between Station St and Patrick St (Both directions)</li></ul><p><br></p><p><strong>SPEED ZONE REDUCTIONS</strong></p><p><strong>Blue Mountains &amp; Hawkesbury Council</strong></p><p><strong>From 5:45am to 8:30am</strong></p><p><strong>60 km/hr to 40km /hr</strong></p><ul><li>Bells Line of Rd between Old Kurrajong Rd and Pitt Ln (Both directions)</li><li>Pitt Lane between Bells Line of Rd and Riverview St (Both directions)</li></ul><p><strong>From 6:30am to 12:00pm</strong></p><p><strong>80 km/hr to 40km /hr</strong></p><ul><li>Bells Line of Rd Olds Bell Line of Road and Darling Causeway (Both directions)</li></ul><p><br></p><p><br></p>",
+            "title": "Road Closures and Speed Zone Reductions",
+            "id": "722549"
+          }
+        ],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
