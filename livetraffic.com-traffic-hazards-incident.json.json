@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1761921330000,
+  "lastPublished": 1761924630000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3791,157 +3791,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254268,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2986986,
-          -33.3884288
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761828597000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Semi-trailer",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1761835052272,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Semi-trailer",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Peats Ridge Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "Somersby",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254264,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1747328,
-          -33.7112733
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761818375000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1761835958555,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Utility Company",
-          "Tow Truck"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Car, wires down",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Richmond Avenue",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Mona Vale Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Conway Avenue",
-            "suburb": "St Ives",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
       }
     },
     {
@@ -10116,6 +9965,80 @@
     },
     {
       "type": "Feature",
+      "id": 254416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0962668,
+          -33.865768
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761918377000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1761922101636,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "M4 Motorway Tunnel",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Concord",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 254263,
       "geometry": {
         "type": "Point",
@@ -10148,7 +10071,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1761920491351,
+        "lastUpdated": 1761922101257,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -10191,154 +10114,6 @@
     },
     {
       "type": "Feature",
-      "id": 254416,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0962668,
-          -33.865768
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761918377000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1761920491165,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Motorway Crew"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "M4 Motorway Tunnel",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Concord",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254417,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0307867,
-          -33.6959199
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761919318000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1761920490959,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "New Line Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Old Northern Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Dural",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 254408,
       "geometry": {
         "type": "Point",
@@ -10371,7 +10146,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1761920502053,
+        "lastUpdated": 1761922114069,
         "otherAdvice": "<p>Ongoing police investigations are expected to take some time. </p>",
         "arrangementElements": [],
         "diversions": "<p>Muttama Rd via Cootamundra, Olympic Hwy via Wallendbeen, Burley Griffin Way to rejoin Hume Hwy - suitable for all vehicles up to 26m B-Doubles - This diversion will add at least 1hr to your journey.</p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR</p>",
@@ -10412,6 +10187,174 @@
             "region": "Southern Highlands",
             "secondLocation": "Bodkins Road",
             "suburb": "Berremangra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9810542,
+          -33.3876028
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "NSW Vehicle Ferries",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/planning-tools-and-information/vehicle-ferries"
+          }
+        ],
+        "headline": "FERRY OUT OF SERVICE Maintenance WISEMANS FERRY Webbs Creek Ferry between River Road and St Albans Road",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Detour for Sackville and Webbs Creek Ferry",
+            "fileName": "Detour for Sackville and Webbs Creek Ferry.jpg",
+            "fileType": "JPG",
+            "linkName": "Detour for Sackville and Webbs Creek Ferry",
+            "sizeInBytes": 100063,
+            "uniqueFileName": "980715_1759061523324_Detour for Sackville and Webbs Creek Ferry.jpg"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1761922857000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Low tide",
+        "adviceA": "Delay your journey",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "FERRY OUT OF SERVICE",
+        "lastUpdated": 1761922858706,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Eastbound:</strong> St Albans Rd, Settlers Rd, Wisemans Ferry Rd, Old Northern Rd, to River Rd.</p><p><strong>Westbound:</strong> River Rd, Old Northern Rd, Wisemans Ferry Rd, Settlers Rd, to St Albans Rd.</p><p>Motorists are advised to allow approximately 50 minutes of additional travel time.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "zzwjEm`ox[Ha@??ZmAl@wBZiAdAyFb@aC??@I"
+          }
+        ],
+        "displayName": "FERRY OUT OF SERVICE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "River Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Ferry"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Webbs Creek Ferry",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "St Albans Road",
+            "suburb": "Wisemans Ferry",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0307867,
+          -33.6959199
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761919318000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1761923132015,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "New Line Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "near",
+            "mainStreet": "Old Northern Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Dural",
             "trafficVolume": ""
           }
         ],
