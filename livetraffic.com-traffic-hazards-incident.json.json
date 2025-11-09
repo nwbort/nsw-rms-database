@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1762687500000,
+  "lastPublished": 1762692750000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -980,78 +980,6 @@
     },
     {
       "type": "Feature",
-      "id": 229193,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.748875,
-          -29.344595
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1743135331000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Plan your journey",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1762089298351,
-        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Hamilton Gate Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Wanaaring to Hamilton Gate (QLD)",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 229192,
       "geometry": {
         "type": "Point",
@@ -1124,12 +1052,12 @@
     },
     {
       "type": "Feature",
-      "id": 243270.0,
+      "id": 229193,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.379837,
-          -29.707162
+          143.748875,
+          -29.344595
         ],
         "collections": []
       },
@@ -1147,16 +1075,16 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1753419727000,
+        "created": 1743135331000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Road damage",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
+        "adviceA": "Plan your journey",
+        "adviceB": "Check signage",
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "HAZARD",
-        "lastUpdated": 1762089299466,
+        "lastUpdated": 1762089298351,
         "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -1177,16 +1105,16 @@
                 "description": "",
                 "extent": "Affected",
                 "numberOfLanes": "",
-                "roadType": ""
+                "roadType": "Road"
               }
             ],
             "locationQualifier": "at",
-            "mainStreet": "The Cut Line",
+            "mainStreet": "Hamilton Gate Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Far West NSW",
             "secondLocation": "",
-            "suburb": "Borrona Downs to Wanaaring",
+            "suburb": "Wanaaring to Hamilton Gate (QLD)",
             "trafficVolume": ""
           }
         ],
@@ -1346,6 +1274,78 @@
     },
     {
       "type": "Feature",
+      "id": 243270.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.379837,
+          -29.707162
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1753419727000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1762089299466,
+        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "The Cut Line",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Borrona Downs to Wanaaring",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 241965,
       "geometry": {
         "type": "Point",
@@ -1409,78 +1409,6 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Mutawintji National Park to White Cliffs",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 238097,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.235719,
-          -31.723257
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1749086566000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1762089300344,
-        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Wilangee Road/McDougalls Well Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Silverton to Broughams Gate",
             "trafficVolume": ""
           }
         ],
@@ -1634,12 +1562,12 @@
     },
     {
       "type": "Feature",
-      "id": 248874,
+      "id": 238097,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.1454512,
-          -29.7505784
+          141.235719,
+          -31.723257
         ],
         "collections": []
       },
@@ -1657,29 +1585,23 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1757465958000,
+        "created": 1749086566000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Road damage",
-        "adviceA": "Plan your journey",
-        "adviceB": "Check signage",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "HAZARD",
-        "lastUpdated": 1762089319839,
-        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "lastUpdated": 1762089300344,
+        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "p_ftD}rf}YfBn@f@R^J`@Hh@Jp@Ff@?XAVA|@Eh@Af@Ah@GlAGd@AtA?ZDZFVLd@\\NRJXHZHh@BZ\\jE@DHvADxAR|DJjAF`AN|B@DNnAF`AJ~@`@hDJx@RpBPdBZlCN|AFp@F`@Jh@Lj@\\dAd@pAJTZl@f@fA^v@xApCj@fAT`@R`@^|@z@bBfArBdApBhAvBDJHNd@~@tAjC|BhEXh@zAxCrBvDXh@pAjClAfCxAxCj@lAXr@^|@z@bCRd@d@vAPf@Pd@L`@Lj@BJHVBLDPHh@Hh@Fn@Fp@Fx@BVF^HnALvAJtAFhARtCd@|G`@~E`@lFP|ALn@d@vBH^ZfBr@bCx@`DNr@dAvEZpATlALv@?BJr@L|@rAdJTlArAvHf@vDHf@X`B@FZzA^`BRnAZfATz@Xv@\\t@^n@^h@~@zAj@t@HLrAtBbA~AdCvDnDlFn@dA`AvAPVpAdBxClERXV\\v@fApApBzBbDLPPVbDpEx@fAJLl@t@V\\\\b@l@~@vAhBh@~@bAnAZ`@r@bArAtBhBrCj@`AXd@~B|D|BpD|@tAxE|HXd@fBvCpB`Db@t@n@lAlApB|ArCl@jAZp@Tz@VdAVjAj@bC\\xAZvAr@|Cr@rC\\vAT~@x@tD~@zDNn@b@nBp@pCx@nDPn@h@xBz@jDn@jCNl@bA`Ep@nCf@lBv@zCJf@J`@VdAd@xBBDb@~AV|@Jh@Lp@Lt@?DV~ANvANhAPvA\\lDPxAN~@@JN`ARjBXjBTdBNlAHd@Lr@NfAb@dD?@RrAPhAp@nF`@lCJn@j@dEBLP`At@~EDT\\rBVfBFXd@pCV~@FNTr@XbA`A|BrAtCPZtAlCd@z@j@~@l@z@n@z@NRf@j@hApAjBrBt@t@v@t@~A`Bv@v@t@n@r@n@HHz@x@hA`AvEhEdA`AfAfA`@h@hAzAh@z@v@vAT\\j@~@PZBDjBfDn@nA`@t@b@|@b@~@l@tAL^Rh@l@bBn@zAnAbEH\\bAjD^`BPx@Lf@VxAPtAPjBPxBDx@HbAL`CJbCLvDDzAFvC@vABjABf@J|A\\fDRxADj@D\\^fDB`@d@xGF`D?dAAzAB~B@FHxBJbALz@Hb@b@nBPf@h@bA^j@Zd@d@j@x@x@FFj@l@dBnAbA|@z@p@DBPJdAj@h@ZtAp@j@XNNTR`@d@Xh@N^FJJj@Nx@NlAZbCRtBVtBBPD^F`@L^Pd@R`@|@jB\\~@Z|@Lv@?@BNJ~AJfALxBHnAFz@H~@@HVfDFp@Dj@Jd@b@tAf@hAbBhDL^DDNPDDTNJH~@f@f@h@j@zAXhBRdB@`AB\\L`ARj@h@v@b@x@XdALv@RbB?VAPEb@EVGf@EPi@vAQf@Wh@U`@UZST[`@]f@_@j@_@x@IRITK\\IXGTMl@Oz@YdA]~@m@pAENGPIb@k@fC_@bAMf@Kl@GVCt@Cn@?^@L@VLf@B`@C^GRi@hAs@fA]d@KLWJQDs@BaADSBC@a@R_@f@]f@Wb@Ob@Kh@Gv@?\\?B@`@Pb@Tf@XjARfAX|BFb@r@rDVnCNt@JrAHnA?t@BjB@h@?ZFpBLhDH`C?J@RBfBBjANlCJlARnBVdCXrAX|B@D\\bCBRF|@J^V|AjAtHBPVxBTxB^bBV|B@JVxA?DZjALv@Tn@@D`@~@\\r@b@`ANn@Db@D~@?vA?J?bBBx@?z@Bl@?FFv@Fx@HjANfAFj@XvBLfARfB^lCh@|CT~ABRRpAJv@HzATvC@PLvAB`@XdC`AhFXlAFL^|@pAlDl@hAl@rAZn@T`@|@~Bv@vBVlATr@Fl@Dn@Ht@VrCVhBHn@|AnIdApDv@pDr@pCj@~BrAfGbA|DfBjHr@`Dj@|B|CnN\\z@r@zAr@tAv@~ATf@zB|E`GpNjC`HjAlDV\\`@XVTvAn@`@Pd@J^Fl@BX@P@NDNHJBLDb@Rn@\\h@\\VHjAl@`AN@?jCVh@F`AP\\NXNl@h@rBlCHLb@j@PV~@rAbAxAdA~A`@v@?@L^J^J^RhABTFZLb@\\z@l@~@`@j@JZBHRd@\\nBVpAPpAHb@d@lBFNRh@Vp@FN\\z@~@jBn@hAr@pAz@~Ar@jAl@fAbCzGh@xAp@`C`@`C|AxKZ|BZtBd@`GF|@?Z@N@J?DFz@DRH\\H\\PTtB~Dr@bAb@bATf@\\~@Pt@RfAf@lDBBl@nF@JP~AHpA@|@LzB\\pCBTN|AP|BXfDR`BBV"
-          }
-        ],
+        "encodedPolylines": [],
         "displayName": "HAZARD Road damage",
         "roads": [
           {
@@ -1691,22 +1613,22 @@
                 "affectedDirection": "Both directions",
                 "closedLanes": "",
                 "description": "",
-                "extent": "Closed",
+                "extent": "Affected",
                 "numberOfLanes": "",
-                "roadType": "Road"
+                "roadType": ""
               }
             ],
             "locationQualifier": "at",
-            "mainStreet": "Hawker Gate Road",
+            "mainStreet": "Wilangee Road/McDougalls Well Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Far West NSW",
             "secondLocation": "",
-            "suburb": "Hawker Gate to Yandama",
+            "suburb": "Silverton to Broughams Gate",
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "State road",
+        "isLocalRoad": "Local road",
         "CategoryIcon": "Hazard"
       }
     },
@@ -1940,12 +1862,12 @@
     },
     {
       "type": "Feature",
-      "id": 248648,
+      "id": 248874,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.327316,
-          -29.463568
+          141.1454512,
+          -29.7505784
         ],
         "collections": []
       },
@@ -1963,7 +1885,7 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1757377116000,
+        "created": 1757465958000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Road damage",
@@ -1972,8 +1894,8 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "HAZARD",
-        "lastUpdated": 1762089320677,
-        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong> </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p><p><br></p>",
+        "lastUpdated": 1762089319839,
+        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1983,7 +1905,7 @@
           {
             "levels": "",
             "direction": "BOTH_DIRECTIONS",
-            "coords": "fo_sDeydcZi@cCScB]}C}AwNSoBEwA?iADmFNaONaOBwD?kIAcEEyBK}BEcACg@Q}AWeB_@{Ba@iC}@{F}@sFgAyGaAoEK_@s@aCeCkHkEiMsDuK{EaMEKm@mBg@kBuAqFA?_@oBESwCiNkBsIk@uCwCkNCQ{WynAUgAe@gBQw@Sk@M[Se@Qa@i@cAWi@ygAkyBuKwTwF}KmOqZcBeDuBeEkEsIEGgFkKaAkBe@}@e@{@i@aAW_@a@i@[_@c@g@y@w@yCgCi@e@wBiBcAgAc@k@S_@kEoJyYsn@{@kBc@eAUi@cK_X{AkDeD_IyBmFcDwHSk@EMo@kCu@{BkBaEyC}FgAiCaAaCCGaC_Gq@qBi@gBg@aBQaAOcBCYGyA@s@FeAJ}@Le@Pc@Zg@HMl@y@pDsCxCeCdAqAh@w@\\i@XgAJ_A?gACSKq@Q{@mAoDwE{JIMg@gAa@w@So@Ke@ESSsAIeAGqBAiBDmGFiAPiCZ_DZiB`@sAZ{@p@}ALa@Ny@VqCRiD??Oc@Ig@M[U]YW[OUK]IiAIa@CaCHeFJoCTiBRs@H}BZQDwDl@aCFgEYoAIwH]uJo@y@IgCSiA[g@MkBq@UGmF{AkEoA{Ac@aIgBqEcAwE_AaDu@wCkAoDaB[O_GoCEC}IsEyBy@_@EKC"
+            "coords": "p_ftD}rf}YfBn@f@R^J`@Hh@Jp@Ff@?XAVA|@Eh@Af@Ah@GlAGd@AtA?ZDZFVLd@\\NRJXHZHh@BZ\\jE@DHvADxAR|DJjAF`AN|B@DNnAF`AJ~@`@hDJx@RpBPdBZlCN|AFp@F`@Jh@Lj@\\dAd@pAJTZl@f@fA^v@xApCj@fAT`@R`@^|@z@bBfArBdApBhAvBDJHNd@~@tAjC|BhEXh@zAxCrBvDXh@pAjClAfCxAxCj@lAXr@^|@z@bCRd@d@vAPf@Pd@L`@Lj@BJHVBLDPHh@Hh@Fn@Fp@Fx@BVF^HnALvAJtAFhARtCd@|G`@~E`@lFP|ALn@d@vBH^ZfBr@bCx@`DNr@dAvEZpATlALv@?BJr@L|@rAdJTlArAvHf@vDHf@X`B@FZzA^`BRnAZfATz@Xv@\\t@^n@^h@~@zAj@t@HLrAtBbA~AdCvDnDlFn@dA`AvAPVpAdBxClERXV\\v@fApApBzBbDLPPVbDpEx@fAJLl@t@V\\\\b@l@~@vAhBh@~@bAnAZ`@r@bArAtBhBrCj@`AXd@~B|D|BpD|@tAxE|HXd@fBvCpB`Db@t@n@lAlApB|ArCl@jAZp@Tz@VdAVjAj@bC\\xAZvAr@|Cr@rC\\vAT~@x@tD~@zDNn@b@nBp@pCx@nDPn@h@xBz@jDn@jCNl@bA`Ep@nCf@lBv@zCJf@J`@VdAd@xBBDb@~AV|@Jh@Lp@Lt@?DV~ANvANhAPvA\\lDPxAN~@@JN`ARjBXjBTdBNlAHd@Lr@NfAb@dD?@RrAPhAp@nF`@lCJn@j@dEBLP`At@~EDT\\rBVfBFXd@pCV~@FNTr@XbA`A|BrAtCPZtAlCd@z@j@~@l@z@n@z@NRf@j@hApAjBrBt@t@v@t@~A`Bv@v@t@n@r@n@HHz@x@hA`AvEhEdA`AfAfA`@h@hAzAh@z@v@vAT\\j@~@PZBDjBfDn@nA`@t@b@|@b@~@l@tAL^Rh@l@bBn@zAnAbEH\\bAjD^`BPx@Lf@VxAPtAPjBPxBDx@HbAL`CJbCLvDDzAFvC@vABjABf@J|A\\fDRxADj@D\\^fDB`@d@xGF`D?dAAzAB~B@FHxBJbALz@Hb@b@nBPf@h@bA^j@Zd@d@j@x@x@FFj@l@dBnAbA|@z@p@DBPJdAj@h@ZtAp@j@XNNTR`@d@Xh@N^FJJj@Nx@NlAZbCRtBVtBBPD^F`@L^Pd@R`@|@jB\\~@Z|@Lv@?@BNJ~AJfALxBHnAFz@H~@@HVfDFp@Dj@Jd@b@tAf@hAbBhDL^DDNPDDTNJH~@f@f@h@j@zAXhBRdB@`AB\\L`ARj@h@v@b@x@XdALv@RbB?VAPEb@EVGf@EPi@vAQf@Wh@U`@UZST[`@]f@_@j@_@x@IRITK\\IXGTMl@Oz@YdA]~@m@pAENGPIb@k@fC_@bAMf@Kl@GVCt@Cn@?^@L@VLf@B`@C^GRi@hAs@fA]d@KLWJQDs@BaADSBC@a@R_@f@]f@Wb@Ob@Kh@Gv@?\\?B@`@Pb@Tf@XjARfAX|BFb@r@rDVnCNt@JrAHnA?t@BjB@h@?ZFpBLhDH`C?J@RBfBBjANlCJlARnBVdCXrAX|B@D\\bCBRF|@J^V|AjAtHBPVxBTxB^bBV|B@JVxA?DZjALv@Tn@@D`@~@\\r@b@`ANn@Db@D~@?vA?J?bBBx@?z@Bl@?FFv@Fx@HjANfAFj@XvBLfARfB^lCh@|CT~ABRRpAJv@HzATvC@PLvAB`@XdC`AhFXlAFL^|@pAlDl@hAl@rAZn@T`@|@~Bv@vBVlATr@Fl@Dn@Ht@VrCVhBHn@|AnIdApDv@pDr@pCj@~BrAfGbA|DfBjHr@`Dj@|B|CnN\\z@r@zAr@tAv@~ATf@zB|E`GpNjC`HjAlDV\\`@XVTvAn@`@Pd@J^Fl@BX@P@NDNHJBLDb@Rn@\\h@\\VHjAl@`AN@?jCVh@F`AP\\NXNl@h@rBlCHLb@j@PV~@rAbAxAdA~A`@v@?@L^J^J^RhABTFZLb@\\z@l@~@`@j@JZBHRd@\\nBVpAPpAHb@d@lBFNRh@Vp@FN\\z@~@jBn@hAr@pAz@~Ar@jAl@fAbCzGh@xAp@`C`@`C|AxKZ|BZtBd@`GF|@?Z@N@J?DFz@DRH\\H\\PTtB~Dr@bAb@bATf@\\~@Pt@RfAf@lDBBl@nF@JP~AHpA@|@LzB\\pCBTN|AP|BXfDR`BBV"
           }
         ],
         "displayName": "HAZARD Road damage",
@@ -2003,16 +1925,16 @@
               }
             ],
             "locationQualifier": "at",
-            "mainStreet": "Narriearra Road",
+            "mainStreet": "Hawker Gate Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Far West NSW",
             "secondLocation": "",
-            "suburb": "Tibooburra",
+            "suburb": "Hawker Gate to Yandama",
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "Local road",
+        "isLocalRoad": "State road",
         "CategoryIcon": "Hazard"
       }
     },
@@ -2374,6 +2296,84 @@
     },
     {
       "type": "Feature",
+      "id": 248648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.327316,
+          -29.463568
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1757377116000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Plan your journey",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1762089320677,
+        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong> </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "fo_sDeydcZi@cCScB]}C}AwNSoBEwA?iADmFNaONaOBwD?kIAcEEyBK}BEcACg@Q}AWeB_@{Ba@iC}@{F}@sFgAyGaAoEK_@s@aCeCkHkEiMsDuK{EaMEKm@mBg@kBuAqFA?_@oBESwCiNkBsIk@uCwCkNCQ{WynAUgAe@gBQw@Sk@M[Se@Qa@i@cAWi@ygAkyBuKwTwF}KmOqZcBeDuBeEkEsIEGgFkKaAkBe@}@e@{@i@aAW_@a@i@[_@c@g@y@w@yCgCi@e@wBiBcAgAc@k@S_@kEoJyYsn@{@kBc@eAUi@cK_X{AkDeD_IyBmFcDwHSk@EMo@kCu@{BkBaEyC}FgAiCaAaCCGaC_Gq@qBi@gBg@aBQaAOcBCYGyA@s@FeAJ}@Le@Pc@Zg@HMl@y@pDsCxCeCdAqAh@w@\\i@XgAJ_A?gACSKq@Q{@mAoDwE{JIMg@gAa@w@So@Ke@ESSsAIeAGqBAiBDmGFiAPiCZ_DZiB`@sAZ{@p@}ALa@Ny@VqCRiD??Oc@Ig@M[U]YW[OUK]IiAIa@CaCHeFJoCTiBRs@H}BZQDwDl@aCFgEYoAIwH]uJo@y@IgCSiA[g@MkBq@UGmF{AkEoA{Ac@aIgBqEcAwE_AaDu@wCkAoDaB[O_GoCEC}IsEyBy@_@EKC"
+          }
+        ],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Narriearra Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Tibooburra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 248646,
       "geometry": {
         "type": "Point",
@@ -2457,78 +2457,6 @@
     },
     {
       "type": "Feature",
-      "id": 229189,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.1900946,
-          -30.6629197
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1743135068000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1762089339140,
-        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Wonnaminta Road, Henry Roberts Road, Bootra Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Nundora to Petita",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 243221,
       "geometry": {
         "type": "Point",
@@ -2592,6 +2520,78 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "White Cliffs to Tibooburra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1900946,
+          -30.6629197
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1743135068000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1762089339140,
+        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Wonnaminta Road, Henry Roberts Road, Bootra Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Nundora to Petita",
             "trafficVolume": ""
           }
         ],
@@ -3361,81 +3361,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255146,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9648453,
-          -32.3912654
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762593516000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car, Pedestrian",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1762604698132,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Car, Animal",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Pikes Gully Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "New England Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Muswellbrook",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
       }
     },
     {
@@ -6195,8 +6120,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -6211,7 +6136,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "HAZARD",
-        "lastUpdated": 1762687242384,
+        "lastUpdated": 1762691456135,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -6245,6 +6170,81 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Raymond Terrace",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4647675,
+          -33.1168616
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "HAZARD Truck on fire MORISSET M1 Pacific Motorway approaching Mandalong Road",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762692696000,
+        "isMajor": true,
+        "name": null,
+        "subCategoryA": "Truck on fire",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1762692725149,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists can use the Mandalong Rd southbound exit to pass the truck fire and rejoin the motorway.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Truck on fire",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mandalong Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Motorway"
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "M1 Pacific Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Morisset",
             "trafficVolume": ""
           }
         ],
