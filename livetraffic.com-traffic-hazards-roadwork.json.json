@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1762922370000,
+  "lastPublished": 1762925700000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -28123,12 +28123,12 @@
     },
     {
       "type": "Feature",
-      "id": 254954,
+      "id": 254952,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.8203837,
-          -31.5450214
+          149.753352,
+          -29.216806
         ],
         "collections": []
       },
@@ -28145,16 +28145,6 @@
             "fromDay": "Weekdays",
             "startTime": "7:00am",
             "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Saturday",
-            "startTime": "7:00am",
-            "toDay": ""
           }
         ],
         "speedLimit": 40,
@@ -28167,18 +28157,18 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1762469081000,
+        "created": 1762468963000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Reduced speed limit",
         "adviceB": "Check signage",
         "adviceC": " ",
-        "end": 1763190000000,
+        "end": 1763103600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762714861592,
+        "lastUpdated": 1762714861590,
         "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -28196,12 +28186,12 @@
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Oxley Highway",
+            "mainStreet": "Carnarvon Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central NSW",
+            "region": "New England North West",
             "secondLocation": "",
-            "suburb": "Biddon",
+            "suburb": "Ashley",
             "trafficVolume": ""
           }
         ],
@@ -28299,84 +28289,6 @@
     },
     {
       "type": "Feature",
-      "id": 254952,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.753352,
-          -29.216806
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762468963000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1763103600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762714861590,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762718400000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Carnarvon Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Ashley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 253889,
       "geometry": {
         "type": "Point",
@@ -28456,6 +28368,94 @@
             "region": "Southern Highlands",
             "secondLocation": "Hazeldell Road",
             "suburb": "Mulloon",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8203837,
+          -31.5450214
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Saturday",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762469081000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1763190000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1762714861592,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762718400000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Oxley Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Biddon",
             "trafficVolume": ""
           }
         ],
@@ -31627,138 +31627,6 @@
     },
     {
       "type": "Feature",
-      "id": 214849,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2071044,
-          -33.8231368
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.210688,
-              -33.839319
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.213948,
-              -33.829923
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Warringah Freeway Upgrade",
-            "linkURL": "https://caportal.com.au/rms/wfu"
-          },
-          {
-            "linkText": "Western Harbour Tunnel",
-            "linkURL": "https://caportal.com.au/rms/wht"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/news/2024/catch-train-metro-or-ferry-during-warringah-freeway-upgrade-works\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1732093988000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Exercise caution",
-        "adviceC": "Expect delays",
-        "end": 1767169260000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762834696419,
-        "otherAdvice": "<p>Changes to traffic conditions will be in place at various times <strong>southbound</strong> along the Warringah Fwy and other nearby roads as a result of the Warringah Freeway upgrade and Western Harbour Tunnel projects. </p><p><strong>From Thursday 6 November until Friday 21 November,</strong> there will be nightly closures (Wed-Sat) of the Gore Hill Fwy/Warringah Fwy southbound. For more info - <a href=\"https://www.livetraffic.com/incident-details/248684\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p><p>Changes to traffic conditions are also in place for northbound motorists - <a href=\"https://www.livetraffic.com/incident-details/215780\" target=\"_blank\">Warringah Fwy northbound.</a></p>",
-        "arrangementElements": [
-          {
-            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
-            "title": "Mount Street on-ramp",
-            "id": "730195"
-          },
-          {
-            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
-            "title": "Miller Street on-ramp",
-            "id": "730196"
-          },
-          {
-            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
-            "title": "Ernest Street on-ramp",
-            "id": "730197"
-          },
-          {
-            "html": "<p>From <strong>6am Sat 8 Nov, </strong>there will be access changes from Falcon St (eastbound)/Military Rd (westbound):</p><ul><li><strong>No access</strong> to the Cahill Expressway. To travel to the Cahill Expressway, use Miller or Mount St Street on-ramps</li><li><strong>For Alfred Street North: </strong>Use Pacific Highway</li><li>Access to the Sydney Harbour Bridge and Sydney Harbour Tunnel will be maintained</li><li>To access Alfred Street off ramp and Cahill Expressway from <strong>Military Rd (westbound)</strong>, use the new Falcon Street eastern on ramp stay in lane (lane 1)</li></ul>",
-            "title": "Falcon street on-ramp",
-            "id": "730198"
-          },
-          {
-            "html": "<p>The Alfred St North southbound off-ramp will be closed nightly on <strong>Wed 3, Thu 4, Wed 10 and Thu 11 Dec</strong> between <strong>10pm and 5am each night.</strong></p><p>Use the Military Rd / Falcon St southbound off-ramp to access North Sydney, Kirribilli, McMahons Point, Kurraba Point and other lower north Shore areas.</p>",
-            "title": "Alfred Street off-ramp",
-            "id": "730199"
-          },
-          {
-            "html": "<p>For more details about upcoming impacts to the Sydney Harbour Tunnel - <a href=\"https://www.livetraffic.com/incident-details/244943\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p>",
-            "title": "Sydney Harbour Tunnel southbound",
-            "id": "730200"
-          },
-          {
-            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
-            "title": "Willoughby Road on-ramp",
-            "id": "730201"
-          },
-          {
-            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
-            "title": "Brook St on-ramp",
-            "id": "730202"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1704027600000,
-        "displayName": "SCHEDULED ROADWORK Warringah Freeway Upgrade/Western Harbour Tunnel Project",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Warringah Freeway Southbound",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Cammeray to North Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 255360.0,
       "geometry": {
         "type": "Point",
@@ -33015,89 +32883,6 @@
     },
     {
       "type": "Feature",
-      "id": 254309,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7703981,
-          -33.7871594
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Mamre Road upgrade",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/mamre-road-upgrade-between-m4-motorway-st-clair-and-erskine-park-road"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761869146000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Allow extra travel time",
-        "end": 1762884000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762884004137,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762851600000,
-        "displayName": "SCHEDULED ROADWORK Mamre Road upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "M4 Motorway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Mamre Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Banks Drive",
-            "suburb": "Orchard Hills",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 241080.0,
       "geometry": {
         "type": "Point",
@@ -33217,6 +33002,89 @@
             "region": "Sydney",
             "secondLocation": "Cahill Expressway",
             "suburb": "Zetland to Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7703981,
+          -33.7871594
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Mamre Road upgrade",
+            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/mamre-road-upgrade-between-m4-motorway-st-clair-and-erskine-park-road"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761869146000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1762884000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1762884004137,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762851600000,
+        "displayName": "SCHEDULED ROADWORK Mamre Road upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M4 Motorway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Mamre Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Banks Drive",
+            "suburb": "Orchard Hills",
             "trafficVolume": ""
           }
         ],
@@ -33986,8 +33854,8 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762920996948,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p><p>Over Size Over Mass operators are advised to contact the project team UHF channel 44 to be escorted through the site. </p><p><br></p>",
+        "lastUpdated": 1762922750023,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions.</p><p>The highway will be closed in both directions for up to 20 minutes at midnight to allow the gantry to be lifted. </p><p>Over Size Over Mass operators are advised to contact the project team UHF channel 44 to be escorted through the site. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -34010,6 +33878,99 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Tarro",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.211081,
+          -33.8431164
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Warringah Freeway Upgrade",
+            "linkURL": "https://caportal.com.au/rms/wfu"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Freeway",
+            "direction": "Northbound",
+            "finishTime": "6:00am",
+            "fromDay": "Saturday",
+            "startTime": "12:30am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Freeway",
+            "direction": "Northbound",
+            "finishTime": "7:00am",
+            "fromDay": "Sunday",
+            "startTime": "1:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762295088000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Plan your journey",
+        "end": 1763323200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1762923530623,
+        "otherAdvice": "<p>During the full northbound closure of Warringah Fwy, there will be no access to the following off-ramps Sydney Harbour Bridge to Falcon St, Ernest St and Miller St.</p><p>There will also be closures of northbound on-ramps from Berry St and Falcon St.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>All motorists use Pacific Hwy off-ramp at North Sydney.</p><p>Access to Mosman/Manly via Pacific Hwy, Miller St and Falcon St to Military Rd.</p><p><a href=\"https://www.livetraffic.com/incident-details/244943\" target=\"_blank\">Sydney Harbour Tunnel </a>will also be closed during this time. </p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763213400000,
+        "displayName": "SCHEDULED ROADWORK  Warringah Freeway Upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pacific Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Warringah Freeway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Miller Street",
+            "suburb": "North Sydney",
             "trafficVolume": ""
           }
         ],
@@ -34074,41 +34035,41 @@
         "adviceB": "Exercise caution",
         "adviceC": "Expect delays",
         "end": 1767169260000,
-        "hideEndDate": false,
+        "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762921837450,
+        "lastUpdated": 1762925040409,
         "otherAdvice": "<p><strong>From Sat 15 Nov until Mon 17 Nov </strong>there will be nightly closure of the Warringah Fwy northbound. For more info - <a href=\"https://www.livetraffic.com/incident-details/254751\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p><p>Changes to traffic conditions will be in place at various times <strong>northbound</strong> along the Warringah Fwy towards Cammeray and other nearby roads as a result of the Warringah Freeway upgrade and Western Harbour Tunnel projects. </p><p>These changes will include a combination of on/off-ramp and lane closures.</p><p>Changes to traffic conditions are also in place for southbound motorists - <a href=\"https://www.livetraffic.com/incident-details/214849\" target=\"_blank\">Warringah Fwy southbound</a>.</p>",
         "arrangementElements": [
           {
             "html": "<p>The Ernest Street northbound off-ramp will be closed until <strong>5am, Monday 8 December</strong>.</p><p>You can use the Brook St off-ramp, Amherst St, Miller St and Ernest St.</p>",
             "title": "Ernest Street off-ramp",
-            "id": "730700"
+            "id": "730740"
           },
           {
             "html": "<p>There are no current works planned requiring closures. Information will be provided when closures are required.</p>",
             "title": "Falcon Street on-ramp",
-            "id": "730701"
+            "id": "730741"
           },
           {
             "html": "<p>There are no current works planned requiring closures. Information will be provided when closures are required.</p>",
             "title": "Berry Street on-ramp",
-            "id": "730702"
+            "id": "730742"
           },
           {
             "html": "<p>From <strong>10pm Fri 28 Nov to 6pm Sun 30 Nov</strong> Arthur St will be closed northbound between High St and Mount St. Diversions via Walker St Berry St, Arthur St and Mount St. Access to Meriton will be maintained.</p><p>The exit ramp between Pacific hwy and High St will also be closed. Diversion via Pacific Hwy and Miller St.</p>",
             "title": "Arthur Street",
-            "id": "730703"
+            "id": "730743"
           },
           {
             "html": "<p>For more details about upcoming impacts to the Sydney Harbour Tunnel - <a href=\"https://www.livetraffic.com/incident-details/244943\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p>",
             "title": "Sydney Harbour Tunnel northbound",
-            "id": "730704"
+            "id": "730744"
           },
           {
             "html": "<p>From <strong>6am Sat 15 Nov</strong>, northbound lane changes will affect how motorists can access Mosman and Manly.</p><p><strong>Mosman and Manly</strong> will only be accessible from<strong> lane 3.</strong></p><p><strong>Miller St</strong>  will only be accessible from<strong> lane 2.</strong></p><p><br></p>",
             "title": "To Mosman & Manly",
-            "id": "730705"
+            "id": "730745"
           }
         ],
         "diversions": "",
@@ -34141,80 +34102,129 @@
     },
     {
       "type": "Feature",
-      "id": 254751,
+      "id": 214849,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.211081,
-          -33.8431164
+          151.2071044,
+          -33.8231368
         ],
-        "collections": []
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.210688,
+              -33.839319
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.213948,
+              -33.829923
+            ]
+          }
+        ]
       },
       "properties": {
         "webLinks": [
           {
             "linkText": "Warringah Freeway Upgrade",
             "linkURL": "https://caportal.com.au/rms/wfu"
+          },
+          {
+            "linkText": "Western Harbour Tunnel",
+            "linkURL": "https://caportal.com.au/rms/wht"
           }
         ],
         "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Freeway",
-            "direction": "Northbound",
-            "finishTime": "6:00am",
-            "fromDay": "Saturday",
-            "startTime": "12:30am",
-            "toDay": ""
-          }
-        ],
+        "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
         "isNewIncident": false,
-        "publicTransport": "",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/news/2024/catch-train-metro-or-ferry-during-warringah-freeway-upgrade-works\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1762295088000,
+        "created": 1732093988000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Plan your journey",
-        "end": 1763323200000,
-        "hideEndDate": false,
+        "adviceA": "Plan your journey",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "end": 1767169260000,
+        "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762922343279,
-        "otherAdvice": "<p>During the full northbound closure of Warringah Fwy, there will be no access to the following off-ramps Sydney Harbour Bridge to Falcon St, Ernest St and Miller St.</p><p>There will also be closures of northbound on-ramps from Berry St and Falcon St.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>All motorists use Pacific Hwy off-ramp at North Sydney.</p><p>Access to Mosman/Manly via Pacific Hwy, Miller St and Falcon St to Military Rd.</p><p><a href=\"https://www.livetraffic.com/incident-details/244943\" target=\"_blank\">Sydney Harbour Tunnel </a>will also be closed during this time. </p>",
+        "lastUpdated": 1762925250136,
+        "otherAdvice": "<p>Changes to traffic conditions will be in place at various times <strong>southbound</strong> along the Warringah Fwy and other nearby roads as a result of the Warringah Freeway upgrade and Western Harbour Tunnel projects. </p><p><strong>From Thursday 6 November until Friday 21 November,</strong> there will be nightly closures (Wed-Sat) of the Gore Hill Fwy/Warringah Fwy southbound. For more info - <a href=\"https://www.livetraffic.com/incident-details/248684\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p><p>Changes to traffic conditions are also in place for northbound motorists - <a href=\"https://www.livetraffic.com/incident-details/215780\" target=\"_blank\">Warringah Fwy northbound.</a></p>",
+        "arrangementElements": [
+          {
+            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
+            "title": "Mount Street on-ramp",
+            "id": "730750"
+          },
+          {
+            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
+            "title": "Miller Street on-ramp",
+            "id": "730751"
+          },
+          {
+            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
+            "title": "Ernest Street on-ramp",
+            "id": "730752"
+          },
+          {
+            "html": "<p>From <strong>6am Sat 8 Nov, </strong>there will be access changes from Falcon St (eastbound)/Military Rd (westbound):</p><ul><li><strong>No access</strong> to the Cahill Expressway. To travel to the Cahill Expressway, use Miller or Mount St Street on-ramps</li><li><strong>For Alfred Street North: </strong>Use Pacific Highway</li><li>Access to the Sydney Harbour Bridge and Sydney Harbour Tunnel will be maintained</li><li>To access Alfred Street off ramp and Cahill Expressway from <strong>Military Rd (westbound)</strong>, use the new Falcon Street eastern on ramp stay in lane (lane 1)</li></ul>",
+            "title": "Falcon street on-ramp",
+            "id": "730753"
+          },
+          {
+            "html": "<p>The Alfred St North southbound off-ramp will be closed nightly on <strong>Wed 3, Thu 4, Wed 10 and Thu 11 Dec</strong> between <strong>10pm and 5am each night.</strong></p><p>Use the Military Rd / Falcon St southbound off-ramp to access North Sydney, Kirribilli, McMahons Point, Kurraba Point and other lower north Shore areas.</p>",
+            "title": "Alfred Street off-ramp",
+            "id": "730754"
+          },
+          {
+            "html": "<p>For more details about upcoming impacts to the Sydney Harbour Tunnel - <a href=\"https://www.livetraffic.com/incident-details/244943\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p>",
+            "title": "Sydney Harbour Tunnel southbound",
+            "id": "730755"
+          },
+          {
+            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
+            "title": "Willoughby Road on-ramp",
+            "id": "730756"
+          },
+          {
+            "html": "<p>There are no current works planned that require closures. Information will be provided when closures are required.</p>",
+            "title": "Brook St on-ramp",
+            "id": "730757"
+          }
+        ],
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1763213400000,
-        "displayName": "SCHEDULED ROADWORK  Warringah Freeway Upgrade",
+        "start": 1704027600000,
+        "displayName": "SCHEDULED ROADWORK Warringah Freeway Upgrade/Western Harbour Tunnel Project",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Pacific Highway",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Warringah Freeway",
+            "locationQualifier": "to",
+            "mainStreet": "Warringah Freeway Southbound",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Miller Street",
-            "suburb": "North Sydney",
+            "secondLocation": "",
+            "suburb": "Cammeray to North Sydney",
             "trafficVolume": ""
           }
         ],
