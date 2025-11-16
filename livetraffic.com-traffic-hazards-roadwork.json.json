@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1763325150000,
+  "lastPublished": 1763328450000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -18801,84 +18801,6 @@
     },
     {
       "type": "Feature",
-      "id": 255055,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.2584278,
-          -35.1856358
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762496604000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1763618400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762496604570,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762804800000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Federal Highway Service Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Sutton Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Sutton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 253539,
       "geometry": {
         "type": "Point",
@@ -22993,6 +22915,73 @@
     },
     {
       "type": "Feature",
+      "id": 254706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7205454,
+          -32.895723
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762229119000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1763748000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1762984846778,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place for residents entering and existing King, Vera and Prince Streets. </p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763715600000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Lorna Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Maud Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "Prince Street",
+            "suburb": "Waratah West",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 254710.0,
       "geometry": {
         "type": "Point",
@@ -23062,73 +23051,6 @@
             "region": "Hunter",
             "secondLocation": "Terry Street",
             "suburb": "Mayfield West",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254706,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7205454,
-          -32.895723
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762229119000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
-        "end": 1763748000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1762984846778,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
-        "arrangementElements": [],
-        "diversions": "<p>A detour will be in place for residents entering and existing King, Vera and Prince Streets. </p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763715600000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lorna Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Maud Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Prince Street",
-            "suburb": "Waratah West",
             "trafficVolume": ""
           }
         ],
@@ -30793,12 +30715,12 @@
     },
     {
       "type": "Feature",
-      "id": 253985,
+      "id": 252645,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.1473961,
-          -33.7509281
+          151.144827,
+          -33.900748
         ],
         "collections": []
       },
@@ -30813,7 +30735,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
-            "startTime": "9:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
@@ -30823,7 +30745,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "9:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
@@ -30833,7 +30755,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
@@ -30843,7 +30765,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
@@ -30853,7 +30775,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           }
         ],
@@ -30863,23 +30785,23 @@
         "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1761620800000,
+        "created": 1760501702000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Intersection upgrade",
         "adviceA": "Reduced speed limit",
         "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
+        "adviceC": " ",
         "end": 1763316000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763316060727,
-        "otherAdvice": "<p>Traffic lights at the intersection of Pacific Hwy and Ryde Rd/Mona Vale Rd will be flashing, and Portable traffic lights will allow motorists to pass in one direction at a time. </p>",
+        "lastUpdated": 1763316060692,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -30887,21 +30809,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1762052700000,
+        "start": 1761472800000,
         "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Livingstone Avenue",
+            "crossStreet": "Frazer Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Pacific Highway",
+            "mainStreet": "New Canterbury Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Dumaresq Street",
-            "suburb": "Pymble",
+            "secondLocation": "Hill Street",
+            "suburb": "Dulwich Hill",
             "trafficVolume": ""
           }
         ],
@@ -31192,12 +31114,12 @@
     },
     {
       "type": "Feature",
-      "id": 252645,
+      "id": 253985,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.144827,
-          -33.900748
+          151.1473961,
+          -33.7509281
         ],
         "collections": []
       },
@@ -31212,7 +31134,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
-            "startTime": "9:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -31222,7 +31144,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "9:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -31232,7 +31154,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "9:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           },
           {
@@ -31242,7 +31164,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "9:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           },
           {
@@ -31252,7 +31174,7 @@
             "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           }
         ],
@@ -31262,23 +31184,23 @@
         "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": true,
+        "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1760501702000,
+        "created": 1761620800000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Intersection upgrade",
         "adviceA": "Reduced speed limit",
         "adviceB": "Exercise caution",
-        "adviceC": " ",
+        "adviceC": "Check signage",
         "end": 1763316000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763316060692,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
+        "lastUpdated": 1763316060727,
+        "otherAdvice": "<p>Traffic lights at the intersection of Pacific Hwy and Ryde Rd/Mona Vale Rd will be flashing, and Portable traffic lights will allow motorists to pass in one direction at a time. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -31286,21 +31208,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1761472800000,
+        "start": 1762052700000,
         "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Frazer Street",
+            "crossStreet": "Livingstone Avenue",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "New Canterbury Road",
+            "mainStreet": "Pacific Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Hill Street",
-            "suburb": "Dulwich Hill",
+            "secondLocation": "Dumaresq Street",
+            "suburb": "Pymble",
             "trafficVolume": ""
           }
         ],
@@ -31654,90 +31576,12 @@
     },
     {
       "type": "Feature",
-      "id": 255321,
+      "id": 255675,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.7561757,
-          -32.9254347
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762816319000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Check signage",
-        "adviceB": "Reduced speed limit",
-        "adviceC": " ",
-        "end": 1764093600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763317845783,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p><p>Road closures will be required on Wood Street and Denison Street, with a short detour required for vehicles entering or exiting via Parry Street.  </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763974800000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Tudor Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Parry Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Stewart Avenue",
-            "suburb": "Newcastle West",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255677,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.2722322,
-          -31.462934
+          148.7096635,
+          -31.6771883
         ],
         "collections": []
       },
@@ -31766,7 +31610,7 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1763078043000,
+        "created": 1763077870000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
@@ -31777,7 +31621,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763319645780,
+        "lastUpdated": 1763319645822,
         "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Traffic controllers will be on site to direct motorists.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -31791,16 +31635,16 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "Newell Highway",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Coonabarabran Road",
+            "mainStreet": "Oxley Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Central NSW",
             "secondLocation": "",
-            "suburb": "Coonabarabran",
+            "suburb": "Gilgandra",
             "trafficVolume": ""
           }
         ],
@@ -31918,12 +31762,12 @@
     },
     {
       "type": "Feature",
-      "id": 255675,
+      "id": 255677,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.7096635,
-          -31.6771883
+          149.2722322,
+          -31.462934
         ],
         "collections": []
       },
@@ -31952,7 +31796,7 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1763077870000,
+        "created": 1763078043000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
@@ -31963,7 +31807,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763319645822,
+        "lastUpdated": 1763319645780,
         "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Traffic controllers will be on site to direct motorists.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -31977,16 +31821,16 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Newell Highway",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Oxley Highway",
+            "mainStreet": "Coonabarabran Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Central NSW",
             "secondLocation": "",
-            "suburb": "Gilgandra",
+            "suburb": "Coonabarabran",
             "trafficVolume": ""
           }
         ],
@@ -32198,7 +32042,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -32224,7 +32068,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763323206477,
+        "lastUpdated": 1763325656911,
         "otherAdvice": "<p>Motorists are advised to allow approximately 20minutes of additional travel time. </p><p>Traffic controllers will be on site to direct motorists. </p>",
         "arrangementElements": [],
         "diversions": "<p>Motorists will be detoured via Lawrence Hargrave Drive or the M1 Princes Motorway and Memorial Drive.</p>",
@@ -32241,13 +32085,247 @@
             "crossStreet": "M1 Princes Motorway",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Lawrence Hargrave Drive",
+            "locationQualifier": "between",
+            "mainStreet": "Bulli Pass",
             "quadrant": "",
             "queueLength": 0,
             "region": "South Coast",
-            "secondLocation": "",
+            "secondLocation": "Lawrence Hargrave Drive",
             "suburb": "Bulli",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7561757,
+          -32.9254347
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762816319000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Check signage",
+        "adviceB": "Reduced speed limit",
+        "adviceC": " ",
+        "end": 1764007200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1763325961070,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p><p>Road closures will be required on Wood Street and Denison Street, with a short detour required for vehicles entering or exiting via Parry Street.  </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763974800000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tudor Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Parry Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "Stewart Avenue",
+            "suburb": "Newcastle West",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.609162,
+          -35.23928
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Monday",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1763327758000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": " ",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1763359200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1763327759211,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763323200000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mulloon Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Kings Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Mulloon",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2584278,
+          -35.1856358
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762496604000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1763618400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1763327866754,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Detour in place for Federal Highway Service Road.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762804800000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Federal Highway Service Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Sutton Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Sutton",
             "trafficVolume": ""
           }
         ],
