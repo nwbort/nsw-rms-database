@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1763375850000,
+  "lastPublished": 1763378850000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -75,6 +75,87 @@
             "region": "Central NSW",
             "secondLocation": "",
             "suburb": "Dandry (north of Coonabarabran)",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.17847,
+          -33.897734
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1763376944000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Avoid the area",
+        "adviceB": "Use diversions",
+        "adviceC": "Expect delays",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1763378277276,
+        "otherAdvice": "<p>Northbound is closed at Alice Street, southbound at Enmore Road. Local diversions in place.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "vs|mEmfvy[IDe@R_@PSHa@NYL_@Lo@Vc@Pk@TUHYJYJUJ]L[L[LUH[H[HMDMB_@Hc@HYDOBE@G@G@G?G?C?C?E?CAKCKEICGGGCWSSMSO[Wa@YSEGA"
+          }
+        ],
+        "displayName": "BUILDING FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Enmore Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "King Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Newtown",
             "trafficVolume": ""
           }
         ],
