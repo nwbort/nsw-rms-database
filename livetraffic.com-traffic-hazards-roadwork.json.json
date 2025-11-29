@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1764391110000,
+  "lastPublished": 1764394410000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -34575,12 +34575,12 @@
     },
     {
       "type": "Feature",
-      "id": 256972,
+      "id": 257413,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.0940394,
-          -36.1494232
+          148.0414318,
+          -34.494646
         ],
         "collections": []
       },
@@ -34594,12 +34594,22 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00pm",
-            "fromDay": "Every Day",
+            "fromDay": "Thursday",
+            "startTime": "7:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Friday",
             "startTime": "7:00am",
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -34609,19 +34619,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1764114750000,
+        "created": 1764297799000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Check signage",
-        "adviceC": "Reduce your speed",
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Reduced speed limit",
+        "adviceC": " ",
         "end": 1764309600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764309603557,
-        "otherAdvice": "",
+        "lastUpdated": 1764309602976,
+        "otherAdvice": "<p>Single lane closures with alternating (stop/slow) traffic conditions will be in place. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.  </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -34629,21 +34639,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1764100800000,
-        "displayName": "SCHEDULED ROADWORK",
+        "start": 1764187200000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "North Berthong Road",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway",
+            "locationQualifier": "near",
+            "mainStreet": "Burley Griffin Way",
             "quadrant": "",
             "queueLength": 0,
-            "region": "South Coast",
+            "region": "Riverina",
             "secondLocation": "",
-            "suburb": "Bodalla",
+            "suburb": "Cootamundra",
             "trafficVolume": ""
           }
         ],
@@ -34731,12 +34741,12 @@
     },
     {
       "type": "Feature",
-      "id": 257413,
+      "id": 256972,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.0414318,
-          -34.494646
+          150.0940394,
+          -36.1494232
         ],
         "collections": []
       },
@@ -34750,22 +34760,12 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00pm",
-            "fromDay": "Thursday",
-            "startTime": "7:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Friday",
+            "fromDay": "Every Day",
             "startTime": "7:00am",
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -34775,19 +34775,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1764297799000,
+        "created": 1764114750000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Reduced speed limit",
-        "adviceC": " ",
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Check signage",
+        "adviceC": "Reduce your speed",
         "end": 1764309600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764309602976,
-        "otherAdvice": "<p>Single lane closures with alternating (stop/slow) traffic conditions will be in place. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.  </p>",
+        "lastUpdated": 1764309603557,
+        "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -34795,21 +34795,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1764187200000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "start": 1764100800000,
+        "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "North Berthong Road",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "near",
-            "mainStreet": "Burley Griffin Way",
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Riverina",
+            "region": "South Coast",
             "secondLocation": "",
-            "suburb": "Cootamundra",
+            "suburb": "Bodalla",
             "trafficVolume": ""
           }
         ],
@@ -35349,6 +35349,84 @@
     },
     {
       "type": "Feature",
+      "id": 254371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.912594,
+          -35.622881
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "6:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761887663000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1764313200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764313202437,
+        "otherAdvice": "<p>Single-lane closures are in place. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1759089600000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Southdown Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Cobb Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "The Murray",
+            "secondLocation": "",
+            "suburb": "Mathoura",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 251828,
       "geometry": {
         "type": "Point",
@@ -35505,12 +35583,12 @@
     },
     {
       "type": "Feature",
-      "id": 254371,
+      "id": 255628,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.912594,
-          -35.622881
+          153.4739386,
+          -28.922584
         ],
         "collections": []
       },
@@ -35525,7 +35603,7 @@
             "direction": "Both directions",
             "finishTime": "6:00pm",
             "fromDay": "Weekdays",
-            "startTime": "6:00am",
+            "startTime": "7:00am",
             "toDay": ""
           }
         ],
@@ -35539,19 +35617,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1761887663000,
+        "created": 1763027232000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduced speed limit",
         "adviceC": " ",
         "end": 1764313200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764313202437,
-        "otherAdvice": "<p>Single-lane closures are in place. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "lastUpdated": 1764313203347,
+        "otherAdvice": "<p>The speed limit outside work hours is 60km/h. Portable traffic lights will allow motorists to pass in one direction at a time. </p><p>Drivers of Oversize and/or Overmass Vehicles over 4.5m wide are required to contact the works supervisor 00408 736 532, prior to travel.</p><p><br></p><p><br></p><p><br></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -35559,21 +35637,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1759089600000,
+        "start": 1763631840000,
         "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Southdown Road",
+            "crossStreet": "Blackwall Drive",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Cobb Highway",
+            "mainStreet": "Pacific Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "The Murray",
+            "region": "North Coast NSW",
             "secondLocation": "",
-            "suburb": "Mathoura",
+            "suburb": "Wardell",
             "trafficVolume": ""
           }
         ],
@@ -35652,84 +35730,6 @@
             "region": "New England North West",
             "secondLocation": "",
             "suburb": "Gunnedah",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255628,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.4739386,
-          -28.922584
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1763027232000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduced speed limit",
-        "adviceC": " ",
-        "end": 1764313200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764313203347,
-        "otherAdvice": "<p>The speed limit outside work hours is 60km/h. Portable traffic lights will allow motorists to pass in one direction at a time. </p><p>Drivers of Oversize and/or Overmass Vehicles over 4.5m wide are required to contact the works supervisor 00408 736 532, prior to travel.</p><p><br></p><p><br></p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763631840000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Blackwall Drive",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Wardell",
             "trafficVolume": ""
           }
         ],
