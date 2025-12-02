@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1764674940000,
+  "lastPublished": 1764680640000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -33368,6 +33368,84 @@
     },
     {
       "type": "Feature",
+      "id": 254639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6734645,
+          -32.9049686
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762158482000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": " ",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1764612000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764612004042,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions.</p><p>Motorists travelling westbound from Longworth Avenue will not be able to access Thomas Street via the roundabout.</p><p>Over Size and/or Over Mass operators are advised to contact the project team on UHF channel 19 to be escorted through the site.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists will detour onto Newcastle Road, Cowper Street, and Metcalfe Street to access Thomas Street. </p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1764576000000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Metcalfe Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Thomas Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "Newcastle Road",
+            "suburb": "Wallsend",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 257146,
       "geometry": {
         "type": "Point",
@@ -33663,84 +33741,6 @@
             "region": "Sydney",
             "secondLocation": "Macquarie Street",
             "suburb": "Leichhardt",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254639,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.6734645,
-          -32.9049686
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762158482000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": " ",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1764612000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764612004042,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions.</p><p>Motorists travelling westbound from Longworth Avenue will not be able to access Thomas Street via the roundabout.</p><p>Over Size and/or Over Mass operators are advised to contact the project team on UHF channel 19 to be escorted through the site.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists will detour onto Newcastle Road, Cowper Street, and Metcalfe Street to access Thomas Street. </p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1764576000000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Metcalfe Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Thomas Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Newcastle Road",
-            "suburb": "Wallsend",
             "trafficVolume": ""
           }
         ],
@@ -35521,12 +35521,12 @@
     },
     {
       "type": "Feature",
-      "id": 253889,
+      "id": 256747,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.604078,
-          -35.2411943
+          153.2296217,
+          -29.4458184
         ],
         "collections": []
       },
@@ -35538,20 +35538,10 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Both directions",
+            "direction": "Northbound",
             "finishTime": "5:00pm",
-            "fromDay": "Weekdays",
+            "fromDay": "Tuesday",
             "startTime": "7:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "1:00pm",
-            "fromDay": "Saturday",
-            "startTime": "8:00am",
             "toDay": ""
           }
         ],
@@ -35565,19 +35555,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1761544635000,
+        "created": 1763957566000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Resurfacing",
+        "subCategoryA": "Maintenance",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Reduced speed limit",
-        "adviceC": " ",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
         "end": 1764655200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764655263072,
-        "otherAdvice": "<p>Single lane closures will be in place. Traffic controllers will be on site to direct motorists.</p><p>Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
+        "lastUpdated": 1764655263237,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. Oversize and or overmass vehicles wider than 4m to call 0461 254 027 at least 2 hours in advance and contact on approach via UHF as per signage.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -35585,21 +35575,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1763323200000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "start": 1764619200000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Bobbaduck Close",
+            "crossStreet": "Maclean Interchange",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Kings Highway",
+            "mainStreet": "Pacific Motorway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "Hazeldell Road",
-            "suburb": "Mulloon",
+            "region": "North Coast NSW",
+            "secondLocation": "Yamba Road",
+            "suburb": "Maclean",
             "trafficVolume": ""
           }
         ],
@@ -35687,12 +35677,12 @@
     },
     {
       "type": "Feature",
-      "id": 256747,
+      "id": 253889,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.2296217,
-          -29.4458184
+          149.604078,
+          -35.2411943
         ],
         "collections": []
       },
@@ -35704,10 +35694,20 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Northbound",
+            "direction": "Both directions",
             "finishTime": "5:00pm",
-            "fromDay": "Tuesday",
+            "fromDay": "Weekdays",
             "startTime": "7:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "1:00pm",
+            "fromDay": "Saturday",
+            "startTime": "8:00am",
             "toDay": ""
           }
         ],
@@ -35721,19 +35721,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1763957566000,
+        "created": 1761544635000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
+        "subCategoryA": "Resurfacing",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
+        "adviceB": "Reduced speed limit",
+        "adviceC": " ",
         "end": 1764655200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764655263237,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. Oversize and or overmass vehicles wider than 4m to call 0461 254 027 at least 2 hours in advance and contact on approach via UHF as per signage.</p>",
+        "lastUpdated": 1764655263072,
+        "otherAdvice": "<p>Single lane closures will be in place. Traffic controllers will be on site to direct motorists.</p><p>Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -35741,21 +35741,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1764619200000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1763323200000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Maclean Interchange",
+            "crossStreet": "Bobbaduck Close",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Pacific Motorway",
+            "mainStreet": "Kings Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Yamba Road",
-            "suburb": "Maclean",
+            "region": "Southern Highlands",
+            "secondLocation": "Hazeldell Road",
+            "suburb": "Mulloon",
             "trafficVolume": ""
           }
         ],
