@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1764650640000,
+  "lastPublished": 1764653640000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -19284,12 +19284,12 @@
     },
     {
       "type": "Feature",
-      "id": 255682,
+      "id": 255467,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.070002,
-          -33.0995685
+          149.4019937,
+          -33.6766917
         ],
         "collections": []
       },
@@ -19302,13 +19302,23 @@
             "roadextent": "Affected",
             "roadtype": "",
             "direction": "Both directions",
-            "finishTime": "5:30pm",
+            "finishTime": "6:00pm",
             "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "1:00pm",
+            "fromDay": "Saturday",
             "startTime": "7:00am",
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -19318,19 +19328,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1763078514000,
+        "created": 1762920511000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1764916200000,
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1766127600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763924446095,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "lastUpdated": 1763924446605,
+        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -19338,21 +19348,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1763928000000,
+        "start": 1764532800000,
         "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "Lloyds Road",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Henry Parkes Way",
+            "locationQualifier": "between",
+            "mainStreet": "Vale Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Central NSW",
-            "secondLocation": "",
-            "suburb": "Parkes",
+            "secondLocation": "Caves Road",
+            "suburb": "Bathurst",
             "trafficVolume": ""
           }
         ],
@@ -19440,12 +19450,12 @@
     },
     {
       "type": "Feature",
-      "id": 255467,
+      "id": 255682,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.4019937,
-          -33.6766917
+          148.070002,
+          -33.0995685
         ],
         "collections": []
       },
@@ -19458,23 +19468,13 @@
             "roadextent": "Affected",
             "roadtype": "",
             "direction": "Both directions",
-            "finishTime": "6:00pm",
+            "finishTime": "5:30pm",
             "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "1:00pm",
-            "fromDay": "Saturday",
             "startTime": "7:00am",
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -19484,19 +19484,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1762920511000,
+        "created": 1763078514000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1766127600000,
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1764916200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1763924446605,
-        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "lastUpdated": 1763924446095,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -19504,21 +19504,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1764532800000,
+        "start": 1763928000000,
         "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Lloyds Road",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Vale Road",
+            "locationQualifier": "at",
+            "mainStreet": "Henry Parkes Way",
             "quadrant": "",
             "queueLength": 0,
             "region": "Central NSW",
-            "secondLocation": "Caves Road",
-            "suburb": "Bathurst",
+            "secondLocation": "",
+            "suburb": "Parkes",
             "trafficVolume": ""
           }
         ],
@@ -28717,134 +28717,6 @@
     },
     {
       "type": "Feature",
-      "id": 239576,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.3309622,
-          -33.5094565
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Friday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1750331010000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Upgrade",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": "Reduced speed limit",
-        "end": 1765389600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764294761071,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p>Drivers of Oversize and/or Overmass are required to contact the works supervisor 0438 691 628 prior to travel.</p><p>Lane width restrictions in place, with 3.5m lanes available throughout worksite.</p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1764576000000,
-        "displayName": "SCHEDULED ROADWORK Upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Memorial Avenue",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Maitland Bay Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "Blackwall",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 257402,
       "geometry": {
         "type": "Point",
@@ -31225,128 +31097,6 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Walgett",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 215780.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2105237,
-          -33.841515
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.213598,
-              -33.827558
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.210486,
-              -33.836418
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Warringah Freeway Upgrade",
-            "linkURL": "https://caportal.com.au/rms/wfu"
-          },
-          {
-            "linkText": "Western Harbour Tunnel",
-            "linkURL": "https://caportal.com.au/rms/wht"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/news/2024/catch-train-metro-or-ferry-during-warringah-freeway-upgrade-works\" target=\"_blank\">transportnsw.info </a>to plan your trip on public transport.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1732752139000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Exercise caution",
-        "adviceC": "Expect delays",
-        "end": 1767169260000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764533074941,
-        "otherAdvice": "<p>Changes to traffic conditions will be in place at various times <strong>northbound</strong> along the Warringah Fwy towards Cammeray and other nearby roads as a result of the Warringah Freeway upgrade and Western Harbour Tunnel projects. </p><p>These changes will include a combination of on/off-ramp and lane closures.</p><p>Changes to traffic conditions are also in place for southbound motorists - <a href=\"https://www.livetraffic.com/incident-details/214849\" target=\"_blank\">Warringah Fwy southbound</a>.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>The Ernest Street northbound off-ramp will be closed until <strong>5am, Monday 8 December</strong>.</p><p>You can use the Brook St off-ramp, Amherst St, Miller St and Ernest St.</p>",
-            "title": "Ernest Street off-ramp",
-            "id": "742493"
-          },
-          {
-            "html": "<p>There are no current works planned requiring closures. Information will be provided when closures are required.</p>",
-            "title": "Falcon Street on-ramp",
-            "id": "742494"
-          },
-          {
-            "html": "<p>There are no current works planned requiring closures. Information will be provided when closures are required.</p>",
-            "title": "Berry Street on-ramp",
-            "id": "742495"
-          },
-          {
-            "html": "",
-            "title": "Arthur Street",
-            "id": "742496"
-          },
-          {
-            "html": "<p>For more details about upcoming impacts to the Sydney Harbour Tunnel - <a href=\"https://www.livetraffic.com/incident-details/244943\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p>",
-            "title": "Sydney Harbour Tunnel northbound",
-            "id": "742497"
-          },
-          {
-            "html": "<p>From <strong>6am Sat 15 Nov</strong>, northbound lane changes will affect how motorists can access Mosman and Manly.</p><p><strong>Mosman and Manly</strong> will only be accessible from<strong> lane 3.</strong></p><p><strong>Miller St</strong>  will only be accessible from<strong> lane 2.</strong></p><p><br></p>",
-            "title": "To Mosman & Manly",
-            "id": "742498"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1704027600000,
-        "displayName": "SCHEDULED ROADWORK Warringah Freeway Upgrade/Western Harbour Tunnel Project",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Warringah Freeway Northbound",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "North Sydney to Cammeray",
             "trafficVolume": ""
           }
         ],
@@ -34259,162 +34009,6 @@
     },
     {
       "type": "Feature",
-      "id": 254639,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.6734645,
-          -32.9049686
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762158482000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": " ",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1764612000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764612004042,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions.</p><p>Motorists travelling westbound from Longworth Avenue will not be able to access Thomas Street via the roundabout.</p><p>Over Size and/or Over Mass operators are advised to contact the project team on UHF channel 19 to be escorted through the site.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists will detour onto Newcastle Road, Cowper Street, and Metcalfe Street to access Thomas Street. </p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1764576000000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Metcalfe Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Thomas Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Newcastle Road",
-            "suburb": "Wallsend",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257146,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.052294,
-          -33.8136006
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "On-ramp",
-            "direction": "Northbound",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "12:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764167152000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Signage",
-        "adviceA": "Use diversions",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Plan your journey",
-        "end": 1764612000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764612004029,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p>Light vehicles - Victoria Rd, Marsden Rd and Stewart St to Kissing Point Rd.</p><p>Heavy vehicles - use the Silverwater Rd southbound loop on-ramp, then Parramatta Rd and James Ruse Dr to Kissing Point Rd.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1764595800000,
-        "displayName": "SCHEDULED ROADWORK Signage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Silverwater Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Victoria Road eastbound on-ramp",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rydalmere",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 255367,
       "geometry": {
         "type": "Point",
@@ -34533,6 +34127,84 @@
     },
     {
       "type": "Feature",
+      "id": 257146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.052294,
+          -33.8136006
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "On-ramp",
+            "direction": "Northbound",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "12:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764167152000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Signage",
+        "adviceA": "Use diversions",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Plan your journey",
+        "end": 1764612000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764612004029,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Light vehicles - Victoria Rd, Marsden Rd and Stewart St to Kissing Point Rd.</p><p>Heavy vehicles - use the Silverwater Rd southbound loop on-ramp, then Parramatta Rd and James Ruse Dr to Kissing Point Rd.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1764595800000,
+        "displayName": "SCHEDULED ROADWORK Signage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Silverwater Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Victoria Road eastbound on-ramp",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Rydalmere",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 256488,
       "geometry": {
         "type": "Point",
@@ -34632,6 +34304,84 @@
             "region": "Sydney",
             "secondLocation": "Macquarie Street",
             "suburb": "Leichhardt",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6734645,
+          -32.9049686
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762158482000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": " ",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1764612000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764612004042,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions.</p><p>Motorists travelling westbound from Longworth Avenue will not be able to access Thomas Street via the roundabout.</p><p>Over Size and/or Over Mass operators are advised to contact the project team on UHF channel 19 to be escorted through the site.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists will detour onto Newcastle Road, Cowper Street, and Metcalfe Street to access Thomas Street. </p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1764576000000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Metcalfe Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Thomas Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "Newcastle Road",
+            "suburb": "Wallsend",
             "trafficVolume": ""
           }
         ],
@@ -35428,183 +35178,6 @@
     },
     {
       "type": "Feature",
-      "id": 244567,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9210426,
-          -30.7063389
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Macksville Bridge",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/macksville-bridge"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "Bridge",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "Bridge",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Saturday",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1754281801000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Bridge work",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Reduced speed limit",
-        "adviceC": "Check signage",
-        "end": 1773471600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764648176831,
-        "otherAdvice": "<p><strong>Wednesday 3rd and Thursday 4th December</strong> there will be alternating (stop/slow) traffic conditions in place to allow motorists to pass in one direction at a time. </p><p>There will also be intermittent closures of River Street turning lanes (onto and off bridge). Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Restrictions will be in place during the single lane closures for vehicles more than 3.5 metres wide. Please call the project team on <strong>1800 653 092</strong> at least 24 hours prior to reaching the site for access.  </p>",
-            "title": "Advice for operators of OSOM vehicles",
-            "id": "743440"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1754859600000,
-        "displayName": "SCHEDULED ROADWORK Bridge work",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Giinagay Way",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Macksville",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257869,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1326503,
-          -33.7811862
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764649087000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use diversions",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Plan your journey",
-        "end": 1765217700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1764649088175,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p><strong>M2 Mwy on-ramp (westbound)</strong>: Lane Cove Rd, Epping Rd and Delhi Rd to M2 Mwy.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765191600000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lane Cove Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "M2 Motorway off/on ramp",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Macquarie Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 256166,
       "geometry": {
         "type": "Point",
@@ -35876,6 +35449,777 @@
             "region": "Sydney",
             "secondLocation": "Jordan Springs Boulevard",
             "suburb": "Cranebrook",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1326503,
+          -33.7811862
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764649087000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Plan your journey",
+        "end": 1765217700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764650911574,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p><strong>M2 Mwy on-ramp (westbound)</strong>: Lane Cove Rd, Epping Rd and Delhi Rd to M2 Mwy.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1765191600000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Lane Cove Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "M2 Motorway westbound on ramp",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Macquarie Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9210426,
+          -30.7063389
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Macksville Bridge",
+            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/macksville-bridge"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "Bridge",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "Bridge",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Saturday",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1754281801000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Bridge work",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Reduced speed limit",
+        "adviceC": "Check signage",
+        "end": 1773471600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764650936293,
+        "otherAdvice": "<p><strong>Wednesday 3rd and Thursday 4th December</strong> there will be alternating (stop/slow) traffic conditions in place to allow motorists to pass in one direction at a time. </p><p>There will also be intermittent closures of River Street turning lanes (onto and off bridge). Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Restrictions will be in place during the single lane closures for vehicles more than 3.5 metres wide. Please call the project team on <strong>1800 653 092</strong> at least 24 hours prior to reaching the site for access.  </p>",
+            "title": "Advice for operators of OSOM vehicles",
+            "id": "743494"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1754859600000,
+        "displayName": "SCHEDULED ROADWORK Bridge work",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Giinagay Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Macksville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.692822,
+          -33.738697
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764651976000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1766470500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764651977347,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1765360800000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Jack Williams Drive",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Castlereagh Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Nepean Street",
+            "suburb": "Penrith",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.260942,
+          -33.8934943
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764652110000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1766120280000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764652110841,
+        "otherAdvice": "<p>Portable traffic control devices will allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1765189800000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Paul Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Bondi Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Castlefield Street",
+            "suburb": "Bondi",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3309622,
+          -33.5094565
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1750331010000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Upgrade",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Reduced speed limit",
+        "end": 1765389600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764652650751,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p>Drivers of Oversize and/or Overmass are required to contact the works supervisor 0438 691 628 prior to travel.</p><p>Lane width restrictions in place, with 3.5m lanes available throughout worksite.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "<p>Road closures in place. </p><ol><li>Gallipoli Ave and Memorial Ave.</li><li> Intersection of Barrenjoey Road and Bourke St.</li></ol>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1764576000000,
+        "displayName": "SCHEDULED ROADWORK Upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Memorial Avenue",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Maitland Bay Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "",
+            "suburb": "Blackwall",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.81498,
+          -33.61236
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764652732000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1766427300000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764652732817,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1765357200000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Macquarie Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Hawkesbury Valley Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Mulgrave Road",
+            "suburb": "Windsor-Mulgrave",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215780.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2105237,
+          -33.841515
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.213598,
+              -33.827558
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.210486,
+              -33.836418
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Warringah Freeway Upgrade",
+            "linkURL": "https://caportal.com.au/rms/wfu"
+          },
+          {
+            "linkText": "Western Harbour Tunnel",
+            "linkURL": "https://caportal.com.au/rms/wht"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/news/2024/catch-train-metro-or-ferry-during-warringah-freeway-upgrade-works\" target=\"_blank\">transportnsw.info </a>to plan your trip on public transport.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1732752139000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "end": 1767169260000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1764652931159,
+        "otherAdvice": "<p>Changes to traffic conditions will be in place at various times <strong>northbound</strong> along the Warringah Fwy towards Cammeray and other nearby roads as a result of the Warringah Freeway upgrade and Western Harbour Tunnel projects. </p><p>These changes will include a combination of on/off-ramp and lane closures.</p><p>Changes to traffic conditions are also in place for southbound motorists - <a href=\"https://www.livetraffic.com/incident-details/214849\" target=\"_blank\">Warringah Fwy southbound</a>.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>The Ernest Street northbound off-ramp is closed until <strong>5am Mon 15 Dec.</strong></p><p>You can use the Brook St off-ramp, Amherst St, Miller St and Ernest St.</p>",
+            "title": "Ernest Street off-ramp",
+            "id": "743577"
+          },
+          {
+            "html": "<p>There are no current works planned requiring closures. Information will be provided when closures are required.</p>",
+            "title": "Falcon Street on-ramp",
+            "id": "743578"
+          },
+          {
+            "html": "<p>There are no current works planned requiring closures. Information will be provided when closures are required.</p>",
+            "title": "Berry Street on-ramp",
+            "id": "743579"
+          },
+          {
+            "html": "",
+            "title": "Arthur Street",
+            "id": "743580"
+          },
+          {
+            "html": "<p>For more details about upcoming impacts to the Sydney Harbour Tunnel - <a href=\"https://www.livetraffic.com/incident-details/244943\" target=\"_blank\">Live Traffic NSW | Incident Details</a></p>",
+            "title": "Sydney Harbour Tunnel northbound",
+            "id": "743581"
+          },
+          {
+            "html": "<p>From <strong>6am Sat 15 Nov</strong>, northbound lane changes will affect how motorists can access Mosman and Manly.</p><p><strong>Mosman and Manly</strong> will only be accessible from<strong> lane 3.</strong></p><p><strong>Miller St</strong>  will only be accessible from<strong> lane 2.</strong></p><p><br></p>",
+            "title": "To Mosman & Manly",
+            "id": "743582"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1704027600000,
+        "displayName": "SCHEDULED ROADWORK Warringah Freeway Upgrade/Western Harbour Tunnel Project",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Warringah Freeway Northbound",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Sydney to Cammeray",
             "trafficVolume": ""
           }
         ],
