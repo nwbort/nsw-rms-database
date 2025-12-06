@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1765010100000,
+  "lastPublished": 1765013430000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -222,6 +222,85 @@
     },
     {
       "type": "Feature",
+      "id": 258352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0519676,
+          -33.7777107
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Live Traffic camera",
+            "linkURL": "https://www.livetraffic.com/traffic-cameras/sydney-north/cumberland-highway-carlingford"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765005142000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Prepare to merge",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1765010054120,
+        "otherAdvice": "<p>Motorists exiting Carlingford Rd are also affected.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BUILDING FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Carlingford Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "2",
+                "description": "Lane 1, Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Pennant Hills Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Carlingford",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 258085,
       "geometry": {
         "type": "Point",
@@ -254,7 +333,7 @@
         "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
         "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1765009953783,
+        "lastUpdated": 1765011682092,
         "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions.</p><p><br></p>",
         "arrangementElements": [],
         "diversions": "",
@@ -296,6 +375,86 @@
             "region": "North Coast NSW",
             "secondLocation": "Wallanbah Road",
             "suburb": "Nerong to Nabiac",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.552258,
+          -32.3274453
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Fires Near Me",
+            "linkURL": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764565455000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "SMOKE",
+        "lastUpdated": 1765011681919,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Rural Fire Service"
+        ],
+        "encodedPolylines": [],
+        "displayName": "SMOKE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Golden Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Sandy Hollow",
             "trafficVolume": ""
           }
         ],
@@ -350,7 +509,7 @@
         "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
         "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1765009952994,
+        "lastUpdated": 1765011763848,
         "otherAdvice": "<p>Exercise caution as Emergency services personnel are still on foot in the area. Road closure lines provided by Google Maps may not be up to date. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -425,7 +584,7 @@
         "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
         "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1765009954658,
+        "lastUpdated": 1765011924794,
         "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -468,63 +627,58 @@
     },
     {
       "type": "Feature",
-      "id": 257764,
+      "id": 258358,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.552258,
-          -32.3274453
+          151.3603557,
+          -33.3520393
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "Fires Near Me",
-            "linkURL": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": false,
+        "isNewIncident": true,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1764565455000,
+        "created": 1765013394000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "SMOKE",
-        "lastUpdated": 1765009953966,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "mainCategory": "BUSHFIRE",
+        "lastUpdated": 1765013394854,
+        "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
           "Emergency services",
-          "Rural Fire Service"
+          "Transport for NSW"
         ],
         "encodedPolylines": [],
-        "displayName": "SMOKE",
+        "displayName": "BUSHFIRE",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "Pacific Highway",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
+                "affectedDirection": "Southbound",
                 "closedLanes": "",
                 "description": "",
                 "extent": "Affected",
@@ -532,93 +686,14 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "at",
-            "mainStreet": "Golden Highway",
+            "locationQualifier": "just past",
+            "mainStreet": "M1 Pacific Motorway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Hunter",
+            "region": "Central Coast",
             "secondLocation": "",
-            "suburb": "Sandy Hollow",
+            "suburb": "Ourimbah",
             "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258352,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0519676,
-          -33.7777107
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Live Traffic camera",
-            "linkURL": "https://www.livetraffic.com/traffic-cameras/sydney-north/cumberland-highway-carlingford"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765005142000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Prepare to merge",
-        "adviceB": "Exercise caution",
-        "adviceC": "Expect delays",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1765010054120,
-        "otherAdvice": "<p>Motorists exiting Carlingford Rd are also affected.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BUILDING FIRE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Carlingford Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "2",
-                "description": "Lane 1, Lane 2",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Pennant Hills Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Carlingford",
-            "trafficVolume": "Heavy"
           }
         ],
         "isLocalRoad": "State road",
