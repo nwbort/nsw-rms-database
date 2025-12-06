@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1764995670000,
+  "lastPublished": 1764998970000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -150,92 +150,6 @@
             "secondLocation": "",
             "suburb": "Bar Point",
             "trafficVolume": "Moderate"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258335,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.3184247,
-          -33.4654743
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764989679000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Avoid the area",
-        "adviceB": "Delay your journey",
-        "adviceC": "Exercise caution",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1764993453343,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "rcikEenrz[C?_@Ck@CG?[?W?i@Fq@NWJMFk@f@aAhAILSVSXGJQb@]|@KTKROV_@d@WZk@jAe@p@CDs@~@ONg@h@{@t@gAv@_Ah@cAb@qA`@qAViANK@qAJmETmALg@FG?e@HUDI@a@H_@HQDOBMFIDWFeA`@OHIDQJQL[RKH_@VQN]ZGDKJA@s@x@cAnAm@dAq@pAi@tAs@vBOd@O`@ABQd@EJMTQ\\CDW^MPMNORk@b@m@\\q@XSD]Ji@Hs@Du@?s@Gs@K{@Yg@WQIMGUOcBy@sBaAGCmE{Bo@[{BiA_@OOIw@_@mHsD}@c@{DmBu@a@SOc@Ya@[a@_@WWAAEEYQGGMO?AQUQWWa@IKGMGIMYACKUM[EKEICKMe@Mc@AGKc@?CG[CIAICKAG?CAIAOAIAQ?CE_@C[ASCa@?AMuB@]Ca@CWAOk@wGE]AKAMGe@CYEYIe@EYIc@?CG]M]EKGWMe@IYK]GSEIISCGEIEGACCEEGEEEGEEGEGCICKCA?K?K?c@B[B???@?@A??@A??@A??@A?A?A?A?A?A?AAA??AA??AA??AAA?A?A?AA??Ae@o@KKEIAEACKIEESQMIGEMIOMIEGE"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "nwjkEkprz[w@@eA?MFU@mBDgADE?]?c@@eGFyHHc@@iAB_AD]BI?QBY@I@I?}@DwAB_A@}@AWAc@A???^"
-          }
-        ],
-        "displayName": "BUSHFIRE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Glenrock Parade (Tascott)",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Brisbane Water Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "The Boulevarde (Woy Woy)",
-            "suburb": "Koolewong",
-            "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
@@ -522,7 +436,7 @@
         "adviceC": "Delay non-essential travel",
         "incidentKind": "Unplanned",
         "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1764995533315,
+        "lastUpdated": 1764997646013,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -590,7 +504,12 @@
         ]
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Restricted Access Vehicles map",
+            "linkURL": "https://maps.nhvr.gov.au/"
+          }
+        ],
         "headline": "GRASS FIRE WUULUMAN Goolma Road between Goolma and Montefiores",
         "periods": [],
         "speedLimit": -1,
@@ -612,10 +531,10 @@
         "adviceC": "Delay non-essential travel",
         "incidentKind": "Unplanned",
         "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1764995606626,
+        "lastUpdated": 1764997853797,
         "otherAdvice": "",
         "arrangementElements": [],
-        "diversions": "<p>Saxa Rd and Gollan Rd.</p>",
+        "diversions": "<p>Light vehicles: Saxa Rd and Gollan Rd.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
@@ -652,6 +571,81 @@
             "region": "Central NSW",
             "secondLocation": "Montefiores",
             "suburb": "Wuuluman",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3184247,
+          -33.4654743
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764989679000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Avoid the area",
+        "adviceB": "Delay your journey",
+        "adviceC": "Exercise caution",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUSHFIRE",
+        "lastUpdated": 1764998505538,
+        "otherAdvice": "<p>Light vehicles and semi-trailers can consider using Woy Woy Road as a diversion. Woy Woy Road is not suitable for B-Doubles. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BUSHFIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Glenrock Parade (Tascott)",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Brisbane Water Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "The Boulevarde (Woy Woy)",
+            "suburb": "Koolewong",
             "trafficVolume": ""
           }
         ],
