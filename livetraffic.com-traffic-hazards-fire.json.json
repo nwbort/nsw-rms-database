@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1765046430000,
+  "lastPublished": 1765049130000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -458,20 +458,25 @@
     },
     {
       "type": "Feature",
-      "id": 258085,
+      "id": 257764,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.1974697,
-          -32.460425
+          150.552258,
+          -32.3274453
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Fires Near Me",
+            "linkURL": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me"
+          }
+        ],
         "headline": "",
         "periods": [],
-        "speedLimit": 60,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -481,17 +486,17 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1764816265000,
+        "created": 1764565455000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Allow extra travel time",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1765044287665,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. Motorists are advised to expect intermittent closures. </p>",
+        "mainCategory": "SMOKE",
+        "lastUpdated": 1765047790513,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -501,37 +506,29 @@
           "Rural Fire Service"
         ],
         "encodedPolylines": [],
-        "displayName": "BUSHFIRE",
+        "displayName": "SMOKE",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Whimbrel Drive",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              },
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
                 "roadType": ""
               }
             ],
-            "locationQualifier": "between",
-            "mainStreet": "Pacific Highway",
+            "locationQualifier": "at",
+            "mainStreet": "Golden Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Wallanbah Road",
-            "suburb": "Nerong to Nabiac",
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Sandy Hollow",
             "trafficVolume": ""
           }
         ],
@@ -586,7 +583,7 @@
         "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
         "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1765044287289,
+        "lastUpdated": 1765047790365,
         "otherAdvice": "<p>Exercise caution as Emergency services personnel are still on foot in the area. Road closure lines provided by Google Maps may not be up to date. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -629,86 +626,6 @@
     },
     {
       "type": "Feature",
-      "id": 257764,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.552258,
-          -32.3274453
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Fires Near Me",
-            "linkURL": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764565455000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "SMOKE",
-        "lastUpdated": 1765044287108,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Rural Fire Service"
-        ],
-        "encodedPolylines": [],
-        "displayName": "SMOKE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Golden Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Sandy Hollow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 258233,
       "geometry": {
         "type": "Point",
@@ -741,7 +658,7 @@
         "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
         "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1765044287485,
+        "lastUpdated": 1765047790220,
         "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -775,6 +692,89 @@
             "region": "Central NSW",
             "secondLocation": "Muronbung Road",
             "suburb": "Beni (east of Dubbo)",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1974697,
+          -32.460425
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 60,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764816265000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUSHFIRE",
+        "lastUpdated": 1765047790064,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. Motorists are advised to expect intermittent closures. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Rural Fire Service"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BUSHFIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Whimbrel Drive",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              },
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "Wallanbah Road",
+            "suburb": "Nerong to Nabiac",
             "trafficVolume": ""
           }
         ],
