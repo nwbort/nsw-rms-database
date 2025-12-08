@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1765179330000,
+  "lastPublished": 1765183530000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -252,6 +252,80 @@
     },
     {
       "type": "Feature",
+      "id": 258520.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9301215,
+          -36.0729931
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765175706000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "GRASS FIRE",
+        "lastUpdated": 1765179862497,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "GRASS FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Riverina Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "The Murray",
+            "secondLocation": "",
+            "suburb": "East Albury",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 258085,
       "geometry": {
         "type": "Point",
@@ -284,7 +358,7 @@
         "adviceC": "Expect delays",
         "incidentKind": "Unplanned",
         "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1765176904234,
+        "lastUpdated": 1765180894108,
         "otherAdvice": "<p><strong>Due to the unpredictable and rapidly changing nature of fire, intermittent lane and road closures are expected throughout the evening. Motorists should consider delaying all non-essential travel.</strong></p><p>Smoke in the area may affect visibility. Motorists should drive to the conditions.</p>",
         "arrangementElements": [],
         "diversions": "<p>Light vehicles could consider using The Bucketts Way instead.</p>",
@@ -328,80 +402,6 @@
             "secondLocation": "",
             "suburb": "Nerong to Bulahdelah",
             "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258520.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.9301215,
-          -36.0729931
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765175706000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1765177868200,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "GRASS FIRE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Riverina Highway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 2",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "Hume Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "The Murray",
-            "secondLocation": "",
-            "suburb": "East Albury",
-            "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
