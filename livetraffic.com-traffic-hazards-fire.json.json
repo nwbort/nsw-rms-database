@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1765172370000,
+  "lastPublished": 1765176630000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -256,25 +256,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.1974697,
-          -32.460425
+          152.1997503,
+          -32.4906711
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "Restricted Access Vehicles map",
-            "linkURL": "https://maps.nhvr.gov.au/"
-          },
-          {
-            "linkText": "NSW Rest Areas",
-            "linkURL": "https://maps.transport.nsw.gov.au/egeomaps/rest-areas/index.html"
-          }
-        ],
-        "headline": "BUSHFIRE BULAHDELAH TO NERONG Pacific Highway",
+        "webLinks": [],
+        "headline": "",
         "periods": [],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -285,16 +276,16 @@
         "arrangementAttachments": [],
         "isInitialReport": false,
         "created": 1764816265000,
-        "isMajor": true,
+        "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Plan your journey",
+        "adviceA": "Reduced speed limit",
         "adviceB": "Exercise caution",
         "adviceC": "Expect delays",
         "incidentKind": "Unplanned",
         "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1765172342082,
-        "otherAdvice": "<p><strong>The highway is currently closed southbound due to multiple fire flare-ups. Motorists should consider delaying all non-essential travel.</strong></p><p>Smoke in the area may affect visibility. Motorists should drive to the conditions.</p><p>Road closure lines provided by Google Maps may not be up to date.</p>",
+        "lastUpdated": 1765175498235,
+        "otherAdvice": "<p><strong>Due to the unpredictable and rapidly changing nature of fire, intermittent lane and road closures are expected throughout the evening. Motorists should consider delaying all non-essential travel.</strong></p><p>Smoke in the area may affect visibility. Motorists should drive to the conditions.</p><p>Road closure lines provided by Google Maps may not be up to date.</p>",
         "arrangementElements": [],
         "diversions": "<p>Light vehicles could consider using The Bucketts Way instead.</p>",
         "additionalInfo": [],
@@ -313,15 +304,15 @@
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Southbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Highway"
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
               },
               {
-                "affectedDirection": "Northbound",
+                "affectedDirection": "Southbound",
                 "closedLanes": "1",
                 "description": "Lane 1",
                 "extent": "Lanes closed",
@@ -335,8 +326,90 @@
             "queueLength": 0,
             "region": "North Coast NSW",
             "secondLocation": "",
-            "suburb": "Bulahdelah to Nerong",
-            "trafficVolume": "Heavy"
+            "suburb": "Nerong to Bulahdelah",
+            "trafficVolume": "Moderate"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258520.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9290049,
+          -36.0740947
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765175706000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "GRASS FIRE",
+        "lastUpdated": 1765176575615,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "GRASS FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Riverina Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              },
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "The Murray",
+            "secondLocation": "",
+            "suburb": "East Albury",
+            "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
