@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1766116950000,
+  "lastPublished": 1766119680000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -158,6 +158,88 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Cooranbong",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7430453,
+          -34.1365405
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1766118533000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Expect delays",
+        "adviceB": "Use an alternative route",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "GRASS FIRE",
+        "lastUpdated": 1766119645698,
+        "otherAdvice": "<p>Motorists are using the breakdown lane to slowly pass the incident site.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists can use Narellan Rd and Appin Rd or Narellan Rd and Old Hume Hwy as an alternative route. </p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "GRASS FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Menangle Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "2",
+                "description": "",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              },
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Hume Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Menangle Park",
             "trafficVolume": "Heavy"
           }
         ],
