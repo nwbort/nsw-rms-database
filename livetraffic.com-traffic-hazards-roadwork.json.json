@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1766446050000,
+  "lastPublished": 1766456550000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -15437,84 +15437,6 @@
     },
     {
       "type": "Feature",
-      "id": 244943,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.213469,
-          -33.8552199
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1754541149000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Warringah Freeway Upgrade",
-        "adviceA": "Use diversions",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "end": 1798653600000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1766023087658,
-        "otherAdvice": "<p>Lane closures with reduced capacity may occur on various nights generally between 10pm and 5am.</p><p>See <strong>Traffic Arrangements</strong> for specific dates of full directional tunnel closures.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>Full Closures:</strong></p><p><strong>Fri 26 Dec until Mon 26 Jan 2026</strong></p><p>Sunday to Thursday:<strong> </strong>7pm to 6am</p><p>Friday and Saturday: 7pm to 8am</p><p><strong>Thu 19 Feb:</strong> 11pm to 5am</p>",
-            "title": "Northbound",
-            "id": "754278"
-          },
-          {
-            "html": "<p><strong>Full Closures:</strong></p><p><strong>Sun 14 Dec:</strong> 10pm to 5am</p><p><br></p><p><strong>Fri 26 Dec until Mon 26 Jan 2026</strong></p><p>Sunday to Thursday:<strong> </strong>7pm to 6am</p><p>Friday and Saturday: 7pm to 8am</p>",
-            "title": "Southbound",
-            "id": "754279"
-          }
-        ],
-        "diversions": "<p><strong>All vehicles under 19m</strong>: Sydney Harbour Bridge and Cahill Exp.</p><p><strong>GML B-doubles 19m &amp; over: </strong>use Victoria Rd and Gladesville Bridge.</p><p><strong>HML B-doubles:</strong> refer to the <a href=\"https://maps.nhvr.gov.au/information?networkLayerContext=NATIONAL_MAP\" target=\"_blank\">National Heavy Vehicle Regulator Map </a>for information.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1759838400000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Cahill Expressway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Sydney Harbour Tunnel",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "High Street",
-            "suburb": "Sydney to North Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 259590.0,
       "geometry": {
         "type": "Point",
@@ -20843,6 +20765,210 @@
             "region": "North Coast NSW",
             "secondLocation": "",
             "suburb": "Port Macquarie",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5233731,
+          -33.2006317
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.475773,
+              -33.36829
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1766450829000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1772906400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1766450829858,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1768114800000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "DOYALSON",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Central Coast Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "",
+            "suburb": "Long Jetty",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.213469,
+          -33.8552199
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1754541149000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Warringah Freeway Upgrade",
+        "adviceA": "Use diversions",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1798653600000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1766452785533,
+        "otherAdvice": "<p>Lane closures with reduced capacity may occur on various nights generally between 10pm and 5am.</p><p>See <strong>Traffic Arrangements</strong> for specific dates of full directional tunnel closures.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>Full Closures:</strong></p><p><strong>Fri 26 Dec to Mon 26 Jan 2026: </strong>Sun to Thu:<strong> </strong>7pm to 6am, Fri and Sat: 7pm to 8am</p><p><strong>Mon 9 Feb to Thu 12 Feb: </strong>10:30pm to 5am</p><p><strong>Thu 19 Feb:</strong> 11pm to 5am</p>",
+            "title": "Northbound",
+            "id": "757267"
+          },
+          {
+            "html": "<p><strong>Full Closures:</strong></p><p><strong>Fri 26 Dec to Mon 26 Jan 2026: </strong>Sun to Thu:<strong> </strong>7pm to 6am, Fri and Sat: 7pm to 8am</p><p><strong>Mon 9 Feb to Thu 12 Feb: </strong>10pm to 5am</p>",
+            "title": "Southbound",
+            "id": "757268"
+          }
+        ],
+        "diversions": "<p><strong>All vehicles under 19m</strong>: Sydney Harbour Bridge and Cahill Exp.</p><p><strong>GML B-doubles 19m &amp; over: </strong>use Victoria Rd and Gladesville Bridge.</p><p><strong>HML B-doubles:</strong> refer to the <a href=\"https://maps.nhvr.gov.au/information?networkLayerContext=NATIONAL_MAP\" target=\"_blank\">National Heavy Vehicle Regulator Map </a>for information.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1759838400000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Cahill Expressway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Sydney Harbour Tunnel",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "High Street",
+            "suburb": "Sydney to North Sydney",
             "trafficVolume": ""
           }
         ],
