@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1767120480000,
+  "lastPublished": 1767122880000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1272,80 +1272,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 260479,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1019819,
-          -33.7253834
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1767034709000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1767035520028,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Motorway Crew"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Arianna Avenue",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 2",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": "Motorway"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "NorthConnex",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Normanhurst",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
       }
     },
     {
@@ -8354,6 +8280,104 @@
     },
     {
       "type": "Feature",
+      "id": 258034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1801047,
+          -33.7963919
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "11:59pm",
+            "fromDay": "Saturday",
+            "startTime": "2:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "",
+            "fromDay": "Sunday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "2:00am",
+            "fromDay": "Monday",
+            "startTime": "12:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764764178000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1768748400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1767106861756,
+        "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate rail replacement bus operations for Metro North West Line trackwork:</p><ul><li>Railway St<strong>,</strong> southbound from Day St to Help St,</li><li>Railway St, northbound from Help St to Brown St, and</li><li>Brown St, westbound between Railway St and Pacific Hwy.</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and businesses with parking permits or TfNSW Mobility Scheme permit holders. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1768575600000,
+        "displayName": "SPECIAL EVENT CLEARWAYS  Sydney Metro North West Trackwork",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Railway Street & Brown Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Chatswood",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 260198,
       "geometry": {
         "type": "Point",
@@ -8449,104 +8473,6 @@
         "encodedPolylines": [],
         "duration": null,
         "start": 1766761200000,
-        "displayName": "SPECIAL EVENT CLEARWAYS  Sydney Metro North West Trackwork",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Railway Street & Brown Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Chatswood",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258034,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1801047,
-          -33.7963919
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "11:59pm",
-            "fromDay": "Saturday",
-            "startTime": "2:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "",
-            "fromDay": "Sunday",
-            "startTime": "all day",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "2:00am",
-            "fromDay": "Monday",
-            "startTime": "12:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764764178000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1768748400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1767106861756,
-        "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate rail replacement bus operations for Metro North West Line trackwork:</p><ul><li>Railway St<strong>,</strong> southbound from Day St to Help St,</li><li>Railway St, northbound from Help St to Brown St, and</li><li>Brown St, westbound between Railway St and Pacific Hwy.</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and businesses with parking permits or TfNSW Mobility Scheme permit holders. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1768575600000,
         "displayName": "SPECIAL EVENT CLEARWAYS  Sydney Metro North West Trackwork",
         "roads": [
           {
@@ -9020,6 +8946,80 @@
     },
     {
       "type": "Feature",
+      "id": 260549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0911748,
+          -33.8650136
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767121289000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Expect delays",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1767121321195,
+        "otherAdvice": "<p>A rolling closure is in place as the car is slowly removed.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Concord Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Off-ramp"
+              }
+            ],
+            "locationQualifier": "to",
+            "mainStreet": "M4 Motorway off-ramp",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Concord",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 260548,
       "geometry": {
         "type": "Point",
@@ -9052,7 +9052,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1767119393149,
+        "lastUpdated": 1767122610569,
         "otherAdvice": "<p>The left turn slip lane is also closed.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -9126,7 +9126,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1767119404032,
+        "lastUpdated": 1767122610759,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
