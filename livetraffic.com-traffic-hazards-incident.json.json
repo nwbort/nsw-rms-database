@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1767547710000,
+  "lastPublished": 1767552210000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -609,150 +609,6 @@
     },
     {
       "type": "Feature",
-      "id": 233839,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.5208965,
-          -34.7274318
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1746599074000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Load limit",
-        "adviceA": "Check signage",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1766339071453,
-        "otherAdvice": "<p><strong>A reduced load limit on Hampden Bridge has been introduced, effective from Friday 27 June 2025. </strong></p><p>Heavy vehicles over 23 tonnes are restricted from using the bridge and will need to plan a suitable detour. </p><p>All other vehicles will not be affected and can continue to use the bridge.</p><p>Emergency services vehicles over 23 tonnes will still be able to use the bridge at all times.</p><p>Heavy Vehicle operators of Class 1,2, and 3 vehicles travelling under notice must consult their relevant enforceable <a href=\"https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&amp;view=Category\" target=\"_blank\">network map</a> to confirm a suitable and approved detour route. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS Load limit",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hampden Bridge",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Moss Vale Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Kangaroo Valley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 117337,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.6138996,
-          -35.9282462
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Snowy Hydro 2.0",
-            "linkURL": "https://www.snowyhydro.com.au/snowy-20/roads-and-access/"
-          },
-          {
-            "linkText": "Future Generation",
-            "linkURL": "https://www.futuregenerationjv.com.au/traffic"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 50,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1648163263000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1766339071188,
-        "otherAdvice": "A reduced speed limit is in place on Tantangara Rd for safety due to construction work associated with Snowy 2.0.",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS Snowy 2.0",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Snowy Mountains Highway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Tantangara Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "Tantangra Dam",
-            "suburb": "Kosciuszko National Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 206983,
       "geometry": {
         "type": "Point",
@@ -849,6 +705,150 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6138996,
+          -35.9282462
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Snowy Hydro 2.0",
+            "linkURL": "https://www.snowyhydro.com.au/snowy-20/roads-and-access/"
+          },
+          {
+            "linkText": "Future Generation",
+            "linkURL": "https://www.futuregenerationjv.com.au/traffic"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 50,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1648163263000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1766339071188,
+        "otherAdvice": "A reduced speed limit is in place on Tantangara Rd for safety due to construction work associated with Snowy 2.0.",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CHANGED TRAFFIC CONDITIONS Snowy 2.0",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Snowy Mountains Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Tantangara Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "Tantangra Dam",
+            "suburb": "Kosciuszko National Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5208965,
+          -34.7274318
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1746599074000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Load limit",
+        "adviceA": "Check signage",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1766339071453,
+        "otherAdvice": "<p><strong>A reduced load limit on Hampden Bridge has been introduced, effective from Friday 27 June 2025. </strong></p><p>Heavy vehicles over 23 tonnes are restricted from using the bridge and will need to plan a suitable detour. </p><p>All other vehicles will not be affected and can continue to use the bridge.</p><p>Emergency services vehicles over 23 tonnes will still be able to use the bridge at all times.</p><p>Heavy Vehicle operators of Class 1,2, and 3 vehicles travelling under notice must consult their relevant enforceable <a href=\"https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&amp;view=Category\" target=\"_blank\">network map</a> to confirm a suitable and approved detour route. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CHANGED TRAFFIC CONDITIONS Load limit",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hampden Bridge",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Moss Vale Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Kangaroo Valley",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
       }
     },
     {
@@ -7789,80 +7789,6 @@
     },
     {
       "type": "Feature",
-      "id": 260792,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7275921,
-          -32.9068798
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1767508082000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Wires down",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Expect delays",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1767539832268,
-        "otherAdvice": "<p>Police are directing southbound traffic into Georgetown Rd. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Wires down",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Georgetown Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Turton Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Waratah",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 260790.0,
       "geometry": {
         "type": "Point",
@@ -7938,6 +7864,80 @@
     },
     {
       "type": "Feature",
+      "id": 260792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7275921,
+          -32.9068798
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767508082000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Wires down",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Expect delays",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1767539832268,
+        "otherAdvice": "<p>Police are directing southbound traffic into Georgetown Rd. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Wires down",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Georgetown Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Turton Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Waratah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 260810.0,
       "geometry": {
         "type": "Point",
@@ -7970,7 +7970,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1767544792742,
+        "lastUpdated": 1767550666935,
         "otherAdvice": "<p>A number of other traffic lights are blacked out in the area. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -8044,7 +8044,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1767544881438,
+        "lastUpdated": 1767550667193,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -8097,7 +8097,7 @@
       },
       "properties": {
         "webLinks": [],
-        "headline": "CHANGED TRAFFIC CONDITIONS due to an earlier incident CECIL HILLS M7 Motorway between Elizabeth Dr and Cowpasture Rd",
+        "headline": "HAZARD Earlier truck crash & fire CECIL HILLS M7 Motorway between Elizabeth Drive and Cowpasture Road",
         "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
@@ -8112,17 +8112,19 @@
         "created": 1767534049000,
         "isMajor": true,
         "name": null,
-        "subCategoryA": "due to an earlier incident",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": "Avoid the area",
+        "subCategoryA": "Earlier truck fire",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1767546913964,
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1767550844107,
         "otherAdvice": "<p>Ongoing police investigations are expected to take some time. </p>",
         "arrangementElements": [],
-        "diversions": "<p><strong>Southbound:</strong> Elizabeth Dr and Cowpasture Rd.</p><p><strong>Northbound:</strong> Cowpasture Rd, Elizabeth Dr.</p><p>This diversion is suitable for all vehicles.</p>",
-        "additionalInfo": [],
+        "diversions": "<p>Elizabeth Dr and Cowpasture Rd. This diversion is suitable for all vehicles.</p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR.</p>",
+        "additionalInfo": [
+          "Fatality"
+        ],
         "weblinkName": null,
         "attendingGroups": [
           "Motorway Crew",
@@ -8135,14 +8137,9 @@
             "levels": "",
             "direction": "ONE_DIRECTION",
             "coords": "vfxmEqctw[rBtAxA`AVP`Al@d@X`An@|@j@@@nEvCxA~@dAt@~@l@fGzD`Ah@b@TZN@@\\PVL`@PVJ\\N@?`@NVJXHNFHBVF`@LXFb@JVF\\FD@XDb@FXDXDXBb@D`@DZ@XBb@@X@p@?L@bCEP?nCSnBWrAWJCb@K`@KXI`@M\\MfAa@rAk@hBcA^UXQb@WFEHEb@]n@i@TQNORSp@m@~@eAl@u@l@w@Xc@NULSXe@Zi@Xg@HQf@aAjA}BpB{DtAoCh@_Ar@mAl@{@f@q@T[f@k@b@e@bAaA~@{@d@_@`@Yb@[TMt@e@lAq@d@Uz@]lAe@|@Yf@Mf@Mn@OnAWlAWDAbB]dDq@dGoAjAUlGsAlCk@vA_@bBg@pAe@x@[PIXKt@]|@c@jDiBHEl@]JEpFwC@?JGvEeChE{B"
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "tv_nEqivw[KFIBs@ZqAr@EBWNGBk@\\SNSLMHULe@RQHw@ZA@SHcA`@yAr@C@SG??oBdA}GnDa@RWLE@y@`@aBn@uA`@UF{Ab@sAZgB^eB\\_ARaB\\mAVyFjAsGrAmAVoAVK@SF_Cl@g@Py@Xe@Re@Tg@Tg@Vu@b@SLq@d@YRcAv@s@n@a@`@o@n@a@b@[`@QTm@v@Yb@[f@Yd@OVUb@OVa@v@yAvCwAlCyAtCq@nAg@z@[f@[d@ORORi@r@OPMNk@n@]^SRWVa@^QLONMHURQL_@VUPSNOJOFIFWNWNWN_@RYLWL]L}@\\a@N}Ah@i@Ns@NoATQDc@Fc@FYBc@De@DYBc@B[@c@@e@@Y?e@?c@?YAe@Ac@A[CYAc@E[Cc@Ec@Gc@Gc@GYG[Ga@Ic@KKCOEk@Qc@Ms@UsAg@]QSI}@c@c@UGEe@Wk@_@oFmDcAs@aAq@}@k@wCoBgCcBwBwAeAq@a@Yc@YeDwBIEKI"
           }
         ],
-        "displayName": "CHANGED TRAFFIC CONDITIONS due to an earlier incident",
+        "displayName": "HAZARD Earlier truck crash & fire",
         "roads": [
           {
             "conditionTendency": "",
@@ -8150,12 +8147,20 @@
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
+                "affectedDirection": "Southbound",
                 "closedLanes": "",
                 "description": "",
                 "extent": "Closed",
                 "numberOfLanes": "",
-                "roadType": "Highway"
+                "roadType": "Motorway"
+              },
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
               }
             ],
             "locationQualifier": "between",
@@ -8169,7 +8174,7 @@
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
+        "CategoryIcon": "Hazard"
       }
     }
   ]
