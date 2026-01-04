@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1767566010000,
+  "lastPublished": 1767569310000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -19627,6 +19627,114 @@
             "region": "The Murray",
             "secondLocation": "",
             "suburb": "Murray Downs",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7479363,
+          -33.8381644
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "11:59pm",
+            "fromDay": "Friday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "",
+            "fromDay": "Saturday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "",
+            "fromDay": "Sunday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "12:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767567104000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Power pole/line repairs",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1768759200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1767567254837,
+        "otherAdvice": "<p>Local residents will be allowed access from Elizabeth Dr only.</p>",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Northbound</strong>: Elizabeth Dr to Mamre Rd, OR The Northern Rd, Great Western Hwy, to Mamre Rd.</p><p><strong>Southbound</strong>: Mamre Rd to Elizabeth Dr, OR Great Western Hwy, The Northern Rd, to Elizabeth Dr.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1768515660000,
+        "displayName": "SCHEDULED ROADWORK Mamre Road Upgrade Stage 1",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Elizabeth Drive",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Luddenham Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Mamre Road",
+            "suburb": "Luddenham to St Clair",
             "trafficVolume": ""
           }
         ],
