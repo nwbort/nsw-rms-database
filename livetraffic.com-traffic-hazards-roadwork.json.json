@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1767592110000,
+  "lastPublished": 1767596010000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -18621,12 +18621,12 @@
     },
     {
       "type": "Feature",
-      "id": 249929,
+      "id": 246699,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.719373,
-          -32.376229
+          150.9063616,
+          -32.4905052
         ],
         "collections": []
       },
@@ -18644,35 +18644,35 @@
             "roadextent": "Affected",
             "roadtype": "",
             "direction": "Both directions",
-            "finishTime": "5:00pm",
+            "finishTime": "6:00pm",
             "fromDay": "Weekdays",
             "startTime": "7:00am",
             "toDay": ""
           }
         ],
-        "speedLimit": 60,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
+        "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1758166698000,
+        "created": 1755751250000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Intersection upgrade",
         "adviceA": "Reduced speed limit",
         "adviceB": "Check signage",
         "adviceC": "Exercise caution",
-        "end": 1767506400000,
+        "end": 1769842800000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1767506403828,
-        "otherAdvice": "<p>Work will pause from Sat 20 Dec and resume on Mon 5 Jan. However, there will still be a speed reduction and shoulder closure in place. Motorists are advised to allow up to 5 minutes of additional travel time. Operators of oversize and/or overmass to contact the project team via UHF 36 to travel through the work site.</p>",
+        "lastUpdated": 1767510002850,
+        "otherAdvice": "<p>Lane closures with alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Motorists are advised to allow up to 10 minutes of additional travel time. Oversize and/or overmass contact via UHF 35.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -18680,21 +18680,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1758488400000,
+        "start": 1767556800000,
         "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Denman Road",
+            "crossStreet": "Lonsdale Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
+            "locationQualifier": "between",
             "mainStreet": "Golden Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Denman",
+            "secondLocation": "Pringle Street",
+            "suburb": "Jerrys Plains",
             "trafficVolume": ""
           }
         ],
@@ -18778,89 +18778,6 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Whittingham",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 246699,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9063616,
-          -32.4905052
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Renewables Transportation traffic impacts",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/renewables-transportation-%E2%80%93-port-to-renewable-energy-zones-rez"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1755751250000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1769842800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1767510002850,
-        "otherAdvice": "<p>Lane closures with alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Motorists are advised to allow up to 10 minutes of additional travel time. Oversize and/or overmass contact via UHF 35.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1767556800000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lonsdale Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Golden Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Pringle Street",
-            "suburb": "Jerrys Plains",
             "trafficVolume": ""
           }
         ],
