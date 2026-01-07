@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1767800520000,
+  "lastPublished": 1767804510000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -609,6 +609,69 @@
     },
     {
       "type": "Feature",
+      "id": 233839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5208965,
+          -34.7274318
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1746599074000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Load limit",
+        "adviceA": "Check signage",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1766339071453,
+        "otherAdvice": "<p><strong>A reduced load limit on Hampden Bridge has been introduced, effective from Friday 27 June 2025. </strong></p><p>Heavy vehicles over 23 tonnes are restricted from using the bridge and will need to plan a suitable detour. </p><p>All other vehicles will not be affected and can continue to use the bridge.</p><p>Emergency services vehicles over 23 tonnes will still be able to use the bridge at all times.</p><p>Heavy Vehicle operators of Class 1,2, and 3 vehicles travelling under notice must consult their relevant enforceable <a href=\"https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&amp;view=Category\" target=\"_blank\">network map</a> to confirm a suitable and approved detour route. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CHANGED TRAFFIC CONDITIONS Load limit",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hampden Bridge",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Moss Vale Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Kangaroo Valley",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 117337,
       "geometry": {
         "type": "Point",
@@ -786,69 +849,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 233839,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.5208965,
-          -34.7274318
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1746599074000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Load limit",
-        "adviceA": "Check signage",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1766339071453,
-        "otherAdvice": "<p><strong>A reduced load limit on Hampden Bridge has been introduced, effective from Friday 27 June 2025. </strong></p><p>Heavy vehicles over 23 tonnes are restricted from using the bridge and will need to plan a suitable detour. </p><p>All other vehicles will not be affected and can continue to use the bridge.</p><p>Emergency services vehicles over 23 tonnes will still be able to use the bridge at all times.</p><p>Heavy Vehicle operators of Class 1,2, and 3 vehicles travelling under notice must consult their relevant enforceable <a href=\"https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&amp;view=Category\" target=\"_blank\">network map</a> to confirm a suitable and approved detour route. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS Load limit",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hampden Bridge",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Moss Vale Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Kangaroo Valley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
       }
     },
     {
@@ -9032,7 +9032,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -9048,7 +9048,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1767799302900,
+        "lastUpdated": 1767804196940,
         "otherAdvice": "<p>Ongoing police investigations are expected to take some time. </p>",
         "arrangementElements": [],
         "diversions": "<p>Pacific Hwy or Elizabeth Bay Dr.</p>",
@@ -9145,15 +9145,15 @@
         "isMajor": false,
         "name": null,
         "subCategoryA": "Car",
-        "adviceA": "Use an alternative route",
+        "adviceA": "Use diversions",
         "adviceB": "Allow extra travel time",
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1767800517692,
-        "otherAdvice": "",
+        "lastUpdated": 1767804377948,
+        "otherAdvice": "<p>Ongoing police investigations are expected to take some time. </p>",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p><strong>Westbound:</strong> Caroline Ave, Andrew St, Lockyer St.</p><p><strong>Eastbound:</strong> Cooerwull Rd, Barton St, George Coates Ave, Main St.</p><p>Suitable for light vehicles only. Heavy vehicles are being parked up.</p><p><br></p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
@@ -9166,6 +9166,11 @@
             "levels": "",
             "direction": "ONE_DIRECTION",
             "coords": "ngjkEcqjs[O?K@gAJu@FqAXYD_B^w@Va@PUL]VQNOLMNMLKNCDKNQVKNADKVKTUj@Un@ITCHIVIVCHSp@]pA"
+          },
+          {
+            "levels": "",
+            "direction": "ONE_DIRECTION",
+            "coords": "pnikE{|is[R{@Po@Rq@Ro@@EJYTi@HSHSHSJSJSJQLQLONONONOPOPOPOPMPK\\QBA`A_@ZKl@O~@Oh@EPCz@E??NILEDA"
           }
         ],
         "displayName": "CRASH Car",
@@ -9176,7 +9181,7 @@
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Westbound",
+                "affectedDirection": "Both directions",
                 "closedLanes": "",
                 "description": "",
                 "extent": "Closed",
