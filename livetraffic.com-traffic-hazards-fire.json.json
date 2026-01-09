@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1767941310000,
+  "lastPublished": 1767944310000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -90,80 +90,6 @@
     },
     {
       "type": "Feature",
-      "id": 261174,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.012453,
-          -35.151519
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1767932671000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Allow extra travel time",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1767938792526,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BUSHFIRE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Colombo Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Newell Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Riverina",
-            "secondLocation": "",
-            "suburb": "Bundure",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 261205,
       "geometry": {
         "type": "Point",
@@ -181,7 +107,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -196,8 +122,8 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1767940722049,
-        "otherAdvice": "",
+        "lastUpdated": 1767943565361,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -237,6 +163,80 @@
             "region": "The Murray",
             "secondLocation": "Bow Street",
             "suburb": "Corowa",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.012453,
+          -35.151519
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767932671000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUSHFIRE",
+        "lastUpdated": 1767944052290,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BUSHFIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Colombo Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "near",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "",
+            "suburb": "Bundure",
             "trafficVolume": ""
           }
         ],
