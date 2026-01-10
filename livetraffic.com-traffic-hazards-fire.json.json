@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1768037580000,
+  "lastPublished": 1768041210000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -193,7 +193,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -204,22 +204,20 @@
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Expect delays",
-        "adviceC": "Follow directions on site",
+        "adviceA": "Expect delays",
+        "adviceB": " ",
+        "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1768037577508,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "lastUpdated": 1768040131930,
+        "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Rural Fire Service"
+        "additionalInfo": [
+          "Site Cleared"
         ],
+        "weblinkName": null,
+        "attendingGroups": null,
         "encodedPolylines": [],
         "displayName": "GRASS FIRE",
         "roads": [
@@ -230,10 +228,10 @@
             "impactedLanes": [
               {
                 "affectedDirection": "Southbound",
-                "closedLanes": "2",
-                "description": "Lane 2, Lane 3",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
                 "roadType": ""
               }
             ],
