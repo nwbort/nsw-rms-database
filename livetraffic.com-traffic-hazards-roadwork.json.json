@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1768073310000,
+  "lastPublished": 1768077210000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -19904,6 +19904,94 @@
             "region": "Sydney",
             "secondLocation": "Calderwood Road",
             "suburb": "Hornsby Heights to Galston",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.350374,
+          -33.4094055
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1766451638000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1768845600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1768075204412,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Oversize and/or overmass vehicles to call ahead on UHF as per signage.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1768719600000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pemell Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Henry Parry Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Erina Street",
+            "suburb": "Gosford",
             "trafficVolume": ""
           }
         ],
