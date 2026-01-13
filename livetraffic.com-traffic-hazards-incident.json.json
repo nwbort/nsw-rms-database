@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1768322940000,
+  "lastPublished": 1768326240000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3299,80 +3299,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 261448,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9420364,
-          -33.941642
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1768234038000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
-        "lastUpdated": 1768238881852,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "TRAFFIC LIGHTS FLASHING YELLOW",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "M5 Motorway Off-Ramp",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Heathcote Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moorebank",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "TrafficSignals"
       }
     },
     {
@@ -8842,81 +8768,6 @@
     },
     {
       "type": "Feature",
-      "id": 261539,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8772221,
-          -34.4174137
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1768318389000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1768318586124,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Heavy vehicle tow truck"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Gipps Road overpass",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "M1 Princes Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Gwynneville",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 261538,
       "geometry": {
         "type": "Point",
@@ -8987,6 +8838,228 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261540.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1550097,
+          -33.7333108
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768323308000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1768323308697,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pentecost Avenue",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Mona Vale Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Pymble",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8772221,
+          -34.4174137
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768318389000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1768324721967,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Heavy vehicle tow truck"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Gipps Road overpass",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "M1 Princes Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Gwynneville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3021146,
+          -33.6956068
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768323469000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "lastUpdated": 1768325651655,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Reserve access",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Pittwater Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Warriewood",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
       }
     }
   ]
