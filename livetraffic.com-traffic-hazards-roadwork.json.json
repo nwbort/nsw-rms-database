@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1768848570000,
+  "lastPublished": 1768850970000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -11932,103 +11932,6 @@
     },
     {
       "type": "Feature",
-      "id": 260118,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.340093,
-          -35.584289
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "1:00pm",
-            "fromDay": "Saturday",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Talbingo to Yarrangobilly",
-            "fileName": "Talbingo to Yarrangobilly.png",
-            "fileType": "PNG",
-            "linkName": "Talbingo to Yarrangobilly",
-            "sizeInBytes": 230106,
-            "uniqueFileName": "199021_1766450853877_Talbingo to Yarrangobilly.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1766450889000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Reduced speed limit",
-        "adviceC": " ",
-        "end": 1770271200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1767639604118,
-        "otherAdvice": "<p>Single lane closures with alternating (stop/slow) traffic conditions will be in place. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.  </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1768248000000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Snowy Mountains Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "",
-            "suburb": "Talbingo to Yarrangobilly",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 260044,
       "geometry": {
         "type": "Point",
@@ -12123,6 +12026,103 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Menangle",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.340093,
+          -35.584289
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "1:00pm",
+            "fromDay": "Saturday",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Talbingo to Yarrangobilly",
+            "fileName": "Talbingo to Yarrangobilly.png",
+            "fileType": "PNG",
+            "linkName": "Talbingo to Yarrangobilly",
+            "sizeInBytes": 230106,
+            "uniqueFileName": "199021_1766450853877_Talbingo to Yarrangobilly.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1766450889000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Reduced speed limit",
+        "adviceC": " ",
+        "end": 1770271200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1767639604118,
+        "otherAdvice": "<p>Single lane closures with alternating (stop/slow) traffic conditions will be in place. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.  </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1768248000000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Snowy Mountains Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "",
+            "suburb": "Talbingo to Yarrangobilly",
             "trafficVolume": ""
           }
         ],
@@ -25116,46 +25116,71 @@
     },
     {
       "type": "Feature",
-      "id": 260399,
+      "id": 261415,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0823052,
-          -33.8618336
+          150.980743,
+          -33.8184111
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "Western Harbour Tunnel",
-            "linkURL": "https://caportal.com.au/rms/wht"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
+            "roadextent": "Affected",
             "roadtype": "Motorway",
-            "direction": "All directions",
+            "direction": "Westbound",
             "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:00pm",
+            "fromDay": "Tuesday",
+            "startTime": "11:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
+            "roadextent": "Affected",
             "roadtype": "Motorway",
-            "direction": "All directions",
+            "direction": "Westbound",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "11:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "Motorway",
+            "direction": "Westbound",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "11:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "Motorway",
+            "direction": "Westbound",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "11:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "Motorway",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "10:00pm",
+            "startTime": "11:00pm",
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -25165,41 +25190,41 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1766890877000,
+        "created": 1768196806000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Use diversions",
-        "adviceC": "Check signage",
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
         "end": 1768845600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1768845602322,
-        "otherAdvice": "<p>There will be a full closure of the M4 Motorway Tunnel and M8 Motorway Tunnel in both directions <strong>including all on/off ramps </strong>from Rozelle Interchange, St Peters Interchange, Sydney Gateway and M5 Motorway due to the Western Harbour Tunnel Project.</p>",
+        "lastUpdated": 1768845602537,
+        "otherAdvice": "<p>Up to 2 of 3 westbound lanes closed.</p>",
         "arrangementElements": [],
-        "diversions": "<p>The following diversions will be in place:</p><ul><li>From <strong>M4 Mtwy:</strong> Concord Rd, Parramatta Rd <strong>(from 10pm to 4am)</strong></li><li>From <strong>Concord Rd northbound:</strong> Patterson Rd, Burwood Rd, Parramatta Rd <strong>(from 10pm to 4am)</strong></li><li>From <strong>Concord Rd southbound:</strong> Parramatta Rd <strong>(from 10pm to 4am)</strong></li><li>From <strong>Parramatta Rd: </strong>Parramatta Rd </li><li>From <strong>Wattle St southbound:</strong> Parramatta Rd </li><li>From <strong>Wattle St northbound:</strong> Wattle St, City West Link, Anzac Bridge </li><li>From <strong>Victoria Rd:</strong> Victoria Rd</li><li>From <strong>Anzac Bridge: </strong>Victoria Rd or City West Link</li><li>From <strong>Gardeners Rd:</strong> Campbell Rd, Princes Hwy, King St, City Rd </li><li>From <strong>Euston Rd:</strong> Campbell Rd, Princes Hwy, King St, City Rd </li><li>From <strong>Qantas Dr:</strong> M5 Motorway Tunnel</li><li>From <strong>Airport Dr: </strong>M5 Motorway Tunnel</li><li>From <strong>M5 Mtwy:</strong> King Georges Rd or M5 Motorway Tunnel</li></ul>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1768734000000,
-        "displayName": "SCHEDULED ROADWORK Western Harbour Tunnel Project",
+        "start": 1768302000000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "M4 Motorway, St Peters Interchange, Rozelle Interchange, Iron Cove Link & M5 Motorway",
+            "crossStreet": "Coleman Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "from",
-            "mainStreet": "M4 Motorway Tunnel & M8 Motorway",
+            "locationQualifier": "between",
+            "mainStreet": "M4 Motorway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Homebush, St Peters, Rozelle, Beverly Hills",
+            "secondLocation": "Ettalong Road",
+            "suburb": "Merrylands to Greystanes",
             "trafficVolume": ""
           }
         ],
@@ -25337,71 +25362,46 @@
     },
     {
       "type": "Feature",
-      "id": 261415,
+      "id": 260399,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.980743,
-          -33.8184111
+          151.0823052,
+          -33.8618336
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Western Harbour Tunnel",
+            "linkURL": "https://caportal.com.au/rms/wht"
+          }
+        ],
         "headline": "",
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
+            "roadextent": "Closed",
             "roadtype": "Motorway",
-            "direction": "Westbound",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "11:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "Motorway",
-            "direction": "Westbound",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "11:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "Motorway",
-            "direction": "Westbound",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "11:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "Motorway",
-            "direction": "Westbound",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
-            "startTime": "11:00pm",
+            "startTime": "10:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
+            "roadextent": "Closed",
             "roadtype": "Motorway",
-            "direction": "Westbound",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "11:00pm",
+            "startTime": "10:00pm",
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -25411,41 +25411,41 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1768196806000,
+        "created": 1766890877000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Use diversions",
+        "adviceC": "Check signage",
         "end": 1768845600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1768845602537,
-        "otherAdvice": "<p>Up to 2 of 3 westbound lanes closed.</p>",
+        "lastUpdated": 1768845602322,
+        "otherAdvice": "<p>There will be a full closure of the M4 Motorway Tunnel and M8 Motorway Tunnel in both directions <strong>including all on/off ramps </strong>from Rozelle Interchange, St Peters Interchange, Sydney Gateway and M5 Motorway due to the Western Harbour Tunnel Project.</p>",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p>The following diversions will be in place:</p><ul><li>From <strong>M4 Mtwy:</strong> Concord Rd, Parramatta Rd <strong>(from 10pm to 4am)</strong></li><li>From <strong>Concord Rd northbound:</strong> Patterson Rd, Burwood Rd, Parramatta Rd <strong>(from 10pm to 4am)</strong></li><li>From <strong>Concord Rd southbound:</strong> Parramatta Rd <strong>(from 10pm to 4am)</strong></li><li>From <strong>Parramatta Rd: </strong>Parramatta Rd </li><li>From <strong>Wattle St southbound:</strong> Parramatta Rd </li><li>From <strong>Wattle St northbound:</strong> Wattle St, City West Link, Anzac Bridge </li><li>From <strong>Victoria Rd:</strong> Victoria Rd</li><li>From <strong>Anzac Bridge: </strong>Victoria Rd or City West Link</li><li>From <strong>Gardeners Rd:</strong> Campbell Rd, Princes Hwy, King St, City Rd </li><li>From <strong>Euston Rd:</strong> Campbell Rd, Princes Hwy, King St, City Rd </li><li>From <strong>Qantas Dr:</strong> M5 Motorway Tunnel</li><li>From <strong>Airport Dr: </strong>M5 Motorway Tunnel</li><li>From <strong>M5 Mtwy:</strong> King Georges Rd or M5 Motorway Tunnel</li></ul>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1768302000000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "start": 1768734000000,
+        "displayName": "SCHEDULED ROADWORK Western Harbour Tunnel Project",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Coleman Street",
+            "crossStreet": "M4 Motorway, St Peters Interchange, Rozelle Interchange, Iron Cove Link & M5 Motorway",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "M4 Motorway",
+            "locationQualifier": "from",
+            "mainStreet": "M4 Motorway Tunnel & M8 Motorway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Ettalong Road",
-            "suburb": "Merrylands to Greystanes",
+            "secondLocation": "",
+            "suburb": "Homebush, St Peters, Rozelle, Beverly Hills",
             "trafficVolume": ""
           }
         ],
@@ -25878,6 +25878,103 @@
             "region": "Sydney",
             "secondLocation": "Cumberland Road",
             "suburb": "Auburn to South Wentworthville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.724577,
+          -34.7268934
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Saturday",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Work Area - Newell Hwy, Grong Grong",
+            "fileName": "Work Area - Newell Hwy, Grong Grong.png",
+            "fileType": "PNG",
+            "linkName": "Work Area - Newell Hwy, Grong Grong",
+            "sizeInBytes": 129206,
+            "uniqueFileName": "792768_1768344362129_Work Area - Newell Hwy, Grong Grong.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1768344371000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road/lane widening",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Reduced speed limit",
+        "adviceC": " ",
+        "end": 1776412800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1768849262326,
+        "otherAdvice": "<p>Single lane closures and alternating (stop/slow) traffic conditions will be in place. Traffic controllers will be on site to direct motorists.  </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p><p>The Henwood Rest Area will be closed for the duration of the project. Road users, including heavy vehicle operators will instead be able to stop at Firetail Rest Area or Gillenbah East and West service centres.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769457600000,
+        "displayName": "SCHEDULED ROADWORK Road/lane widening",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Gawnes Rd",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "Connells Road",
+            "suburb": "Grong Grong",
             "trafficVolume": ""
           }
         ],
