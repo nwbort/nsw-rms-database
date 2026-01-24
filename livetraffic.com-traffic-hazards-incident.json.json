@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769275860000,
+  "lastPublished": 1769280360000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1219,84 +1219,6 @@
     },
     {
       "type": "Feature",
-      "id": 229184,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.815329,
-          -29.944351
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1743134717000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Plan your journey",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1768952623324,
-        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong> </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "n`uuDsawlZb@KxJaCdAWpFqAbAWfP}DjBc@dD}@rBg@zBk@fAW`@IfAUr@QLEpA_@lA[nAYd@K|Bk@HCbEaAHCbBc@|@U|@UHCpAU\\EDAj@GRAXAtBQfAI`@GfAKhBOxFc@NAdGg@j@EfBQ`@E~BOxGm@`@C^A~@IdGi@RCpD_@fAKfEe@B?"
-          }
-        ],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Garden Vale Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Noonamah to Urisino",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 242664,
       "geometry": {
         "type": "Point",
@@ -1473,6 +1395,84 @@
           }
         ],
         "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.815329,
+          -29.944351
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1743134717000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Plan your journey",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1768952623324,
+        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong> </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "n`uuDsawlZb@KxJaCdAWpFqAbAWfP}DjBc@dD}@rBg@zBk@fAW`@IfAUr@QLEpA_@lA[nAYd@K|Bk@HCbEaAHCbBc@|@U|@UHCpAU\\EDAj@GRAXAtBQfAI`@GfAKhBOxFc@NAdGg@j@EfBQ`@E~BOxGm@`@C^A~@IdGi@RCpD_@fAKfEe@B?"
+          }
+        ],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Garden Vale Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Noonamah to Urisino",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
         "CategoryIcon": "Hazard"
       }
     },
@@ -2109,84 +2109,6 @@
     },
     {
       "type": "Feature",
-      "id": 248873,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.236149,
-          -30.5118722
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1757465905000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Plan your journey",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1768952644717,
-        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "befzDwqi~Y]A_@AO?O?O?k@D}@Do@?_@@iA?y@Dq@Fa@Ca@C_CIwCIK?QAMAwDm@wEyAICMEmAm@_Bg@c@Qe@UqG_CQIGESMg@SSOWOEC]O_@Mm@SqCm@i@Mi@I]CUAI@K@SFA@_@Pq@^q@\\}@b@cAp@OJy@`@[PQL_EdDu@p@s@rA{@`CMx@Kt@k@lDc@hA{ArAy@l@gBhA[LYPOF_@JOHGF]X_@b@g@j@SVkApAg@t@EFGFk@^OHiAJKAO?KAOAMEGEMK[g@KOi@m@a@m@GGUUc@]kBiAKEMIQEQESCyAIaACo@Ei@BeCXI@[?m@BkGn@kANy@BQ@}ATYB{AHW@kAPk@JsAHm@FM?s@D]D}@PoBb@KBo@T_@Po@TOHk@`@ID_@Ne@PIDy@d@u@d@o@b@KHaAf@WJ{CzAMFu@RMHa@ZWTaA~AINUXUVIL[f@INIHIFKHYJy@XOFk@XMFmA`@C@MFYNy@r@_CfCu@l@WLMB]HMBMDwAn@UJA?c@R_Aj@a@Ze@XuAfAKHIHuAxAsAzAk@b@i@l@QPIFKDq@HU?k@AQBSFMDQJOHGDOLYZIF_@z@{BzEWj@AD{C|HgAhCMZy@zBUp@a@tA_@`B{AzGMh@c@xA_@dBYjAQ`AId@Gj@g@tBc@lAKRCDc@r@UXm@n@kBvAy@v@WVk@d@CBu@t@i@j@[b@e@`A_@|@oAxCu@hBsAnC{BdFqBxFGPq@fBa@`AM\\_BjEkCfFKPABiA`BeAfAs@l@qAh@[LMDk@PaAHk@FaOf@kOf@wH`@sAJw@V[Pi@^m@j@gDnDaG`GyAxAsIbJcBhB}E`FaFbF}B`CaEjEo@l@mFnFuA|A}BfCa@h@OVMVK^ENGTCNGn@I|@MvBIxBALGnAUzFMdD_@fKE`@Eb@Eb@G^GVITKXMNMP]`@iA~@wA|@_@TiAp@qAdAmAjAgArAeA~AaAhBeEpRABOv@UjA[~A{@nEu@zCITEFILGHCBMJc@X]NUHu@Ls@HYFwAf@}@`@YNEDSPONIBA@IB}@\\aALiAPuA\\{Bv@iC|@q@TC@KF_Ad@a@TIDYJIFo@\\]Vy@d@oAp@eAt@uAhA}@lAy@tAg@rAy@nCc@hCs@xDU~AStAmAzI}@vFUdAQp@Mh@IVIRS`@SZWVMJOJKFMFc@RWHYD_@FWFo@b@CHKNIXCZG|@CjAG|EEzAG~BQbDGdAaBpZCZwB`a@Et@iAtTa@zHsCpk@s@pNiA~Tw@zO]`HiCnh@Cf@}Brd@e@tJEp@MtCYvFYvFANm@rMGj@Ef@Gb@Gl@WdA}@fDe@dB}BpJqAbFyAzF_CnJuCfLaEfPs@rCaAzDe@zAYr@k@~@_@d@oBvBeB~Aa@`@{BjBi@`@oBxAcAr@sSvN{B`B}BzAaAl@k@^gAr@aCbBw@h@UN}AfA[Z_An@a@ZmAv@eAr@uAdAmAv@{A|@]Ps@XQFm@LIB]Hc@HaB\\kATi@JmFdAkCd@a@HeF~@sB`@iAP_BToAPeDZiKz@eGb@_CXk@Jc@Ls@VyAj@m@Zw@f@OTSTKRYj@c@dB]xAWv@Qf@eAfB_C~DuBdD_B~BW`@]b@m@n@SNa@TsBjAcCvAkDtBuCjBsCzBIFe@`@iAfAk@d@EBGBI@IBIASCOG[QWUiAkAiBuAaAe@}@a@e@Q[IKAI?QBG@IBOHONOLOHQJq@\\s@h@eAz@a@Za@\\QPw@z@]l@c@`AYr@YhAM~@C|@?zAVfJ?zACpCCzFAf@GbHIxAG`AGn@ABMv@c@jB]bA_@pA_@`AuChI?BOd@k@pB]hAcA~D]dAg@rAs@hBc@jAu@fBw@hBIPe@`AcAfB]h@qAzA{BfCi@p@sBpC_AhAkGvGkCtCmAhAkGxF{DlDyAzAmAvAcAjAm@dA}@pB}CvHiAbCELk@nAg@tA_AtCk@dBqAbEw@rBkAfCg@hAcCtEyB~DuBdEwB`EaCnEa@n@{@xAg@|@qA~BuBlDqArB_AxA_@d@e@b@WPwAj@kJ|CkAXeAPmCd@s@Hc@La@Lq@f@w@v@i@r@U^IHi@z@aBfDsAjC_BvBoAbBqCfDOPa@`@Y^o@~@wD~FuB`Dw@nAqAtBg@dA[l@IRoAdCo@lASb@OXINc@p@g@t@UV]b@_AdASXi@l@A@a@b@GFWTWR_Bz@aA^eBj@oDlAeCj@i@Nu@Xc@Tg@^URIFc@\\mBfBIJKFOFk@LKB_Ep@oALa@Bm@BQBA?MBMBWJKBMHMH_@ZILy@hAkAlBm@rAs@dBc@jAg@lAIL?@W^ABGJOVYXsAbAOHMFk@Vs@d@q@`@[TKHKFyAhA_A|@EFuB~AqA~@w@p@i@\\e@b@OJmA~@GFGDeBrAQJcAf@_@NuCz@UFyA^WDsA^KBcEfAMDsBv@kBf@kAZw@Zq@TWH[JcBj@s@RIBWJC@uAj@}@^SLMN[b@UV[f@GHQd@GLc@x@Sd@y@zAc@t@WXo@h@ONQLCBe@d@_@ZOLGFOHUJc@PI@a@HoB^_@DW@sBBM?i@Bq@BSBm@TcBp@c@RQHe@T]Jy@^o@TC@g@T[FMB_@DI@g@J[JSH[NaAl@UN[X]ZSTKPMTU^C@ITSb@i@|@GHe@t@u@pAg@z@UZQXe@~@GHEHMPMRU^CBGNYh@U^i@jAq@hAKROVq@xAc@n@A@[`@s@x@[^QNEFOJYPIBi@PUFO@m@FyAXC@E?s@VIBQHm@ZQHIDa@VGDURc@f@WZe@hAK\\Oh@U`AENU|@St@Qb@Wf@MPo@t@IJGFSVIFWRe@XIDGFe@XQH[PYPy@h@o@\\m@^IDq@Z]NIBMDy@NKBSFe@Tq@^GDa@X[Xi@n@A@Wd@k@~@MNOJMJMJOHOFA@oAb@u@Pa@Hs@Tg@NIBSFMBq@NSF]L{Af@KBI@_@LYNq@TSH]Le@RID[Le@ViAj@_@Ne@TGDIDkCrAWPOHONi@h@KNMVEHe@jASf@Uh@Wd@??GHgEnIKVmBpEc@v@g@bAi@`Ak@bAGLMZc@xAWfAWpAg@`COv@e@j@e@v@UTIJq@^uAp@mAd@m@VuAh@q@VMFc@NMDcBf@}@ReABiAH]BA@_ADM@_APG@MBKFKFIFk@l@QXYp@c@tAY~ACHOtAIjAC~@?\\Br@B`@Dz@@RB^@TFb@Jr@Lh@BPHxABtAAvA?JCJGVCJELQ`@GH]ZeAf@YLMDi@JOFw@Vy@No@DiEv@M@M@OBI@QDs@VWFIDKDSNa@^k@n@GFi@`@IDs@X[JYJQDc@REBw@d@q@Xs@Ty@Nk@B[Hi@JG@SFC@m@VKBc@JMDeBr@IDKFMDwBvAe@V?@YJKDsBz@a@PKFYJi@Re@XWLYPkAd@MD[DG@a@@MBMDoA`@OBo@TWHi@JMDq@XOBSFMDEBMFURSTGHYh@S`@ADGNI`@ENGNs@pAi@v@gAhAURs@r@aBnAu@b@C@i@`@w@j@o@h@]d@u@nAKLe@f@MJULc@b@KNS`@CJOv@CLCNINGLU^EHILKJMJIH_@Va@R{@ZIBs@VgCx@G@q@ZmCbAwAt@}@ZaAZs@Xg@T}@\\aA^[P_@T}AhA_A~@wB`CoA~AiCnBIFGDwBvBUTwAzAgEjE]^a@`@]VCBcAr@i@Tg@Tc@Lu@LUHgAZg@`@}A|@MFMDODE@{BZWDI@QHOHMHkAv@qAr@kBlAk@\\GDWTe@`@[Vo@n@i@b@c@b@qBnBc@`@m@d@A@]Xo@h@gAdAk@h@]VA@QLw@l@YPOPKNEFW^WTOLk@r@a@d@GD[R}Ax@]Pk@TSJeBnAm@h@i@n@A@i@v@uAbBKJKJ]Vw@t@MHi@VA@s@VGDk@ZMHKLY`@GNGNENGb@C`@?ZBPJ\\HP^hADLHRJd@BJH|@@X@N?tAAXMbBAXCl@Gt@GnBM|AGn@Gh@AHAT?\\?J@RBV@HBRNr@DT^hBFb@Nr@F^L^BPBN?B"
-          }
-        ],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Borona Downs Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Sanpah Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "Joulnie Road",
-            "suburb": "Westwood Downs to Border Downs",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 248871,
       "geometry": {
         "type": "Point",
@@ -2268,6 +2190,84 @@
           }
         ],
         "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.236149,
+          -30.5118722
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1757465905000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Plan your journey",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1768952644717,
+        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "befzDwqi~Y]A_@AO?O?O?k@D}@Do@?_@@iA?y@Dq@Fa@Ca@C_CIwCIK?QAMAwDm@wEyAICMEmAm@_Bg@c@Qe@UqG_CQIGESMg@SSOWOEC]O_@Mm@SqCm@i@Mi@I]CUAI@K@SFA@_@Pq@^q@\\}@b@cAp@OJy@`@[PQL_EdDu@p@s@rA{@`CMx@Kt@k@lDc@hA{ArAy@l@gBhA[LYPOF_@JOHGF]X_@b@g@j@SVkApAg@t@EFGFk@^OHiAJKAO?KAOAMEGEMK[g@KOi@m@a@m@GGUUc@]kBiAKEMIQEQESCyAIaACo@Ei@BeCXI@[?m@BkGn@kANy@BQ@}ATYB{AHW@kAPk@JsAHm@FM?s@D]D}@PoBb@KBo@T_@Po@TOHk@`@ID_@Ne@PIDy@d@u@d@o@b@KHaAf@WJ{CzAMFu@RMHa@ZWTaA~AINUXUVIL[f@INIHIFKHYJy@XOFk@XMFmA`@C@MFYNy@r@_CfCu@l@WLMB]HMBMDwAn@UJA?c@R_Aj@a@Ze@XuAfAKHIHuAxAsAzAk@b@i@l@QPIFKDq@HU?k@AQBSFMDQJOHGDOLYZIF_@z@{BzEWj@AD{C|HgAhCMZy@zBUp@a@tA_@`B{AzGMh@c@xA_@dBYjAQ`AId@Gj@g@tBc@lAKRCDc@r@UXm@n@kBvAy@v@WVk@d@CBu@t@i@j@[b@e@`A_@|@oAxCu@hBsAnC{BdFqBxFGPq@fBa@`AM\\_BjEkCfFKPABiA`BeAfAs@l@qAh@[LMDk@PaAHk@FaOf@kOf@wH`@sAJw@V[Pi@^m@j@gDnDaG`GyAxAsIbJcBhB}E`FaFbF}B`CaEjEo@l@mFnFuA|A}BfCa@h@OVMVK^ENGTCNGn@I|@MvBIxBALGnAUzFMdD_@fKE`@Eb@Eb@G^GVITKXMNMP]`@iA~@wA|@_@TiAp@qAdAmAjAgArAeA~AaAhBeEpRABOv@UjA[~A{@nEu@zCITEFILGHCBMJc@X]NUHu@Ls@HYFwAf@}@`@YNEDSPONIBA@IB}@\\aALiAPuA\\{Bv@iC|@q@TC@KF_Ad@a@TIDYJIFo@\\]Vy@d@oAp@eAt@uAhA}@lAy@tAg@rAy@nCc@hCs@xDU~AStAmAzI}@vFUdAQp@Mh@IVIRS`@SZWVMJOJKFMFc@RWHYD_@FWFo@b@CHKNIXCZG|@CjAG|EEzAG~BQbDGdAaBpZCZwB`a@Et@iAtTa@zHsCpk@s@pNiA~Tw@zO]`HiCnh@Cf@}Brd@e@tJEp@MtCYvFYvFANm@rMGj@Ef@Gb@Gl@WdA}@fDe@dB}BpJqAbFyAzF_CnJuCfLaEfPs@rCaAzDe@zAYr@k@~@_@d@oBvBeB~Aa@`@{BjBi@`@oBxAcAr@sSvN{B`B}BzAaAl@k@^gAr@aCbBw@h@UN}AfA[Z_An@a@ZmAv@eAr@uAdAmAv@{A|@]Ps@XQFm@LIB]Hc@HaB\\kATi@JmFdAkCd@a@HeF~@sB`@iAP_BToAPeDZiKz@eGb@_CXk@Jc@Ls@VyAj@m@Zw@f@OTSTKRYj@c@dB]xAWv@Qf@eAfB_C~DuBdD_B~BW`@]b@m@n@SNa@TsBjAcCvAkDtBuCjBsCzBIFe@`@iAfAk@d@EBGBI@IBIASCOG[QWUiAkAiBuAaAe@}@a@e@Q[IKAI?QBG@IBOHONOLOHQJq@\\s@h@eAz@a@Za@\\QPw@z@]l@c@`AYr@YhAM~@C|@?zAVfJ?zACpCCzFAf@GbHIxAG`AGn@ABMv@c@jB]bA_@pA_@`AuChI?BOd@k@pB]hAcA~D]dAg@rAs@hBc@jAu@fBw@hBIPe@`AcAfB]h@qAzA{BfCi@p@sBpC_AhAkGvGkCtCmAhAkGxF{DlDyAzAmAvAcAjAm@dA}@pB}CvHiAbCELk@nAg@tA_AtCk@dBqAbEw@rBkAfCg@hAcCtEyB~DuBdEwB`EaCnEa@n@{@xAg@|@qA~BuBlDqArB_AxA_@d@e@b@WPwAj@kJ|CkAXeAPmCd@s@Hc@La@Lq@f@w@v@i@r@U^IHi@z@aBfDsAjC_BvBoAbBqCfDOPa@`@Y^o@~@wD~FuB`Dw@nAqAtBg@dA[l@IRoAdCo@lASb@OXINc@p@g@t@UV]b@_AdASXi@l@A@a@b@GFWTWR_Bz@aA^eBj@oDlAeCj@i@Nu@Xc@Tg@^URIFc@\\mBfBIJKFOFk@LKB_Ep@oALa@Bm@BQBA?MBMBWJKBMHMH_@ZILy@hAkAlBm@rAs@dBc@jAg@lAIL?@W^ABGJOVYXsAbAOHMFk@Vs@d@q@`@[TKHKFyAhA_A|@EFuB~AqA~@w@p@i@\\e@b@OJmA~@GFGDeBrAQJcAf@_@NuCz@UFyA^WDsA^KBcEfAMDsBv@kBf@kAZw@Zq@TWH[JcBj@s@RIBWJC@uAj@}@^SLMN[b@UV[f@GHQd@GLc@x@Sd@y@zAc@t@WXo@h@ONQLCBe@d@_@ZOLGFOHUJc@PI@a@HoB^_@DW@sBBM?i@Bq@BSBm@TcBp@c@RQHe@T]Jy@^o@TC@g@T[FMB_@DI@g@J[JSH[NaAl@UN[X]ZSTKPMTU^C@ITSb@i@|@GHe@t@u@pAg@z@UZQXe@~@GHEHMPMRU^CBGNYh@U^i@jAq@hAKROVq@xAc@n@A@[`@s@x@[^QNEFOJYPIBi@PUFO@m@FyAXC@E?s@VIBQHm@ZQHIDa@VGDURc@f@WZe@hAK\\Oh@U`AENU|@St@Qb@Wf@MPo@t@IJGFSVIFWRe@XIDGFe@XQH[PYPy@h@o@\\m@^IDq@Z]NIBMDy@NKBSFe@Tq@^GDa@X[Xi@n@A@Wd@k@~@MNOJMJMJOHOFA@oAb@u@Pa@Hs@Tg@NIBSFMBq@NSF]L{Af@KBI@_@LYNq@TSH]Le@RID[Le@ViAj@_@Ne@TGDIDkCrAWPOHONi@h@KNMVEHe@jASf@Uh@Wd@??GHgEnIKVmBpEc@v@g@bAi@`Ak@bAGLMZc@xAWfAWpAg@`COv@e@j@e@v@UTIJq@^uAp@mAd@m@VuAh@q@VMFc@NMDcBf@}@ReABiAH]BA@_ADM@_APG@MBKFKFIFk@l@QXYp@c@tAY~ACHOtAIjAC~@?\\Br@B`@Dz@@RB^@TFb@Jr@Lh@BPHxABtAAvA?JCJGVCJELQ`@GH]ZeAf@YLMDi@JOFw@Vy@No@DiEv@M@M@OBI@QDs@VWFIDKDSNa@^k@n@GFi@`@IDs@X[JYJQDc@REBw@d@q@Xs@Ty@Nk@B[Hi@JG@SFC@m@VKBc@JMDeBr@IDKFMDwBvAe@V?@YJKDsBz@a@PKFYJi@Re@XWLYPkAd@MD[DG@a@@MBMDoA`@OBo@TWHi@JMDq@XOBSFMDEBMFURSTGHYh@S`@ADGNI`@ENGNs@pAi@v@gAhAURs@r@aBnAu@b@C@i@`@w@j@o@h@]d@u@nAKLe@f@MJULc@b@KNS`@CJOv@CLCNINGLU^EHILKJMJIH_@Va@R{@ZIBs@VgCx@G@q@ZmCbAwAt@}@ZaAZs@Xg@T}@\\aA^[P_@T}AhA_A~@wB`CoA~AiCnBIFGDwBvBUTwAzAgEjE]^a@`@]VCBcAr@i@Tg@Tc@Lu@LUHgAZg@`@}A|@MFMDODE@{BZWDI@QHOHMHkAv@qAr@kBlAk@\\GDWTe@`@[Vo@n@i@b@c@b@qBnBc@`@m@d@A@]Xo@h@gAdAk@h@]VA@QLw@l@YPOPKNEFW^WTOLk@r@a@d@GD[R}Ax@]Pk@TSJeBnAm@h@i@n@A@i@v@uAbBKJKJ]Vw@t@MHi@VA@s@VGDk@ZMHKLY`@GNGNENGb@C`@?ZBPJ\\HP^hADLHRJd@BJH|@@X@N?tAAXMbBAXCl@Gt@GnBM|AGn@Gh@AHAT?\\?J@RBV@HBRNr@DT^hBFb@Nr@F^L^BPBN?B"
+          }
+        ],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Borona Downs Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Sanpah Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "Joulnie Road",
+            "suburb": "Westwood Downs to Border Downs",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
         "CategoryIcon": "Hazard"
       }
     },
@@ -3337,144 +3337,6 @@
             "region": "Sydney",
             "secondLocation": "Devonshire Street",
             "suburb": "Surry Hills",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 261403,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7714105,
-          -33.655276
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "3:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "10:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Friday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1768192052000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Tree trimming",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1769191200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1769191262807,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1768172400000,
-        "displayName": "CHANGED TRAFFIC CONDITIONS Tree trimming",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Richmond Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "The Northern Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Whitegates Road",
-            "suburb": "Berkshire Park",
             "trafficVolume": ""
           }
         ],
@@ -5468,91 +5330,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "TrafficSignals"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 262178,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8435691,
-          -30.4207158
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Restricted Access Vehicles map",
-            "linkURL": "https://maps.nhvr.gov.au/"
-          }
-        ],
-        "headline": "HAZARD Landslide BELLINGEN Waterfall Way between Horseshoe Road and Boggy Creek Road",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1768777535000,
-        "isMajor": true,
-        "name": null,
-        "subCategoryA": "Landslide",
-        "adviceA": "Use diversions",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1769227065268,
-        "otherAdvice": "<p>Waterfall Way will be closed until further notice; updates about the road condition will be provided as they become available. </p>",
-        "arrangementElements": [],
-        "diversions": "<p><strong>Light Vehicles: </strong>Summervilles Rd, Gordonville Rd, Gleniffer Rd, Wheatley St, Hammond St, Bridge St. Suitable in both directions. <strong>This route has a 10-tonne vehicle limit.</strong></p><p><strong>Heavy vehicles</strong> are required to avoid the area and use an alternative route such as the Oxley Hwy, Gwydir Hwy or New England Hwy. </p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "bhtxDevyc\\JMb@o@P_@?AHQLa@Pw@Ny@Nm@BMH[XuAHa@DS@GBI@IDWBWBW@WFo@Do@?CFg@@I@QBWB_@@QFgABUF}@Bo@JgABc@@K@]?g@?A?E@K?G@YAYAKCWCc@IeAG{@AG?CCc@AC?GC]Eg@?AACEc@?CAQCUAMAKCI?ECEAKCICKCKEGGIKSIKCEGIEE?AA?AACEGGQQ?Ai@o@OOMQMSKSQ]ACSa@W]?Ac@{@Yk@CEK_@a@aAc@}@[s@AASi@EKCKEUAKAKAKAK?K?K?K@K?M@K@K@KBKBKBIBKDKDGDIFGDIFGFIFGHGDEHGFEPKRG\\Ir@GVAbAGzDSTCH?RCNAb@Er@GZCl@GTAn@GXERArAO^?r@D\\JTBFD^HB@NBPBVDhANX?Z?T?f@@~ANJ@\\@T@^G\\OVQJGPOFEXUr@}@NOTW`@[XSZKZGT?\\B\\HRFRF@@F@H@PBL@^DH?H@`@@F?P@P?P?@?l@D"
-          }
-        ],
-        "displayName": "HAZARD Landslide",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Horseshoe Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Waterfall Way",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Boggy Creek Road",
-            "suburb": "Bellingen",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
       }
     },
     {
@@ -7567,6 +7344,165 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.174697,
+          -35.708144
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769276240000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Power failure",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
+        "lastUpdated": 1769276240692,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Utility Company"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS BLACKED OUT Power failure",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Beach Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Batemans Bay",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8435691,
+          -30.4207158
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Restricted Access Vehicles map",
+            "linkURL": "https://maps.nhvr.gov.au/"
+          }
+        ],
+        "headline": "HAZARD Landslide BELLINGEN Waterfall Way between Horseshoe Road and Boggy Creek Road",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768777535000,
+        "isMajor": true,
+        "name": null,
+        "subCategoryA": "Landslide",
+        "adviceA": "Use diversions",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1769277045171,
+        "otherAdvice": "<p>Waterfall Way will be closed until further notice; updates about the road condition will be provided as they become available. </p>",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Light Vehicles: </strong>Summervilles Rd, Gordonville Rd, Gleniffer Rd, Wheatley St, Hammond St, Bridge St. Suitable in both directions. <strong>This route has a 10-tonne vehicle limit.</strong></p><p><strong>Heavy vehicles</strong> are required to avoid the area and use an alternative route such as the Oxley Hwy, Gwydir Hwy or New England Hwy. </p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "bhtxDevyc\\JMb@o@P_@?AHQLa@Pw@Ny@Nm@BMH[XuAHa@DS@GBI@IDWBWBW@WFo@Do@?CFg@@I@QBWB_@@QFgABUF}@Bo@JgABc@@K@]?g@?A?E@K?G@YAYAKCWCc@IeAG{@AG?CCc@AC?GC]Eg@?AACEc@?CAQCUAMAKCI?ECEAKCICKCKEGGIKSIKCEGIEE?AA?AACEGGQQ?Ai@o@OOMQMSKSQ]ACSa@W]?Ac@{@Yk@CEK_@a@aAc@}@[s@AASi@EKCKEUAKAKAKAK?K?K?K@K?M@K@K@KBKBKBIBKDKDGDIFGDIFGFIFGHGDEHGFEPKRG\\Ir@GVAbAGzDSTCH?RCNAb@Er@GZCl@GTAn@GXERArAO^?r@D\\JTBFD^HB@NBPBVDhANX?Z?T?f@@~ANJ@\\@T@^G\\OVQJGPOFEXUr@}@NOTW`@[XSZKZGT?\\B\\HRFRF@@F@H@PBL@^DH?H@`@@F?P@P?P?@?l@D"
+          }
+        ],
+        "displayName": "HAZARD Landslide",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Horseshoe Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Waterfall Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "Boggy Creek Road",
+            "suburb": "Bellingen",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
       }
     }
   ]
