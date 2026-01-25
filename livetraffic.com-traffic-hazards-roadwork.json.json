@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769380560000,
+  "lastPublished": 1769383860000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -13567,114 +13567,6 @@
     },
     {
       "type": "Feature",
-      "id": 242587,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.083862,
-          -33.9405483
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
-            "direction": "Eastbound",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
-            "direction": "Eastbound",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
-            "direction": "Eastbound",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
-            "direction": "Eastbound",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1752803212000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "end": 1770920100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1768500061646,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p><strong>To Airport: </strong>M5 Mwy, Marsh St, Airport Dr.</p><p>For other destinations, use the M5 Mwy or Princes Hwy.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770634800000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "King Georges Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "M8 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "St Peters Interchange",
-            "suburb": "Beverly Hills to St Peters",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 242595,
       "geometry": {
         "type": "Point",
@@ -13774,6 +13666,114 @@
             "region": "Sydney",
             "secondLocation": "King Georges Road",
             "suburb": "St Peters to Beverly Hills",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.083862,
+          -33.9405483
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1752803212000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1770920100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1768500061646,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p><strong>To Airport: </strong>M5 Mwy, Marsh St, Airport Dr.</p><p>For other destinations, use the M5 Mwy or Princes Hwy.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770634800000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "King Georges Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "M8 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "St Peters Interchange",
+            "suburb": "Beverly Hills to St Peters",
             "trafficVolume": ""
           }
         ],
@@ -21753,12 +21753,12 @@
     },
     {
       "type": "Feature",
-      "id": 258605,
+      "id": 258036,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.3035794,
-          -33.6833693
+          151.0211741,
+          -33.9730693
         ],
         "collections": []
       },
@@ -21766,16 +21766,6 @@
         "webLinks": [],
         "headline": "",
         "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
@@ -21803,7 +21793,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "10:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           }
         ],
@@ -21817,18 +21807,18 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1765253186000,
+        "created": 1764765006000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Resurfacing",
+        "subCategoryA": "Utilities",
         "adviceA": "Reduced speed limit",
         "adviceB": "Check signage",
         "adviceC": "Allow extra travel time",
-        "end": 1770315300000,
+        "end": 1769709600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769104803382,
+        "lastUpdated": 1769104803745,
         "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -21838,20 +21828,121 @@
         "encodedPolylines": [],
         "duration": null,
         "start": 1769509800000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "displayName": "SCHEDULED ROADWORK Utilities",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Jacksons Road",
+            "crossStreet": "The River Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Pittwater Road",
+            "mainStreet": "Henry Lawson Drive",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Waratah Street",
-            "suburb": "Warriewood",
+            "secondLocation": "Henry Lawson Drive Bridge",
+            "suburb": "Picnic Point",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6677261,
+          -33.7704755
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.672514,
+              -33.774834
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Mulgoa Road upgrade",
+            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/mulgoa-road-upgrade-between-jeanette-street-regentville-and-blaikie-road"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1766041251000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1769709600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1769104803710,
+        "otherAdvice": "<p>Only these off-ramps are closing; the motorway will remain open with a reduced speed limit in place.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists in both directions can exit the M4 at The Northern Rd or Russell St instead.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769460420000,
+        "displayName": "SCHEDULED ROADWORK Mulgoa Road upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mulgoa Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "M4 Motorway off-ramps",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Regentville",
             "trafficVolume": ""
           }
         ],
@@ -22057,12 +22148,12 @@
     },
     {
       "type": "Feature",
-      "id": 258036,
+      "id": 258605,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0211741,
-          -33.9730693
+          151.3035794,
+          -33.6833693
         ],
         "collections": []
       },
@@ -22070,6 +22161,16 @@
         "webLinks": [],
         "headline": "",
         "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
@@ -22097,7 +22198,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:30pm",
+            "startTime": "10:00pm",
             "toDay": ""
           }
         ],
@@ -22111,18 +22212,18 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1764765006000,
+        "created": 1765253186000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Utilities",
+        "subCategoryA": "Resurfacing",
         "adviceA": "Reduced speed limit",
         "adviceB": "Check signage",
         "adviceC": "Allow extra travel time",
-        "end": 1769709600000,
+        "end": 1770315300000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769104803745,
+        "lastUpdated": 1769104803382,
         "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -22132,121 +22233,20 @@
         "encodedPolylines": [],
         "duration": null,
         "start": 1769509800000,
-        "displayName": "SCHEDULED ROADWORK Utilities",
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "The River Road",
+            "crossStreet": "Jacksons Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Henry Lawson Drive",
+            "mainStreet": "Pittwater Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Henry Lawson Drive Bridge",
-            "suburb": "Picnic Point",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 259635,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.6677261,
-          -33.7704755
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              150.672514,
-              -33.774834
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Mulgoa Road upgrade",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/mulgoa-road-upgrade-between-jeanette-street-regentville-and-blaikie-road"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1766041251000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "end": 1769709600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769104803710,
-        "otherAdvice": "<p>Only these off-ramps are closing; the motorway will remain open with a reduced speed limit in place.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists in both directions can exit the M4 at The Northern Rd or Russell St instead.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769460420000,
-        "displayName": "SCHEDULED ROADWORK Mulgoa Road upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mulgoa Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "M4 Motorway off-ramps",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Regentville",
+            "secondLocation": "Waratah Street",
+            "suburb": "Warriewood",
             "trafficVolume": ""
           }
         ],
@@ -26726,12 +26726,12 @@
     },
     {
       "type": "Feature",
-      "id": 259313,
+      "id": 257784,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9772363,
-          -33.9329708
+          151.2529137,
+          -33.7524793
         ],
         "collections": []
       },
@@ -26745,8 +26745,18 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "8:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -26756,7 +26766,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "8:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -26766,7 +26776,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "8:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -26776,31 +26786,11 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Friday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "8:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -26810,19 +26800,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1765801867000,
+        "created": 1764579909000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
         "adviceB": "Check signage",
-        "adviceC": "Expect delays",
+        "adviceC": "Allow extra travel time",
         "end": 1770574500000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769364046060,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p>No work will take place on the night of Mon 26 Jan.</p>",
+        "lastUpdated": 1769364046015,
+        "otherAdvice": "<p>Traffic lights at the intersection of Warringah Rd and Ellis Rd will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time.</p><p><br></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -26830,21 +26820,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769506200000,
-        "displayName": "SCHEDULED ROADWORK",
+        "start": 1769509800000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Auld Avenue",
+            "crossStreet": "Frenchs Forest Road East",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Henry Lawson Drive",
+            "mainStreet": "Warringah Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Raleigh Road",
-            "suburb": "Milperra",
+            "secondLocation": "Willandra Road",
+            "suburb": "Frenchs Forest",
             "trafficVolume": ""
           }
         ],
@@ -26972,12 +26962,12 @@
     },
     {
       "type": "Feature",
-      "id": 257784,
+      "id": 259313,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2529137,
-          -33.7524793
+          150.9772363,
+          -33.9329708
         ],
         "collections": []
       },
@@ -26991,18 +26981,8 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "9:30pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
@@ -27012,7 +26992,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "9:30pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
@@ -27022,7 +27002,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "9:30pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
@@ -27032,11 +27012,31 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Friday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "8:00pm",
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -27046,19 +27046,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1764579909000,
+        "created": 1765801867000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
         "adviceB": "Check signage",
-        "adviceC": "Allow extra travel time",
+        "adviceC": "Expect delays",
         "end": 1770574500000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769364046015,
-        "otherAdvice": "<p>Traffic lights at the intersection of Warringah Rd and Ellis Rd will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time.</p><p><br></p>",
+        "lastUpdated": 1769364046060,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p>No work will take place on the night of Mon 26 Jan.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -27066,21 +27066,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769509800000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "start": 1769506200000,
+        "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Frenchs Forest Road East",
+            "crossStreet": "Auld Avenue",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Warringah Road",
+            "mainStreet": "Henry Lawson Drive",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Willandra Road",
-            "suburb": "Frenchs Forest",
+            "secondLocation": "Raleigh Road",
+            "suburb": "Milperra",
             "trafficVolume": ""
           }
         ],
@@ -27570,6 +27570,84 @@
     },
     {
       "type": "Feature",
+      "id": 257382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.111869,
+          -33.615797
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764290262000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1770361200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1769367602417,
+        "otherAdvice": "<p>Single lane closure, portable traffic lights will allow motorists to pass in one direction at a time.</p><p>Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769371200000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Lowther Siding Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "near",
+            "mainStreet": "Jenolan Caves Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Hampton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 262318,
       "geometry": {
         "type": "Point",
@@ -27658,84 +27736,6 @@
             "region": "The Murray",
             "secondLocation": "Plantation Ln",
             "suburb": "Table Top",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257382,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.111869,
-          -33.615797
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764290262000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1770361200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769367602417,
-        "otherAdvice": "<p>Single lane closure, portable traffic lights will allow motorists to pass in one direction at a time.</p><p>Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769371200000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lowther Siding Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "near",
-            "mainStreet": "Jenolan Caves Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Hampton",
             "trafficVolume": ""
           }
         ],
