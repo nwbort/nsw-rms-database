@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769315460000,
+  "lastPublished": 1769319660000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -9,12 +9,12 @@
   "features": [
     {
       "type": "Feature",
-      "id": 262774,
+      "id": 262821,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.691624,
-          -31.6918008
+          151.1790834,
+          -33.794081
         ],
         "collections": []
       },
@@ -25,24 +25,24 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
+        "ended": false,
+        "isNewIncident": true,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1769224230000,
+        "created": 1769318252000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Follow directions on site",
-        "adviceB": "Allow extra travel time",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1769233034958,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions are in place to allow motorists to pass in one direction at a time. </p>",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1769318253066,
+        "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -51,29 +51,29 @@
           "Emergency services"
         ],
         "encodedPolylines": [],
-        "displayName": "GRASS FIRE",
+        "displayName": "BUILDING FIRE",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Castlereagh Highway",
+            "crossStreet": "Leplastrier Lane",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
+                "affectedDirection": "Westbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
                 "roadType": ""
               }
             ],
-            "locationQualifier": "near",
-            "mainStreet": "Newell Highway",
+            "locationQualifier": "at",
+            "mainStreet": "Pacific Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central NSW",
+            "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Gilgandra",
+            "suburb": "Chatswood",
             "trafficVolume": ""
           }
         ],
