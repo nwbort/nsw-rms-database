@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769410560000,
+  "lastPublished": 1769413260000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -26638,12 +26638,12 @@
     },
     {
       "type": "Feature",
-      "id": 257784,
+      "id": 259313,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2529137,
-          -33.7524793
+          150.9772363,
+          -33.9329708
         ],
         "collections": []
       },
@@ -26657,18 +26657,8 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "9:30pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
@@ -26678,7 +26668,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "9:30pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
@@ -26688,7 +26678,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "9:30pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
@@ -26698,11 +26688,31 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Friday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "8:00pm",
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -26712,19 +26722,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1764579909000,
+        "created": 1765801867000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
         "adviceB": "Check signage",
-        "adviceC": "Allow extra travel time",
+        "adviceC": "Expect delays",
         "end": 1770574500000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769364046015,
-        "otherAdvice": "<p>Traffic lights at the intersection of Warringah Rd and Ellis Rd will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time.</p><p><br></p>",
+        "lastUpdated": 1769364046060,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p>No work will take place on the night of Mon 26 Jan.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -26732,21 +26742,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769509800000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "start": 1769506200000,
+        "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Frenchs Forest Road East",
+            "crossStreet": "Auld Avenue",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Warringah Road",
+            "mainStreet": "Henry Lawson Drive",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Willandra Road",
-            "suburb": "Frenchs Forest",
+            "secondLocation": "Raleigh Road",
+            "suburb": "Milperra",
             "trafficVolume": ""
           }
         ],
@@ -26874,12 +26884,12 @@
     },
     {
       "type": "Feature",
-      "id": 259313,
+      "id": 257784,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9772363,
-          -33.9329708
+          151.2529137,
+          -33.7524793
         ],
         "collections": []
       },
@@ -26893,8 +26903,18 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "8:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -26904,7 +26924,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "8:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -26914,7 +26934,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "8:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -26924,31 +26944,11 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Friday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "8:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -26958,19 +26958,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1765801867000,
+        "created": 1764579909000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
         "adviceB": "Check signage",
-        "adviceC": "Expect delays",
+        "adviceC": "Allow extra travel time",
         "end": 1770574500000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769364046060,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p>No work will take place on the night of Mon 26 Jan.</p>",
+        "lastUpdated": 1769364046015,
+        "otherAdvice": "<p>Traffic lights at the intersection of Warringah Rd and Ellis Rd will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time.</p><p><br></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -26978,21 +26978,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769506200000,
-        "displayName": "SCHEDULED ROADWORK",
+        "start": 1769509800000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Auld Avenue",
+            "crossStreet": "Frenchs Forest Road East",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Henry Lawson Drive",
+            "mainStreet": "Warringah Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Raleigh Road",
-            "suburb": "Milperra",
+            "secondLocation": "Willandra Road",
+            "suburb": "Frenchs Forest",
             "trafficVolume": ""
           }
         ],
@@ -27491,84 +27491,6 @@
     },
     {
       "type": "Feature",
-      "id": 257382,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.111869,
-          -33.615797
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764290262000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1770361200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769367602417,
-        "otherAdvice": "<p>Single lane closure, portable traffic lights will allow motorists to pass in one direction at a time.</p><p>Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769371200000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lowther Siding Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "near",
-            "mainStreet": "Jenolan Caves Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Hampton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 262321,
       "geometry": {
         "type": "Point",
@@ -27648,6 +27570,84 @@
             "region": "Riverina",
             "secondLocation": "",
             "suburb": "Wagga Wagga",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.111869,
+          -33.615797
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764290262000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1770361200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1769367602417,
+        "otherAdvice": "<p>Single lane closure, portable traffic lights will allow motorists to pass in one direction at a time.</p><p>Motorists are advised to allow approximately 10 minutes of additional travel time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769371200000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Lowther Siding Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "near",
+            "mainStreet": "Jenolan Caves Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Hampton",
             "trafficVolume": ""
           }
         ],
