@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769519460000,
+  "lastPublished": 1769522160000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -8473,80 +8473,6 @@
     },
     {
       "type": "Feature",
-      "id": 262962,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.959609,
-          -33.8936634
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1769490803000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1769513756388,
-        "otherAdvice": "<p>Repairs to traffic lights following an earlier crash.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "EMERGENCY ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lansdowne Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Hume Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Lansvale",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 262988,
       "geometry": {
         "type": "Point",
@@ -8621,6 +8547,80 @@
     },
     {
       "type": "Feature",
+      "id": 262962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.959609,
+          -33.8936634
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769490803000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1769520581877,
+        "otherAdvice": "<p>Repairs to traffic lights following an earlier crash.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "EMERGENCY ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Lansdowne Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Lansvale",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 262990.0,
       "geometry": {
         "type": "Point",
@@ -8638,7 +8638,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -8648,28 +8648,48 @@
         "isMajor": false,
         "name": null,
         "subCategoryA": "Truck",
-        "adviceA": "Expect delays",
-        "adviceB": " ",
-        "adviceC": " ",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Expect delays",
+        "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
         "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1769519287804,
-        "otherAdvice": "",
+        "lastUpdated": 1769521774152,
+        "otherAdvice": "<p>Both the M1 Mwy southbound off-ramp and Wisemans Ferry Rd are closed due to this truck breakdown.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
-          "Transport for NSW"
+          "Transport for NSW",
+          "Heavy vehicle inspectors"
         ],
-        "encodedPolylines": [],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "ONE_DIRECTION",
+            "coords": "l~}jEwvlz[\\\\zAbBvCjDn@t@f@h@d@j@`@d@h@n@x@bAFHPRVXn@t@`@j@^j@PXT`@\\j@R\\Xl@Xv@LT??V~@"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "pe~jEwqkz[NBHBrAPP@N@R@J?H?T?HAJ?HA`@Cp@Ih@GRCh@Gd@Gh@EHAJCVChAMZELAj@ElDc@PAx@?t@Dl@J@@B?ZJ@?PJRHPLNLPLNPJLn@dA"
+          }
+        ],
         "displayName": "BREAKDOWN Truck",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "M1 Pacific Motorway off-ramp",
+            "crossStreet": "Old Pacific Highway",
             "delay": "",
             "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Off-ramp"
+              },
               {
                 "affectedDirection": "Both directions",
                 "closedLanes": "",
@@ -8679,12 +8699,12 @@
                 "roadType": "Road"
               }
             ],
-            "locationQualifier": "at",
-            "mainStreet": "Wisemans Ferry Road",
+            "locationQualifier": "between",
+            "mainStreet": "M1 Pacific Motorway southbound off-ramp and Wisemans Ferry Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Central Coast",
-            "secondLocation": "",
+            "secondLocation": "Central Coast Highway",
             "suburb": "Somersby",
             "trafficVolume": ""
           }
