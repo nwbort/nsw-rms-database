@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769779560000,
+  "lastPublished": 1769784960000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3162,82 +3162,6 @@
             "region": "Sydney",
             "secondLocation": "Mount Street",
             "suburb": "Artarmon to North Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263201,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1221205,
-          -33.9364657
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1769690430000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "due to an earlier incident",
-        "adviceA": "Avoid the area",
-        "adviceB": "Use diversions",
-        "adviceC": "Exercise caution",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1769695497536,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p>Eastbound: King Georges Rd, Stoney Creek Rd, Forest Rd, Wickham St, West Botany St, Marsh St, to the M5.</p><p><br></p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Motorway Crew"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS due to an earlier incident",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "tunnel",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Tunnel"
-              }
-            ],
-            "locationQualifier": "in",
-            "mainStreet": "M5 East Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Bardwell Park",
             "trafficVolume": ""
           }
         ],
@@ -9462,6 +9386,80 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Bardwell Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9283287,
+          -34.281648
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769780175000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car on fire",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1769783981848,
+        "otherAdvice": "<p>Consider using the Princes Hwy instead.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Car on fire",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Appin Road on-ramp",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Motorway"
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "M1 Princes Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Cataract",
             "trafficVolume": ""
           }
         ],
