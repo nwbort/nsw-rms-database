@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1770002160000,
+  "lastPublished": 1770008760000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1053,78 +1053,6 @@
     },
     {
       "type": "Feature",
-      "id": 262948,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7360987,
-          -32.9174263
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Newcastle Caravan Camping Lifestyle Expo",
-            "linkURL": "https://www.caravanexpo.com/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1769483680000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1769922000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769922014608,
-        "otherAdvice": "<p>The Newcastle Caravan Camping Lifestyle Expo will be held from 9am on Friday 30 January to 4pm on Sunday 1 February at Newcastle Entertainment Centre and Showground. Motorists should allow extra travel time and be aware of increased pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769724000000,
-        "displayName": "Newcastle Caravan and Camping Expo",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Newcastle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 261569,
       "geometry": {
         "type": "Point",
@@ -1608,6 +1536,89 @@
             "region": "Sydney",
             "secondLocation": "Hunter Street",
             "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6225159,
+          -32.9650088
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Event website",
+            "linkURL": "https://lookouttour.com.au/tour/lookout-onerepublic-2026/779"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Southbound",
+            "finishTime": "9:00pm",
+            "fromDay": "Saturday",
+            "startTime": "12:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770008718000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduce your speed",
+        "end": 1770458400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1770008719276,
+        "otherAdvice": "<p>One Republic will be in concert at Speers Park. Traffic signals will be in place at the pedestrian crossing to assist with queuing.</p><p>Traffic controllers will be on site to direct motorists. Motorists travelling north will be diverted via Main Road. </p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770426000000,
+        "displayName": "SPECIAL EVENT Lookout One Republic Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Main Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "near",
+            "mainStreet": "The Esplanade",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Speers Point",
             "trafficVolume": ""
           }
         ],
