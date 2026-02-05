@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1770261060000,
+  "lastPublished": 1770267510000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -487,104 +487,6 @@
             "region": "Sydney",
             "secondLocation": "Margaret Street",
             "suburb": "Sydney CBD",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 248674,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2061116,
-          -33.8892761
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "11:59pm",
-            "fromDay": "Saturday",
-            "startTime": "2:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "",
-            "fromDay": "Sunday",
-            "startTime": "all day",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "2:00am",
-            "fromDay": "Sunday",
-            "startTime": "12:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1757383019000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1770562800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1769353246670,
-        "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate Sydney Trains trackwork replacement bus operations:</p><ul><li>Chalmers St, western side, between Cleveland St and Devonshire St, and</li><li>Chalmers St, eastern side, between Cleveland St and Rutland St.</li></ul><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully, as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770390000000,
-        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Cleveland Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Chalmers Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Devonshire Street",
-            "suburb": "Surry Hills",
             "trafficVolume": ""
           }
         ],
@@ -2959,599 +2861,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263750.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.19963,
-          -33.5358527
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770174840000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "B-double",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1770175178507,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN B-double",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hawkesbury River Bridge",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "Mooney Mooney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263748,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.880272,
-          -36.974212
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770174290000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car on fire",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1770175804264,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Car on fire",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Yowaka River Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Broadwater (north of Eden)",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263746,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7384934,
-          -32.9180929
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770173948000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": "Exercise caution",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1770175931173,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Chatham Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Hamilton North",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263753,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8295928,
-          -33.7914058
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770175353000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck, Car",
-        "adviceA": "Expect delays",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1770176303951,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [
-          "Site Cleared"
-        ],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "CRASH Truck, Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Archbold Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "M4 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "St Clair",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263735,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8241114,
-          -34.0222988
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770169379000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": "Exercise caution",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1770177247452,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Raby Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "4",
-                "roadType": "Motorway"
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "Hume Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Raby",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263767,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2098185,
-          -33.8690758
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770179033000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Prepare to merge",
-        "adviceB": "Exercise caution",
-        "adviceC": "Expect delays",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1770179498501,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Limousine",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Castlereagh Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Lane 2",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "King Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": "Moderate"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263761,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.980336,
-          -33.929528
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770177998000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Glass spill",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1770180877833,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Glass spill",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Milperra Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Henry Lawson Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Milperra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263770.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1570871,
-          -33.8882894
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770180257000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Prepare to merge",
-        "adviceB": "Exercise caution",
-        "adviceC": "Expect delays",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1770181079023,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Norton Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Leichhardt",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
       }
     },
     {
@@ -7200,81 +6509,6 @@
     },
     {
       "type": "Feature",
-      "id": 263823,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.200532,
-          -33.02953
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770243648000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "due to an earlier incident",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1770251944800,
-        "otherAdvice": "<p>Contraflow traffic conditions are in place to allow motorists to pass in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW",
-          "Local Council"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS due to an earlier incident",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Coobang Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Newell Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "",
-            "suburb": "Parkes",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 263841,
       "geometry": {
         "type": "Point",
@@ -7953,377 +7187,6 @@
     },
     {
       "type": "Feature",
-      "id": 263836,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0734292,
-          -33.9343049
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770251445000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1770256794472,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Utility Company"
-        ],
-        "encodedPolylines": [],
-        "displayName": "EMERGENCY ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Canarys Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "King Georges Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Roselands",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263855,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.014008,
-          -33.811692
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770258767000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Power failure",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1770258767898,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Utility Company"
-        ],
-        "encodedPolylines": [],
-        "displayName": "TRAFFIC LIGHTS BLACKED OUT Power failure",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Thomas Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Macarthur Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "TrafficSignals"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263807,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.715907,
-          -33.742325
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770235902000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 trucks",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1770258791509,
-        "otherAdvice": "<p>There is no access from Richmond Road into Dunheved Road.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 trucks",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Dunheved Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Richmond Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Kingswood Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263859,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.207024,
-          -33.872924
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770259860000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Light rail",
-        "adviceA": "Expect delays",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1770259861091,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Light rail",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Park Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "George Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263860.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.5393005,
-          -28.5337819
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770260255000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Bus",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1770260640714,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Bus",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Harbour Way",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Brunswick Heads",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 263858,
       "geometry": {
         "type": "Point",
@@ -8398,80 +7261,6 @@
     },
     {
       "type": "Feature",
-      "id": 263862,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.615007,
-          -33.424768
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770260789000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1770260790326,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hampden Park Roadd",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Littlebourne Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "",
-            "suburb": "Kelso",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 263861,
       "geometry": {
         "type": "Point",
@@ -8542,6 +7331,1415 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263860.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5393005,
+          -28.5337819
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770260255000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Bus",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1770261337735,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Bus",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Harbour Way",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Pacific Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Brunswick Heads",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.715907,
+          -33.742325
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770235902000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 trucks",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1770262266369,
+        "otherAdvice": "<p>There is no access from Richmond Road into Dunheved Road.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 trucks",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Dunheved Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Richmond Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Kingswood Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207024,
+          -33.872924
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770259860000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Light rail",
+        "adviceA": "Expect delays",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1770262803641,
+        "otherAdvice": "<p>There is heavy traffic westbound on Park St due to an earlier light rail breakdown across George St intersection.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [
+          "Site Cleared"
+        ],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Light rail",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "George Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Park Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.014008,
+          -33.811692
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770258767000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Power failure",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
+        "lastUpdated": 1770263395170,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Utility Company"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS BLACKED OUT Power failure",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Thomas Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Macarthur Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.615007,
+          -33.424768
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770260789000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1770263609292,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hampden Park Roadd",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Littlebourne Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Kelso",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2061116,
+          -33.8892761
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "11:59pm",
+            "fromDay": "Saturday",
+            "startTime": "2:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "",
+            "fromDay": "Sunday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "2:00am",
+            "fromDay": "Sunday",
+            "startTime": "12:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1757383019000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1770562800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1770263829561,
+        "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate Sydney Trains trackwork replacement bus operations:</p><ul><li>Chalmers St - western side, between Cleveland St and Devonshire St, and</li><li>Chalmers St - eastern side, between Cleveland St and Rutland St.</li></ul><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully, as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770390000000,
+        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Cleveland Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Chalmers Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Devonshire Street",
+            "suburb": "Surry Hills",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.750575,
+          -32.759673
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770263739000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "lastUpdated": 1770264080179,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "William Bailey Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Adelaide Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Raymond Terrace",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0734292,
+          -33.9343049
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770251445000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1770264117183,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Utility Company"
+        ],
+        "encodedPolylines": [],
+        "displayName": "EMERGENCY ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Canarys Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "King Georges Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Roselands",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.867899,
+          -34.014351
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770262447000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car, Motorcycle",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1770264309131,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Car, Motorcycle",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Collins Promenade",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Eagleview Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Ingleburn",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263870.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1987363,
+          -33.89385
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "11:59pm",
+            "fromDay": "Saturday",
+            "startTime": "2:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "",
+            "fromDay": "Sunday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "2:00am",
+            "fromDay": "Sunday",
+            "startTime": "12:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770264625000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1770562800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1770264625738,
+        "otherAdvice": "<p>Special event clearways will be in place to facilitate Sydney Trains trackwork replacement bus operations on both the eastern and western sides of the road.</p><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully, as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770390000000,
+        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Chapel Lane",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Gibbons Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Marian Street",
+            "suburb": "Redfern",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2024571,
+          -33.8845617
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Southbound",
+            "finishTime": "11:59pm",
+            "fromDay": "Saturday",
+            "startTime": "2:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Southbound",
+            "finishTime": "",
+            "fromDay": "Sunday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Southbound",
+            "finishTime": "2:00am",
+            "fromDay": "Sunday",
+            "startTime": "12:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770264404000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1770562800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1770264659405,
+        "otherAdvice": "<p>Special event clearways will be in place to facilitate Sydney Trains trackwork replacement bus operations.</p><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully, as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770390000000,
+        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "George Street / Broadway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Regent Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Lee Street",
+            "suburb": "Chippendale",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.200532,
+          -33.02953
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770243648000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "due to an earlier incident",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1770264684039,
+        "otherAdvice": "<p>Contraflow traffic conditions are in place to allow motorists to pass in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW",
+          "Local Council"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CHANGED TRAFFIC CONDITIONS due to an earlier incident",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Coobang Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Parkes",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1547783,
+          -33.9310677
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770265046000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1770265046950,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Brodie Spark Drive",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Wolli Creek",
+            "trafficVolume": "Moderate"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.073657,
+          -33.887396
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770261573000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "lastUpdated": 1770265057677,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Cosgrove Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Enfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.856125,
+          -33.7892699
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770265456000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Diesel spill",
+        "adviceA": "Avoid the area",
+        "adviceB": "Use an alternative route",
+        "adviceC": "Exercise caution",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1770265764385,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Diesel spill",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Great Western Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "On-ramp"
+              }
+            ],
+            "locationQualifier": "from",
+            "mainStreet": "M7 Motorway on-ramp",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Eastern Creek",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7476897,
+          -33.7828236
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770266258000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Medical emergency",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1770266344906,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CHANGED TRAFFIC CONDITIONS Medical emergency",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Kent Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Breakdown lane",
+                "extent": "Lanes closed",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Claremont Meadows",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1391583,
+          -33.877774
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770266507000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Lost load",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1770266508282,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Shifted load",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tunnel",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Breakdown lane",
+                "extent": "Lanes closed",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "in",
+            "mainStreet": "M4 East Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Haberfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7595947,
+          -33.7832583
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770267263000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Exercise caution",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1770267477822,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Kent Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Claremont Meadows",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
       }
     }
   ]
