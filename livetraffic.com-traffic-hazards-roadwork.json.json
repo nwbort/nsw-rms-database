@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1770493053000,
+  "lastPublished": 1770496980000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -15789,6 +15789,117 @@
     },
     {
       "type": "Feature",
+      "id": 259635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6677261,
+          -33.7704755
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.672514,
+              -33.774834
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Mulgoa Road upgrade",
+            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/mulgoa-road-upgrade-between-jeanette-street-regentville-and-blaikie-road"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1766041251000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1770920100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1769709602849,
+        "otherAdvice": "<p>Both the eastbound and westbound off-ramps to Mulgoa Rd will be closed. </p><p>The M4 Mwy mainline will remain open</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists in both directions can exit the M4 Mwy at The Northern Rd or Russell St instead.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770624000000,
+        "displayName": "SCHEDULED ROADWORK Mulgoa Road upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mulgoa Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "M4 Motorway off-ramps",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Regentville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 258038,
       "geometry": {
         "type": "Point",
@@ -15898,117 +16009,6 @@
             "region": "Sydney",
             "secondLocation": "Regent Street",
             "suburb": "Arncliffe",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 259635,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.6677261,
-          -33.7704755
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              150.672514,
-              -33.774834
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Mulgoa Road upgrade",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/mulgoa-road-upgrade-between-jeanette-street-regentville-and-blaikie-road"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1766041251000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "end": 1770920100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769709602849,
-        "otherAdvice": "<p>Both the eastbound and westbound off-ramps to Mulgoa Rd will be closed. </p><p>The M4 Mwy mainline will remain open</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists in both directions can exit the M4 Mwy at The Northern Rd or Russell St instead.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770624000000,
-        "displayName": "SCHEDULED ROADWORK Mulgoa Road upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mulgoa Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "M4 Motorway off-ramps",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Regentville",
             "trafficVolume": ""
           }
         ],
@@ -18266,94 +18266,6 @@
     },
     {
       "type": "Feature",
-      "id": 259264,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.035149,
-          -33.722105
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765760985000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Surveying",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Allow extra travel time",
-        "end": 1771351200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1769968803112,
-        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1771180200000,
-        "displayName": "SCHEDULED ROADWORK Surveying",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Purchase Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "New Line Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Hastings Road",
-            "suburb": "Dural",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 246148,
       "geometry": {
         "type": "Point",
@@ -18463,6 +18375,94 @@
             "region": "Sydney",
             "secondLocation": "Powers Road",
             "suburb": "Bella Vista to Seven Hills",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.035149,
+          -33.722105
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765760985000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Surveying",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1771351200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1769968803112,
+        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1771180200000,
+        "displayName": "SCHEDULED ROADWORK Surveying",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Purchase Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "New Line Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Hastings Road",
+            "suburb": "Dural",
             "trafficVolume": ""
           }
         ],
@@ -22974,94 +22974,6 @@
     },
     {
       "type": "Feature",
-      "id": 263772,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2537894,
-          -33.8995339
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770181676000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Power pole/line repairs",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1771437600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1770228003049,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1771304400000,
-        "displayName": "SCHEDULED ROADWORK Power pole/line repairs",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Church Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Carrington Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "John Street",
-            "suburb": "Waverley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 259105,
       "geometry": {
         "type": "Point",
@@ -23151,6 +23063,94 @@
             "region": "Sydney",
             "secondLocation": "Ivy Avenue",
             "suburb": "McGraths Hill",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2537894,
+          -33.8995339
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770181676000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Power pole/line repairs",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1771437600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1770228003049,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1771304400000,
+        "displayName": "SCHEDULED ROADWORK Power pole/line repairs",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Church Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Carrington Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "John Street",
+            "suburb": "Waverley",
             "trafficVolume": ""
           }
         ],
@@ -30483,6 +30483,130 @@
             "region": "Blue Mountains",
             "secondLocation": "Katoomba",
             "suburb": "Glenbrook",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.69189,
+          -32.929073
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769463961000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Reduce your speed",
+        "end": 1770919200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1770494551789,
+        "otherAdvice": "<p>Single lane closures will be in place for the eastbound slow lane on McCaffrey Drive and in both directions along Lookout Road between Kookaburra Circuit and Carnley Avenue.</p><p>Traffic controllers will be on site to direct motorists.</p><p>Motorists are encouraged to take alternative travel options via Lake Road, Main Road, Macquarie Road and Hillsborough Road, when suitable, to reduce the wider network impacts. </p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Heavy vehicles with a ground contact or with overall width wider than 3m are advised to contact the project team at least one day ahead of movement on 1800 818 433. Significant delays will occur if failure to contact. </p><p> </p><p><strong>Freight operators are advised the project operates on UHF channel 52 at the Southern Interchange.</strong> </p>",
+            "title": "",
+            "id": "778308"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770537600000,
+        "displayName": "SCHEDULED ROADWORK Rankin Park to Jesmond project",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "McCaffrey Drive",
+            "delay": "Significant",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Lookout Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "New Lambton Heights",
             "trafficVolume": ""
           }
         ],
