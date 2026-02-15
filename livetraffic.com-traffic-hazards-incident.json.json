@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1771145370000,
+  "lastPublished": 1771148670000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1830,80 +1830,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 264965,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.2319307,
-          -33.5819812
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1771054020000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1771061593545,
-        "otherAdvice": "<p>Police are directing traffic on site. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mount York Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Mount Victoria",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
       }
     },
     {
@@ -4961,12 +4887,12 @@
     },
     {
       "type": "Feature",
-      "id": 265001,
+      "id": 265009,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.635386,
-          -34.2853552
+          150.8785136,
+          -34.4014831
         ],
         "collections": []
       },
@@ -4977,14 +4903,14 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1771127723000,
+        "created": 1771145198000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Car",
@@ -4992,24 +4918,22 @@
         "adviceB": "Prepare to merge",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1771144148233,
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1771145694340,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Tow Truck"
+          "Transport for NSW"
         ],
         "encodedPolylines": [],
-        "displayName": "CRASH Car",
+        "displayName": "BREAKDOWN Car",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Avon Dam Road",
+            "crossStreet": "Mount Ousley Road",
             "delay": "",
             "impactedLanes": [
               {
@@ -5017,22 +4941,22 @@
                 "closedLanes": "1",
                 "description": "Lane 1",
                 "extent": "Lanes closed",
-                "numberOfLanes": "2",
+                "numberOfLanes": "3",
                 "roadType": ""
               }
             ],
             "locationQualifier": "just past",
-            "mainStreet": "Hume Motorway",
+            "mainStreet": "M1 Princes Motorway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Sydney",
+            "region": "South Coast",
             "secondLocation": "",
-            "suburb": "Pheasants Nest",
+            "suburb": "Keiraville",
             "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
+        "CategoryIcon": "Breakdown"
       }
     },
     {
@@ -5053,8 +4977,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -5069,7 +4993,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1771144905067,
+        "lastUpdated": 1771146519380,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -5112,12 +5036,12 @@
     },
     {
       "type": "Feature",
-      "id": 265009,
+      "id": 265001,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.8785136,
-          -34.4014831
+          150.635386,
+          -34.2853552
         ],
         "collections": []
       },
@@ -5128,60 +5052,135 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1771145198000,
+        "created": 1771127723000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Car",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1771147996773,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [
+          "Site Cleared"
+        ],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CRASH Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Avon Dam Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Hume Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Pheasants Nest",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265010.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.158341,
+          -33.855008
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771147600000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Debris",
         "adviceA": "Exercise caution",
         "adviceB": "Prepare to merge",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1771145198878,
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1771148620494,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
+          "Emergency services",
           "Transport for NSW"
         ],
         "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
+        "displayName": "HAZARD Debris",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Mount Ousley Road",
+            "crossStreet": "Day Street",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
+                "affectedDirection": "City bound",
+                "closedLanes": "2",
+                "description": "Lane 2, Lane 3",
                 "extent": "Lanes closed",
                 "numberOfLanes": "3",
                 "roadType": ""
               }
             ],
-            "locationQualifier": "just past",
-            "mainStreet": "M1 Princes Motorway",
+            "locationQualifier": "at",
+            "mainStreet": "Victoria Road",
             "quadrant": "",
             "queueLength": 0,
-            "region": "South Coast",
+            "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Keiraville",
+            "suburb": "Drummoyne",
             "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
+        "CategoryIcon": "Hazard"
       }
     }
   ]
