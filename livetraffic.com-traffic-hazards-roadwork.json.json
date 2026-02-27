@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1772224920000,
+  "lastPublished": 1772228520000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -29566,12 +29566,12 @@
     },
     {
       "type": "Feature",
-      "id": 264859,
+      "id": 263123,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.056234,
-          -33.329433
+          150.4913362,
+          -31.290934
         ],
         "collections": []
       },
@@ -29586,7 +29586,7 @@
             "direction": "Both directions",
             "finishTime": "6:00pm",
             "fromDay": "Weekdays",
-            "startTime": "7:00am",
+            "startTime": "6:00am",
             "toDay": ""
           }
         ],
@@ -29600,19 +29600,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1770955516000,
+        "created": 1769646069000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Maintenance",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
         "adviceC": "Reduced speed limit",
         "end": 1772175600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1772175602278,
-        "otherAdvice": "<p>Traffic controllers will be on site to direct motorists. </p><p>Portable traffic lights will allow motorists to pass in one direction at a time. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p><p><br></p>",
+        "lastUpdated": 1772175602417,
+        "otherAdvice": "<p>Traffic control will be in place, with part of the road shoulder closed.  </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -29620,21 +29620,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1771790400000,
+        "start": 1769540400000,
         "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Daroobalgie Rd",
+            "crossStreet": "WILLOW TREE",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Newell Highway",
+            "locationQualifier": "to",
+            "mainStreet": "Kamilaroi Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Ashburnham Road",
-            "suburb": "Daroobalgie",
+            "region": "New England North West",
+            "secondLocation": "",
+            "suburb": "Gunnedah",
             "trafficVolume": ""
           }
         ],
@@ -29722,12 +29722,12 @@
     },
     {
       "type": "Feature",
-      "id": 263123,
+      "id": 263995,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4913362,
-          -31.290934
+          143.335226,
+          -35.0304818
         ],
         "collections": []
       },
@@ -29742,33 +29742,33 @@
             "direction": "Both directions",
             "finishTime": "6:00pm",
             "fromDay": "Weekdays",
-            "startTime": "6:00am",
+            "startTime": "7:00am",
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1769646069000,
+        "created": 1770337089000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
+        "subCategoryA": "Bridge work",
+        "adviceA": " ",
+        "adviceB": " ",
+        "adviceC": " ",
         "end": 1772175600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1772175602417,
-        "otherAdvice": "<p>Traffic control will be in place, with part of the road shoulder closed.  </p>",
+        "lastUpdated": 1772175602323,
+        "otherAdvice": "<p>Single-lane closure will be in place.</p><p>Motorists are advised to allow approximately 20 minutes of additional travel time. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -29776,21 +29776,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769540400000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1770580800000,
+        "displayName": "SCHEDULED ROADWORK Bridge work",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "WILLOW TREE",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Kamilaroi Highway",
+            "locationQualifier": "at",
+            "mainStreet": "Tooleybuc Road",
             "quadrant": "",
             "queueLength": 0,
-            "region": "New England North West",
+            "region": "The Murray",
             "secondLocation": "",
-            "suburb": "Gunnedah",
+            "suburb": "Tooleybuc",
             "trafficVolume": ""
           }
         ],
@@ -29878,12 +29878,12 @@
     },
     {
       "type": "Feature",
-      "id": 263995,
+      "id": 264859,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.335226,
-          -35.0304818
+          148.056234,
+          -33.329433
         ],
         "collections": []
       },
@@ -29902,84 +29902,6 @@
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770337089000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Bridge work",
-        "adviceA": " ",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1772175600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1772175602323,
-        "otherAdvice": "<p>Single-lane closure will be in place.</p><p>Motorists are advised to allow approximately 20 minutes of additional travel time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770580800000,
-        "displayName": "SCHEDULED ROADWORK Bridge work",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Tooleybuc Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "The Murray",
-            "secondLocation": "",
-            "suburb": "Tooleybuc",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 265445,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.990207,
-          -34.654404
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "6:00am",
-            "toDay": ""
-          }
-        ],
         "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
@@ -29990,19 +29912,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1771480615000,
+        "created": 1770955516000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Upgrade",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Reduced speed limit",
-        "adviceC": " ",
+        "subCategoryA": "Maintenance",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Reduced speed limit",
         "end": 1772175600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1772175604928,
-        "otherAdvice": "<p>Single lane closures and alternating stop/slow traffic conditions will be in place. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.  </p>",
+        "lastUpdated": 1772175602278,
+        "otherAdvice": "<p>Traffic controllers will be on site to direct motorists. </p><p>Portable traffic lights will allow motorists to pass in one direction at a time. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p><p><br></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -30010,21 +29932,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1771786800000,
-        "displayName": "SCHEDULED ROADWORK Upgrade",
+        "start": 1771790400000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Dirnaseer Road",
+            "crossStreet": "Daroobalgie Rd",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Olympic Highway",
+            "locationQualifier": "between",
+            "mainStreet": "Newell Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Riverina",
-            "secondLocation": "",
-            "suburb": "Cootamundra",
+            "region": "Central NSW",
+            "secondLocation": "Ashburnham Road",
+            "suburb": "Daroobalgie",
             "trafficVolume": ""
           }
         ],
@@ -30103,6 +30025,84 @@
             "region": "South Coast",
             "secondLocation": "Slaughterhouse Road",
             "suburb": "Milton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.990207,
+          -34.654404
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "6:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771480615000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Upgrade",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Reduced speed limit",
+        "adviceC": " ",
+        "end": 1772175600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1772175604928,
+        "otherAdvice": "<p>Single lane closures and alternating stop/slow traffic conditions will be in place. Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.  </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1771786800000,
+        "displayName": "SCHEDULED ROADWORK Upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Dirnaseer Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Olympic Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "",
+            "suburb": "Cootamundra",
             "trafficVolume": ""
           }
         ],
