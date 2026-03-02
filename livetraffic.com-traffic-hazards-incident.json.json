@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1772449320000,
+  "lastPublished": 1772451720000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -6162,6 +6162,81 @@
     },
     {
       "type": "Feature",
+      "id": 266683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0385177,
+          -34.8325032
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1772440879000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1772449699623,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW",
+          "Mechanic"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Reardons Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Manton",
+            "trafficVolume": "Moderate"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 266684,
       "geometry": {
         "type": "Point",
@@ -6178,7 +6253,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -6194,7 +6269,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "HAZARD",
-        "lastUpdated": 1772447984178,
+        "lastUpdated": 1772450553259,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -6236,12 +6311,12 @@
     },
     {
       "type": "Feature",
-      "id": 266683,
+      "id": 266689,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.0385177,
-          -34.8325032
+          150.915456,
+          -33.8045882
         ],
         "collections": []
       },
@@ -6259,31 +6334,30 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1772440879000,
+        "created": 1772449768000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Truck",
-        "adviceA": "Reduce your speed",
+        "subCategoryA": "Police operation",
+        "adviceA": "Exercise caution",
         "adviceB": "Prepare to merge",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1772447984404,
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1772451354882,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
-          "Transport for NSW",
-          "Mechanic"
+          "Emergency services"
         ],
         "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
+        "displayName": "CHANGED TRAFFIC CONDITIONS Police operation",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Reardons Road",
+            "crossStreet": "M4 Motorway",
             "delay": "",
             "impactedLanes": [
               {
@@ -6295,18 +6369,18 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "just past",
-            "mainStreet": "Hume Highway",
+            "locationQualifier": "approaching",
+            "mainStreet": "Prospect Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Southern Highlands",
+            "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Manton",
-            "trafficVolume": "Moderate"
+            "suburb": "Prospect",
+            "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
+        "CategoryIcon": "ChangedConditions"
       }
     }
   ]
