@@ -1,10 +1,86 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1772787180000,
+  "lastPublished": 1772790780000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 267200.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.440165,
+          -35.317789
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1772788018000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Reduce your speed",
+        "adviceC": "Exercise caution",
+        "incidentKind": "Unplanned",
+        "mainCategory": "FIRE",
+        "lastUpdated": 1772788643754,
+        "otherAdvice": "<p>Local diversions in place. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "FIRE power pole",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Gordon Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Highway"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Milton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    }
+  ]
 }
