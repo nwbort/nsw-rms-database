@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1773236280000,
+  "lastPublished": 1773241500000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1688,155 +1688,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 267595,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.6161355,
-          -32.8640894
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773140388000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1773151362037,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Stockrington Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Minmi",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 267606,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.04712,
-          -33.928421
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773149062000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1773152867875,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Wilga Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Punchbowl Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Punchbowl",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
       }
     },
     {
@@ -7903,12 +7754,12 @@
     },
     {
       "type": "Feature",
-      "id": 267721,
+      "id": 267725,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2342016,
-          -33.4257806
+          151.215541,
+          -33.7607976
         ],
         "collections": []
       },
@@ -7916,64 +7767,61 @@
         "webLinks": [],
         "headline": "",
         "periods": [],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1773226065000,
+        "created": 1773229267000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "B-double",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1773234037104,
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1773237079517,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
+        "attendingGroups": null,
         "encodedPolylines": [],
-        "displayName": "BREAKDOWN B-double",
+        "displayName": "EMERGENCY ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Peats Ridge Road",
+            "crossStreet": "Starkey Street",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Southbound",
+                "affectedDirection": "Both directions",
                 "closedLanes": "1",
-                "description": "Lane 1",
+                "description": "Lane 1, Lane 2",
                 "extent": "Lanes closed",
                 "numberOfLanes": "3",
                 "roadType": ""
               }
             ],
-            "locationQualifier": "approaching",
-            "mainStreet": "M1 Pacific Motorways",
+            "locationQualifier": "between",
+            "mainStreet": "Warringah Road",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "Calga",
+            "region": "Sydney",
+            "secondLocation": "Darley Street",
+            "suburb": "Forestville",
             "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
+        "CategoryIcon": "Hazard"
       }
     },
     {
@@ -8010,7 +7858,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1773234058060,
+        "lastUpdated": 1773240073095,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -8103,7 +7951,7 @@
         "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
         "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1773234069847,
+        "lastUpdated": 1773240076375,
         "otherAdvice": "<p>Great Western Hwy between Lithgow and Little Hartley is accessible to local traffic only.</p>",
         "arrangementElements": [],
         "diversions": "<p><strong>Both directions: </strong>Chifley Rd and Darling Causeway.</p><ul><li>General access vehicles, and Performance Based Standards (PBS) Level 1 heavy vehicles up to 20m long, are approved to use the detour via Chifley Rd and Darling Causeway. </li><li>Restricted access heavy vehicle operators who are unable to travel on an approved Notice Network are advised to delay their journey.</li><li>To check approved Notice Networks, heavy vehicle operators can use the NHVR National Network Map to find an alternative route for their combination: <a href=\"https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcst-freightbranchstakeholderengagement.cmail19.com%2Ft%2Fj-i-ydiyktld-l-y%2F&amp;data=05%7C02%7Cjacqii.pilarski%40transport.nsw.gov.au%7C57020374af264ea241a308de7b368fa2%7Ccb356782ad9a47fb878b7ebceb85b86c%7C0%7C0%7C639083671471673895%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=tuxNR2BvwEq%2F6zyFi3OSUeTDO2S09PcFYqA56Co1vKg%3D&amp;reserved=0\" target=\"_blank\">https://www.nhvr.gov.au/road-access/route-planner/national-network-map</a>  </li><li>Restricted access heavy vehicle operators who are unable to travel on a Notice Network and cannot delay their travel are advised to apply for an amended permit via NHVR GO.</li><li>Transport reminds operators who require a NHVR issued Permit that they must only travel on the roads approved in their Permit.</li></ul>",
@@ -8151,12 +7999,12 @@
     },
     {
       "type": "Feature",
-      "id": 267725,
+      "id": 267721,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.215541,
-          -33.7607976
+          151.2342016,
+          -33.4257806
         ],
         "collections": []
       },
@@ -8164,61 +8012,64 @@
         "webLinks": [],
         "headline": "",
         "periods": [],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1773229267000,
+        "created": 1773226065000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": " ",
+        "subCategoryA": "B-double",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1773234973144,
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1773241470718,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
         "encodedPolylines": [],
-        "displayName": "EMERGENCY ROADWORK",
+        "displayName": "BREAKDOWN B-double",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Starkey Street",
+            "crossStreet": "Peats Ridge Road",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
+                "affectedDirection": "Southbound",
                 "closedLanes": "1",
-                "description": "Lane 1, Lane 2",
+                "description": "Lane 1",
                 "extent": "Lanes closed",
                 "numberOfLanes": "3",
                 "roadType": ""
               }
             ],
-            "locationQualifier": "between",
-            "mainStreet": "Warringah Road",
+            "locationQualifier": "approaching",
+            "mainStreet": "M1 Pacific Motorways",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Darley Street",
-            "suburb": "Forestville",
+            "region": "Central Coast",
+            "secondLocation": "",
+            "suburb": "Calga",
             "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
+        "CategoryIcon": "Breakdown"
       }
     }
   ]
