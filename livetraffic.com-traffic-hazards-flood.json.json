@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1773764040000,
+  "lastPublished": 1773767670000,
   "layerName": "Flood",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3340,12 +3340,92 @@
     },
     {
       "type": "Feature",
-      "id": 268355,
+      "id": 268360.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2232454,
-          -33.9030078
+          151.2448757,
+          -33.7338726
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "FLOODING OXFORD FALLS Oxford Falls Road between Wakehurst Parkway and Aroona Road",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773766682000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "FLOODING",
+        "lastUpdated": 1773766683252,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Westbound</strong>: Wakehurst Pkwy, Warringah Rd, Forest Way, Morgan Rd, to Oxford Falls Rd.</p><p><strong>Eastbound</strong>: Oxford Falls Rd, Morgan Rd, Forest Way, Warringah Rd, to Wakehurst Pkwy.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "dr{lE_zbz[L{ABK?G@EDUDK@ABGFIDGBCDCDEDCFCJCJEVGVKHEFCHEPMPSFK"
+          }
+        ],
+        "displayName": "FLOODING",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Wakehurst Parkway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Causeway"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Oxford Falls Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Aroona Road",
+            "suburb": "Oxford Falls",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Flood"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2776981,
+          -33.7810338
         ],
         "collections": []
       },
@@ -3363,6 +3443,80 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
+        "created": 1773764039000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Never drive through floodwater",
+        "adviceB": "Use an alternative route",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "FLOODING",
+        "lastUpdated": 1773767068973,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "FLOODING",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Girard Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "near",
+            "mainStreet": "Pittwater Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Manly",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Flood"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2232454,
+          -33.9030078
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
         "created": 1773761689000,
         "isMajor": false,
         "name": null,
@@ -3372,7 +3526,7 @@
         "adviceC": "Use an alternative route",
         "incidentKind": "Unplanned",
         "mainCategory": "FLOODING",
-        "lastUpdated": 1773761841395,
+        "lastUpdated": 1773767249763,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
