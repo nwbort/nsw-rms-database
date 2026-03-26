@@ -1,10 +1,91 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1774553460000,
+  "lastPublished": 1774558260000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 269290.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1969383,
+          -33.9111169
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1774554492000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1774557388628,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "nb~mEglyy[FMT_@jAuB|AiCRa@"
+          }
+        ],
+        "displayName": "BUILDING FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "O'riordan Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Collins Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Bourke Road",
+            "suburb": "Beaconsfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    }
+  ]
 }
