@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1774911210000,
+  "lastPublished": 1774914660000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -15076,22 +15076,14 @@
     },
     {
       "type": "Feature",
-      "id": 265105,
+      "id": 264643,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0858992,
-          -33.9400666
+          151.1646267,
+          -33.7278058
         ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.169788,
-              -33.946539
-            ]
-          }
-        ]
+        "collections": []
       },
       "properties": {
         "webLinks": [],
@@ -15099,18 +15091,48 @@
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
+            "roadextent": "Affected",
+            "roadtype": "",
             "direction": "Both directions",
-            "finishTime": "4:30am",
-            "fromDay": "Wednesday",
-            "startTime": "9:30pm",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
@@ -15118,51 +15140,51 @@
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": true,
+        "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1772215261000,
+        "created": 1770809639000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
         "adviceC": "Allow extra travel time",
-        "end": 1777576500000,
+        "end": 1775067300000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1773943262093,
-        "otherAdvice": "<p>The eastbound lanes will be closed from 9:30pm to 4:30am each night.</p><p>The westbound lanes will be closed from 10pm to 5am each night.</p>",
+        "lastUpdated": 1773943262379,
+        "otherAdvice": "<p>Portable traffic control devices will allow motorists to pass in one direction at a time. </p>",
         "arrangementElements": [],
-        "diversions": "<p>Follow the sign-posted D5 diversion route -</p><p>Eastbound: King Georges Rd, Stoney Creek Rd, Forest Rd, Wickham St, West Botany St, Marsh St, to the M5.</p><p>Westbound: General Holmes Dr, Bestic St, West Botany St, Wickham St, Forest Rd, Stoney Creek Rd, King Georges Rd, to the M5.</p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777462200000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1774175400000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "King Georges Road",
+            "crossStreet": "Ayres Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "M5 Motorway",
+            "mainStreet": "Mona Vale Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "General Holmes Drive",
-            "suburb": "Beverly Hills to Mascot",
+            "secondLocation": "Pentecost Avenue",
+            "suburb": "St Ives",
             "trafficVolume": ""
           }
         ],
@@ -15290,14 +15312,22 @@
     },
     {
       "type": "Feature",
-      "id": 264643,
+      "id": 265105,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.1646267,
-          -33.7278058
+          151.0858992,
+          -33.9400666
         ],
-        "collections": []
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.169788,
+              -33.946539
+            ]
+          }
+        ]
       },
       "properties": {
         "webLinks": [],
@@ -15305,48 +15335,18 @@
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
             "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
+            "finishTime": "4:30am",
             "fromDay": "Wednesday",
-            "startTime": "9:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
@@ -15354,51 +15354,51 @@
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1770809639000,
+        "created": 1772215261000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
+        "subCategoryA": "Maintenance",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
         "adviceC": "Allow extra travel time",
-        "end": 1775067300000,
+        "end": 1777576500000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1773943262379,
-        "otherAdvice": "<p>Portable traffic control devices will allow motorists to pass in one direction at a time. </p>",
+        "lastUpdated": 1773943262093,
+        "otherAdvice": "<p>The eastbound lanes will be closed from 9:30pm to 4:30am each night.</p><p>The westbound lanes will be closed from 10pm to 5am each night.</p>",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p>Follow the sign-posted D5 diversion route -</p><p>Eastbound: King Georges Rd, Stoney Creek Rd, Forest Rd, Wickham St, West Botany St, Marsh St, to the M5.</p><p>Westbound: General Holmes Dr, Bestic St, West Botany St, Wickham St, Forest Rd, Stoney Creek Rd, King Georges Rd, to the M5.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1774175400000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "start": 1777462200000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Ayres Road",
+            "crossStreet": "King Georges Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Mona Vale Road",
+            "mainStreet": "M5 Motorway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Pentecost Avenue",
-            "suburb": "St Ives",
+            "secondLocation": "General Holmes Drive",
+            "suburb": "Beverly Hills to Mascot",
             "trafficVolume": ""
           }
         ],
@@ -27139,104 +27139,6 @@
     },
     {
       "type": "Feature",
-      "id": 263267,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.108916,
-          -33.927698
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1769746163000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1775066400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1774828514368,
-        "otherAdvice": "<p> Traffic lights at the intersection of Bexley Rd and William St will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774843500000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Jarrett Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Bexley Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Angus Street",
-            "suburb": "Earlwood",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 268351,
       "geometry": {
         "type": "Point",
@@ -30639,94 +30541,6 @@
     },
     {
       "type": "Feature",
-      "id": 268244,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.192351,
-          -33.4741938
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773656616000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Prepare to merge",
-        "adviceC": "Allow extra travel time",
-        "end": 1774893600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1774893661565,
-        "otherAdvice": "<p>2 of 3 northbound lanes will be closed.</p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774782000000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Old Pacific Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Morgans Road",
-            "suburb": "Mount White",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 267033,
       "geometry": {
         "type": "Point",
@@ -30836,6 +30650,94 @@
             "region": "Sydney",
             "secondLocation": "Elanora Road",
             "suburb": "Oxford Falls",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.192351,
+          -33.4741938
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773656616000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Allow extra travel time",
+        "end": 1774893600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1774893661565,
+        "otherAdvice": "<p>2 of 3 northbound lanes will be closed.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774782000000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Old Pacific Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "M1 Pacific Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Morgans Road",
+            "suburb": "Mount White",
             "trafficVolume": ""
           }
         ],
@@ -31139,84 +31041,6 @@
     },
     {
       "type": "Feature",
-      "id": 266277,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8464491,
-          -33.7466769
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
-            "direction": "Southbound",
-            "finishTime": "4:00am",
-            "fromDay": "Monday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1772125736000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "M12 Integration Project",
-        "adviceA": "Use diversions",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Plan your journey",
-        "end": 1774894500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1774894546612,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p>Rooty Hill Rd North and Woodstock Ave.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774864800000,
-        "displayName": "SCHEDULED ROADWORK M7-M12 Integration Project",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Richmond Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "M7 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Woodstock Avenue",
-            "suburb": "Oakhurst",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 266051,
       "geometry": {
         "type": "Point",
@@ -31374,6 +31198,84 @@
             "region": "Sydney",
             "secondLocation": "M5 Motorway",
             "suburb": "Prestons",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8464491,
+          -33.7466769
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
+            "direction": "Southbound",
+            "finishTime": "4:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1772125736000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "M12 Integration Project",
+        "adviceA": "Use diversions",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Plan your journey",
+        "end": 1774894500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1774894546612,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Rooty Hill Rd North and Woodstock Ave.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774864800000,
+        "displayName": "SCHEDULED ROADWORK M7-M12 Integration Project",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Richmond Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "M7 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Woodstock Avenue",
+            "suburb": "Oakhurst",
             "trafficVolume": ""
           }
         ],
@@ -32063,6 +31965,192 @@
             "region": "Southern Highlands",
             "secondLocation": "",
             "suburb": "Queanbeyan East",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9323144,
+          -36.0457386
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1774911770000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Bridge work",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1781852400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1774911805794,
+        "otherAdvice": "<p>Lane closures will be in place. </p><p>Traffic controllers will be on site to direct motorists. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775509200000,
+        "displayName": "SCHEDULED ROADWORK Bridge work",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Tintaldra Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "",
+            "suburb": "Tintaldra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.108916,
+          -33.927698
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769746163000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1775153700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1774914623830,
+        "otherAdvice": "<p> Traffic lights at the intersection of Bexley Rd and William St will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774843500000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Jarrett Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Bexley Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Angus Street",
+            "suburb": "Earlwood",
             "trafficVolume": ""
           }
         ],
