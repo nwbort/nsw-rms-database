@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1775023440000,
+  "lastPublished": 1775030040000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -25,7 +25,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -41,7 +41,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1775021150301,
+        "lastUpdated": 1775027613314,
         "otherAdvice": "<p>There is no access to or from McIntosh Cct at Barton Hwy.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -95,8 +95,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.7593967,
-          -29.6217272
+          150.617326,
+          -29.5644542
         ],
         "collections": []
       },
@@ -107,7 +107,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -120,24 +120,25 @@
         "subCategoryA": "null",
         "adviceA": "Exercise caution",
         "adviceB": "Reduce your speed",
-        "adviceC": " ",
+        "adviceC": "Follow directions on site",
         "incidentKind": "Unplanned",
         "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1775021422485,
-        "otherAdvice": "",
+        "lastUpdated": 1775027723700,
+        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
-          "Emergency services"
+          "Emergency services",
+          "Rural Fire Service"
         ],
         "encodedPolylines": [],
         "displayName": "BUSHFIRE",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Ardroy Road",
+            "crossStreet": "Rocky Pines Road",
             "delay": "",
             "impactedLanes": [
               {
@@ -149,13 +150,13 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "near",
+            "locationQualifier": "between",
             "mainStreet": "Gwydir Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Delungra",
+            "secondLocation": "Cranky Rock Road",
+            "suburb": "Warialda",
             "trafficVolume": ""
           }
         ],
