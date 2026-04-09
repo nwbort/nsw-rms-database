@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1775721030000,
+  "lastPublished": 1775727630000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1105,6 +1105,78 @@
     },
     {
       "type": "Feature",
+      "id": 268552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0518164,
+          -32.1823803
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773895960000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Exercise caution",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "ADVERSE WEATHER",
+        "lastUpdated": 1775412662421,
+        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "ADVERSE WEATHER Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Menindee Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Broken Hill to Menindee",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 264701,
       "geometry": {
         "type": "Point",
@@ -1177,12 +1249,12 @@
     },
     {
       "type": "Feature",
-      "id": 268552,
+      "id": 266935,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.0518164,
-          -32.1823803
+          143.1547528,
+          -31.5815822
         ],
         "collections": []
       },
@@ -1200,24 +1272,27 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1773895960000,
+        "created": 1772656992000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Water over road",
-        "adviceA": "Exercise caution",
-        "adviceB": "Check signage",
-        "adviceC": " ",
+        "subCategoryA": "Road damage",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
         "incidentKind": "Unplanned",
-        "mainCategory": "ADVERSE WEATHER",
-        "lastUpdated": 1775412662421,
-        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1775412662813,
+        "otherAdvice": "<p><strong>The road is open with caution. </strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": null,
+        "attendingGroups": [
+          "Transport for NSW",
+          "Local Council"
+        ],
         "encodedPolylines": [],
-        "displayName": "ADVERSE WEATHER Water over road",
+        "displayName": "HAZARD Road damage",
         "roads": [
           {
             "conditionTendency": "",
@@ -1234,17 +1309,17 @@
               }
             ],
             "locationQualifier": "at",
-            "mainStreet": "Menindee Road",
+            "mainStreet": "Barrier Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Far West NSW",
             "secondLocation": "",
-            "suburb": "Broken Hill to Menindee",
+            "suburb": "Wilcannia to Broken Hill",
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "AdverseWeather"
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
       }
     },
     {
@@ -1327,81 +1402,6 @@
     },
     {
       "type": "Feature",
-      "id": 266935,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.1547528,
-          -31.5815822
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1772656992000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1775412662813,
-        "otherAdvice": "<p><strong>The road is open with caution. </strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW",
-          "Local Council"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Barrier Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Wilcannia to Broken Hill",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 266914,
       "geometry": {
         "type": "Point",
@@ -1470,6 +1470,222 @@
         ],
         "isLocalRoad": "Local road",
         "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269260.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6309997,
+          -30.7169814
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1774508702000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Plan your journey",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1775412692102,
+        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Henry Roberts Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "White Cliffs to Tibooburra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6388969,
+          -29.7270869
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770333246000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Exercise caution",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1775412692534,
+        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "The Cut Line/Tibooburra Rd",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Borrona Downs to Tibooburra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243270.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.379837,
+          -29.707162
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1753419727000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Plan your journey",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1775412692397,
+        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "The Cut Line",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Borrona Downs to Wanaaring",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
       }
     },
     {
@@ -1570,78 +1786,6 @@
     },
     {
       "type": "Feature",
-      "id": 269260.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.6309997,
-          -30.7169814
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1774508702000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Plan your journey",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1775412692102,
-        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Henry Roberts Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "White Cliffs to Tibooburra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 264210.0,
       "geometry": {
         "type": "Point",
@@ -1711,150 +1855,6 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Fowlers Gap to Mutawintji Road",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 243270.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.379837,
-          -29.707162
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1753419727000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Plan your journey",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1775412692397,
-        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "The Cut Line",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Borrona Downs to Wanaaring",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263985,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.6388969,
-          -29.7270869
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770333246000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Exercise caution",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1775412692534,
-        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "The Cut Line/Tibooburra Rd",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Borrona Downs to Tibooburra",
             "trafficVolume": ""
           }
         ],
@@ -1944,78 +1944,6 @@
     },
     {
       "type": "Feature",
-      "id": 266521,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.43248,
-          -31.865043
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1772359080000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1775412693210,
-        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Nine Mile Road (unsealed section)",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Broken Hill",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 268428,
       "geometry": {
         "type": "Point",
@@ -2088,12 +2016,12 @@
     },
     {
       "type": "Feature",
-      "id": 265735,
+      "id": 266521,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.0969596,
-          -32.7201863
+          141.43248,
+          -31.865043
         ],
         "collections": []
       },
@@ -2111,17 +2039,17 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1771799999000,
+        "created": 1772359080000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Road damage",
-        "adviceA": "Plan your journey",
-        "adviceB": "Exercise caution",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "HAZARD",
-        "lastUpdated": 1775412728334,
-        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only. </strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "lastUpdated": 1775412693210,
+        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2132,25 +2060,97 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Tandou Road",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [
               {
                 "affectedDirection": "Both directions",
                 "closedLanes": "",
                 "description": "",
-                "extent": "Closed",
+                "extent": "Affected",
                 "numberOfLanes": "",
-                "roadType": "Road"
+                "roadType": ""
               }
             ],
-            "locationQualifier": "between",
-            "mainStreet": "Old Pooncarie Road",
+            "locationQualifier": "at",
+            "mainStreet": "Nine Mile Road (unsealed section)",
             "quadrant": "",
             "queueLength": 0,
             "region": "Far West NSW",
-            "secondLocation": "Bindara Road",
-            "suburb": "Bindara",
+            "secondLocation": "",
+            "suburb": "Broken Hill",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.264271,
+          -31.295815
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771800143000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Never drive through floodwater",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1775412728613,
+        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Mutawintji National Park Road (Waterbag Road, Mutawintji Access Road)",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Mutawintji",
             "trafficVolume": ""
           }
         ],
@@ -2320,12 +2320,12 @@
     },
     {
       "type": "Feature",
-      "id": 265737,
+      "id": 265735,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.264271,
-          -31.295815
+          142.0969596,
+          -32.7201863
         ],
         "collections": []
       },
@@ -2343,46 +2343,46 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1771800143000,
+        "created": 1771799999000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Water over road",
-        "adviceA": "Never drive through floodwater",
-        "adviceB": "Plan your journey",
+        "subCategoryA": "Road damage",
+        "adviceA": "Plan your journey",
+        "adviceB": "Exercise caution",
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "HAZARD",
-        "lastUpdated": 1775412728613,
-        "otherAdvice": "<p>The road is open with caution. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "lastUpdated": 1775412728334,
+        "otherAdvice": "<p><strong>The road is open with caution to 4WDs only. </strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
-        "displayName": "HAZARD Water over road",
+        "displayName": "HAZARD Road damage",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "Tandou Road",
             "delay": "",
             "impactedLanes": [
               {
                 "affectedDirection": "Both directions",
                 "closedLanes": "",
                 "description": "",
-                "extent": "Affected",
+                "extent": "Closed",
                 "numberOfLanes": "",
-                "roadType": ""
+                "roadType": "Road"
               }
             ],
-            "locationQualifier": "at",
-            "mainStreet": "Mutawintji National Park Road (Waterbag Road, Mutawintji Access Road)",
+            "locationQualifier": "between",
+            "mainStreet": "Old Pooncarie Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Mutawintji",
+            "secondLocation": "Bindara Road",
+            "suburb": "Bindara",
             "trafficVolume": ""
           }
         ],
@@ -2772,315 +2772,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270391,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.6771039,
-          -32.9585574
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775634383000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Exercise caution",
-        "adviceB": "Expect delays",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1775634991731,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Newcastle Inner City Bypass",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Hillsborough Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Hillsborough",
-            "trafficVolume": "Moderate"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270382,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9347457,
-          -33.8088385
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Live Traffic camera (westbound)",
-            "linkURL": "https://www.livetraffic.com/traffic-cameras/sydney-west/m4-western-motorway-south-wentworthville"
-          },
-          {
-            "linkText": "Live Traffic camera (eastbound)",
-            "linkURL": "https://www.livetraffic.com/traffic-cameras/sydney-west/m4-western-motorway-prospect"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775629478000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Multiple vehicles",
-        "adviceA": "Exercise caution",
-        "adviceB": "Expect delays",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1775635020993,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [
-          "Site Cleared"
-        ],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "CRASH Multiple vehicles",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Greystanes Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "M4 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Prospect Highway",
-            "suburb": "Greystanes",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270300.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.3821199,
-          -34.3184451
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775590288000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Vehicle salvage due to earlier incident",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1775636211595,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions are in place to allow motorists to pass in one direction at a time.</p><p>Motorists are advised to expect intermittent stoppages for vehicle salvage.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Local Council"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS Vehicle salvage due to earlier incident",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Paringi Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Sturt Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "The Murray",
-            "secondLocation": "",
-            "suburb": "Paringi",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270369,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.3814557,
-          -34.818448
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775626792000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck, Car",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1775636417022,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Heavy vehicle tow truck",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Truck, Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Audley Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Hume Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Jugiong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
       }
     },
     {
@@ -6275,108 +5966,6 @@
     },
     {
       "type": "Feature",
-      "id": 267022,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.2331624,
-          -33.5814227
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Live Traffic camera",
-            "linkURL": "https://www.livetraffic.com/traffic-cameras/sydney-west/great-western-highway-victoria-pass"
-          },
-          {
-            "linkText": "Media Release",
-            "linkURL": "https://www.nsw.gov.au/ministerial-releases/great-western-highway-closure"
-          },
-          {
-            "linkText": "Great Western Highway Road Closure at Victoria Pass",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass"
-          }
-        ],
-        "headline": "EMERGENCY ROADWORK Road damage MOUNT VICTORIA Great Western Highway at Victoria Pass",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "GreatWesternHwyDetourMap",
-            "fileName": "GreatWesternHwyDetourMap.png",
-            "fileType": "PNG",
-            "linkName": "GreatWesternHwyDetourMap",
-            "sizeInBytes": 912638,
-            "uniqueFileName": "968604_1773898070499_GreatWesternHwyDetourMap.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1772690097000,
-        "isMajor": true,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "incidentKind": "Unplanned",
-        "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1775707274928,
-        "otherAdvice": "<p>The highway is closed between Coxs River Rd and Victoria St. <strong>Great Western Hwy is open between Lithgow and Little Hartley.</strong></p>",
-        "arrangementElements": [],
-        "diversions": "<p><strong>Westbound: </strong>Chifley Rd and Darling Causeway.</p><p><strong>Eastbound:</strong> Harley Ave, Darling Causeway, Chifley Rd.</p><p>This will add approximately 25 minutes to your travel time.</p><p>Through traffic on Great Western Hwy can consider alternative routes such as the Golden Hwy or Hume Hwy.</p><ul><li>Detour is suitable for general access vehicles and Performance Based Standards (PBS) Level 1 heavy vehicles up to 20 metres long</li><li>Restricted access heavy vehicle operators who are unable to travel on an approved Notice Network are advised to reroute their journeys.</li><li>Restricted access heavy vehicle operators who are unable to travel on a Notice Network are advised to apply for an amended permit via NHVR Go. </li><li><strong>Please note that Class 1 Oversize and/or Over Mass (OSOM) vehicles and Special Purpose Vehicles (SPV) cannot currently be accommodated on the Chifley Rd/Darling Causeway detour route. </strong></li><li>To check approved Notice Networks, heavy vehicle operators can use the NHVR National Network Map to find an alternative route for their combination: <a href=\"https://www.nhvr.gov.au/road-access/route-planner/national-network-map\" target=\"_blank\">https://www.nhvr.gov.au/road-access/route-planner/national-network-map</a></li></ul><p>Operators who require a NHVR issued Permit are reminded that they must only travel on the roads approved in their Permit.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "pq}kEok{s[FGNQNODGHGNOHEXUPK\\OHEPGNIRGJCJM@AZKf@QXKLIRMT_@J]D]?g@C]IYO_@GGGGGGIEGEIEQIc@UKEEGGGCEMGICIEOKKGOMGGIGGGGGEIGGEIGIEICICGACEKCICKCIEMAKCKACAGCWAKCW?M?MAKCKAK?K?K@M@I@M@W@MFUJUBKFUDO@EDKDKBI@CBEDKBIDIFGNMj@g@^_@NOXYFGDGNQFGFGFIFKDIDI@CDIBIDK?C?ABGDW@GD[De@Jo@Lo@DWBK@M?K?M?KAKCMAKEICKCGEMCEGOWi@O_@ISAACICKEKCKAIIWCKAMAK?A?KAK?Y?E?_@AY?e@AKAYAYAWAKASC_@CUAMAMAWAK?I?CAWAYBq@Fe@\\mBFc@?EBS?U?CAKAKCMCICKEKEKEGEIGGGGIGGGIEGEICICKCIAIA_@EIAICIAIEGEIGGGEGEIEKAKCK?K?K?K@KBKBKDIFIDIDC@CPMHEFERKPKZQ\\O~As@HENIB?FEHEHCRKPI\\OPKRKDE@?HGFGFEFGHGDIFGLQ"
-          }
-        ],
-        "displayName": "EMERGENCY ROADWORK Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Pass",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Highway"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Mount Victoria",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 270457,
       "geometry": {
         "type": "Point",
@@ -7808,170 +7397,6 @@
     },
     {
       "type": "Feature",
-      "id": 270495,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.09588,
-          -33.8229852
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775719542000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car, Motorcycle",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1775719542914,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Car, Motorcycle",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Ryde Bridge",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "",
-                "description": "Breakdown lane",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "on",
-            "mainStreet": "Concord Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Ryde",
-            "trafficVolume": "Moderate"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270467,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1265039,
-          -33.9499328
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775709299000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car, Pedestrian",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Avoid the area",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1775719760861,
-        "otherAdvice": "<p>Stoney Creek Rd also has 1 of 2 eastbound lanes closed.</p><p>Ongoing police investigations are expected to take some time. </p>",
-        "arrangementElements": [],
-        "diversions": "<p>Local diversions.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Crash Investigation Unit"
-        ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "hoenEedly[NBD@HBF@B@DBLHt@l@`Ax@l@h@lB~AHHJJ"
-          }
-        ],
-        "displayName": "CRASH Car, Pedestrian",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Bexley Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              },
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Lane 2",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Forest Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Stoney Creek Road",
-            "suburb": "Bexley",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 270493,
       "geometry": {
         "type": "Point",
@@ -8121,6 +7546,80 @@
     },
     {
       "type": "Feature",
+      "id": 270495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09588,
+          -33.8229852
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775719542000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car, Motorcycle",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1775721387316,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Car, Motorcycle",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Ryde Bridge",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "Breakdown lane",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "on",
+            "mainStreet": "Concord Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Ryde",
+            "trafficVolume": "Moderate"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 270497,
       "geometry": {
         "type": "Point",
@@ -8137,7 +7636,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -8153,7 +7652,7 @@
         "adviceC": "Reduce your speed",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1775720743831,
+        "lastUpdated": 1775721924183,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -8191,6 +7690,845 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12641,
+          -33.950019
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775709299000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car, Pedestrian",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1775722543015,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Car, Pedestrian",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Forest Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "1",
+                "description": "Left turn lane",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Stoney Creek Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Bexley",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1947971,
+          -33.8734726
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775722782000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Reduce your speed",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1775723409931,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Allen Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "Left turn lane",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "to",
+            "mainStreet": "Western Distributor off-ramp",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Pyrmont",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8677265,
+          -34.3968726
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775722315000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Expect delays",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1775723938272,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [
+          "Site Cleared"
+        ],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "New Mount Pleasant Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "M1 Princes Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Mount Pleasant",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8683203,
+          -34.3978229
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775722410000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1775724006101,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "New Mount Pleasant Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "M1 Princes Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Mount Pleasant",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270500.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0840174,
+          -33.9405404
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775722527000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck, Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1775724382874,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [
+          "Site Cleared"
+        ],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CRASH Truck, Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M8 Motorway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "M5 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Beverly Hills",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.039767,
+          -33.920567
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775724500000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Multiple vehicles",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": "Prepare to merge",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1775724736378,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Multiple vehicles",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Gardenia Avenue",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "2",
+                "description": "Lane 3, Lane 4",
+                "extent": "Lanes closed",
+                "numberOfLanes": "4",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Stacey Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Bankstown",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8505701,
+          -33.8105112
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775724879000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Exercise caution",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Reduce your speed",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1775726239142,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Old Wallgrove Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Wallgrove Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Eastern Creek",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8477044,
+          -29.4713516
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775726386000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "B-double",
+        "adviceA": "Exercise caution",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Reduce your speed",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1775726386521,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN B-double",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Alice Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "",
+            "suburb": "Moree",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.113181,
+          -33.966905
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775727041000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "lastUpdated": 1775727042248,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Durham Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Lily Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Hurstville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.226265,
+          -33.884954
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775725400000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
+        "lastUpdated": 1775727308884,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS BLACKED OUT",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Oatley Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Oxford Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Paddington",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2331624,
+          -33.5814227
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Live Traffic camera",
+            "linkURL": "https://www.livetraffic.com/traffic-cameras/sydney-west/great-western-highway-victoria-pass"
+          },
+          {
+            "linkText": "Media Release",
+            "linkURL": "https://www.nsw.gov.au/ministerial-releases/great-western-highway-closure"
+          },
+          {
+            "linkText": "Great Western Highway Road Closure at Victoria Pass",
+            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass"
+          }
+        ],
+        "headline": "EMERGENCY ROADWORK Road damage MOUNT VICTORIA Great Western Highway at Victoria Pass",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "GreatWesternHwyDetourMap",
+            "fileName": "GreatWesternHwyDetourMap.png",
+            "fileType": "PNG",
+            "linkName": "GreatWesternHwyDetourMap",
+            "sizeInBytes": 912638,
+            "uniqueFileName": "968604_1773898070499_GreatWesternHwyDetourMap.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1772690097000,
+        "isMajor": true,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1775727576713,
+        "otherAdvice": "<p><strong>Great Western Hwy is open between Lithgow and Little Hartley. </strong>The highway is closed between Coxs River Rd and Victoria St..</p>",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Westbound: </strong>Chifley Rd and Darling Causeway.</p><p><strong>Eastbound:</strong> Harley Ave, Darling Causeway, Chifley Rd.</p><p>This will add approximately 25 minutes to your travel time.</p><p>Through traffic on Great Western Hwy can consider alternative routes such as the Golden Hwy or Hume Hwy.</p><ul><li>Detour is suitable for general access vehicles and Performance Based Standards (PBS) Level 1 heavy vehicles up to 20 metres long</li><li>Restricted access heavy vehicle operators who are unable to travel on an approved Notice Network are advised to reroute their journeys.</li><li>Restricted access heavy vehicle operators who are unable to travel on a Notice Network are advised to apply for an amended permit via NHVR Go. </li><li><strong>Please note that Class 1 Oversize and/or Over Mass (OSOM) vehicles and Special Purpose Vehicles (SPV) cannot currently be accommodated on the Chifley Rd/Darling Causeway detour route. </strong></li><li>To check approved Notice Networks, heavy vehicle operators can use the NHVR National Network Map to find an alternative route for their combination: <a href=\"https://www.nhvr.gov.au/road-access/route-planner/national-network-map\" target=\"_blank\">https://www.nhvr.gov.au/road-access/route-planner/national-network-map</a></li></ul><p>Operators who require a NHVR issued Permit are reminded that they must only travel on the roads approved in their Permit.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "pq}kEok{s[FGNQNODGHGNOHEXUPK\\OHEPGNIRGJCJM@AZKf@QXKLIRMT_@J]D]?g@C]IYO_@GGGGGGIEGEIEQIc@UKEEGGGCEMGICIEOKKGOMGGIGGGGGEIGGEIGIEICICGACEKCICKCIEMAKCKACAGCWAKCW?M?MAKCKAK?K?K@M@I@M@W@MFUJUBKFUDO@EDKDKBI@CBEDKBIDIFGNMj@g@^_@NOXYFGDGNQFGFGFIFKDIDI@CDIBIDK?C?ABGDW@GD[De@Jo@Lo@DWBK@M?K?M?KAKCMAKEICKCGEMCEGOWi@O_@ISAACICKEKCKAIIWCKAMAK?A?KAK?Y?E?_@AY?e@AKAYAYAWAKASC_@CUAMAMAWAK?I?CAWAYBq@Fe@\\mBFc@?EBS?U?CAKAKCMCICKEKEKEGEIGGGGIGGGIEGEICICKCIAIA_@EIAICIAIEGEIGGGEGEIEKAKCK?K?K?K@KBKBKDIFIDIDC@CPMHEFERKPKZQ\\O~As@HENIB?FEHEHCRKPI\\OPKRKDE@?HGFGFEFGHGDIFGLQ"
+          }
+        ],
+        "displayName": "EMERGENCY ROADWORK Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Pass",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Highway"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Great Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Mount Victoria",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
       }
     }
   ]
