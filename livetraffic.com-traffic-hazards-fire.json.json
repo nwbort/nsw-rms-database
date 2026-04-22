@@ -1,86 +1,12 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1776829140000,
+  "lastPublished": 1776838140000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
   "features": [
-    {
-      "type": "Feature",
-      "id": 271740.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.103399,
-          -33.908829
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776745759000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Avoid the area",
-        "adviceC": "Use an alternative route",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1776751458747,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [
-          "Site Cleared"
-        ],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "BUILDING FIRE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Campsie Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Beamish Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "South Parade",
-            "suburb": "Campsie",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
     {
       "type": "Feature",
       "id": 271614,
@@ -225,6 +151,94 @@
             "secondLocation": "",
             "suburb": "Dulwich Hill",
             "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1344951,
+          -33.6746828
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "",
+            "fromDay": "Thursday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "",
+            "fromDay": "Friday",
+            "startTime": "all day",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776834509000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1777039200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "HAZARD REDUCTION BURN",
+        "lastUpdated": 1776836282599,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists can use Pacific Hwy and Bobbin Head Rd instead.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1776866400000,
+        "displayName": "HAZARD REDUCTION BURN",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M1 Pacific Motorway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Ku-Ring-Gai Chase Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Bobbin Head Road",
+            "suburb": "Mount Colah",
+            "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
