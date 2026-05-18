@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1779079380000,
+  "lastPublished": 1779094380000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -9,12 +9,12 @@
   "features": [
     {
       "type": "Feature",
-      "id": 274634,
+      "id": 274783,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.5955486,
-          -29.722587
+          151.734109,
+          -32.8954423
         ],
         "collections": []
       },
@@ -25,61 +25,66 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
+        "ended": false,
         "isNewIncident": false,
-        "publicTransport": "",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1778999804000,
+        "created": 1779083809000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
+        "adviceA": "Avoid the area",
+        "adviceB": "Use an alternative route",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1779006633800,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1779090129683,
+        "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
           "Emergency services",
-          "Transport for NSW",
-          "Rural Fire Service"
+          "Transport for NSW"
         ],
-        "encodedPolylines": [],
-        "displayName": "GRASS FIRE",
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "|zvgEeea}[T]vAsBhBqCj@y@`AsA^g@b@k@Xa@TYV]V]V]b@k@nB_Dr@gA~@yAl@aApAsBfC_Ef@w@Xc@v@mAt@mAf@w@BC@AJKxByBHI"
+          }
+        ],
+        "displayName": "BUILDING FIRE",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Pitlochry Road",
+            "crossStreet": "Hanbury Street",
             "delay": "",
             "impactedLanes": [
               {
                 "affectedDirection": "Both directions",
                 "closedLanes": "",
                 "description": "",
-                "extent": "Affected",
+                "extent": "Closed",
                 "numberOfLanes": "",
-                "roadType": ""
+                "roadType": "Road"
               }
             ],
-            "locationQualifier": "near",
-            "mainStreet": "Gwydir Highway",
+            "locationQualifier": "between",
+            "mainStreet": "Maitland Road (Pacific Highway)",
             "quadrant": "",
             "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Glen Innes",
+            "region": "Hunter",
+            "secondLocation": "Maud Street",
+            "suburb": "Mayfield",
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "State road",
+        "isLocalRoad": "Local road",
         "CategoryIcon": "Fire"
       }
     }
