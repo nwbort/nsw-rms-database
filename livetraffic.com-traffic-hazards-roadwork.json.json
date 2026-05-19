@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1779220980000,
+  "lastPublished": 1779226980000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -36768,12 +36768,12 @@
     },
     {
       "type": "Feature",
-      "id": 273524,
+      "id": 267603,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.8764906,
-          -33.9541167
+          151.083862,
+          -33.9405483
         ],
         "collections": []
       },
@@ -36784,9 +36784,19 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "On-ramp",
+            "roadtype": "Motorway",
             "direction": "Eastbound",
-            "finishTime": "4:30am",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Motorway",
+            "direction": "Eastbound",
+            "finishTime": "5:00am",
             "fromDay": "Monday",
             "startTime": "10:00pm",
             "toDay": ""
@@ -36794,9 +36804,9 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "On-ramp",
+            "roadtype": "Motorway",
             "direction": "Eastbound",
-            "finishTime": "4:30am",
+            "finishTime": "5:00am",
             "fromDay": "Tuesday",
             "startTime": "10:00pm",
             "toDay": ""
@@ -36812,10 +36822,10 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1778118867000,
+        "created": 1773146570000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Resurfacing",
+        "subCategoryA": "Maintenance",
         "adviceA": "Use an alternative route",
         "adviceB": "Plan your journey",
         "adviceC": "Allow extra travel time",
@@ -36823,30 +36833,30 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779217246739,
-        "otherAdvice": "<p><strong>The M7 Mwy northbound on-ramp will remain open during this work.</strong></p>",
+        "lastUpdated": 1779217246798,
+        "otherAdvice": "",
         "arrangementElements": [],
-        "diversions": "<p>Westbound on Camden Valley Way: Cowpasture Rd, Hoxton Park Rd, and Hume Hwy to M5 eastbound.</p><p>Eastbound on Camden Valley Way: Hume Hwy to the M5 eastbound.</p>",
+        "diversions": "<p><strong>To Airport: </strong>M5 Mwy, Marsh St, Airport Dr.</p><p>For other destinations, use the M5 Mwy or Princes Hwy.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1779105600000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "start": 1779019200000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "M5 Motorway",
+            "crossStreet": "King Georges Road",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Camden Valley Way on-ramp",
+            "locationQualifier": "between",
+            "mainStreet": "M8 Motorway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Casula",
+            "secondLocation": "St Peters Interchange",
+            "suburb": "Beverly Hills to St Peters",
             "trafficVolume": ""
           }
         ],
@@ -36944,12 +36954,12 @@
     },
     {
       "type": "Feature",
-      "id": 267603,
+      "id": 273524,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.083862,
-          -33.9405483
+          150.8764906,
+          -33.9541167
         ],
         "collections": []
       },
@@ -36960,19 +36970,9 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Motorway",
+            "roadtype": "On-ramp",
             "direction": "Eastbound",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Motorway",
-            "direction": "Eastbound",
-            "finishTime": "5:00am",
+            "finishTime": "4:30am",
             "fromDay": "Monday",
             "startTime": "10:00pm",
             "toDay": ""
@@ -36980,9 +36980,9 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Motorway",
+            "roadtype": "On-ramp",
             "direction": "Eastbound",
-            "finishTime": "5:00am",
+            "finishTime": "4:30am",
             "fromDay": "Tuesday",
             "startTime": "10:00pm",
             "toDay": ""
@@ -36998,10 +36998,10 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1773146570000,
+        "created": 1778118867000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
+        "subCategoryA": "Resurfacing",
         "adviceA": "Use an alternative route",
         "adviceB": "Plan your journey",
         "adviceC": "Allow extra travel time",
@@ -37009,30 +37009,30 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779217246798,
-        "otherAdvice": "",
+        "lastUpdated": 1779217246739,
+        "otherAdvice": "<p><strong>The M7 Mwy northbound on-ramp will remain open during this work.</strong></p>",
         "arrangementElements": [],
-        "diversions": "<p><strong>To Airport: </strong>M5 Mwy, Marsh St, Airport Dr.</p><p>For other destinations, use the M5 Mwy or Princes Hwy.</p>",
+        "diversions": "<p>Westbound on Camden Valley Way: Cowpasture Rd, Hoxton Park Rd, and Hume Hwy to M5 eastbound.</p><p>Eastbound on Camden Valley Way: Hume Hwy to the M5 eastbound.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1779019200000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1779105600000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "King Georges Road",
+            "crossStreet": "M5 Motorway",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "M8 Motorway",
+            "locationQualifier": "to",
+            "mainStreet": "Camden Valley Way on-ramp",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "St Peters Interchange",
-            "suburb": "Beverly Hills to St Peters",
+            "secondLocation": "",
+            "suburb": "Casula",
             "trafficVolume": ""
           }
         ],
