@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1779396810000,
+  "lastPublished": 1779403110000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -28541,92 +28541,6 @@
     },
     {
       "type": "Feature",
-      "id": 265506,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.6110169,
-          -32.2340187
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.598107,
-              -32.243216
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "",
-            "fromDay": "Every Day",
-            "startTime": "all day",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1771786805000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Use diversions",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
-        "end": 1782914340000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779075773251,
-        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p>The speed limit outside work hours is 60km/h.</p><p><strong>Bourke/River St night work:</strong> Tuesday 26 May (6pm-10pm), Wednesday 27 May and Thursday 28 May (6pm - 7am) - Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Speed limit between these hours will remain 40 km/h.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Bourke St/River Street intersection - access River St via Siren and Roper Streets. Heavy Vehicles can use Purvis Ln/Fitzroy Street.</p><p>Thompson St/Whylandra St intersection - OSOM vehicles over 3.2m wide use Victoria St (Mitchell Hwy) /Thompson St</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1772024400000,
-        "displayName": "SCHEDULED ROADWORK NEW DUBBO BRIDGE Intersection upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "River Street East / Bourke Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Newell Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Thompson Street / Whylandra Street",
-            "suburb": "Dubbo",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 244943,
       "geometry": {
         "type": "Point",
@@ -36348,36 +36262,149 @@
     },
     {
       "type": "Feature",
-      "id": 275021,
+      "id": 274098,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.8389624,
-          -33.8753193
+          151.2034189,
+          -33.8722211
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "M7-M12 Integration Project",
-            "linkURL": "https://www.m7m12integrationproject.com.au/jhg/m7-m12-integration-project"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "On-ramp",
+            "roadtype": "Road",
             "direction": "Westbound",
             "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "9:00pm",
+            "fromDay": "Every Night",
+            "startTime": "10:00pm",
             "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1778600681000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Reduced speed limit",
+        "end": 1779390900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1779390945975,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Harbour St, Pier St, William Henry St, Wattle St, Pyrmont Bridge Rd to access Anzac Bridge.</p><p>Druitt St on-ramp to the Western Distributor will remain open.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1779019200000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Anzac Bridge",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Western Distributor",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9701236,
+          -33.8058928
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -36387,41 +36414,41 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1779252323000,
+        "created": 1777473778000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "M12 Integration Project",
-        "adviceA": "Plan your journey",
-        "adviceB": "Use an alternative route",
-        "adviceC": "Allow extra travel time",
+        "subCategoryA": "Utilities",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Reduced speed limit",
         "end": 1779390900000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779390946480,
-        "otherAdvice": "",
+        "lastUpdated": 1779390946085,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p><p>Traffic lights at the intersection of Cumberland Hwy and Wentworth Ave will be blacked out.</p>",
         "arrangementElements": [],
-        "diversions": "<p>Motorists can stay on Elizabeth Dr instead.</p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1779361200000,
-        "displayName": "SCHEDULED ROADWORK M7-M12 Integration Project",
+        "start": 1777982400000,
+        "displayName": "SCHEDULED ROADWORK Utilities",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "M12 Motorway",
+            "crossStreet": "Great Western Highway",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Elizabeth Drive on-ramp",
+            "locationQualifier": "between",
+            "mainStreet": "Cumberland Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Cecil Hills",
+            "secondLocation": "Mahony Road",
+            "suburb": "Wentworthville/Constitution Hill",
             "trafficVolume": ""
           }
         ],
@@ -36677,84 +36704,6 @@
     },
     {
       "type": "Feature",
-      "id": 274098,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2034189,
-          -33.8722211
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Westbound",
-            "finishTime": "5:00am",
-            "fromDay": "Every Night",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1778600681000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Reduced speed limit",
-        "end": 1779390900000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779390945975,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p>Harbour St, Pier St, William Henry St, Wattle St, Pyrmont Bridge Rd to access Anzac Bridge.</p><p>Druitt St on-ramp to the Western Distributor will remain open.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1779019200000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Anzac Bridge",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Western Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 274222,
       "geometry": {
         "type": "Point",
@@ -36873,71 +36822,36 @@
     },
     {
       "type": "Feature",
-      "id": 272638,
+      "id": 275021,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9701236,
-          -33.8058928
+          150.8389624,
+          -33.8753193
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "M7-M12 Integration Project",
+            "linkURL": "https://www.m7m12integrationproject.com.au/jhg/m7-m12-integration-project"
+          }
+        ],
         "headline": "",
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "roadextent": "Closed",
+            "roadtype": "On-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "10:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "10:00pm",
+            "startTime": "9:00pm",
             "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -36947,41 +36861,41 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777473778000,
+        "created": 1779252323000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Utilities",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": "Reduced speed limit",
+        "subCategoryA": "M12 Integration Project",
+        "adviceA": "Plan your journey",
+        "adviceB": "Use an alternative route",
+        "adviceC": "Allow extra travel time",
         "end": 1779390900000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779390946085,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p><p>Traffic lights at the intersection of Cumberland Hwy and Wentworth Ave will be blacked out.</p>",
+        "lastUpdated": 1779390946480,
+        "otherAdvice": "",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p>Motorists can stay on Elizabeth Dr instead.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777982400000,
-        "displayName": "SCHEDULED ROADWORK Utilities",
+        "start": 1779361200000,
+        "displayName": "SCHEDULED ROADWORK M7-M12 Integration Project",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Great Western Highway",
+            "crossStreet": "M12 Motorway",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Cumberland Highway",
+            "locationQualifier": "to",
+            "mainStreet": "Elizabeth Drive on-ramp",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Mahony Road",
-            "suburb": "Wentworthville/Constitution Hill",
+            "secondLocation": "",
+            "suburb": "Cecil Hills",
             "trafficVolume": ""
           }
         ],
@@ -37198,6 +37112,170 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Mascot",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6110169,
+          -32.2340187
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.598107,
+              -32.243216
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "",
+            "fromDay": "Every Day",
+            "startTime": "all day",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771786805000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Use diversions",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1782914340000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1779401570485,
+        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p>The speed limit outside work hours is 60km/h.</p><p><strong>Bourke/River St night work:</strong> Tuesday 26 May (6pm-10pm), Wednesday 27 May and Thursday 28 May (6pm - 7am) - Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. Speed limit between these hours will remain 40 km/h.</p><p><strong>Thompson/Whylandra St night work: </strong>Wednesday 27 May and Thursday 28 May (6pm - 7am). Streets will remain open with a speed limit of 40km/h both day and night with one lane operating in both directions under traffic control.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Bourke St/River Street intersection - access River St via Siren and Roper Streets. Heavy Vehicles can use Purvis Ln/Fitzroy Street.</p><p>Thompson St/Whylandra St intersection - OSOM vehicles over 3.2m wide use Victoria St (Mitchell Hwy) /Thompson St</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1772024400000,
+        "displayName": "SCHEDULED ROADWORK NEW DUBBO BRIDGE Intersection upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "River Street East / Bourke Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Thompson Street / Whylandra Street",
+            "suburb": "Dubbo",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8622138,
+          -33.8561358
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1779401989000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1781856000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1779401989603,
+        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1779829200000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Driftway Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "near",
+            "mainStreet": "Mid Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Grenfell",
             "trafficVolume": ""
           }
         ],
