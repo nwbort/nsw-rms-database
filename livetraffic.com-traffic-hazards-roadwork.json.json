@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1780400490000,
+  "lastPublished": 1780419090000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -8317,102 +8317,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 209680.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.979815,
-          -33.387231
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Vehicle ferries",
-            "linkURL": "https://www.rms.nsw.gov.au/roads/using-roads/vehicular-ferries/index.html"
-          },
-          {
-            "linkText": "Central Coast Council",
-            "linkURL": "https://www.centralcoast.nsw.gov.au/residents/roads-and-water/road-closures"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Ferry",
-            "direction": "Both directions",
-            "finishTime": "3:00pm",
-            "fromDay": "Tuesday",
-            "startTime": "9:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Webbs Creek Ferry detour map",
-            "fileName": "Webbs Creek Ferry detour map.png",
-            "fileType": "PNG",
-            "linkName": "Webbs Creek Ferry detour map",
-            "sizeInBytes": 206588,
-            "uniqueFileName": "892777_1762407062629_Webbs Creek Ferry detour map.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1727725095000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Routine maintenance",
-        "adviceA": "Use diversions",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "end": 1780407000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "FERRY OUT OF SERVICE",
-        "lastUpdated": 1777946450147,
-        "otherAdvice": "<p>Routine maintenance for Webbs Creek Ferry is scheduled on the first Tuesday of every month between 9:30am and midday.</p>",
-        "arrangementElements": [],
-        "diversions": "<p><strong>Eastbound:</strong> St Albans Rd, Settlers Rd, Wisemans Ferry Rd, catch the Wisemans Ferry, Old Northern Rd, to River Rd.</p><p><strong>Westbound:</strong> River Rd, Old Northern Rd, catch the Wisemans Ferry, Wisemans Ferry Rd, Settlers Rd to St Albans Rd.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1780322400000,
-        "displayName": "SCHEDULED FERRY MAINTENANCE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "River Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Webbs Creek Ferry",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "St Albans Road",
-            "suburb": "Wisemans Ferry",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
       }
     },
     {
@@ -20758,124 +20662,6 @@
     },
     {
       "type": "Feature",
-      "id": 271635,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2986337,
-          -33.701903
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776668711000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "end": 1782414000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779822901694,
-        "otherAdvice": "<p>Traffic lights at the intersection of Pittwater Rd and Lake Park Rd will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p><p>No work will take place on the night of Mon 8 Jun.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1779966000000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Wakehurst Parkway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Pittwater Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Arnott Crescent",
-            "suburb": "North Narrabeen",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 274903,
       "geometry": {
         "type": "Point",
@@ -21103,6 +20889,124 @@
             "region": "Sydney",
             "secondLocation": "Carwar Avenue",
             "suburb": "Blakehurst to Carss Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2986337,
+          -33.701903
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776668711000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Allow extra travel time",
+        "end": 1782414000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1779822901694,
+        "otherAdvice": "<p>Traffic lights at the intersection of Pittwater Rd and Lake Park Rd will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p><p>No work will take place on the night of Mon 8 Jun.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1779966000000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Wakehurst Parkway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Pittwater Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Arnott Crescent",
+            "suburb": "North Narrabeen",
             "trafficVolume": ""
           }
         ],
@@ -33339,12 +33243,12 @@
     },
     {
       "type": "Feature",
-      "id": 272766,
+      "id": 267436,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.001625,
-          -33.808187
+          151.101327,
+          -33.81792
         ],
         "collections": []
       },
@@ -33356,76 +33260,56 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "9:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Both directions",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "9:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Both directions",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:00pm",
+            "startTime": "10:30pm",
             "toDay": ""
           }
         ],
         "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
+        "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777561983000,
+        "created": 1773030033000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Allow extra travel time",
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
         "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
-        "end": 1780341300000,
+        "adviceC": "Expect delays",
+        "end": 1781118000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780341301502,
-        "otherAdvice": "<p>Traffic lights in the area may be blacked out or flashing yellow and alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p>",
+        "lastUpdated": 1780341301650,
+        "otherAdvice": "<p>Traffic lights at the intersection of Church St and Morrison Rd will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -33433,25 +33317,25 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1778410800000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1780377480000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "O'Connell Street",
+            "crossStreet": "Well Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Victoria Road",
+            "mainStreet": "Church Street",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Sorrell Street",
-            "suburb": "Parramatta",
+            "secondLocation": "Blaxland Road",
+            "suburb": "Ryde",
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "Local road",
+        "isLocalRoad": "State road",
         "CategoryIcon": "Roadworks"
       }
     },
@@ -33585,12 +33469,12 @@
     },
     {
       "type": "Feature",
-      "id": 267436,
+      "id": 272766,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.101327,
-          -33.81792
+          151.001625,
+          -33.808187
         ],
         "collections": []
       },
@@ -33602,56 +33486,76 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "10:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           }
         ],
         "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1773030033000,
+        "created": 1777561983000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
+        "subCategoryA": "Maintenance",
+        "adviceA": "Allow extra travel time",
         "adviceB": "Check signage",
-        "adviceC": "Expect delays",
-        "end": 1781118000000,
+        "adviceC": "Reduced speed limit",
+        "end": 1780341300000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780341301650,
-        "otherAdvice": "<p>Traffic lights at the intersection of Church St and Morrison Rd will be blacked out, and portable traffic lights will allow motorists to pass in one direction at a time. </p>",
+        "lastUpdated": 1780341301502,
+        "otherAdvice": "<p>Traffic lights in the area may be blacked out or flashing yellow and alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -33659,25 +33563,25 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1780377480000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "start": 1778410800000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Well Street",
+            "crossStreet": "O'Connell Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Church Street",
+            "mainStreet": "Victoria Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Blaxland Road",
-            "suburb": "Ryde",
+            "secondLocation": "Sorrell Street",
+            "suburb": "Parramatta",
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "State road",
+        "isLocalRoad": "Local road",
         "CategoryIcon": "Roadworks"
       }
     },
@@ -36191,6 +36095,102 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209680.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.979815,
+          -33.387231
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Vehicle ferries",
+            "linkURL": "https://www.rms.nsw.gov.au/roads/using-roads/vehicular-ferries/index.html"
+          },
+          {
+            "linkText": "Central Coast Council",
+            "linkURL": "https://www.centralcoast.nsw.gov.au/residents/roads-and-water/road-closures"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Ferry",
+            "direction": "Both directions",
+            "finishTime": "3:00pm",
+            "fromDay": "Tuesday",
+            "startTime": "9:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Webbs Creek Ferry detour map",
+            "fileName": "Webbs Creek Ferry detour map.png",
+            "fileType": "PNG",
+            "linkName": "Webbs Creek Ferry detour map",
+            "sizeInBytes": 206588,
+            "uniqueFileName": "892777_1762407062629_Webbs Creek Ferry detour map.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1727725095000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Routine maintenance",
+        "adviceA": "Use diversions",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1780407000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "FERRY OUT OF SERVICE",
+        "lastUpdated": 1780407056876,
+        "otherAdvice": "<p>Routine maintenance for Webbs Creek Ferry is scheduled on the first Tuesday of every month between 9:30am and midday.</p>",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Eastbound:</strong> St Albans Rd, Settlers Rd, Wisemans Ferry Rd, catch the Wisemans Ferry, Old Northern Rd, to River Rd.</p><p><strong>Westbound:</strong> River Rd, Old Northern Rd, catch the Wisemans Ferry, Wisemans Ferry Rd, Settlers Rd to St Albans Rd.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1780322400000,
+        "displayName": "SCHEDULED FERRY MAINTENANCE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "River Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Webbs Creek Ferry",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "St Albans Road",
+            "suburb": "Wisemans Ferry",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
       }
     }
   ]
