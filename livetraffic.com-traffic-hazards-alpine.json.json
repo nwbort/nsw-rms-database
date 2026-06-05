@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1780622880000,
+  "lastPublished": 1780656780000,
   "layerName": "Alpine",
   "rights": {
     "copyright": "Transport for NSW",
@@ -175,95 +175,6 @@
     },
     {
       "type": "Feature",
-      "id": 276230.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.591514,
-          -36.410512
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.14116,
-              -36.216798
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Driving in the snow",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/driving-snow"
-          },
-          {
-            "linkText": "Snowy Mountains Bus Service",
-            "linkURL": "https://coomacoaches.com.au/snowy-mountains-bus-service/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>The <a href=\"https://coomacoaches.com.au/snowy-mountains-bus-service/\" target=\"_blank\">Snowy Mountains Bus Service</a> will run from Jindabyne to Thredbo and return every day during ski season.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1780019112000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "ALPINE CONDITIONS",
-        "lastUpdated": 1780600052304,
-        "otherAdvice": "<p>There is snow and ice<strong><em> </em></strong>on the road between <strong>Jindabyne </strong>and <strong>Kosciuszko</strong>.</p><p>Snow ploughing is currently underway to clear the road.</p><p><strong>Motorists should:</strong></p><ul><li>slow down and drive to the conditions</li><li>keep a safe distance from the vehicle in front</li><li>follow warning signs and speed advisory signs</li></ul>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "ALPINE CONDITIONS Snow and Ice",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Alpine Way",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "",
-            "suburb": "Jindabyne to Khancoban",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "SnowIce"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 276236,
       "geometry": {
         "type": "Point",
@@ -349,6 +260,89 @@
     },
     {
       "type": "Feature",
+      "id": 277066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.54054,
+          -35.8954577
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Snowy Mountains Highway/Selwyn reference points",
+            "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+          },
+          {
+            "linkText": "Driving in snow",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/driving-snow"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1780615749000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": "Plan your journey",
+        "incidentKind": "Unplanned",
+        "mainCategory": "SNOW AND ICE",
+        "lastUpdated": 1780623620888,
+        "otherAdvice": "<p><strong>Not suitable for heavy vehicles without chains.</strong></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "SNOW AND ICE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sawyers Hill",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Snowy Mountains Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "",
+            "suburb": "Kosciuszko National Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "SnowIce"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 276219,
       "geometry": {
         "type": "Point",
@@ -402,15 +396,15 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "ALPINE CONDITIONS",
-        "lastUpdated": 1780600052446,
-        "otherAdvice": "<p>There is snow and ice<strong><em> </em></strong>on the road between <strong>Wilsons Valley</strong> and <strong>Charlotte Pass</strong>.</p><p>Snow ploughing is currently underway to clear the road.</p><p><strong>Motorists should:</strong></p><ul><li>slow down and drive to the conditions</li><li>keep a safe distance from the vehicle in front</li><li>follow warning signs and speed advisory signs</li></ul>",
+        "lastUpdated": 1780635934685,
+        "otherAdvice": "<p>Updates about the road condition throughout the Alpine Season will be provided as the conditions change.</p><p><strong>Chains must be carried </strong>in Kosciuszko National Park in winter (4WD/AWDs exempt). It is recommended all vehicles carry chains when driving in alpine areas.</p><p><strong>All motorists</strong> should be prepared and equipped for sudden changes in road and weather conditions in Alpine areas.</p><p><strong>Motorists should:</strong></p><ul><li>Exercise caution and drive to the conditions at all times</li><li>Drive with headlights on low beam during the daytime and turn on fog lights in times of low visibility</li><li>Obey signage</li><li>Allow extra travel time</li></ul>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
-        "displayName": "ALPINE CONDITIONS Snow and Ice",
+        "displayName": "ALPINE CONDITIONS EXPECTED",
         "roads": [
           {
             "conditionTendency": "",
@@ -442,24 +436,32 @@
     },
     {
       "type": "Feature",
-      "id": 277066,
+      "id": 276230.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.54054,
-          -35.8954577
+          148.591514,
+          -36.410512
         ],
-        "collections": []
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.14116,
+              -36.216798
+            ]
+          }
+        ]
       },
       "properties": {
         "webLinks": [
           {
-            "linkText": "Snowy Mountains Highway/Selwyn reference points",
-            "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+            "linkText": "Driving in the snow",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/driving-snow"
           },
           {
-            "linkText": "Driving in snow",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/driving-snow"
+            "linkText": "Snowy Mountains Bus Service",
+            "linkURL": "https://coomacoaches.com.au/snowy-mountains-bus-service/"
           }
         ],
         "headline": "",
@@ -469,35 +471,33 @@
         "expectedDelay": -1,
         "ended": false,
         "isNewIncident": false,
-        "publicTransport": "",
+        "publicTransport": "<p>The <a href=\"https://coomacoaches.com.au/snowy-mountains-bus-service/\" target=\"_blank\">Snowy Mountains Bus Service</a> will run from Jindabyne to Thredbo and return every day during ski season.</p>",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1780615749000,
+        "created": 1780019112000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
+        "adviceA": "Plan your journey",
         "adviceB": "Exercise caution",
-        "adviceC": "Plan your journey",
+        "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "SNOW AND ICE",
-        "lastUpdated": 1780622179272,
-        "otherAdvice": "<p><strong>Not suitable for heavy vehicles without chains.</strong></p>",
+        "mainCategory": "ALPINE CONDITIONS",
+        "lastUpdated": 1780636011845,
+        "otherAdvice": "<p>Updates about the road condition throughout the Alpine Season will be provided as the conditions change.</p><p><strong>Chains must be carried </strong>in Kosciuszko National Park in winter (4WD/AWDs exempt). It is recommended all vehicles carry chains when driving in alpine areas.</p><p><strong>All motorists</strong> should be prepared and equipped for sudden changes in road and weather conditions in Alpine areas.</p><p><strong>Motorists should:</strong></p><ul><li>Exercise caution and drive to the conditions at all times</li><li>Drive with headlights on low beam during the daytime and turn on fog lights in times of low visibility</li><li>Obey signage</li><li>Allow extra travel time</li></ul>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
+        "attendingGroups": null,
         "encodedPolylines": [],
-        "displayName": "SNOW AND ICE",
+        "displayName": "ALPINE CONDITIONS EXPECTED",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Sawyers Hill",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [
               {
@@ -510,12 +510,12 @@
               }
             ],
             "locationQualifier": "at",
-            "mainStreet": "Snowy Mountains Highway",
+            "mainStreet": "Alpine Way",
             "quadrant": "",
             "queueLength": 0,
             "region": "Snowy Mountains",
             "secondLocation": "",
-            "suburb": "Kosciuszko National Park",
+            "suburb": "Jindabyne to Khancoban",
             "trafficVolume": ""
           }
         ],
