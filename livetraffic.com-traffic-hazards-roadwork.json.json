@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1781469360000,
+  "lastPublished": 1781476260000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -7974,93 +7974,6 @@
             "region": "North Coast NSW",
             "secondLocation": "",
             "suburb": "Coffs Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 273922,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.8649823,
-          -33.0066257
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "AngusBridgeWorkLocation",
-            "fileName": "AngusBridgeWorkLocation.png",
-            "fileType": "PNG",
-            "linkName": "AngusBridgeWorkLocation",
-            "sizeInBytes": 496748,
-            "uniqueFileName": "457207_1778463764647_AngusBridgeWorkLocation.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1778463775000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Bridge work",
-        "adviceA": "Reduced speed limit",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1781856000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1779774609713,
-        "otherAdvice": "<p>Motorists are advised to expect intermittent single lane closures. Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1780261200000,
-        "displayName": "SCHEDULED ROADWORK Bridge work",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Angus Bridge",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Mitchell Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "",
-            "suburb": "Larras Lee",
             "trafficVolume": ""
           }
         ],
@@ -16612,12 +16525,12 @@
     },
     {
       "type": "Feature",
-      "id": 275335,
+      "id": 274749,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.1133137,
-          -33.7143402
+          151.08027,
+          -33.731346
         ],
         "collections": []
       },
@@ -16629,7 +16542,17 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Northbound",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Monday",
             "startTime": "10:00pm",
@@ -16639,7 +16562,7 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Northbound",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
             "startTime": "10:00pm",
@@ -16649,10 +16572,20 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "Northbound",
+            "direction": "All directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
             "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:30pm",
             "toDay": ""
           }
         ],
@@ -16662,23 +16595,23 @@
         "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": true,
+        "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1779466002000,
+        "created": 1779073157000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Prepare to merge",
-        "adviceC": "Reduced speed limit",
-        "end": 1782328500000,
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Allow extra travel time",
+        "end": 1782327600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780599603257,
-        "otherAdvice": "<p>2 of 3 northbound lanes will be closed.</p>",
+        "lastUpdated": 1780599603145,
+        "otherAdvice": "<p>Traffic lights at the intersection of Pennant Hills Rd and Bellevue St will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -16686,21 +16619,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1782129600000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1780973820000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Millewa Avenue Overpass",
+            "crossStreet": "Campbell Avenue",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "M1 Pacific Motorway",
+            "mainStreet": "Pennant Hills Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Edgeworth David Avenue",
-            "suburb": "Wahroonga",
+            "secondLocation": "Albion Street",
+            "suburb": "Thornleigh",
             "trafficVolume": ""
           }
         ],
@@ -16828,12 +16761,12 @@
     },
     {
       "type": "Feature",
-      "id": 274749,
+      "id": 275335,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.08027,
-          -33.731346
+          151.1133137,
+          -33.7143402
         ],
         "collections": []
       },
@@ -16845,17 +16778,7 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
+            "direction": "Northbound",
             "finishTime": "5:00am",
             "fromDay": "Monday",
             "startTime": "10:00pm",
@@ -16865,7 +16788,7 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Northbound",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
             "startTime": "10:00pm",
@@ -16875,20 +16798,10 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Northbound",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
             "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "10:30pm",
             "toDay": ""
           }
         ],
@@ -16898,23 +16811,23 @@
         "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1779073157000,
+        "created": 1779466002000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "end": 1782327600000,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Reduced speed limit",
+        "end": 1782328500000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780599603145,
-        "otherAdvice": "<p>Traffic lights at the intersection of Pennant Hills Rd and Bellevue St will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
+        "lastUpdated": 1780599603257,
+        "otherAdvice": "<p>2 of 3 northbound lanes will be closed.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -16922,21 +16835,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1780973820000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "start": 1782129600000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Campbell Avenue",
+            "crossStreet": "Millewa Avenue Overpass",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Pennant Hills Road",
+            "mainStreet": "M1 Pacific Motorway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Albion Street",
-            "suburb": "Thornleigh",
+            "secondLocation": "Edgeworth David Avenue",
+            "suburb": "Wahroonga",
             "trafficVolume": ""
           }
         ],
@@ -17064,124 +16977,6 @@
     },
     {
       "type": "Feature",
-      "id": 275013,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1137168,
-          -33.984429
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1779244114000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Signage",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "end": 1781809200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780600546606,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1780972020000,
-        "displayName": "SCHEDULED ROADWORK Signage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "King Georges Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Carwar Avenue",
-            "suburb": "Blakehurst to Carss Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 272195,
       "geometry": {
         "type": "Point",
@@ -17291,6 +17086,124 @@
             "region": "Sydney",
             "secondLocation": "Grosvenor Road",
             "suburb": "Blakehurst",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1137168,
+          -33.984429
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1779244114000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Signage",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Allow extra travel time",
+        "end": 1781809200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1780600546606,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1780972020000,
+        "displayName": "SCHEDULED ROADWORK Signage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "King Georges Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Carwar Avenue",
+            "suburb": "Blakehurst to Carss Park",
             "trafficVolume": ""
           }
         ],
@@ -22236,6 +22149,242 @@
     },
     {
       "type": "Feature",
+      "id": 268335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0792073,
+          -33.9549323
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773732011000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1782846000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1780859745998,
+        "otherAdvice": "<p>Traffic lights at the intersection of Stoney Creek Rd and Penshurst St will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781004600000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mercury Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Stoney Creek Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Cambridge Street",
+            "suburb": "Beverly Hills",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2264977,
+          -33.7516083
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1779166149000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Allow extra travel time",
+        "end": 1782327600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1780859745930,
+        "otherAdvice": "<p>Traffic lights at the intersection of Warringah Rd and Forest Way will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1780980420000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Fitzpatrick Avenue West",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Warringah Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Wakehurst Parkway",
+            "suburb": "Frenchs Forest",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 271100.0,
       "geometry": {
         "type": "Point",
@@ -22364,12 +22513,12 @@
     },
     {
       "type": "Feature",
-      "id": 274903,
+      "id": 272756,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2264977,
-          -33.7516083
+          150.6527805,
+          -33.8528173
         ],
         "collections": []
       },
@@ -22381,50 +22530,50 @@
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
-            "startTime": "9:00pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "9:00pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "9:00pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "9:00pm",
+            "startTime": "8:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
             "roadtype": "",
-            "direction": "All directions",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:30pm",
+            "startTime": "8:00pm",
             "toDay": ""
           }
         ],
@@ -22438,137 +22587,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1779166149000,
+        "created": 1777546958000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Intersection upgrade",
+        "subCategoryA": "Upgrade",
         "adviceA": "Reduced speed limit",
         "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "end": 1782327600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780859745930,
-        "otherAdvice": "<p>Traffic lights at the intersection of Warringah Rd and Forest Way will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1780980420000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Fitzpatrick Avenue West",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Warringah Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Wakehurst Parkway",
-            "suburb": "Frenchs Forest",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 268335,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0792073,
-          -33.9549323
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773732011000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
         "adviceC": "Allow extra travel time",
         "end": 1782846000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780859745998,
-        "otherAdvice": "<p>Traffic lights at the intersection of Stoney Creek Rd and Penshurst St will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time.</p>",
+        "lastUpdated": 1780860661871,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -22576,21 +22607,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1781004600000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1780999200000,
+        "displayName": "SCHEDULED ROADWORK Upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Mercury Street",
+            "crossStreet": "Vincent Avenue",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Stoney Creek Road",
+            "mainStreet": "Mulgoa Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Cambridge Street",
-            "suburb": "Beverly Hills",
+            "secondLocation": "Water Street",
+            "suburb": "Mulgoa to Wallacia",
             "trafficVolume": ""
           }
         ],
@@ -22709,124 +22740,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Lewisham",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 272756,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.6527805,
-          -33.8528173
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777546958000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "end": 1782846000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1780860661871,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1780999200000,
-        "displayName": "SCHEDULED ROADWORK Upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Vincent Avenue",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Mulgoa Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Water Street",
-            "suburb": "Mulgoa to Wallacia",
             "trafficVolume": ""
           }
         ],
@@ -33381,93 +33294,6 @@
     },
     {
       "type": "Feature",
-      "id": 277422,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.172682,
-          -31.550352
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "NynganMitchellHwyWorkLocation",
-            "fileName": "NynganMitchellHwyWorkLocation.png",
-            "fileType": "PNG",
-            "linkName": "NynganMitchellHwyWorkLocation",
-            "sizeInBytes": 54187,
-            "uniqueFileName": "928658_1780973802002_NynganMitchellHwyWorkLocation.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1781236803000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1791612000000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1781236804269,
-        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781470800000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "John Butler Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Mitchell Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Nyngan",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 277427,
       "geometry": {
         "type": "Point",
@@ -33546,6 +33372,93 @@
             "region": "Central NSW",
             "secondLocation": "",
             "suburb": "Coonamble",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.172682,
+          -31.550352
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "NynganMitchellHwyWorkLocation",
+            "fileName": "NynganMitchellHwyWorkLocation.png",
+            "fileType": "PNG",
+            "linkName": "NynganMitchellHwyWorkLocation",
+            "sizeInBytes": 54187,
+            "uniqueFileName": "928658_1780973802002_NynganMitchellHwyWorkLocation.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1781236803000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1791612000000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1781236804269,
+        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781470800000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "John Butler Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Mitchell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Nyngan",
             "trafficVolume": ""
           }
         ],
@@ -37148,6 +37061,172 @@
     },
     {
       "type": "Feature",
+      "id": 274935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0986446,
+          -33.7080523
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Saturday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1779190580000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Power pole/line repairs",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1781464500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1781464501764,
+        "otherAdvice": "<p>Traffic lights at Pacific Hwy and Edgeworth David Av will be flashing yellow and alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781350200000,
+        "displayName": "SCHEDULED ROADWORK Power pole/line repairs",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "College Crescent",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Bridge Road",
+            "suburb": "Hornsby",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1204706,
+          -33.9496121
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "10:30pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1778580059000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Power pole/line repairs",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Reduced speed limit",
+        "end": 1781464500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1781464501664,
+        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781440200000,
+        "displayName": "SCHEDULED ROADWORK Power pole/line repairs",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Medway Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Stoney Creek Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Eddystone Road",
+            "suburb": "Bexley",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 277867,
       "geometry": {
         "type": "Point",
@@ -37247,172 +37326,6 @@
             "region": "Sydney",
             "secondLocation": "Nancy Drive",
             "suburb": "Badgerys Creek",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 274083,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1204706,
-          -33.9496121
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1778580059000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Power pole/line repairs",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
-        "end": 1781464500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1781464501664,
-        "otherAdvice": "<p>Contraflow traffic conditions will be in place to allow motorists to pass in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781440200000,
-        "displayName": "SCHEDULED ROADWORK Power pole/line repairs",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Medway Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Stoney Creek Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Eddystone Road",
-            "suburb": "Bexley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 274935,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0986446,
-          -33.7080523
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Saturday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1779190580000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Power pole/line repairs",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
-        "end": 1781464500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1781464501764,
-        "otherAdvice": "<p>Traffic lights at Pacific Hwy and Edgeworth David Av will be flashing yellow and alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781350200000,
-        "displayName": "SCHEDULED ROADWORK Power pole/line repairs",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "College Crescent",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Bridge Road",
-            "suburb": "Hornsby",
             "trafficVolume": ""
           }
         ],
@@ -37824,6 +37737,93 @@
             "region": "South Coast",
             "secondLocation": "",
             "suburb": "Coalcliff",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8649823,
+          -33.0066257
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "AngusBridgeWorkLocation",
+            "fileName": "AngusBridgeWorkLocation.png",
+            "fileType": "PNG",
+            "linkName": "AngusBridgeWorkLocation",
+            "sizeInBytes": 496748,
+            "uniqueFileName": "457207_1778463764647_AngusBridgeWorkLocation.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1778463775000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Bridge work",
+        "adviceA": "Reduced speed limit",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1783065600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1781474780483,
+        "otherAdvice": "<p>Motorists are advised to expect intermittent single lane closures. Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781470800000,
+        "displayName": "SCHEDULED ROADWORK Bridge work",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Angus Bridge",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Mitchell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Larras Lee",
             "trafficVolume": ""
           }
         ],
