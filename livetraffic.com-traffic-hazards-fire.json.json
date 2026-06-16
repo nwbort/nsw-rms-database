@@ -1,10 +1,97 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1781609460000,
+  "lastPublished": 1781630460000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 278236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8378763,
+          -31.6989836
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1781614188000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Avoid the area",
+        "adviceB": "Use diversions",
+        "adviceC": "Follow directions on site",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1781627262530,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Dubbo St, Industrial Access Rd and Udora Rd in both directions. This diversion is suitable for all vehicles including B Doubles to 26m.</p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "ONE_DIRECTION",
+            "coords": "vkn`Eihie[K]Ym@kAuBa@m@c@s@a@g@QUUWW[MSIKQ_@e@sAYw@IKAEI[OUIMMIKIQKSK"
+          },
+          {
+            "levels": "",
+            "direction": "ONE_DIRECTION",
+            "coords": "j~m`Ey~ie[?DBNDLFZHZ@DHJXv@d@rAP^HJLRVZTVPT`@f@b@r@`@l@jAtBXl@TRNN"
+          }
+        ],
+        "displayName": "BUILDING FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Dubbo Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Highway"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Oxley Highway (Burton Street)",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "Coonamble Road",
+            "suburb": "Warren (west of Gilgandra)",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    }
+  ]
 }
