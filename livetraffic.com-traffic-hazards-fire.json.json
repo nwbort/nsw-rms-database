@@ -1,10 +1,86 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1782259890000,
+  "lastPublished": 1782275820000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 279134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9622564,
+          -33.9284561
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1782275779000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Expect delays",
+        "adviceB": "Use an alternative route",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1782275780140,
+        "otherAdvice": "<p>There is no access to Governor Macquarie Dr from Newbridge Rd and straight through traffic on Governer Macquarie Drive past Newbridge Rd is also blocked.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BUILDING FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Newbridge Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Governor Macquarie Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Chipping Norton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    }
+  ]
 }
