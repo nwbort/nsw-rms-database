@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1782275820000,
+  "lastPublished": 1782289920000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -26,7 +26,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -41,8 +41,8 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1782275780140,
-        "otherAdvice": "<p>There is no access to Governor Macquarie Dr from Newbridge Rd and straight through traffic on Governer Macquarie Drive past Newbridge Rd is also blocked.</p>",
+        "lastUpdated": 1782289872787,
+        "otherAdvice": "<p>Governor Macquarie Dr is closed in both directions just north of Newbridge Rd.</p><p>There is no access to Governor Macquarie Dr from Newbridge Rd.</p><p>1 of 4 eastbound lanes is closed on Newbridge Rd (Lane 1).</p><p><br></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -60,12 +60,12 @@
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
+                "affectedDirection": "All directions",
                 "closedLanes": "",
                 "description": "",
-                "extent": "Closed",
+                "extent": "Affected",
                 "numberOfLanes": "",
-                "roadType": "Road"
+                "roadType": ""
               }
             ],
             "locationQualifier": "at",
@@ -78,7 +78,7 @@
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "State road",
+        "isLocalRoad": "Local road",
         "CategoryIcon": "Fire"
       }
     }
