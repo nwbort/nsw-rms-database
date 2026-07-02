@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1783024590000,
+  "lastPublished": 1783031190000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -30030,6 +30030,114 @@
     },
     {
       "type": "Feature",
+      "id": 276279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.37319,
+          -33.709422
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1780026432000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Allow extra travel time",
+        "end": 1783018800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1783018862015,
+        "otherAdvice": "<p>Traffic lights at the intersection of Great Western Hwy and Falls Rd will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1782704700000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pritchard Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Great Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "Plantation Street",
+            "suburb": "Wentworth Falls",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 275814,
       "geometry": {
         "type": "Point",
@@ -30139,114 +30247,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Lewisham",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 276279,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.37319,
-          -33.709422
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1780026432000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "end": 1783018800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1783018862015,
-        "otherAdvice": "<p>Traffic lights at the intersection of Great Western Hwy and Falls Rd will be blacked out or flashing, and portable traffic lights will allow motorists to pass in one direction at a time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1782704700000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Pritchard Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "Plantation Street",
-            "suburb": "Wentworth Falls",
             "trafficVolume": ""
           }
         ],
