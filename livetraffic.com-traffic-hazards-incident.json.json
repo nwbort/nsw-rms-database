@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1783173390000,
+  "lastPublished": 1783179090000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3920,20 +3920,25 @@
     },
     {
       "type": "Feature",
-      "id": 273239,
+      "id": 272847,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.1483208,
-          -29.9736576
+          147.2660376,
+          -36.0393117
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "NSW Vehicle Ferries",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/planning-tools-and-information/vehicle-ferries"
+          }
+        ],
         "headline": "",
         "periods": [],
-        "speedLimit": 80,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -3943,30 +3948,28 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777937501000,
+        "created": 1777609891000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
+        "subCategoryA": "Low tide",
+        "adviceA": "Plan your journey",
+        "adviceB": " ",
+        "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1782838502451,
-        "otherAdvice": "",
+        "mainCategory": "FERRY OUT OF SERVICE",
+        "lastUpdated": 1782838502667,
+        "otherAdvice": "<p>The ferry has a reduced capacity of 20 tonnes due to the low water level.</p>",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p><strong>West:</strong> Bethanga Bridge, Albury, which adds approximately 1 hour of travel time.</p><p><strong>East:</strong> Jingellic, which adds approximately<strong> </strong>75 minutes of travel time.</p>",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
+        "attendingGroups": null,
         "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
+        "displayName": "FERRY Reduced capacity",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "EL O'Brien Bridge (Barwon River)",
+            "crossStreet": "Wymah Ferry Road",
             "delay": "",
             "impactedLanes": [
               {
@@ -3978,13 +3981,13 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "on",
-            "mainStreet": "Castlereagh Highway",
+            "locationQualifier": "between",
+            "mainStreet": "Wymah Ferry",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Walgett",
+            "region": "The Murray",
+            "secondLocation": "Murray River Road",
+            "suburb": "Wymah (east of Albury)",
             "trafficVolume": ""
           }
         ],
@@ -4142,25 +4145,20 @@
     },
     {
       "type": "Feature",
-      "id": 272847,
+      "id": 273239,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.2660376,
-          -36.0393117
+          148.1483208,
+          -29.9736576
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "NSW Vehicle Ferries",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/planning-tools-and-information/vehicle-ferries"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [],
-        "speedLimit": -1,
+        "speedLimit": 80,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -4170,28 +4168,30 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777609891000,
+        "created": 1777937501000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Low tide",
-        "adviceA": "Plan your journey",
-        "adviceB": " ",
-        "adviceC": " ",
+        "subCategoryA": "Road damage",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
         "incidentKind": "Unplanned",
-        "mainCategory": "FERRY OUT OF SERVICE",
-        "lastUpdated": 1782838502667,
-        "otherAdvice": "<p>The ferry has a reduced capacity of 20 tonnes due to the low water level.</p>",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1782838502451,
+        "otherAdvice": "",
         "arrangementElements": [],
-        "diversions": "<p><strong>West:</strong> Bethanga Bridge, Albury, which adds approximately 1 hour of travel time.</p><p><strong>East:</strong> Jingellic, which adds approximately<strong> </strong>75 minutes of travel time.</p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
         "encodedPolylines": [],
-        "displayName": "FERRY Reduced capacity",
+        "displayName": "HAZARD Road damage",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Wymah Ferry Road",
+            "crossStreet": "EL O'Brien Bridge (Barwon River)",
             "delay": "",
             "impactedLanes": [
               {
@@ -4203,13 +4203,13 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "between",
-            "mainStreet": "Wymah Ferry",
+            "locationQualifier": "on",
+            "mainStreet": "Castlereagh Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "The Murray",
-            "secondLocation": "Murray River Road",
-            "suburb": "Wymah (east of Albury)",
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Walgett",
             "trafficVolume": ""
           }
         ],
@@ -6035,6 +6035,81 @@
     },
     {
       "type": "Feature",
+      "id": 280511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.919017,
+          -33.921903
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783123329000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1783125855211,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Moore Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Liverpool",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 280513,
       "geometry": {
         "type": "Point",
@@ -6102,81 +6177,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Cabramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280511,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.919017,
-          -33.921903
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783123329000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1783125855211,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Moore Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Hume Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Liverpool",
             "trafficVolume": ""
           }
         ],
@@ -6409,80 +6409,6 @@
     },
     {
       "type": "Feature",
-      "id": 280521,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0157221,
-          -33.9059436
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783126913000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1783127229462,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Edgar Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Right turn lane",
-                "extent": "Lanes closed",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Hume Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Yagoona",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 280518,
       "geometry": {
         "type": "Point",
@@ -6553,6 +6479,80 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0157221,
+          -33.9059436
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783126913000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1783127229462,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Edgar Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Right turn lane",
+                "extent": "Lanes closed",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Yagoona",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
       }
     },
     {
