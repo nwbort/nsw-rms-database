@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1783342590000,
+  "lastPublished": 1783355190000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3748,25 +3748,20 @@
     },
     {
       "type": "Feature",
-      "id": 272847,
+      "id": 273239,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.2660376,
-          -36.0393117
+          148.1483208,
+          -29.9736576
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "NSW Vehicle Ferries",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/planning-tools-and-information/vehicle-ferries"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [],
-        "speedLimit": -1,
+        "speedLimit": 80,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -3776,28 +3771,30 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777609891000,
+        "created": 1777937501000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Low tide",
-        "adviceA": "Plan your journey",
-        "adviceB": " ",
-        "adviceC": " ",
+        "subCategoryA": "Road damage",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
         "incidentKind": "Unplanned",
-        "mainCategory": "FERRY OUT OF SERVICE",
-        "lastUpdated": 1782838502667,
-        "otherAdvice": "<p>The ferry has a reduced capacity of 20 tonnes due to the low water level.</p>",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1782838502451,
+        "otherAdvice": "",
         "arrangementElements": [],
-        "diversions": "<p><strong>West:</strong> Bethanga Bridge, Albury, which adds approximately 1 hour of travel time.</p><p><strong>East:</strong> Jingellic, which adds approximately<strong> </strong>75 minutes of travel time.</p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
         "encodedPolylines": [],
-        "displayName": "FERRY Reduced capacity",
+        "displayName": "HAZARD Road damage",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Wymah Ferry Road",
+            "crossStreet": "EL O'Brien Bridge (Barwon River)",
             "delay": "",
             "impactedLanes": [
               {
@@ -3809,13 +3806,13 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "between",
-            "mainStreet": "Wymah Ferry",
+            "locationQualifier": "on",
+            "mainStreet": "Castlereagh Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "The Murray",
-            "secondLocation": "Murray River Road",
-            "suburb": "Wymah (east of Albury)",
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Walgett",
             "trafficVolume": ""
           }
         ],
@@ -3973,20 +3970,25 @@
     },
     {
       "type": "Feature",
-      "id": 273239,
+      "id": 272847,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.1483208,
-          -29.9736576
+          147.2660376,
+          -36.0393117
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "NSW Vehicle Ferries",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/planning-tools-and-information/vehicle-ferries"
+          }
+        ],
         "headline": "",
         "periods": [],
-        "speedLimit": 80,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
@@ -3996,30 +3998,28 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777937501000,
+        "created": 1777609891000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
+        "subCategoryA": "Low tide",
+        "adviceA": "Plan your journey",
+        "adviceB": " ",
+        "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1782838502451,
-        "otherAdvice": "",
+        "mainCategory": "FERRY OUT OF SERVICE",
+        "lastUpdated": 1782838502667,
+        "otherAdvice": "<p>The ferry has a reduced capacity of 20 tonnes due to the low water level.</p>",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p><strong>West:</strong> Bethanga Bridge, Albury, which adds approximately 1 hour of travel time.</p><p><strong>East:</strong> Jingellic, which adds approximately<strong> </strong>75 minutes of travel time.</p>",
         "additionalInfo": [],
         "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
+        "attendingGroups": null,
         "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
+        "displayName": "FERRY Reduced capacity",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "EL O'Brien Bridge (Barwon River)",
+            "crossStreet": "Wymah Ferry Road",
             "delay": "",
             "impactedLanes": [
               {
@@ -4031,13 +4031,13 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "on",
-            "mainStreet": "Castlereagh Highway",
+            "locationQualifier": "between",
+            "mainStreet": "Wymah Ferry",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Walgett",
+            "region": "The Murray",
+            "secondLocation": "Murray River Road",
+            "suburb": "Wymah (east of Albury)",
             "trafficVolume": ""
           }
         ],
@@ -4284,248 +4284,6 @@
             "region": "Southern Highlands",
             "secondLocation": "",
             "suburb": "Breadalbane (south-west of Goulburn)",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280616,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.153528,
-          -33.851706
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783252467000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1783257278149,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "TRAFFIC LIGHTS BLACKED OUT",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Marlborough Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Lyons Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Drummoyne",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "TrafficSignals"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280565,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.121208,
-          -33.775216
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783201059000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1783260542130,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS - crane removal",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Herring Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Talavera Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Macquarie Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 279609,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2049829,
-          -33.8662544
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "11:59pm",
-            "fromDay": "Saturday",
-            "startTime": "2:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "",
-            "fromDay": "Sunday",
-            "startTime": "all day",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "2:00am",
-            "fromDay": "Monday",
-            "startTime": "12:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1782692401000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1783267200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1783267267584,
-        "otherAdvice": "<p>Special event clearways will be in place at the following locations for Sydney Trains trackwork replacement bus operatons</p><ul><li><strong>Clarence St </strong>between Margaret St and Barrack St (both sides)</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully, as vehicles left in a clearway will be towed, and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1783094400000,
-        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains trackwork",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Margaret Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Clarence Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Barrack Street",
-            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
@@ -6906,80 +6664,6 @@
     },
     {
       "type": "Feature",
-      "id": 280659,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.772277,
-          -33.777331
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783296727000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1783297489860,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mamre Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "1",
-                "description": "Lane 3",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "M4 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "St Marys",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 280645,
       "geometry": {
         "type": "Point",
@@ -7045,6 +6729,80 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Milperra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.772277,
+          -33.777331
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783296727000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1783297489860,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mamre Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "1",
+                "description": "Lane 3",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "M4 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "St Marys",
             "trafficVolume": ""
           }
         ],
@@ -8407,81 +8165,6 @@
     },
     {
       "type": "Feature",
-      "id": 280691,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.209571,
-          -33.477707
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783312875000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Semi-trailer",
-        "adviceA": "Expect delays",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1783313116955,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW",
-          "Heavy vehicle tow truck"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Scenic Hill",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "on",
-            "mainStreet": "Chiefly Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Clarence",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 280683,
       "geometry": {
         "type": "Point",
@@ -8553,6 +8236,81 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.209571,
+          -33.477707
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783312875000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Semi-trailer",
+        "adviceA": "Expect delays",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1783313116955,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW",
+          "Heavy vehicle tow truck"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Scenic Hill",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "on",
+            "mainStreet": "Chiefly Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Clarence",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
       }
     },
     {
@@ -10265,81 +10023,6 @@
     },
     {
       "type": "Feature",
-      "id": 280725,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2387106,
-          -33.4276527
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783328111000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Oil spill",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1783336895610,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Hydraulic fluid spill",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mooney Mooney Bridge",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Peats Ridge Road",
-            "suburb": "Calga",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 280732,
       "geometry": {
         "type": "Point",
@@ -10486,6 +10169,309 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2387106,
+          -33.4276527
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783328111000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Oil spill",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1783343232776,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Oil spill",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mooney Mooney Bridge",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "M1 Pacific Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Peats Ridge Road",
+            "suburb": "Calga",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2293314,
+          -33.8768167
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783343459000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1783346901113,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Neild Avenue",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "",
+                "description": "Lane 2, Lane 3, Lane 4",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "New South Head Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Rushcutters Bay",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0242485,
+          -33.8048054
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783344466000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1783346979144,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Use Victoria Rd off-ramp or Windsor Rd off-ramp instead.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Utility Company"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "ONE_DIRECTION",
+            "coords": "lyimEwzwx[A?A?AAE?UC_@Ee@CcAKmBOo@Im@GIAM?KAI?E@G?G?E@"
+          }
+        ],
+        "displayName": "EMERGENCY ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Kissing Point Road / Pennant Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Off-ramp"
+              }
+            ],
+            "locationQualifier": "to",
+            "mainStreet": "James Ruse Drive off-ramp",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1314732,
+          -33.6589806
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783344741000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "due to an earlier incident",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Exercise caution",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1783350862865,
+        "otherAdvice": "<p>Vehicle recovery after an earlier crash.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CHANGED TRAFFIC CONDITIONS due to an earlier incident",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Ku-Ring-Gai Chase Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 3",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "M1 Pacific Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Mount Kuring-gai",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
       }
     }
   ]
