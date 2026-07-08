@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1783465890000,
+  "lastPublished": 1783469490000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -32097,12 +32097,12 @@
     },
     {
       "type": "Feature",
-      "id": 280061,
+      "id": 276537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.156789,
-          -33.7658131
+          151.241039,
+          -33.824345
         ],
         "collections": []
       },
@@ -32116,28 +32116,8 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "10:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
             "fromDay": "Monday",
-            "startTime": "10:00pm",
+            "startTime": "9:30pm",
             "toDay": ""
           },
           {
@@ -32147,7 +32127,37 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
             "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:30pm",
             "toDay": ""
           }
         ],
@@ -32161,19 +32171,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1782875698000,
+        "created": 1780289806000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
         "end": 1783451700000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1783451701594,
-        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time. </p>",
+        "lastUpdated": 1783451701459,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p>Traffic lights in the area may be blacked out or flashing yellow.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -32181,21 +32191,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1782995400000,
+        "start": 1780311600000,
         "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Fiddens Wharf Road",
+            "crossStreet": "Military Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Pacific Highway",
+            "mainStreet": "Spit Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Bruce Avenue",
-            "suburb": "Killara",
+            "secondLocation": "Pearl Bay Avenue",
+            "suburb": "Mosman",
             "trafficVolume": ""
           }
         ],
@@ -32323,6 +32333,114 @@
     },
     {
       "type": "Feature",
+      "id": 280061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.156789,
+          -33.7658131
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1782875698000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Allow extra travel time",
+        "end": 1783451700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1783451701594,
+        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1782995400000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Fiddens Wharf Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Bruce Avenue",
+            "suburb": "Killara",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 280371,
       "geometry": {
         "type": "Point",
@@ -32392,124 +32510,6 @@
             "region": "Sydney",
             "secondLocation": "Crescent Street",
             "suburb": "Waterloo",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 276537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.241039,
-          -33.824345
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1780289806000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1783451700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1783451701459,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p>Traffic lights in the area may be blacked out or flashing yellow.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1780311600000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Military Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Spit Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Pearl Bay Avenue",
-            "suburb": "Mosman",
             "trafficVolume": ""
           }
         ],
@@ -32729,6 +32729,133 @@
             "region": "Hunter",
             "secondLocation": "Old Punt Road",
             "suburb": "Black Hill to Tomago",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1784964,
+          -33.473983
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "LocationworkLithgow",
+            "fileName": "LocationworkLithgow.docx",
+            "fileType": "WORD_X",
+            "linkName": "LocationworkLithgow",
+            "sizeInBytes": 302166,
+            "uniqueFileName": "964253_1783467376501_LocationworkLithgow.docx"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1783467386000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1784228400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1783467387498,
+        "otherAdvice": "<p>Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1783843200000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Chifley Road and Main Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "on",
+            "mainStreet": "Various Locations",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Lithgow",
             "trafficVolume": ""
           }
         ],
