@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1783980690000,
+  "lastPublished": 1783984290000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -29856,84 +29856,6 @@
     },
     {
       "type": "Feature",
-      "id": 281331,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.303895,
-          -33.3638815
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Southbound",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "8:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783896880000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
-        "end": 1784574000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1783897661283,
-        "otherAdvice": "<p>The southbound off-ramp from the M1 to the Central Coast Highway will be closed with diversions in place. Traffic controllers will be on site to direct motorists. </p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "<p>Southbound motorists needing to exit the M1 to travel towards Gosford are advised to use the southbound off-ramp onto the Pacific Highway at Ourimbah instead.  </p><p>B-doubles and oversize and/or overmass (OSOM) vehicles are advised to stay on the M1 to Calga, exit the M1 at the Old Pacific Highway, then do a u-turn on Peats Ridge Road and return to the Central Coast Highway via the M1.  </p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784541600000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "Somersby",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 281304,
       "geometry": {
         "type": "Point",
@@ -31887,6 +31809,114 @@
     },
     {
       "type": "Feature",
+      "id": 280021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2115405,
+          -33.8444308
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Freeway",
+            "direction": "Northbound",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "11:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Freeway",
+            "direction": "Northbound",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "11:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Freeway",
+            "direction": "Northbound",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "11:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Freeway",
+            "direction": "Northbound",
+            "finishTime": "6:00am",
+            "fromDay": "Saturday",
+            "startTime": "12:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1782846204000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1784924100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1783969203264,
+        "otherAdvice": "<p>During this closure, there will be no access to the following off-ramps from Sydney Harbour Bridge: Falcon St, Ernest St, Miller St, Brook St, Willoughby Rd., Reserve Rd and Longueville Rd.</p><p>The northbound on-ramp from Berry St and the northbound on-ramp from Falcon St will also be closed.</p><p>Sydney Harbour Tunnel Northbound will be closed during this time.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>All northbound motorists must use the Pacific Hwy off-ramp.</p><p>Access to Mosman/Manly via Pacific Hwy, Miller St, Falcon St, to Military Rd.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1784552400000,
+        "displayName": "SCHEDULED ROADWORK Warringah Freeway Upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pacific Highway/High Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Warringah Freeway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Lane Cove Tunnel",
+            "suburb": "North Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 279127,
       "geometry": {
         "type": "Point",
@@ -32016,114 +32046,6 @@
             "region": "Sydney",
             "secondLocation": "Factory Road",
             "suburb": "Wallacia to Regentville",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280021,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2115405,
-          -33.8444308
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Freeway",
-            "direction": "Northbound",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "11:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Freeway",
-            "direction": "Northbound",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "11:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Freeway",
-            "direction": "Northbound",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "11:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Freeway",
-            "direction": "Northbound",
-            "finishTime": "6:00am",
-            "fromDay": "Saturday",
-            "startTime": "12:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1782846204000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "end": 1784924100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1783969203264,
-        "otherAdvice": "<p>During this closure, there will be no access to the following off-ramps from Sydney Harbour Bridge: Falcon St, Ernest St, Miller St, Brook St, Willoughby Rd., Reserve Rd and Longueville Rd.</p><p>The northbound on-ramp from Berry St and the northbound on-ramp from Falcon St will also be closed.</p><p>Sydney Harbour Tunnel Northbound will be closed during this time.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>All northbound motorists must use the Pacific Hwy off-ramp.</p><p>Access to Mosman/Manly via Pacific Hwy, Miller St, Falcon St, to Military Rd.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784552400000,
-        "displayName": "SCHEDULED ROADWORK Warringah Freeway Upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Pacific Highway/High Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Warringah Freeway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Lane Cove Tunnel",
-            "suburb": "North Sydney",
             "trafficVolume": ""
           }
         ],
