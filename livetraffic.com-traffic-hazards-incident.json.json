@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1784086680000,
+  "lastPublished": 1784096880000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -774,6 +774,87 @@
     },
     {
       "type": "Feature",
+      "id": 117337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6138996,
+          -35.9282462
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Snowy Hydro 2.0",
+            "linkURL": "https://www.snowyhydro.com.au/snowy-20/roads-and-access/"
+          },
+          {
+            "linkText": "Future Generation",
+            "linkURL": "https://www.futuregenerationjv.com.au/traffic"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 50,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1648163263000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
+        "lastUpdated": 1783869548424,
+        "otherAdvice": "A reduced speed limit is in place on Tantangara Rd for safety due to construction work associated with Snowy 2.0.",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CHANGED TRAFFIC CONDITIONS Snowy 2.0",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Snowy Mountains Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Tantangara Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "Tantangra Dam",
+            "suburb": "Kosciuszko National Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "ChangedConditions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 279744,
       "geometry": {
         "type": "Point",
@@ -930,87 +1011,6 @@
             "region": "South Coast",
             "secondLocation": "",
             "suburb": "Kangaroo Valley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 117337,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.6138996,
-          -35.9282462
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Snowy Hydro 2.0",
-            "linkURL": "https://www.snowyhydro.com.au/snowy-20/roads-and-access/"
-          },
-          {
-            "linkText": "Future Generation",
-            "linkURL": "https://www.futuregenerationjv.com.au/traffic"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 50,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1648163263000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1783869548424,
-        "otherAdvice": "A reduced speed limit is in place on Tantangara Rd for safety due to construction work associated with Snowy 2.0.",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS Snowy 2.0",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Snowy Mountains Highway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Tantangara Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "Tantangra Dam",
-            "suburb": "Kosciuszko National Park",
             "trafficVolume": ""
           }
         ],
@@ -1311,6 +1311,92 @@
     },
     {
       "type": "Feature",
+      "id": 248857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.644444,
+          -30.7700078
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              141.448123,
+              -30.675035
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1757463381000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Never drive through floodwater",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "ADVERSE WEATHER",
+        "lastUpdated": 1783869571234,
+        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "|efzDwqi~Yz@?bBId@EXG|@_@hCi@TGNE~@]NE`AQVKNEh@QNEhAQnAa@l@Qx@WXKh@Qf@YLGdBi@NC`AENCzCc@pAYf@OTGb@MNEPCNE`@Or@_@vCeCXYLKdA{@fBiBLKLIr@e@PQRSTSf@g@zA}Af@_@~@u@|@}@\\WDC^[lCmCbA{@bAcA`@WXSz@q@|B_CRQf@c@|@}@NKl@i@DETS~B_C|@u@XYnBaBh@c@rBsBnAeA`Ay@l@m@RUr@m@zAoAl@o@NMDEbCqBtAwAx@q@lAeAf@a@p@m@@AXYn@o@LKzAoAj@i@b@_@tBeBXYn@w@FELQ|@{@fGeFLK\\_@POd@c@v@s@hDsCf@g@FEFKPWx@e@h@i@FE\\[f@g@Z_@DEbBwBNOLOn@g@r@o@fFgEbCkBTQdA{@DE~@u@rBuBdDqCFETQfB{AhEiENSRUf@}@DIh@}@h@iAfA_DJSpAcFjCqJ~BiHZu@hByEXs@`C_GdDqInDkIhBuFtN}^|@_CrFeN~Tck@lI{QbOu`@jDaJtEeL`@cA\\u@jAcC|BqEzBkEt@cBv@oBz@yB~@_CzAaEBE|@{Bb@iApDkJDKdAiCvAsDhAwCpB}E`BkEdCoGfAqC|@}B~AcEhAuCr@gBl@mBl@eCVaAR_AJe@FUvAuG\\sBD_@D_@?U?YEUESg@cAMYEQE]Ca@AUB]Ba@Fa@HW?Ar@kBDIhE}Mb@uA|@wCvA{Eh@cBbA}CJ_@`@qA`AeDL_@zAyErAqEPk@Ro@v@kCf@{Al@uAt@wABCrC}EhAoBn@kAzEoIr@oAfAkBf@{@z@}AjCuE`@s@d@w@d@y@jGoKFKbCkE`CiEFKJSlBeDTa@d@w@b@u@\\k@FIP]\\k@JUBGNa@?CHk@Fu@D{G@]@o@Ay@?S@IAoB@kB@}@?g@?a@?s@?i@?INcL@kF?O@gB@YByF?i@BmE@wABkD@mA@i@?Y@{A?WBg@J{@BEPa@V]@A\\Wr@WNC`@MNEdA[l@URGbAe@`Ak@FE`CaB\\W`BkAlAs@fD{Bb@[~AiAf@[z@m@DCVQrA_AdAq@vBwAXQBCz@m@fCgB^WLIx@k@bAw@lAw@`Aq@LKj@e@RQHIlBuBpAqAdAmAn@}@LUZm@XgAP_AFWHg@Jo@H_@v@_FBO^eCb@gCZiBFYP{@FQ?AdAmDRi@pCwIn@yBj@kBNe@Le@p@wBr@cCNc@t@_Cv@cCv@eClD}KTw@bA_DfBgGPm@@ALc@z@mC|AkFVy@v@aClCsIdBoFdAkDTy@H_@Hg@B[@]?S?W?g@Ci@MkA_@kCo@qEo@_F[yBMaAU}AAAEYIu@ACc@kDa@uCk@wDCQK{@q@_FIi@Ge@WgBSw@?C_@cAq@iA_AwAMQs@aA_@q@O[A?S[u@gAwA}B}AcCs@eAsDsFiBqCEGqCkEQ[W_@k@}@_B}Bu@iAiBwC}AaCS[aA}AMQsAsBGKOSo@eAa@eAKc@Os@Gg@MaAQyAACG}@"
+          }
+        ],
+        "displayName": "ADVERSE WEATHER Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Joulnie Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Sanpah Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "Pimpara Lake Road",
+            "suburb": "The Veldt to Westwood Downs",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 279760.0,
       "geometry": {
         "type": "Point",
@@ -1477,92 +1563,6 @@
     },
     {
       "type": "Feature",
-      "id": 248857,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.644444,
-          -30.7700078
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              141.448123,
-              -30.675035
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1757463381000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Water over road",
-        "adviceA": "Never drive through floodwater",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "ADVERSE WEATHER",
-        "lastUpdated": 1783869571234,
-        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "|efzDwqi~Yz@?bBId@EXG|@_@hCi@TGNE~@]NE`AQVKNEh@QNEhAQnAa@l@Qx@WXKh@Qf@YLGdBi@NC`AENCzCc@pAYf@OTGb@MNEPCNE`@Or@_@vCeCXYLKdA{@fBiBLKLIr@e@PQRSTSf@g@zA}Af@_@~@u@|@}@\\WDC^[lCmCbA{@bAcA`@WXSz@q@|B_CRQf@c@|@}@NKl@i@DETS~B_C|@u@XYnBaBh@c@rBsBnAeA`Ay@l@m@RUr@m@zAoAl@o@NMDEbCqBtAwAx@q@lAeAf@a@p@m@@AXYn@o@LKzAoAj@i@b@_@tBeBXYn@w@FELQ|@{@fGeFLK\\_@POd@c@v@s@hDsCf@g@FEFKPWx@e@h@i@FE\\[f@g@Z_@DEbBwBNOLOn@g@r@o@fFgEbCkBTQdA{@DE~@u@rBuBdDqCFETQfB{AhEiENSRUf@}@DIh@}@h@iAfA_DJSpAcFjCqJ~BiHZu@hByEXs@`C_GdDqInDkIhBuFtN}^|@_CrFeN~Tck@lI{QbOu`@jDaJtEeL`@cA\\u@jAcC|BqEzBkEt@cBv@oBz@yB~@_CzAaEBE|@{Bb@iApDkJDKdAiCvAsDhAwCpB}E`BkEdCoGfAqC|@}B~AcEhAuCr@gBl@mBl@eCVaAR_AJe@FUvAuG\\sBD_@D_@?U?YEUESg@cAMYEQE]Ca@AUB]Ba@Fa@HW?Ar@kBDIhE}Mb@uA|@wCvA{Eh@cBbA}CJ_@`@qA`AeDL_@zAyErAqEPk@Ro@v@kCf@{Al@uAt@wABCrC}EhAoBn@kAzEoIr@oAfAkBf@{@z@}AjCuE`@s@d@w@d@y@jGoKFKbCkE`CiEFKJSlBeDTa@d@w@b@u@\\k@FIP]\\k@JUBGNa@?CHk@Fu@D{G@]@o@Ay@?S@IAoB@kB@}@?g@?a@?s@?i@?INcL@kF?O@gB@YByF?i@BmE@wABkD@mA@i@?Y@{A?WBg@J{@BEPa@V]@A\\Wr@WNC`@MNEdA[l@URGbAe@`Ak@FE`CaB\\W`BkAlAs@fD{Bb@[~AiAf@[z@m@DCVQrA_AdAq@vBwAXQBCz@m@fCgB^WLIx@k@bAw@lAw@`Aq@LKj@e@RQHIlBuBpAqAdAmAn@}@LUZm@XgAP_AFWHg@Jo@H_@v@_FBO^eCb@gCZiBFYP{@FQ?AdAmDRi@pCwIn@yBj@kBNe@Le@p@wBr@cCNc@t@_Cv@cCv@eClD}KTw@bA_DfBgGPm@@ALc@z@mC|AkFVy@v@aClCsIdBoFdAkDTy@H_@Hg@B[@]?S?W?g@Ci@MkA_@kCo@qEo@_F[yBMaAU}AAAEYIu@ACc@kDa@uCk@wDCQK{@q@_FIi@Ge@WgBSw@?C_@cAq@iA_AwAMQs@aA_@q@O[A?S[u@gAwA}B}AcCs@eAsDsFiBqCEGqCkEQ[W_@k@}@_B}Bu@iAiBwC}AaCS[aA}AMQsAsBGKOSo@eAa@eAKc@Os@Gg@MaAQyAACG}@"
-          }
-        ],
-        "displayName": "ADVERSE WEATHER Water over road",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Joulnie Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Sanpah Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "Pimpara Lake Road",
-            "suburb": "The Veldt to Westwood Downs",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "AdverseWeather"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 238103,
       "geometry": {
         "type": "Point",
@@ -1641,84 +1641,6 @@
     },
     {
       "type": "Feature",
-      "id": 264755,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.299623,
-          -29.580608
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770870744000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Water over road",
-        "adviceA": "Never drive through floodwater",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "ADVERSE WEATHER",
-        "lastUpdated": 1783869589127,
-        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "tyetDsrf}YOFY@m@Em@CeFk@o@GeBUQAaGKW?s@?}CA}CAy@A}BCkB?oAAaAAe@AeC?iA?sECoECgB?gA?eEAmD?G?qDCoB?gA?wA?sA?sB@{F@yJ@gAAs@?q@?eDG_@?wCCI?UAyBG_G@g@?iA?K?kDEsB?mA?uAByB@iD@qA?mBCmC?MAmAAyAAa@AcBAiC?M@aAHI?w@?_A?S?q@?aA@_A@eB?[?iAA}DAs@AmAHy@BK?_A?qAGq@?C?{@?cCJi@FC?G@gBTiALG@sC^aAJc@DQBy@Da@?M?{@ESEMCc@I_AM}@SmDm@MCyAGC?C?qEBkBDC?mB@oDLeA?K?qA@K?aC?s@@i@@kA@aB?W?Q?oCI]AoAAyCEO?YAkBEyCCs@AaAAmCAcAAkC@c@@qA?oJEu@?mAAiCAu@?kA@y@FYBE?[Fk@POBa@Fs@F_@?q@@oDCiB@E?o@Dk@LI@{@Py@TSFy@X_@Lq@VsAn@u@`@e@R{@Xe@Ze@\\GFYTOJeAn@e@h@o@p@}@j@aA~@CB_@RWNa@TULeAd@g@R}@Pq@H{@Aq@GKCkBe@k@Wo@SMEw@U{@YsA_@ICy@SkA[_@Mu@WmAi@k@e@}@q@?AUe@Sw@GcAAaAEeB?e@?c@Am@?CIk@m@a@{@U[KuAa@mA[oA_@kAk@gA_@i@SGA}@_@oAg@qC}AaAi@WMcCqB_A}@s@aACCiAy@AAw@aAi@i@{@aAkAiBOU}@eAQS_AmAs@}@s@q@qCaCCCgAqAyAkAcCcCm@m@w@y@kAy@w@e@}@WcAUi@KuAQaAMeAK}@MaCw@m@c@i@g@MKy@o@uAcAoAgAsAaAi@g@_@]cBmA_BuAqAkAq@i@c@]s@u@cA_Ag@k@MSoB{Bc@q@u@_Aq@gAQSKMQYWYmBcCQYeA}AsAwB_CyDiAmBeAqBKQoDmHIS{@gAy@aAqAqAcBqBIIiAuAaAmAcBoBwBkCiE{E}B_CAAsCqDSW}CgEw@_AWQIEuAa@oCiAeDiBSKwCqAeCkAeBu@]MwCgA{Bw@qBm@C?gBg@gCo@qA]oAS]EQAUEaAQmAM_BUQGkCu@_@K_D_BcAm@k@m@k@{@O]wA}CyAmDu@kBYq@{@aCkAeDk@qBSm@aAgC}@kByAsC_@w@eAiBUc@aAoBaAqBQ_@u@yAc@gAo@yAuAsCAAmB}Dm@sAuAaDgAcCsAyCaAmBKSMMi@i@mAu@uBaBuBmBECm@e@aAw@iD_DwBcBu@m@}FuDkAi@yDiB{Aw@mAk@]GU?OA_Dn@E@_Ct@kAZk@NcBPmACm@EKAaBMy@QGA_Ca@m@OeAWy@Ss@SiBi@{Aa@uA_@k@OyA]cD}@qD{@EA_Dq@qCSqAKWGi@WaAQa@ImB_@wBa@iBYeAOkDi@iB[iAQk@Ik@G{BYYEeAQgAMsBQEA_@AcFY{EWcAE_COaCWyBSYCg@EaBO_@CsAICA_AKkAEWAI?UAiA@_@Fs@@C?_GG}AC??k@@_@BcAN{@\\c@Z{@l@KJW\\SXq@x@SXYt@KTCFENG\\M`@Ib@Kf@?BKl@c@hDCROtAQnBIv@?HG|@AXAb@@b@@`@Ht@V`A^|@Nz@Hx@@p@ATQj@Wt@aA~A]Re@XUBE@I?_@@q@AiBEs@Ek@AaA?a@BQ@OBA@I@o@FYFSD[@IA_@?c@GQImAg@YQg@SoA]gAQy@IiAE??c@@o@Bo@Le@ZSVMNc@r@k@dAOX??[p@[r@CDg@|@e@~@o@fAk@lAi@z@q@rA_@|@eAbCoA|CGPc@bAM\\q@dB[r@Yr@[v@KV_@|@GHu@~Am@pAk@hAs@nAu@~A?@q@zAkB`Ey@`B[p@Uh@s@vAy@|AeAbB{@fAGLILc@r@SVc@j@_AfAGHw@|@CDw@z@q@p@WXmAlAc@\\]VCBOLgAbAw@r@o@h@IH{@h@}@n@g@Zg@XkAr@iCdBE@]p@IZOj@SrAAJM~AOrBOdCMtBCb@GjAEf@IpAOfBCpAAdABx@?XFdBN|CDx@NfDRbENfCFvAFx@@`@?H?p@Mv@a@bBcBjGi@lBm@nBSn@q@fCU`AOj@a@vAe@vAw@zAi@z@_@n@MRyBlDsCpEKPwEhHA@IL{CzEaBnC[d@u@hAg@t@kCzDw@hAABk@x@g@p@EF_Av@iA`AsB|AGDi@`@k@d@]XgA~@e@f@OPy@x@y@h@K@a@FOBs@Eg@GYEkAWeA]oAc@SKUOYIQGyAk@mA]eADsAXSJ]Ra@TYN}@p@OJwA|@aB`Ak@^o@b@YPkA|@SNIDkAz@gAh@}ApASPqAv@{@|@wC`DMLQNe@b@MJwA|AoAt@ONeAz@i@r@UXUTi@j@aA~@kAZ_BBeACG?s@EWGcAa@u@WQGoA[QCC?oAO{AMgDIq@Ay@Em@CqA?uA?c@@[@yAJo@BaCHgB?yA?}BCiAC_AC_@AcBG}AAwAAS?{B?eBJwAASA_BF]@u@F{@@}@Do@@wBDkAJK@oBNgBXcBh@kBd@y@Pq@NqAJ_CUWCsAKA?uAOuA?mA^m@\\SJgAfAOTs@lAq@zA_A|A}@r@kAr@EBiB|@}Ad@oARWDwAH]@oAD[@aAF_B?u@Ci@AqAOA?OC{@OaAWu@K]?a@?mAH_@D{@HM@uAHqBPK@kANaAHW@cAHC?i@?y@KOCwB_@cAIW@_@@}@^IHi@h@w@~@k@x@EFg@z@e@`Ac@fAM`@EJ_AvCO^Yp@i@vAo@xAMTAB_@p@_A|Aw@|Ay@xAYfAA\\C|@BfBF`BFxBH~BDnAFzDVtF?FRbCLdB^rCTpBFf@LlBRfBT~Ah@tCPx@^vBHd@PdARfABp@E`AGTGV]j@OHWN{@LUAg@AsAGCAwA[qB_@_C]o@Mw@OUEqD{@cAYQGgAe@YUc@YUUQQkDcDgAcAsGcGcEwDmAiAmG_GwCqC[YQOeBaBe@c@_Aw@c@g@y@{@k@s@SQu@e@_@YaAm@[_@KKEEOIQK[UOKMEu@UQCYEc@CIAgEMY?M?K?Q@g@De@BS@M@QDQF_@LMF]Ve@Ty@d@QHUJi@VUNa@ZSLSLSPe@\\a@ZyAbAQPe@\\k@\\_Ap@KHULe@TMJOPKHQJw@^]JMDQFG@KBO@QB]Fk@La@Jq@NiARc@D_@H]DUFi@JoATkDf@mARe@LYDUBUBu@Nq@JcANODKBeANaATc@F]Fm@JWD_@D{@JWF}Ab@m@J_@@{@@{@@a@Bq@@C@g@BS@SDUDSF[FgAXOFgAd@MH]VOHKFMJIHe@`@KLSVQZADGJUXCDGLY\\KRw@nBIPUr@a@zAO`@EVKn@A@CRE\\Eh@I~@C^CpAKpFAd@KjACx@CZATKt@CPKf@O~@Q~@Kb@?@Kh@EPOv@Qr@Kp@ETAFMjAIt@ETOhAET]bCCTOxACNCRCVERC`AIn@O`BEf@Gj@Kj@GXADM`@EVUbAO~@K`@Yt@EFCDGFKJWLs@\\ODi@LQBo@Fs@A_@Ao@G}@IgAEuACsACi@@K?mAFm@?q@Di@DE@[F]D]H_@F_@HSFc@L[F_ARE?[DE@cAZMFu@VWHwAj@k@Ra@RUFQBE@c@J[DUDUH{@ZoA^UHi@Pc@Nq@REBIDIDSLMDC@c@Je@Pe@Hi@NWD{@Vi@TqAX_ATYHi@R_A^g@Ng@Ng@HWFy@T]JUDg@J{Ah@UFOFoAVg@NWFQFODSFQDUFODoAl@c@NYRo@X_@VA?]VQJMDmAn@C@QFe@LWHWJQFa@Dw@Na@HcAJi@@a@Bi@DA?S@KAI?WEWAKCOCo@UYMm@UKEOI[Oc@Mc@OuAi@_@OQGeAUOEOAg@Gq@Kq@Om@Gi@GMAUCc@Ae@ESAuAOm@Gg@CaAG_AM_@KMAa@GOAmAAM?[BO?_ADw@Ds@FeD^QBK@g@@W@c@Fg@BoALa@Dc@BOBe@Jg@NMDQDOBSDOBc@DQDUBw@JcAHmAHS@YFYDQD_@Ja@JqAPk@FO@SFc@J_@La@Hk@RQBq@NgALaAR{ATi@DyALUBG?{@B[D_@Ba@Da@B_@FM@a@?o@DsAPo@FS@c@BS@a@FM@Q?sAJYBE@c@Dy@H_BT_ALQ@a@@G?[Bw@@}@AWAK?e@Ea@Ga@EQCKEu@OQGMCQEm@Mc@Ku@SQE]I{B_@[EOAI?mGIs@Eq@AiAMQE}@YWKy@c@IGYSOIa@OAAw@[c@OWMGC}@_@OIWUOKKGWWUWUWk@_AUYm@{@SUm@y@o@q@W]U_@e@u@e@m@AAk@q@k@k@iAaAq@q@YSy@e@{@i@?A]SYQm@Om@MSE[E]Ao@?e@?}@BG?WBy@Fu@DqBLs@F{@Bc@D{@BgAFG@_BHYBSB[BG?U@qF?{@?u@?cBCy@AkAGQA{@IWE]EsBS]EkBU[Iy@[[IUIOGm@WYKMCg@Oa@OMEyB{@SIi@Og@U}@]SIa@Ii@UMEOCGAOGIE_@OYOk@YWOA?QIyAi@QIECmAk@s@[?A]KWG_@MUMu@[kAk@YKICg@Os@[UKOEICcBo@QIUKSGSI_AWi@U{Am@e@Ug@WSOOMe@_@UOIEEEWKAAOGc@UmAe@cAWeA]SGg@Sy@Uk@OWGy@[{Ae@AAuAi@OGWIe@IsAYYEk@MkAOUCk@MmAQoAYi@KQCWASCYIQGWGm@G[Gw@O]EgAO]Cm@Ca@E[Cq@CSCkAMy@EUAcAMiAK]GSCSEu@OMAWEq@I_De@o@OeAQ_@EWEYGm@Mm@Ik@Ok@KgAWs@QGAKEo@Sm@IUG[Kk@Yi@U{@[i@Mu@[MGGCKEoAYc@GA?SE_AEo@Ig@EOA{@GC?o@EMAc@Ey@EgEIgJOuHm@gBQo@?U?g@?m@FiALcDz@cC~@_A`@eAXC?_AFs@?cBJaBHaD?cBUcAQw@MwB{@cCuAaAk@iC_Am@GwAO_CGa@CcBGg@Q[OaAk@gEcD{CuBiFuDwDkCg@]mCeB_EaBiDmBeAu@_A}@AAu@eAwBsDgDkGiBkDqAuCe@cAoBsEyF}Is@gAmI_LKOc@k@AAgBiDm@gBu@gDq@{C}@{BYe@Wg@a@q@aA}@kBcB{@w@sAoAqBsBiDaFKQEKCKAICMAK?G?G@UPq@FQ\\_AtA{BLSr@mAVc@~BoE`BiCPWPY~AqCVe@J[Rm@LgAJqA@oA?C?]Cg@SoAOaAOaAKq@g@cBa@iAQg@{@iBMSw@uAwA}BgBgCc@m@}@oAk@gAi@y@cAsAaCkDwCkEaFeH[e@{@gAwAiBy@yAe@iAAGcBeFsAaE{BsG[aAM_@w@mBc@y@_AmAgCoD?AqBwCkBuCoAkBMQiBqCu@cAy@oBc@gBWsACMQcAWkA]mAa@u@i@w@m@m@i@e@{@q@wAw@}Ay@{B_Ac@QaBo@oBk@gBu@y@[{DoBsEmDgD_DgEcEg@e@kG}FqCiCoAwAk@o@wFaGqByBeDeEeC}CeAiAe@g@kBoBaAgAgAkA[c@[m@Sc@s@qB_@yB_@_BKg@m@mC{@gD_AmCcAiCe@aAiAeCq@qA]m@wBkDmCsD}@mA}AmBS_@Se@Si@Sm@UeA]eBOs@Ok@I]Me@O]"
-          }
-        ],
-        "displayName": "ADVERSE WEATHER Water over road",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Waka Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Yandama to Waka",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "AdverseWeather"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 264753,
       "geometry": {
         "type": "Point",
@@ -1788,6 +1710,84 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Hawker Gate to Yandama",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.299623,
+          -29.580608
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770870744000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Never drive through floodwater",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "ADVERSE WEATHER",
+        "lastUpdated": 1783869589127,
+        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "tyetDsrf}YOFY@m@Em@CeFk@o@GeBUQAaGKW?s@?}CA}CAy@A}BCkB?oAAaAAe@AeC?iA?sECoECgB?gA?eEAmD?G?qDCoB?gA?wA?sA?sB@{F@yJ@gAAs@?q@?eDG_@?wCCI?UAyBG_G@g@?iA?K?kDEsB?mA?uAByB@iD@qA?mBCmC?MAmAAyAAa@AcBAiC?M@aAHI?w@?_A?S?q@?aA@_A@eB?[?iAA}DAs@AmAHy@BK?_A?qAGq@?C?{@?cCJi@FC?G@gBTiALG@sC^aAJc@DQBy@Da@?M?{@ESEMCc@I_AM}@SmDm@MCyAGC?C?qEBkBDC?mB@oDLeA?K?qA@K?aC?s@@i@@kA@aB?W?Q?oCI]AoAAyCEO?YAkBEyCCs@AaAAmCAcAAkC@c@@qA?oJEu@?mAAiCAu@?kA@y@FYBE?[Fk@POBa@Fs@F_@?q@@oDCiB@E?o@Dk@LI@{@Py@TSFy@X_@Lq@VsAn@u@`@e@R{@Xe@Ze@\\GFYTOJeAn@e@h@o@p@}@j@aA~@CB_@RWNa@TULeAd@g@R}@Pq@H{@Aq@GKCkBe@k@Wo@SMEw@U{@YsA_@ICy@SkA[_@Mu@WmAi@k@e@}@q@?AUe@Sw@GcAAaAEeB?e@?c@Am@?CIk@m@a@{@U[KuAa@mA[oA_@kAk@gA_@i@SGA}@_@oAg@qC}AaAi@WMcCqB_A}@s@aACCiAy@AAw@aAi@i@{@aAkAiBOU}@eAQS_AmAs@}@s@q@qCaCCCgAqAyAkAcCcCm@m@w@y@kAy@w@e@}@WcAUi@KuAQaAMeAK}@MaCw@m@c@i@g@MKy@o@uAcAoAgAsAaAi@g@_@]cBmA_BuAqAkAq@i@c@]s@u@cA_Ag@k@MSoB{Bc@q@u@_Aq@gAQSKMQYWYmBcCQYeA}AsAwB_CyDiAmBeAqBKQoDmHIS{@gAy@aAqAqAcBqBIIiAuAaAmAcBoBwBkCiE{E}B_CAAsCqDSW}CgEw@_AWQIEuAa@oCiAeDiBSKwCqAeCkAeBu@]MwCgA{Bw@qBm@C?gBg@gCo@qA]oAS]EQAUEaAQmAM_BUQGkCu@_@K_D_BcAm@k@m@k@{@O]wA}CyAmDu@kBYq@{@aCkAeDk@qBSm@aAgC}@kByAsC_@w@eAiBUc@aAoBaAqBQ_@u@yAc@gAo@yAuAsCAAmB}Dm@sAuAaDgAcCsAyCaAmBKSMMi@i@mAu@uBaBuBmBECm@e@aAw@iD_DwBcBu@m@}FuDkAi@yDiB{Aw@mAk@]GU?OA_Dn@E@_Ct@kAZk@NcBPmACm@EKAaBMy@QGA_Ca@m@OeAWy@Ss@SiBi@{Aa@uA_@k@OyA]cD}@qD{@EA_Dq@qCSqAKWGi@WaAQa@ImB_@wBa@iBYeAOkDi@iB[iAQk@Ik@G{BYYEeAQgAMsBQEA_@AcFY{EWcAE_COaCWyBSYCg@EaBO_@CsAICA_AKkAEWAI?UAiA@_@Fs@@C?_GG}AC??k@@_@BcAN{@\\c@Z{@l@KJW\\SXq@x@SXYt@KTCFENG\\M`@Ib@Kf@?BKl@c@hDCROtAQnBIv@?HG|@AXAb@@b@@`@Ht@V`A^|@Nz@Hx@@p@ATQj@Wt@aA~A]Re@XUBE@I?_@@q@AiBEs@Ek@AaA?a@BQ@OBA@I@o@FYFSD[@IA_@?c@GQImAg@YQg@SoA]gAQy@IiAE??c@@o@Bo@Le@ZSVMNc@r@k@dAOX??[p@[r@CDg@|@e@~@o@fAk@lAi@z@q@rA_@|@eAbCoA|CGPc@bAM\\q@dB[r@Yr@[v@KV_@|@GHu@~Am@pAk@hAs@nAu@~A?@q@zAkB`Ey@`B[p@Uh@s@vAy@|AeAbB{@fAGLILc@r@SVc@j@_AfAGHw@|@CDw@z@q@p@WXmAlAc@\\]VCBOLgAbAw@r@o@h@IH{@h@}@n@g@Zg@XkAr@iCdBE@]p@IZOj@SrAAJM~AOrBOdCMtBCb@GjAEf@IpAOfBCpAAdABx@?XFdBN|CDx@NfDRbENfCFvAFx@@`@?H?p@Mv@a@bBcBjGi@lBm@nBSn@q@fCU`AOj@a@vAe@vAw@zAi@z@_@n@MRyBlDsCpEKPwEhHA@IL{CzEaBnC[d@u@hAg@t@kCzDw@hAABk@x@g@p@EF_Av@iA`AsB|AGDi@`@k@d@]XgA~@e@f@OPy@x@y@h@K@a@FOBs@Eg@GYEkAWeA]oAc@SKUOYIQGyAk@mA]eADsAXSJ]Ra@TYN}@p@OJwA|@aB`Ak@^o@b@YPkA|@SNIDkAz@gAh@}ApASPqAv@{@|@wC`DMLQNe@b@MJwA|AoAt@ONeAz@i@r@UXUTi@j@aA~@kAZ_BBeACG?s@EWGcAa@u@WQGoA[QCC?oAO{AMgDIq@Ay@Em@CqA?uA?c@@[@yAJo@BaCHgB?yA?}BCiAC_AC_@AcBG}AAwAAS?{B?eBJwAASA_BF]@u@F{@@}@Do@@wBDkAJK@oBNgBXcBh@kBd@y@Pq@NqAJ_CUWCsAKA?uAOuA?mA^m@\\SJgAfAOTs@lAq@zA_A|A}@r@kAr@EBiB|@}Ad@oARWDwAH]@oAD[@aAF_B?u@Ci@AqAOA?OC{@OaAWu@K]?a@?mAH_@D{@HM@uAHqBPK@kANaAHW@cAHC?i@?y@KOCwB_@cAIW@_@@}@^IHi@h@w@~@k@x@EFg@z@e@`Ac@fAM`@EJ_AvCO^Yp@i@vAo@xAMTAB_@p@_A|Aw@|Ay@xAYfAA\\C|@BfBF`BFxBH~BDnAFzDVtF?FRbCLdB^rCTpBFf@LlBRfBT~Ah@tCPx@^vBHd@PdARfABp@E`AGTGV]j@OHWN{@LUAg@AsAGCAwA[qB_@_C]o@Mw@OUEqD{@cAYQGgAe@YUc@YUUQQkDcDgAcAsGcGcEwDmAiAmG_GwCqC[YQOeBaBe@c@_Aw@c@g@y@{@k@s@SQu@e@_@YaAm@[_@KKEEOIQK[UOKMEu@UQCYEc@CIAgEMY?M?K?Q@g@De@BS@M@QDQF_@LMF]Ve@Ty@d@QHUJi@VUNa@ZSLSLSPe@\\a@ZyAbAQPe@\\k@\\_Ap@KHULe@TMJOPKHQJw@^]JMDQFG@KBO@QB]Fk@La@Jq@NiARc@D_@H]DUFi@JoATkDf@mARe@LYDUBUBu@Nq@JcANODKBeANaATc@F]Fm@JWD_@D{@JWF}Ab@m@J_@@{@@{@@a@Bq@@C@g@BS@SDUDSF[FgAXOFgAd@MH]VOHKFMJIHe@`@KLSVQZADGJUXCDGLY\\KRw@nBIPUr@a@zAO`@EVKn@A@CRE\\Eh@I~@C^CpAKpFAd@KjACx@CZATKt@CPKf@O~@Q~@Kb@?@Kh@EPOv@Qr@Kp@ETAFMjAIt@ETOhAET]bCCTOxACNCRCVERC`AIn@O`BEf@Gj@Kj@GXADM`@EVUbAO~@K`@Yt@EFCDGFKJWLs@\\ODi@LQBo@Fs@A_@Ao@G}@IgAEuACsACi@@K?mAFm@?q@Di@DE@[F]D]H_@F_@HSFc@L[F_ARE?[DE@cAZMFu@VWHwAj@k@Ra@RUFQBE@c@J[DUDUH{@ZoA^UHi@Pc@Nq@REBIDIDSLMDC@c@Je@Pe@Hi@NWD{@Vi@TqAX_ATYHi@R_A^g@Ng@Ng@HWFy@T]JUDg@J{Ah@UFOFoAVg@NWFQFODSFQDUFODoAl@c@NYRo@X_@VA?]VQJMDmAn@C@QFe@LWHWJQFa@Dw@Na@HcAJi@@a@Bi@DA?S@KAI?WEWAKCOCo@UYMm@UKEOI[Oc@Mc@OuAi@_@OQGeAUOEOAg@Gq@Kq@Om@Gi@GMAUCc@Ae@ESAuAOm@Gg@CaAG_AM_@KMAa@GOAmAAM?[BO?_ADw@Ds@FeD^QBK@g@@W@c@Fg@BoALa@Dc@BOBe@Jg@NMDQDOBSDOBc@DQDUBw@JcAHmAHS@YFYDQD_@Ja@JqAPk@FO@SFc@J_@La@Hk@RQBq@NgALaAR{ATi@DyALUBG?{@B[D_@Ba@Da@B_@FM@a@?o@DsAPo@FS@c@BS@a@FM@Q?sAJYBE@c@Dy@H_BT_ALQ@a@@G?[Bw@@}@AWAK?e@Ea@Ga@EQCKEu@OQGMCQEm@Mc@Ku@SQE]I{B_@[EOAI?mGIs@Eq@AiAMQE}@YWKy@c@IGYSOIa@OAAw@[c@OWMGC}@_@OIWUOKKGWWUWUWk@_AUYm@{@SUm@y@o@q@W]U_@e@u@e@m@AAk@q@k@k@iAaAq@q@YSy@e@{@i@?A]SYQm@Om@MSE[E]Ao@?e@?}@BG?WBy@Fu@DqBLs@F{@Bc@D{@BgAFG@_BHYBSB[BG?U@qF?{@?u@?cBCy@AkAGQA{@IWE]EsBS]EkBU[Iy@[[IUIOGm@WYKMCg@Oa@OMEyB{@SIi@Og@U}@]SIa@Ii@UMEOCGAOGIE_@OYOk@YWOA?QIyAi@QIECmAk@s@[?A]KWG_@MUMu@[kAk@YKICg@Os@[UKOEICcBo@QIUKSGSI_AWi@U{Am@e@Ug@WSOOMe@_@UOIEEEWKAAOGc@UmAe@cAWeA]SGg@Sy@Uk@OWGy@[{Ae@AAuAi@OGWIe@IsAYYEk@MkAOUCk@MmAQoAYi@KQCWASCYIQGWGm@G[Gw@O]EgAO]Cm@Ca@E[Cq@CSCkAMy@EUAcAMiAK]GSCSEu@OMAWEq@I_De@o@OeAQ_@EWEYGm@Mm@Ik@Ok@KgAWs@QGAKEo@Sm@IUG[Kk@Yi@U{@[i@Mu@[MGGCKEoAYc@GA?SE_AEo@Ig@EOA{@GC?o@EMAc@Ey@EgEIgJOuHm@gBQo@?U?g@?m@FiALcDz@cC~@_A`@eAXC?_AFs@?cBJaBHaD?cBUcAQw@MwB{@cCuAaAk@iC_Am@GwAO_CGa@CcBGg@Q[OaAk@gEcD{CuBiFuDwDkCg@]mCeB_EaBiDmBeAu@_A}@AAu@eAwBsDgDkGiBkDqAuCe@cAoBsEyF}Is@gAmI_LKOc@k@AAgBiDm@gBu@gDq@{C}@{BYe@Wg@a@q@aA}@kBcB{@w@sAoAqBsBiDaFKQEKCKAICMAK?G?G@UPq@FQ\\_AtA{BLSr@mAVc@~BoE`BiCPWPY~AqCVe@J[Rm@LgAJqA@oA?C?]Cg@SoAOaAOaAKq@g@cBa@iAQg@{@iBMSw@uAwA}BgBgCc@m@}@oAk@gAi@y@cAsAaCkDwCkEaFeH[e@{@gAwAiBy@yAe@iAAGcBeFsAaE{BsG[aAM_@w@mBc@y@_AmAgCoD?AqBwCkBuCoAkBMQiBqCu@cAy@oBc@gBWsACMQcAWkA]mAa@u@i@w@m@m@i@e@{@q@wAw@}Ay@{B_Ac@QaBo@oBk@gBu@y@[{DoBsEmDgD_DgEcEg@e@kG}FqCiCoAwAk@o@wFaGqByBeDeEeC}CeAiAe@g@kBoBaAgAgAkA[c@[m@Sc@s@qB_@yB_@_BKg@m@mC{@gD_AmCcAiCe@aAiAeCq@qA]m@wBkDmCsD}@mA}AmBS_@Se@Si@Sm@UeA]eBOs@Ok@I]Me@O]"
+          }
+        ],
+        "displayName": "ADVERSE WEATHER Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Waka Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Yandama to Waka",
             "trafficVolume": ""
           }
         ],
@@ -1903,98 +1903,12 @@
     },
     {
       "type": "Feature",
-      "id": 279797,
+      "id": 279794,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.0381939,
-          -30.3271157
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              141.631339,
-              -30.196985
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1782779031000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Water over road",
-        "adviceA": "Never drive through floodwater",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "ADVERSE WEATHER",
-        "lastUpdated": 1783869589952,
-        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "dzhwDmkm_ZC{EGgLEgEC{B?eAc@uJBcAEm@OgB?CIe@Ks@Ik@ESESMe@Y_AISCKQYQ[OU[YWY_@]OQe@g@s@{@g@q@u@mAqAuCoAsC?A_@uBMk@_@oDkByLAG}AkHe@yB{@{DEg@G_@Cc@CWIi@OcBo@kGSaBM}@Ge@Gi@Mg@Uo@Sq@Um@g@qAo@yAi@eAm@iAm@eA_@q@q@aA}DgFIKCOAO@e@AKKWGIMGSI_AIwAC_FE_AAgBC{AEgAGmBM_AGs@Gk@GkASs@Og@M{@Qq@OiDu@iCm@aAQUGKCYGm@Mu@U}@Uo@S_A]]UoAcAUQiAcA_BuAIIaAeAc@e@{@aAII{@kAW]i@q@GIi@q@yAeBi@i@CCo@s@a@]QSQQUQ?AMKUQIIg@]YUc@YWUCCOWIOCEM[K_@AGc@eB?EMq@Im@AaA?EBg@Hm@HYF[@AHSHSJSNSRQZ[XYZ[V]Xk@N_@@AJe@?AH_@B_@@W?C?[?AEYUq@O[CGCEMOKWM_@Kk@E[Ac@M_AEUGSIWOYaAaBW_@]k@aAcBc@u@KQ]m@_AgBGKe@u@QWM[m@gAOWKQS]AE_A_BKQyBoDAAe@aAo@oA}EoIm@cA?AkAmBw@yAo@iAa@q@aB{CkCqEWc@aBuCqCgFOWgEwH[s@Oa@Oi@CIo@qAGQGKU_@{@cAmCgCOOUWq@q@}@}@k@m@y@w@}@_AQMi@e@y@w@}@}@qBoB[YWUYUsBsBqAmA[Yq@u@g@g@MK_A}@UWe@c@]a@cAaACAmAoA{AyAeA_AIGs@m@MKo@e@aB{A_@a@Wa@O]GW??CIGc@Gg@EcAA}@IgCImDEmBOyF@q@@{@Bk@Dc@Fi@NiAz@yFVcBd@sCt@{FNeAvAiJNeApBuNh@mDr@iF`@uC\\wBHo@fBeMPiAd@eDj@cENaAbA}GJw@VqBJm@NeAZcCPuARkA^kChAoId@eDJs@^gCFYDSDSHc@Ni@Vs@FSXiAn@kBDMLYDO^q@TWBCf@{@jAiBjAmBTa@vBeDnCgE?ApCiEjCgEb@q@h@}@zDoGLUVc@`@u@Zq@pAwCZw@Tk@Ro@h@_B\\mANgAN_BJkAJkAPeCPeBTgD^cEDw@JsAd@kGRmBJiBD[PmBHiADi@d@wFBe@Fy@RoBLwAFiABq@BSHs@PqAP}@LcALy@@IZ_CHi@@INiAXkCFg@BUNwALyAFk@\\wCv@qHHq@Fc@NmALeA\\aDVaDH_ABSHkAHqAFyB@w@Bw@?g@@i@DyB?eA@aB@uBBcA@k@B_AB]B_@RcBN_AP_ANqANeARoAHm@ViBx@oFF]Jm@f@qDPiA^}BXiABQ~@aFJQt@qEDUBQP{@x@gEPi@Vu@L]HOX]VUxBiA`CmARKbCoAvBgA`CkApDgBzAw@TQFETSVQ^]V]b@_@bAiAdCuCLO~@iAJIfBkBvC}CjAoAl@i@xBcCn@w@jAuAt@}@hDwDX[bEoEvA{An@s@tCyC|A_BbAkATUz@y@z@}@dBiB~A_BRS|@aALOzBaClBqBVUJKx@w@tAyA`@c@HI`@a@dBiB?AnB{B`AaAnAwAdAmAbDyDb@g@tAaBb@g@d@i@vAgBl@y@XYbAwAh@{@HK|@uAXe@x@oAd@y@d@q@r@mAt@qAx@kBf@qA@C^cATo@Xm@?CN]b@s@R_@\\m@hBkCXg@Ta@Rc@Pa@Ts@ZgAZsAP{@@INeANcB?EFy@@G?Y@eAJaC@c@BMh@gG\\{DDm@f@uGB]LsAJ_AFc@BWDSD]b@mBViAv@wCd@aBZeA|@uCd@mAZk@Vc@n@w@FEPOVWZU\\Wh@]`@Sj@Wp@Wf@Oh@Kp@INA@?`@@TBr@LzAd@|@\\bAb@tAv@HDnA|@`An@HF~@r@x@h@nAv@hAx@FDv@b@bAp@r@d@b@VRJVHRFd@T~@XTFLFP?JATAd@YXe@P]L]Pg@Lk@Hu@B[FWFs@Fm@Lu@PaArAoD~AaDrB{C`Au@n@k@rDkBrDiCbBcCzEwHfCmFlAsBfB{BfAaAz@o@hM_H^UXW^c@Zc@Xs@h@uA\\o@PYBEV[Z[\\S|HyDzDmBfGsCb@SfLiEjDeAdEgA~A]pA[lBa@lBq@|Bu@nCcArC}ApCkAlCmAHCbAa@t@]n@]x@a@RM`@YLIz@m@nBuA`BoAHG|AeAxByA|BwAbAk@dAk@VMnAs@pAo@lAs@|A{@d@Wn@[`FkCxBmAxAw@dAo@x@a@z@q@l@a@VW^]l@m@~@cAr@{@t@eAVa@Vi@FSLg@R_AHi@vAkGLi@NYJORU\\Kp@Mv@O@Af@Mn@_@n@m@p@{@`@s@t@sArA_DfDgIhDeItBcF|@sBv@wAPUb@q@jBoClCkDdBmCl@y@~@sAvB}C`AyAtCaEpAkBRYzAsBtAwBhA}AVa@r@cAlAgBbAyAlAeBRYb@m@t@_Az@gAJK|@aAnAwAPOr@w@bA}@jAcAx@k@fBkA~AiArA}@jD{BZQLIZQfAm@pAm@vAu@pBcAjB_AtCsAvBeAXMpAk@bCqAvAu@v@a@h@WHGz@]dAc@TMh@WhAc@`Ae@~@_@LG`FuBt@a@bAe@vBaAz@[n@Yj@KNEb@Mx@Q~@MnAQh@KtAOhAK@?bA?vCEb@Cb@G~@Sh@Od@UB?h@Q|@UhA]tAc@t@YnCoA`@S`@Yx@[bAa@\\If@IPCXCzAEdBMZAXAPAf@GXGTGPIRKd@[RORQZSNO\\_@Xg@LWRi@JWNk@Hc@LcAlAeI@I@KN{@\\}BF]F]DSNo@Xy@L_@`@w@`B{C`BwCXc@n@gA@CdAkBb@{@Zq@`AyBb@kAHSxA{DTo@v@wBNa@Ja@Jg@FWDUN}@D]Lm@Lo@RaAJk@Ls@Pw@HeAJkAJcCL}DBwA?i@Ca@ACO}AIe@CYEw@?W@YBYF_@DSFa@R_Ad@kBFWDQVe@LSLSPSj@g@`@YxCgBZQNIf@]v@a@p@g@h@]LKpAu@\\SVUZY@AxAeB`AeA\\a@jBmBzAwAz@_An@o@\\[`AaAh@e@\\Yf@g@z@}@X_@^i@FMPYp@iBt@{A`@w@f@y@T[X]j@g@VUx@i@t@a@\\Wz@w@b@g@^a@f@o@NUzAaCbAcBhA}B^}@f@cAp@uAvAaDRg@VaATmAZ_Bp@aCReADQTaBj@aEf@{C^}BZqBb@oCFs@B_A@Y?c@Ci@KcB_@eCEWIy@KgAc@eFCYOgBo@oIIyAu@mHGUu@yCmC_IqBaF_@_BOiAI}A@s@@}@Du@H}@PkCDkAHuAHaAJmA?CFc@F[Jm@Rm@RcAV_AlAaE|@uCz@kChAeDDQ@GDWPuA\\yB`@_CNw@RqAJk@\\iBRuALk@Ry@@INs@Js@Ni@VcA^mBLm@Z}@DMVs@Nk@Pi@Lg@Xu@Vq@N]Pq@t@sAT]|@kA`@e@^[VU|@{@`Aw@hA_@lAk@ZSh@g@Zc@HQHUH]H[h@{BTmANi@Nm@BMF]Hk@PqAFg@NkCD}@?o@?A?sACi@Cc@Ai@G{@QcBOmAOy@CIOw@YqAUmAk@uBw@uCQm@Wy@q@cBiCoGIUACoAyCYy@Qk@Mc@Ga@Gc@I{@A_@@Q?S@_@Ba@P_Bb@iDd@yCh@qDBOP}@H]ViA^wALi@Ty@\\cBj@sBn@qCV}@ZoAh@yBxAuG@Ch@uB\\{ALi@Ja@BY@O?EGo@WqB[aB]gBk@oCUeAYmAGSMo@Kq@UeBGw@Gq@Ew@Ag@CkBCe@@O?m@@i@FmADa@Hc@\\{@Rc@dAyANSt@_AVc@X_@PUDGZa@d@aAH_@Dc@?e@AI]sBwAuFu@mD[aBiAkFcBoIGk@AQ?M@o@@UBUBWFYLYVg@LU|@{ALS|@{AlCiEjA{AhDwDhAiAt@w@`AcAdAaAr@s@~@kA`@k@hAgBbBuChCuEr@sAZm@Xg@Pa@Pg@^uADg@Di@@g@AIAk@E}@GgAEeAImBSkKEsACe@E{@EqAKgBEwAUwDCg@M}B]uFQiC?CYaDIoA]eDGaAQiCIyABk@H}@Vy@Zs@^u@tCqE"
-          }
-        ],
-        "displayName": "ADVERSE WEATHER Water over road",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Silver City Highway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Mount Arrowsmith Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "Pimpara Lake Road",
-            "suburb": "Packsaddle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "AdverseWeather"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 273142,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.61301,
-          -29.110796
+          142.327316,
+          -29.463568
         ],
         "collections": []
       },
@@ -2012,7 +1926,7 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777866678000,
+        "created": 1782778841000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "Water over road",
@@ -2021,7 +1935,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "ADVERSE WEATHER",
-        "lastUpdated": 1783869590163,
+        "lastUpdated": 1783869590566,
         "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -2032,7 +1946,7 @@
           {
             "levels": "",
             "direction": "BOTH_DIRECTIONS",
-            "coords": "hpoqDipt_ZoQbEuDdAiA^uAb@mEvAeCz@a@NeErA_EtAw@VoBp@eDbAeCz@MDsBt@wBn@wDjAC@eCx@eHvBc@NcKdDuDjA}@X{GrBqAb@iC|@gBt@eDzAEBkEvBkEhBwEtBwB`AgGpCC@i@V}At@eCfAcChAA?qFhCsB~@q@\\{@`@_Bz@_Bv@sAv@}@h@SLkAr@uA|@_BfAeBnAeCrBqBnA{Av@eCv@{B`@{D^{CPs@B}@BiBDwCFwADi@@}CJO@{ADO?kCF_BHqDNs@@sDFS@}@@YAs@C_BI]Eq@I{AWoDc@}G{@y@KaG_AgASiB[a@GYCm@Ek@C}AEg@@uA@aAFsAFwAFS@_IZu@Dc@BoHZ}KZc@@mBFqDH_A@uCJwEP{DFsFF_FNcDLcFRuCHm@?m@@u@AiA?uEG}@CyCE]AyDCoAAcHMiBCgDMoCM]A_BG_Je@e@AkH]G?eBKyKg@YCqIi@iFQa@AiA@mB?}G`@a@BsDL_ADwCNsM|@mG^o@F{CZwDNOBeAFA?yABu@?_BAcE@oG?K@y@@wACsDK_@AkBCwEIuIKaDCgFEw@AqIIcIJ_GHkGHgABiBBqDBcD@mCFwALe@Hi@Js@Pw@Zq@Zq@\\oCrAqDfBmB|@uMtFwFfC_FxBuJfEmHpC_GbBqDpAmAj@u@`@u@j@Yf@OTUn@QpA?jAXtENrD\\tF@RtA`KD`@d@hEhApK@D^lFJpAFl@l@|HV`Dj@bJNxB@|@IhAC\\YdC{@lGqAvKYvBi@`Ea@dDYbCmAfKs@`FSfAENSr@EJsF|HeDvEmCxDcAxAoGnIY\\}G~IEHoMvRcBrBuFzGqEhH{@tAEHoAfCcApB_B~F_@|@]n@q@l@k@d@KH]VwB`BqCtBgDxAcElAqA^eEh@a@FqD`@_D\\s@LoKdBw@RkCr@[P_@P_Ad@_@RwAdAaAt@iCrBkDlCwKbI{AtAoBfBoBdBcEtDgA`AsBzBiBnB_DhDu@p@sHzGKJgG|F]ZkCzBcBxAyEnCgGxEsKnIoLrJA@y@n@iHvFs@f@kGnEu@f@uGnEsFjDyBvAmBlAcIxEsAv@e@XmBhA{Bv@gE|@QDQ@{D`@YBcJr@}Gh@eGd@U@sDVmCPyF\\mDTmADc@@qK^[@wEHwDFgBDuEF?@}@HeANu@\\oAz@OJcBpAk@`@}PrOMJeA`AoF`FeCnCwDxHuF`NeChG{@bAmP`OqJdJcPrO}I`IaAn@u@\\{@ZoEj@qHnA}G~AeNlD{GjA{Bf@sAXWDa@LMHg@b@i@l@CBm@n@_@\\SPe@n@[f@[d@g@t@[b@a@^iAfAsCpCaAhA_ClCEDoBlCSVGJQTMLW\\MNONIJMRa@h@W\\QPQLKLY^KPKJONMJq@VA@OFMFSF_@Pc@Lw@To@RE@o@NYHSDO@y@H]Be@B]B_CN"
+            "coords": "fo_sDeydcZi@cCScB]}C}AwNSoBEwA?iADmFNaONaOBwD?kIAcEEyBK}BEcACg@Q}AWeB_@{Ba@iC}@{F}@sFgAyGaAoEK_@s@aCeCkHkEiMsDuK{EaMEKm@mBg@kBuAqFA?_@oBESwCiNkBsIk@uCwCkNCQ{WynAUgAe@gBQw@Sk@M[Se@Qa@i@cAWi@ygAkyBuKwTwF}KmOqZcBeDuBeEkEsIEGgFkKaAkBe@}@e@{@i@aAW_@a@i@[_@c@g@y@w@yCgCi@e@wBiBcAgAc@k@S_@kEoJyYsn@{@kBc@eAUi@cK_X{AkDeD_IyBmFcDwHSk@EMo@kCu@{BkBaEyC}FgAiCaAaCCGaC_Gq@qBi@gBg@aBQaAOcBCYGyA@s@FeAJ}@Le@Pc@Zg@HMl@y@pDsCxCeCdAqAh@w@\\i@XgAJ_A?gACSKq@Q{@mAoDwE{JIMg@gAa@w@So@Ke@ESSsAIeAGqBAiBDmGFiAPiCZ_DZiB`@sAZ{@p@}ALa@Ny@VqCRiD??Oc@Ig@M[U]YW[OUK]IiAIa@CaCHeFJoCTiBRs@H}BZQDwDl@aCFgEYoAIwH]uJo@y@IgCSiA[g@MkBq@UGmF{AkEoA{Ac@aIgBqEcAwE_AaDu@wCkAoDaB[O_GoCEC}IsEyBy@_@EKC"
           }
         ],
         "displayName": "ADVERSE WEATHER Water over road",
@@ -2052,7 +1966,7 @@
               }
             ],
             "locationQualifier": "at",
-            "mainStreet": "Toona Gate Road",
+            "mainStreet": "Narriearra Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Far West NSW",
@@ -2145,84 +2059,6 @@
     },
     {
       "type": "Feature",
-      "id": 279794,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.327316,
-          -29.463568
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1782778841000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Water over road",
-        "adviceA": "Never drive through floodwater",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "ADVERSE WEATHER",
-        "lastUpdated": 1783869590566,
-        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "fo_sDeydcZi@cCScB]}C}AwNSoBEwA?iADmFNaONaOBwD?kIAcEEyBK}BEcACg@Q}AWeB_@{Ba@iC}@{F}@sFgAyGaAoEK_@s@aCeCkHkEiMsDuK{EaMEKm@mBg@kBuAqFA?_@oBESwCiNkBsIk@uCwCkNCQ{WynAUgAe@gBQw@Sk@M[Se@Qa@i@cAWi@ygAkyBuKwTwF}KmOqZcBeDuBeEkEsIEGgFkKaAkBe@}@e@{@i@aAW_@a@i@[_@c@g@y@w@yCgCi@e@wBiBcAgAc@k@S_@kEoJyYsn@{@kBc@eAUi@cK_X{AkDeD_IyBmFcDwHSk@EMo@kCu@{BkBaEyC}FgAiCaAaCCGaC_Gq@qBi@gBg@aBQaAOcBCYGyA@s@FeAJ}@Le@Pc@Zg@HMl@y@pDsCxCeCdAqAh@w@\\i@XgAJ_A?gACSKq@Q{@mAoDwE{JIMg@gAa@w@So@Ke@ESSsAIeAGqBAiBDmGFiAPiCZ_DZiB`@sAZ{@p@}ALa@Ny@VqCRiD??Oc@Ig@M[U]YW[OUK]IiAIa@CaCHeFJoCTiBRs@H}BZQDwDl@aCFgEYoAIwH]uJo@y@IgCSiA[g@MkBq@UGmF{AkEoA{Ac@aIgBqEcAwE_AaDu@wCkAoDaB[O_GoCEC}IsEyBy@_@EKC"
-          }
-        ],
-        "displayName": "ADVERSE WEATHER Water over road",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Narriearra Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Tibooburra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "AdverseWeather"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 131798,
       "geometry": {
         "type": "Point",
@@ -2297,6 +2133,170 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Monolon to Borrona Downs",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.61301,
+          -29.110796
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777866678000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Never drive through floodwater",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "ADVERSE WEATHER",
+        "lastUpdated": 1783869590163,
+        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "hpoqDipt_ZoQbEuDdAiA^uAb@mEvAeCz@a@NeErA_EtAw@VoBp@eDbAeCz@MDsBt@wBn@wDjAC@eCx@eHvBc@NcKdDuDjA}@X{GrBqAb@iC|@gBt@eDzAEBkEvBkEhBwEtBwB`AgGpCC@i@V}At@eCfAcChAA?qFhCsB~@q@\\{@`@_Bz@_Bv@sAv@}@h@SLkAr@uA|@_BfAeBnAeCrBqBnA{Av@eCv@{B`@{D^{CPs@B}@BiBDwCFwADi@@}CJO@{ADO?kCF_BHqDNs@@sDFS@}@@YAs@C_BI]Eq@I{AWoDc@}G{@y@KaG_AgASiB[a@GYCm@Ek@C}AEg@@uA@aAFsAFwAFS@_IZu@Dc@BoHZ}KZc@@mBFqDH_A@uCJwEP{DFsFF_FNcDLcFRuCHm@?m@@u@AiA?uEG}@CyCE]AyDCoAAcHMiBCgDMoCM]A_BG_Je@e@AkH]G?eBKyKg@YCqIi@iFQa@AiA@mB?}G`@a@BsDL_ADwCNsM|@mG^o@F{CZwDNOBeAFA?yABu@?_BAcE@oG?K@y@@wACsDK_@AkBCwEIuIKaDCgFEw@AqIIcIJ_GHkGHgABiBBqDBcD@mCFwALe@Hi@Js@Pw@Zq@Zq@\\oCrAqDfBmB|@uMtFwFfC_FxBuJfEmHpC_GbBqDpAmAj@u@`@u@j@Yf@OTUn@QpA?jAXtENrD\\tF@RtA`KD`@d@hEhApK@D^lFJpAFl@l@|HV`Dj@bJNxB@|@IhAC\\YdC{@lGqAvKYvBi@`Ea@dDYbCmAfKs@`FSfAENSr@EJsF|HeDvEmCxDcAxAoGnIY\\}G~IEHoMvRcBrBuFzGqEhH{@tAEHoAfCcApB_B~F_@|@]n@q@l@k@d@KH]VwB`BqCtBgDxAcElAqA^eEh@a@FqD`@_D\\s@LoKdBw@RkCr@[P_@P_Ad@_@RwAdAaAt@iCrBkDlCwKbI{AtAoBfBoBdBcEtDgA`AsBzBiBnB_DhDu@p@sHzGKJgG|F]ZkCzBcBxAyEnCgGxEsKnIoLrJA@y@n@iHvFs@f@kGnEu@f@uGnEsFjDyBvAmBlAcIxEsAv@e@XmBhA{Bv@gE|@QDQ@{D`@YBcJr@}Gh@eGd@U@sDVmCPyF\\mDTmADc@@qK^[@wEHwDFgBDuEF?@}@HeANu@\\oAz@OJcBpAk@`@}PrOMJeA`AoF`FeCnCwDxHuF`NeChG{@bAmP`OqJdJcPrO}I`IaAn@u@\\{@ZoEj@qHnA}G~AeNlD{GjA{Bf@sAXWDa@LMHg@b@i@l@CBm@n@_@\\SPe@n@[f@[d@g@t@[b@a@^iAfAsCpCaAhA_ClCEDoBlCSVGJQTMLW\\MNONIJMRa@h@W\\QPQLKLY^KPKJONMJq@VA@OFMFSF_@Pc@Lw@To@RE@o@NYHSDO@y@H]Be@B]B_CN"
+          }
+        ],
+        "displayName": "ADVERSE WEATHER Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Toona Gate Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Tibooburra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0381939,
+          -30.3271157
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              141.631339,
+              -30.196985
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1782779031000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Never drive through floodwater",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "ADVERSE WEATHER",
+        "lastUpdated": 1783869589952,
+        "otherAdvice": "<p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "dzhwDmkm_ZC{EGgLEgEC{B?eAc@uJBcAEm@OgB?CIe@Ks@Ik@ESESMe@Y_AISCKQYQ[OU[YWY_@]OQe@g@s@{@g@q@u@mAqAuCoAsC?A_@uBMk@_@oDkByLAG}AkHe@yB{@{DEg@G_@Cc@CWIi@OcBo@kGSaBM}@Ge@Gi@Mg@Uo@Sq@Um@g@qAo@yAi@eAm@iAm@eA_@q@q@aA}DgFIKCOAO@e@AKKWGIMGSI_AIwAC_FE_AAgBC{AEgAGmBM_AGs@Gk@GkASs@Og@M{@Qq@OiDu@iCm@aAQUGKCYGm@Mu@U}@Uo@S_A]]UoAcAUQiAcA_BuAIIaAeAc@e@{@aAII{@kAW]i@q@GIi@q@yAeBi@i@CCo@s@a@]QSQQUQ?AMKUQIIg@]YUc@YWUCCOWIOCEM[K_@AGc@eB?EMq@Im@AaA?EBg@Hm@HYF[@AHSHSJSNSRQZ[XYZ[V]Xk@N_@@AJe@?AH_@B_@@W?C?[?AEYUq@O[CGCEMOKWM_@Kk@E[Ac@M_AEUGSIWOYaAaBW_@]k@aAcBc@u@KQ]m@_AgBGKe@u@QWM[m@gAOWKQS]AE_A_BKQyBoDAAe@aAo@oA}EoIm@cA?AkAmBw@yAo@iAa@q@aB{CkCqEWc@aBuCqCgFOWgEwH[s@Oa@Oi@CIo@qAGQGKU_@{@cAmCgCOOUWq@q@}@}@k@m@y@w@}@_AQMi@e@y@w@}@}@qBoB[YWUYUsBsBqAmA[Yq@u@g@g@MK_A}@UWe@c@]a@cAaACAmAoA{AyAeA_AIGs@m@MKo@e@aB{A_@a@Wa@O]GW??CIGc@Gg@EcAA}@IgCImDEmBOyF@q@@{@Bk@Dc@Fi@NiAz@yFVcBd@sCt@{FNeAvAiJNeApBuNh@mDr@iF`@uC\\wBHo@fBeMPiAd@eDj@cENaAbA}GJw@VqBJm@NeAZcCPuARkA^kChAoId@eDJs@^gCFYDSDSHc@Ni@Vs@FSXiAn@kBDMLYDO^q@TWBCf@{@jAiBjAmBTa@vBeDnCgE?ApCiEjCgEb@q@h@}@zDoGLUVc@`@u@Zq@pAwCZw@Tk@Ro@h@_B\\mANgAN_BJkAJkAPeCPeBTgD^cEDw@JsAd@kGRmBJiBD[PmBHiADi@d@wFBe@Fy@RoBLwAFiABq@BSHs@PqAP}@LcALy@@IZ_CHi@@INiAXkCFg@BUNwALyAFk@\\wCv@qHHq@Fc@NmALeA\\aDVaDH_ABSHkAHqAFyB@w@Bw@?g@@i@DyB?eA@aB@uBBcA@k@B_AB]B_@RcBN_AP_ANqANeARoAHm@ViBx@oFF]Jm@f@qDPiA^}BXiABQ~@aFJQt@qEDUBQP{@x@gEPi@Vu@L]HOX]VUxBiA`CmARKbCoAvBgA`CkApDgBzAw@TQFETSVQ^]V]b@_@bAiAdCuCLO~@iAJIfBkBvC}CjAoAl@i@xBcCn@w@jAuAt@}@hDwDX[bEoEvA{An@s@tCyC|A_BbAkATUz@y@z@}@dBiB~A_BRS|@aALOzBaClBqBVUJKx@w@tAyA`@c@HI`@a@dBiB?AnB{B`AaAnAwAdAmAbDyDb@g@tAaBb@g@d@i@vAgBl@y@XYbAwAh@{@HK|@uAXe@x@oAd@y@d@q@r@mAt@qAx@kBf@qA@C^cATo@Xm@?CN]b@s@R_@\\m@hBkCXg@Ta@Rc@Pa@Ts@ZgAZsAP{@@INeANcB?EFy@@G?Y@eAJaC@c@BMh@gG\\{DDm@f@uGB]LsAJ_AFc@BWDSD]b@mBViAv@wCd@aBZeA|@uCd@mAZk@Vc@n@w@FEPOVWZU\\Wh@]`@Sj@Wp@Wf@Oh@Kp@INA@?`@@TBr@LzAd@|@\\bAb@tAv@HDnA|@`An@HF~@r@x@h@nAv@hAx@FDv@b@bAp@r@d@b@VRJVHRFd@T~@XTFLFP?JATAd@YXe@P]L]Pg@Lk@Hu@B[FWFs@Fm@Lu@PaArAoD~AaDrB{C`Au@n@k@rDkBrDiCbBcCzEwHfCmFlAsBfB{BfAaAz@o@hM_H^UXW^c@Zc@Xs@h@uA\\o@PYBEV[Z[\\S|HyDzDmBfGsCb@SfLiEjDeAdEgA~A]pA[lBa@lBq@|Bu@nCcArC}ApCkAlCmAHCbAa@t@]n@]x@a@RM`@YLIz@m@nBuA`BoAHG|AeAxByA|BwAbAk@dAk@VMnAs@pAo@lAs@|A{@d@Wn@[`FkCxBmAxAw@dAo@x@a@z@q@l@a@VW^]l@m@~@cAr@{@t@eAVa@Vi@FSLg@R_AHi@vAkGLi@NYJORU\\Kp@Mv@O@Af@Mn@_@n@m@p@{@`@s@t@sArA_DfDgIhDeItBcF|@sBv@wAPUb@q@jBoClCkDdBmCl@y@~@sAvB}C`AyAtCaEpAkBRYzAsBtAwBhA}AVa@r@cAlAgBbAyAlAeBRYb@m@t@_Az@gAJK|@aAnAwAPOr@w@bA}@jAcAx@k@fBkA~AiArA}@jD{BZQLIZQfAm@pAm@vAu@pBcAjB_AtCsAvBeAXMpAk@bCqAvAu@v@a@h@WHGz@]dAc@TMh@WhAc@`Ae@~@_@LG`FuBt@a@bAe@vBaAz@[n@Yj@KNEb@Mx@Q~@MnAQh@KtAOhAK@?bA?vCEb@Cb@G~@Sh@Od@UB?h@Q|@UhA]tAc@t@YnCoA`@S`@Yx@[bAa@\\If@IPCXCzAEdBMZAXAPAf@GXGTGPIRKd@[RORQZSNO\\_@Xg@LWRi@JWNk@Hc@LcAlAeI@I@KN{@\\}BF]F]DSNo@Xy@L_@`@w@`B{C`BwCXc@n@gA@CdAkBb@{@Zq@`AyBb@kAHSxA{DTo@v@wBNa@Ja@Jg@FWDUN}@D]Lm@Lo@RaAJk@Ls@Pw@HeAJkAJcCL}DBwA?i@Ca@ACO}AIe@CYEw@?W@YBYF_@DSFa@R_Ad@kBFWDQVe@LSLSPSj@g@`@YxCgBZQNIf@]v@a@p@g@h@]LKpAu@\\SVUZY@AxAeB`AeA\\a@jBmBzAwAz@_An@o@\\[`AaAh@e@\\Yf@g@z@}@X_@^i@FMPYp@iBt@{A`@w@f@y@T[X]j@g@VUx@i@t@a@\\Wz@w@b@g@^a@f@o@NUzAaCbAcBhA}B^}@f@cAp@uAvAaDRg@VaATmAZ_Bp@aCReADQTaBj@aEf@{C^}BZqBb@oCFs@B_A@Y?c@Ci@KcB_@eCEWIy@KgAc@eFCYOgBo@oIIyAu@mHGUu@yCmC_IqBaF_@_BOiAI}A@s@@}@Du@H}@PkCDkAHuAHaAJmA?CFc@F[Jm@Rm@RcAV_AlAaE|@uCz@kChAeDDQ@GDWPuA\\yB`@_CNw@RqAJk@\\iBRuALk@Ry@@INs@Js@Ni@VcA^mBLm@Z}@DMVs@Nk@Pi@Lg@Xu@Vq@N]Pq@t@sAT]|@kA`@e@^[VU|@{@`Aw@hA_@lAk@ZSh@g@Zc@HQHUH]H[h@{BTmANi@Nm@BMF]Hk@PqAFg@NkCD}@?o@?A?sACi@Cc@Ai@G{@QcBOmAOy@CIOw@YqAUmAk@uBw@uCQm@Wy@q@cBiCoGIUACoAyCYy@Qk@Mc@Ga@Gc@I{@A_@@Q?S@_@Ba@P_Bb@iDd@yCh@qDBOP}@H]ViA^wALi@Ty@\\cBj@sBn@qCV}@ZoAh@yBxAuG@Ch@uB\\{ALi@Ja@BY@O?EGo@WqB[aB]gBk@oCUeAYmAGSMo@Kq@UeBGw@Gq@Ew@Ag@CkBCe@@O?m@@i@FmADa@Hc@\\{@Rc@dAyANSt@_AVc@X_@PUDGZa@d@aAH_@Dc@?e@AI]sBwAuFu@mD[aBiAkFcBoIGk@AQ?M@o@@UBUBWFYLYVg@LU|@{ALS|@{AlCiEjA{AhDwDhAiAt@w@`AcAdAaAr@s@~@kA`@k@hAgBbBuChCuEr@sAZm@Xg@Pa@Pg@^uADg@Di@@g@AIAk@E}@GgAEeAImBSkKEsACe@E{@EqAKgBEwAUwDCg@M}B]uFQiC?CYaDIoA]eDGaAQiCIyABk@H}@Vy@Zs@^u@tCqE"
+          }
+        ],
+        "displayName": "ADVERSE WEATHER Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Silver City Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Mount Arrowsmith Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "Pimpara Lake Road",
+            "suburb": "Packsaddle",
             "trafficVolume": ""
           }
         ],
@@ -2462,78 +2462,6 @@
     },
     {
       "type": "Feature",
-      "id": 266914,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.0518164,
-          -32.1823803
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1772623341000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1783869612924,
-        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Menindee Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Broken Hill to Menindee",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 266521,
       "geometry": {
         "type": "Point",
@@ -2608,6 +2536,78 @@
         ],
         "isLocalRoad": "Local road",
         "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0518164,
+          -32.1823803
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1772623341000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1783869612924,
+        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Menindee Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Broken Hill to Menindee",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
       }
     },
     {
@@ -2772,92 +2772,6 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Tibooburra to Fortville Gate",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "AdverseWeather"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 279741,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.1148799,
-          -29.7228641
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              143.842968,
-              -30.27902
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1782774270000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Water over road",
-        "adviceA": "Never drive through floodwater",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "ADVERSE WEATHER",
-        "lastUpdated": 1783869655657,
-        "otherAdvice": "<p>The road is open with caution to 4WDs only. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "|zxwDmi}lZUo@Wo@]m@a@u@wAmB[_@]_@{@o@_@U]O??uQyHo@_@g@[a@UYSCCo@k@m@k@y@s@oBcBgC_CgBaBgC_CkBgByCuC}DyDyIoIk@k@_KyIoEqDmA_A_As@{DsCoBsAIG{EcDaDoBi@]mEsC}@i@m@]]Q[O{Ao@eDcAgCs@mBi@_G_B}@W{EsA{C}@uAa@aEeAwBc@MAwDi@oEe@u@IcBQkBOoAEaDAi@?k@?eDFyD?Q?QAcAAeAEyAKUGcASeC_AgE_BGCsQcHmBo@aAW{@UOE_AUy@Wu@MwAWcAM_C[wB[e@Ey@Iu@IOA}@K{AS_CYC?[EqBWeBWo@KoC_@a@E_BQ_JuAwB]}B[iEk@cAMo@CYAkE@{BAsB?ya@ZmQNcGB{GBw@Eu@Ic@GYEWIcAWk@QiD_AkEoAk@OMEwCq@sE}@_BSoF}@_Dg@qBWQC_@EmAQg@Ks@Qk@Oe@QA?a@Sm@[g@_@i@_@kCcCoEcEsg@sd@}BsBgVwW{@gA_@i@uDyFoAmBIM_BgCu@cAc@q@}@qAgAaBoAiBeAcBGGkAkBgA}AaGuIkDyEeFsHuCkEwGyJ_B{BkBsCsBsCc@m@U]MW_@i@i@y@IKKOaAyAuCgE}@oAcAmA_Aw@{@u@k@e@_Ag@sAk@iBo@]IiBYw@I}AIkEGmCA_D?YAaBG{Ca@cCs@aDyA}BaBu@m@aAo@aDcG_[ol@sQq`@sIeSiA_Dm@mAUg@[g@a@m@c@o@e@a@{EuFiQeSsByBmAuAyJsKKKiGaHmDsDuBcCcBsB}FmGgCaCiD_Dg@c@i@e@s@q@w@u@}AuAaBaBAA[[eEyEeCkCUUcCkCyCeDY[oCyCgDsDUWuB_CsDgE_@a@_BiBuCaDsA}Au@y@gDmDmDaEc@e@Ya@_@q@[m@Uc@{AyCeBuDYg@Ym@wAuCaCmEk@eAa@y@a@u@a@i@c@k@k@{@aAkAq@w@KM}DwEwBgCW[_AcA_GsFQQ{DwDkCeCaAaAuBsBaB}Aq@aAAEOUESI_@CYCa@A]?[^qG@U?I`@wIFmAh@mN@Yh@uN@Qb@cN@c@^}JLiC^wJDyB?K@K@OR_F^yIPqDp@mOd@uMh@iOh@kOh@iON}EPiGBc@`@kOD}@d@kMj@kOh@iOVqG@WN{D@c@@m@@uABcAG_DKq@C[]yAM_@[aAQi@Qe@We@MU{@_BuByCi@k@[Wi@[g@Yo@Ua@OuDqAcA]iA]k@Ym@WCCm@_@g@c@i@c@eDeDKI[UUSQMm@e@q@_@aAc@oFaCyJkE_@Om@YqBu@w@Sm@Kk@GmACm@Bo@HcEf@q@Lk@@g@?A?a@Ee@O]Me@[_@Ya@]eJeHuAkAq@i@iAaA{BiBmAcAoHeGiA_Aa@[mGiFgCyBkJyHcAy@kJsHMK{IgHmB}A}FuEKI}HoGi@c@aHyFMKy@m@w@o@_As@]QUOo@_@m@[g@Ow@Y[M}@YaEqAeDeAeA]_JsCaCu@mA]}IgCaAYqA_@uBg@qAWQCiAUqCe@cC_@eHkAMC[Gg@Ok@Ou@Ug@UKCa@Oo@YoB_AyAs@yHiEGCyC_BeDsA{JcD_JkCaA]{Ak@yMkEqIiCc@OkHcCeC{@qBq@wAg@WIuEuAsEuA}Q}FiLmDWGs@Ui@Uk@Yi@_@i@a@i@e@]Yi@q@MQ_AsAmCuDmBcCsBuC}AsBeCgDmD_F{B_Do@{@[c@o@{@sCuDc@k@_DiEsHyJsH{JqH{JwAgBuDsEcK_MwCsDuAiBqAkBk@}@uAyByB_DgBsCaBgC_BmCe@u@cA{AcBoC_A_BiAeBwAcCaBsCeAaB_BcCcBkC}A{BmCiEkBoC}@sAOWwA}BuA}Bk@s@OO[_@]c@_@[}@m@u@e@i@[k@Y}B_AgC_AsA]s@KuBWyCUqCYmDW}@E_AUoBEgFYuDMgBGw@E_CIaAKaBUuAW{AYaCe@yBc@a@IwA[aBWYE_AOkBa@u@OaCe@uCi@wASkAKa@EkA@I?i@@cBJ_BLYBQB{AReAFgBHqAH{BDkBBwAAu@?u@AqAEyAC{@Cy@GuAQcAWw@UkAWsBa@cASiCe@cE_@kBSyAMmDWoBOc@CaCQgE]eFa@qAKaIk@IAgDUe@CqDUwCSyB@eFLE?iA@eAAM?{@C{BOmAKi@Ei@Em@I_E[gCO}CWyBSeAIoBOcAIs@EyD]cFe@kBKmBQcAI}Ea@{@GsFa@yAMUAi@EgAG_BKCA_BQoAG}BOw@G[CmCQgCUoBQeD[oCU}D[aD[{@GqAMmCYoCY{Dc@kCa@gBWyB[aAOkBU_C]mCYyBOgAIqAIwEa@WCeCQwCSaDYqCS{CSCAqCUkCMaDSwBOe@EwDY[AoDWm@IiE[{D_@gCMA?aGc@qBQkCS}DYcCSeE_@_Gc@QC{CY{Ks@_Ik@y@EgBKoF[gIm@gGo@cBMiBOgCQqCQyE_@A?aE]qFe@iGi@cMaAqDWeFa@_D[aF_@uGi@_Ha@aK_AqF[cAKsBOgF[_Ig@{D[}Ea@oEY{DYcIk@{@EoG_@uK{@_Ig@_F[qE_@}Fe@yCUuEa@yE]wLy@eGm@aFe@qE]iGWe@Ak@A]B[Bk@Pq@b@_A|@mAzA_BnBs@z@IJ{BlCmAbAsAhAeAz@kDtCkBzAo@h@WR{ChC_ChBGFgEhDkCrB}AtAIFu@l@w@h@aAd@oAb@sAd@qC~@iIzBsA^_D`AqAVwCt@mEv@gCf@{Dv@}B\\cAPyBNmABiA?i@?kKA}@B{@@wBD_IReDCq@BmI@sBBcJCsHE{BHgDd@EBoAZa@N}@ZoFfBuGbB}DfAwCv@}Cx@c@NqBl@{Bn@_A\\{@d@aAh@o@^eAp@SLoAt@_Bt@mA\\wAP}@BU?aABsAFwBFs@B{@DwBBiCIaCUoEg@gD]qBSkEc@eBQyLoAm@GsDc@I?yAOaBO{D]kAKaE]yBWkD_@mB_@kBk@MGaBq@o@]mBaAqCsAgCcAyCuAe@SqAk@iAg@{EaCkB{@aGuCyBaAqCoAaCiAeCeAcDuAkFeCIEe@[qA{@oAgAsD}DgDmDkCqCEGwE{EMMwB{BwCmCSOwAaBKKuAyAcDwDcAeAiCuA[EcAOsHk@YAs@@UBqB\\SFwBr@_Br@uFfCkDzAC@aDxAcFzBeAf@}Ah@iEp@sBR{AJqABgAKi@IQEUEwAe@wAo@QIqCqA[OwCwA_Ac@cAe@wAs@eAs@u@s@c@y@_@}@w@sBi@{Ag@cAm@y@u@k@e@SOI}Ac@{Ac@qDmAm@SoAc@kCcA_Cu@kAUE?_@A{@DeCVcBXoBT{@J_CZeBPeAHoB?}CEwBI{@EoBMuGM{BFkANmAZcFrAcEhAwBh@eCx@cBn@c@Vo@h@}@fAm@v@QVyBrCaCjCY^STs@t@kB~A_BpAiBhAu@\\uEhBm@VuAh@w@ZoFlBC?uBt@gA\\iIzBcH~AeE`AuO|DYF_JxBgLpCaGzAgEdAeCt@gBf@o@Vq@b@e@f@e@t@e@z@eAfBuBjD"
-          }
-        ],
-        "displayName": "ADVERSE WEATHER Water over road",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Wanaaring-Wilcannia Rd (north section)",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Wanaaring",
             "trafficVolume": ""
           }
         ],
@@ -3092,6 +3006,92 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Silverton to Broughams Gate",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "AdverseWeather"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1148799,
+          -29.7228641
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              143.842968,
+              -30.27902
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1782774270000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Water over road",
+        "adviceA": "Never drive through floodwater",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "ADVERSE WEATHER",
+        "lastUpdated": 1783869655657,
+        "otherAdvice": "<p>The road is open with caution to 4WDs only. </p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "|zxwDmi}lZUo@Wo@]m@a@u@wAmB[_@]_@{@o@_@U]O??uQyHo@_@g@[a@UYSCCo@k@m@k@y@s@oBcBgC_CgBaBgC_CkBgByCuC}DyDyIoIk@k@_KyIoEqDmA_A_As@{DsCoBsAIG{EcDaDoBi@]mEsC}@i@m@]]Q[O{Ao@eDcAgCs@mBi@_G_B}@W{EsA{C}@uAa@aEeAwBc@MAwDi@oEe@u@IcBQkBOoAEaDAi@?k@?eDFyD?Q?QAcAAeAEyAKUGcASeC_AgE_BGCsQcHmBo@aAW{@UOE_AUy@Wu@MwAWcAM_C[wB[e@Ey@Iu@IOA}@K{AS_CYC?[EqBWeBWo@KoC_@a@E_BQ_JuAwB]}B[iEk@cAMo@CYAkE@{BAsB?ya@ZmQNcGB{GBw@Eu@Ic@GYEWIcAWk@QiD_AkEoAk@OMEwCq@sE}@_BSoF}@_Dg@qBWQC_@EmAQg@Ks@Qk@Oe@QA?a@Sm@[g@_@i@_@kCcCoEcEsg@sd@}BsBgVwW{@gA_@i@uDyFoAmBIM_BgCu@cAc@q@}@qAgAaBoAiBeAcBGGkAkBgA}AaGuIkDyEeFsHuCkEwGyJ_B{BkBsCsBsCc@m@U]MW_@i@i@y@IKKOaAyAuCgE}@oAcAmA_Aw@{@u@k@e@_Ag@sAk@iBo@]IiBYw@I}AIkEGmCA_D?YAaBG{Ca@cCs@aDyA}BaBu@m@aAo@aDcG_[ol@sQq`@sIeSiA_Dm@mAUg@[g@a@m@c@o@e@a@{EuFiQeSsByBmAuAyJsKKKiGaHmDsDuBcCcBsB}FmGgCaCiD_Dg@c@i@e@s@q@w@u@}AuAaBaBAA[[eEyEeCkCUUcCkCyCeDY[oCyCgDsDUWuB_CsDgE_@a@_BiBuCaDsA}Au@y@gDmDmDaEc@e@Ya@_@q@[m@Uc@{AyCeBuDYg@Ym@wAuCaCmEk@eAa@y@a@u@a@i@c@k@k@{@aAkAq@w@KM}DwEwBgCW[_AcA_GsFQQ{DwDkCeCaAaAuBsBaB}Aq@aAAEOUESI_@CYCa@A]?[^qG@U?I`@wIFmAh@mN@Yh@uN@Qb@cN@c@^}JLiC^wJDyB?K@K@OR_F^yIPqDp@mOd@uMh@iOh@kOh@iON}EPiGBc@`@kOD}@d@kMj@kOh@iOVqG@WN{D@c@@m@@uABcAG_DKq@C[]yAM_@[aAQi@Qe@We@MU{@_BuByCi@k@[Wi@[g@Yo@Ua@OuDqAcA]iA]k@Ym@WCCm@_@g@c@i@c@eDeDKI[UUSQMm@e@q@_@aAc@oFaCyJkE_@Om@YqBu@w@Sm@Kk@GmACm@Bo@HcEf@q@Lk@@g@?A?a@Ee@O]Me@[_@Ya@]eJeHuAkAq@i@iAaA{BiBmAcAoHeGiA_Aa@[mGiFgCyBkJyHcAy@kJsHMK{IgHmB}A}FuEKI}HoGi@c@aHyFMKy@m@w@o@_As@]QUOo@_@m@[g@Ow@Y[M}@YaEqAeDeAeA]_JsCaCu@mA]}IgCaAYqA_@uBg@qAWQCiAUqCe@cC_@eHkAMC[Gg@Ok@Ou@Ug@UKCa@Oo@YoB_AyAs@yHiEGCyC_BeDsA{JcD_JkCaA]{Ak@yMkEqIiCc@OkHcCeC{@qBq@wAg@WIuEuAsEuA}Q}FiLmDWGs@Ui@Uk@Yi@_@i@a@i@e@]Yi@q@MQ_AsAmCuDmBcCsBuC}AsBeCgDmD_F{B_Do@{@[c@o@{@sCuDc@k@_DiEsHyJsH{JqH{JwAgBuDsEcK_MwCsDuAiBqAkBk@}@uAyByB_DgBsCaBgC_BmCe@u@cA{AcBoC_A_BiAeBwAcCaBsCeAaB_BcCcBkC}A{BmCiEkBoC}@sAOWwA}BuA}Bk@s@OO[_@]c@_@[}@m@u@e@i@[k@Y}B_AgC_AsA]s@KuBWyCUqCYmDW}@E_AUoBEgFYuDMgBGw@E_CIaAKaBUuAW{AYaCe@yBc@a@IwA[aBWYE_AOkBa@u@OaCe@uCi@wASkAKa@EkA@I?i@@cBJ_BLYBQB{AReAFgBHqAH{BDkBBwAAu@?u@AqAEyAC{@Cy@GuAQcAWw@UkAWsBa@cASiCe@cE_@kBSyAMmDWoBOc@CaCQgE]eFa@qAKaIk@IAgDUe@CqDUwCSyB@eFLE?iA@eAAM?{@C{BOmAKi@Ei@Em@I_E[gCO}CWyBSeAIoBOcAIs@EyD]cFe@kBKmBQcAI}Ea@{@GsFa@yAMUAi@EgAG_BKCA_BQoAG}BOw@G[CmCQgCUoBQeD[oCU}D[aD[{@GqAMmCYoCY{Dc@kCa@gBWyB[aAOkBU_C]mCYyBOgAIqAIwEa@WCeCQwCSaDYqCS{CSCAqCUkCMaDSwBOe@EwDY[AoDWm@IiE[{D_@gCMA?aGc@qBQkCS}DYcCSeE_@_Gc@QC{CY{Ks@_Ik@y@EgBKoF[gIm@gGo@cBMiBOgCQqCQyE_@A?aE]qFe@iGi@cMaAqDWeFa@_D[aF_@uGi@_Ha@aK_AqF[cAKsBOgF[_Ig@{D[}Ea@oEY{DYcIk@{@EoG_@uK{@_Ig@_F[qE_@}Fe@yCUuEa@yE]wLy@eGm@aFe@qE]iGWe@Ak@A]B[Bk@Pq@b@_A|@mAzA_BnBs@z@IJ{BlCmAbAsAhAeAz@kDtCkBzAo@h@WR{ChC_ChBGFgEhDkCrB}AtAIFu@l@w@h@aAd@oAb@sAd@qC~@iIzBsA^_D`AqAVwCt@mEv@gCf@{Dv@}B\\cAPyBNmABiA?i@?kKA}@B{@@wBD_IReDCq@BmI@sBBcJCsHE{BHgDd@EBoAZa@N}@ZoFfBuGbB}DfAwCv@}Cx@c@NqBl@{Bn@_A\\{@d@aAh@o@^eAp@SLoAt@_Bt@mA\\wAP}@BU?aABsAFwBFs@B{@DwBBiCIaCUoEg@gD]qBSkEc@eBQyLoAm@GsDc@I?yAOaBO{D]kAKaE]yBWkD_@mB_@kBk@MGaBq@o@]mBaAqCsAgCcAyCuAe@SqAk@iAg@{EaCkB{@aGuCyBaAqCoAaCiAeCeAcDuAkFeCIEe@[qA{@oAgAsD}DgDmDkCqCEGwE{EMMwB{BwCmCSOwAaBKKuAyAcDwDcAeAiCuA[EcAOsHk@YAs@@UBqB\\SFwBr@_Br@uFfCkDzAC@aDxAcFzBeAf@}Ah@iEp@sBR{AJqABgAKi@IQEUEwAe@wAo@QIqCqA[OwCwA_Ac@cAe@wAs@eAs@u@s@c@y@_@}@w@sBi@{Ag@cAm@y@u@k@e@SOI}Ac@{Ac@qDmAm@SoAc@kCcA_Cu@kAUE?_@A{@DeCVcBXoBT{@J_CZeBPeAHoB?}CEwBI{@EoBMuGM{BFkANmAZcFrAcEhAwBh@eCx@cBn@c@Vo@h@}@fAm@v@QVyBrCaCjCY^STs@t@kB~A_BpAiBhAu@\\uEhBm@VuAh@w@ZoFlBC?uBt@gA\\iIzBcH~AeE`AuO|DYF_JxBgLpCaGzAgEdAeCt@gBf@o@Vq@b@e@f@e@t@e@z@eAfBuBjD"
+          }
+        ],
+        "displayName": "ADVERSE WEATHER Water over road",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Wanaaring-Wilcannia Rd (north section)",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Wanaaring",
             "trafficVolume": ""
           }
         ],
@@ -4496,979 +4496,6 @@
         ],
         "isLocalRoad": "Local road",
         "CategoryIcon": "AdverseWeather"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281457,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9783504,
-          -33.8805065
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784000489000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1784001714497,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "River Avenue",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 2",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "above",
-            "mainStreet": "Woodville Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Villawood",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281430.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1928752,
-          -33.9390021
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783986880000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Semi-trailer",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784002011463,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Semi-trailer",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mill Pond Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "General Holmes Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Mascot",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281461,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.105833,
-          -33.81668
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784002586000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck, Car",
-        "adviceA": "Prepare to merge",
-        "adviceB": "Exercise caution",
-        "adviceC": "Expect delays",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1784002805902,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Tow Truck"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Truck, Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "St Annes Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "2",
-                "description": "Lane 2, Lane 3",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Victoria Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Ryde",
-            "trafficVolume": "Moderate"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281459,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.170138,
-          -33.863822
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784002185000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Bus",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784003074335,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW",
-          "Mechanic"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Bus",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Darling Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "2",
-                "description": "Lane 4, Lane 5",
-                "extent": "Lanes closed",
-                "numberOfLanes": "5",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Victoria Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rozelle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281462,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1341463,
-          -33.7836142
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784002993000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Expect delays",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784003607766,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [
-          "Site Cleared"
-        ],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lane Cove Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "M2 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "North Ryde",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281460.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1497962,
-          -33.9362548
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784002517000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Van",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784003994546,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Motorway Crew"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Van",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Princes Highway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Left turn lane",
-                "extent": "Lanes closed",
-                "numberOfLanes": "",
-                "roadType": "Off-ramp"
-              }
-            ],
-            "locationQualifier": "to",
-            "mainStreet": "M5 Motorway off-ramp",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Arncliffe",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281465,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.710177,
-          -33.7682806
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784005542000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Bus",
-        "adviceA": "Prepare to merge",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784005621353,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Mechanic"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Bus",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Smith Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Left turn lane",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Parker Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "South Penrith",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281456,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.036232,
-          -33.739044
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784000237000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "3 vehicles",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1784005698388,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Helicopter"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 3 vehicles",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Edward Bennett Drive",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Castle Hill Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "County Drive",
-            "suburb": "Cherrybrook",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281466,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.773498,
-          -33.76995
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784005918000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Police operation",
-        "adviceA": "Expect delays",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1784006737643,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS Police operation",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Queen Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "4",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "St Marys",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281464,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.5855459,
-          -36.349779
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784005497000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Expect delays",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1784008119523,
-        "otherAdvice": "<p>Police are directing traffic on site. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW",
-          "Tow Truck"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Creel Bay Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Kosciuszko Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "",
-            "suburb": "Wilsons Valley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281469,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7612228,
-          -34.0484295
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784007321000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "3 vehicles",
-        "adviceA": "Reduce your speed",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1784008917595,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 3 vehicles",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hartley Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Left turn lane",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Narellan Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Mount Annan",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281448,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.3493315,
-          -33.7084568
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783995006000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Vehicle salvage due to earlier incident",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CHANGED TRAFFIC CONDITIONS",
-        "lastUpdated": 1784009381958,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW",
-          "Heavy vehicle tow truck"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CHANGED TRAFFIC CONDITIONS Vehicle salvage due to earlier incident",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Scott Avenue",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Leura",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281474,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1606055,
-          -33.6144099
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784010040000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Ladder",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": "Prepare to merge",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1784010239223,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Ladder",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Berowra on-ramp",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Cowan",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
       }
     },
     {
@@ -10285,229 +9312,6 @@
     },
     {
       "type": "Feature",
-      "id": 281557,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.1602281,
-          -33.4813418
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784085777000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1784085777659,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "EMERGENCY ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Bridge Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "",
-                "description": "Shoulder",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Mort Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "Eskbank Street",
-            "suburb": "Lithgow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281523,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8227482,
-          -33.9603686
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784072950000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Expect delays",
-        "adviceC": "Follow directions on site",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1784086039006,
-        "otherAdvice": "<p>There is currently no access to Guild Ave. Ongoing police investigations are expected to take some time. </p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Guild Avenue",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "2",
-                "description": "Lane 1, Left turn lane",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Camden Valley Way",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Leppington",
-            "trafficVolume": "Heavy"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281560.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.5226049,
-          -33.7357411
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784086368000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Truck",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784086368925,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Local Council"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Truck",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mid Western Highway",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Newell Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "",
-            "suburb": "Caragabal",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 281522,
       "geometry": {
         "type": "Point",
@@ -10600,7 +9404,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -10616,7 +9420,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "CRASH",
-        "lastUpdated": 1784086678812,
+        "lastUpdated": 1784087398456,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -10654,6 +9458,1196 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.215232,
+          -33.9004643
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784087706000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784087876160,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Dacey Avenue",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Left turn lane",
+                "extent": "Lanes closed",
+                "numberOfLanes": "4",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "South Dowling Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Moore Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7933175,
+          -33.6531256
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784086788000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck, Car",
+        "adviceA": "Expect delays",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1784090316232,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [
+          "Site Cleared"
+        ],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "CRASH Truck, Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Llandilo Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Richmond Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "The Northern Road",
+            "suburb": "Berkshire Park",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281560.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5226049,
+          -33.7357411
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784086368000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784090695875,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Local Council"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mid Western Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "near",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Caragabal",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0416252,
+          -33.9098957
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784089597000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784090842191,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Truck",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Greenacre Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "Stacey Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Bankstown",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2273052,
+          -33.8767213
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784089115000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1784091152259,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Tow Truck"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Barcom Avenue",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "4",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "New South Head Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Darlinghurst",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8227482,
+          -33.9603686
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784072950000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Follow directions on site",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1784091212277,
+        "otherAdvice": "<p>There is currently no access to Guild Ave. Ongoing police investigations are expected to take some time. </p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Guild Avenue",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Left turn lane",
+                "extent": "Lanes closed",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Camden Valley Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leppington",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2957773,
+          -33.7098786
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784088352000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "lastUpdated": 1784091683986,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Utility Company"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS FLASHING YELLOW",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pittwater Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Wakehurst Parkway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Narrabeen",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1602281,
+          -33.4813418
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784085777000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1784092492391,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "EMERGENCY ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Bridge Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "",
+                "description": "Shoulder",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Mort Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "Eskbank Street",
+            "suburb": "Lithgow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.210391,
+          -33.838304
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784091786000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784092839595,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mount Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Warringah Freeway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Sydney",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0526536,
+          -33.9061347
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784092231000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Expect delays",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1784092941787,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Waterloo Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Westbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "Boronia Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Noble Avenue",
+            "suburb": "Greenacre",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2115463,
+          -33.8614464
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784091291000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784093790281,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Circular Quay",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "above",
+            "mainStreet": "Cahill Expressway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.904874,
+          -33.9386883
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784094222000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784094272705,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW",
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hume Highway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "M5 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Liverpool",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6224847,
+          -32.9028602
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784094056000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1784095895251,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Minmi Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Newcastle Link Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Cameron Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2130307,
+          -33.8486984
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784094270000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Expect delays",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784095992152,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [
+          "Site Cleared"
+        ],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Sydney Harbour Tunnel",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2303597,
+          -33.6838698
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784094327000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784096117061,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mccarrs Creek Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "Breakdown lane",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Mona Vale Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Terrey Hills",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.199496,
+          -33.810583
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784096357000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Bus",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784096357924,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Mechanic"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Bus",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Small Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Willoughby Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Willoughby",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
       }
     }
   ]
