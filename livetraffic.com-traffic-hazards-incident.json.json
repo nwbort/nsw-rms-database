@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1784902350000,
+  "lastPublished": 1784907750000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -4042,81 +4042,6 @@
     },
     {
       "type": "Feature",
-      "id": 282375,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1971893,
-          -33.8747722
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784814650000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Motorcycle",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1784818909056,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW",
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Motorcycle",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Bathurst Street / Cross City Tunnel off-ramp",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "2",
-                "description": "Lane 2, Lane 3",
-                "extent": "Lanes closed",
-                "numberOfLanes": "4",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Western Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Pyrmont",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 282377,
       "geometry": {
         "type": "Point",
@@ -5017,80 +4942,6 @@
     },
     {
       "type": "Feature",
-      "id": 282395,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1756343,
-          -33.8693141
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784844037000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784844370041,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Eastbound",
-                "closedLanes": "1",
-                "description": "Lane 3",
-                "extent": "Lanes closed",
-                "numberOfLanes": "6",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "City West Link",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rozelle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 282393,
       "geometry": {
         "type": "Point",
@@ -5157,6 +5008,80 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Frenchs Forest",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1756343,
+          -33.8693141
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784844037000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784844370041,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Lane 3",
+                "extent": "Lanes closed",
+                "numberOfLanes": "6",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "City West Link",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Rozelle",
             "trafficVolume": ""
           }
         ],
@@ -5909,80 +5834,6 @@
     },
     {
       "type": "Feature",
-      "id": 282403,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2106656,
-          -33.839883
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784847563000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784847931516,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "entrance",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Sydney Harbour Tunnel",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "North Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Breakdown"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 282401,
       "geometry": {
         "type": "Point",
@@ -6048,6 +5899,80 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2106656,
+          -33.839883
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784847563000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784847931516,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "entrance",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Sydney Harbour Tunnel",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Sydney",
             "trafficVolume": ""
           }
         ],
@@ -11151,6 +11076,80 @@
     },
     {
       "type": "Feature",
+      "id": 282496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9154856,
+          -33.8048514
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784900989000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784903038488,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M4 Motorway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "4",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "above",
+            "mainStreet": "Prospect Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Prospect",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 282495,
       "geometry": {
         "type": "Point",
@@ -11167,8 +11166,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -11183,7 +11182,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784899623927,
+        "lastUpdated": 1784903059885,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -11225,12 +11224,12 @@
     },
     {
       "type": "Feature",
-      "id": 282496,
+      "id": 282497,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9154856,
-          -33.8048514
+          151.1984701,
+          -33.8968438
         ],
         "collections": []
       },
@@ -11248,17 +11247,91 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1784900989000,
+        "created": 1784905021000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Car",
+        "subCategoryA": "null",
         "adviceA": "Reduce your speed",
         "adviceB": "Exercise caution",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1784900989711,
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1784905022215,
         "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Utility Company"
+        ],
+        "encodedPolylines": [],
+        "displayName": "EMERGENCY ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Wyndham Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Henderson Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Alexandria",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9584003,
+          -33.8147964
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784906765000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Truck",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1784906765716,
+        "otherAdvice": "<p>The truck is partially in the lane. Motorists can still access the off-ramp</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -11267,29 +11340,29 @@
           "Transport for NSW"
         ],
         "encodedPolylines": [],
-        "displayName": "BREAKDOWN Car",
+        "displayName": "BREAKDOWN Truck",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "M4 Motorway",
+            "crossStreet": "Cumberland Highway",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Northbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "4",
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "Off-ramp",
+                "extent": "Affected",
+                "numberOfLanes": "",
                 "roadType": ""
               }
             ],
-            "locationQualifier": "above",
-            "mainStreet": "Prospect Highway",
+            "locationQualifier": "to",
+            "mainStreet": "M4 Motorway off-ramp",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Prospect",
+            "suburb": "Wentworthville",
             "trafficVolume": ""
           }
         ],
