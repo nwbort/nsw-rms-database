@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1785327480000,
+  "lastPublished": 1785335580000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -173,8 +173,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -189,39 +189,24 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1785326952395,
+        "lastUpdated": 1785331834677,
         "otherAdvice": "",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p>Botany Rd, Bunnerong Rd.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": [
           "Emergency services",
           "Transport for NSW"
         ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "jihnEwb~y[K?O@I@YDG@e@P]Lk@JE@G?M@OAM?QCIAOEQEECGCKGIGIGKIIKSWAAGKKMOSc@q@SYKO_@i@KM{@oAmAgBcAwAiAaBa@k@aBcC"
-          }
-        ],
+        "encodedPolylines": [],
         "displayName": "BUILDING FIRE",
         "roads": [
           {
             "conditionTendency": "",
             "crossStreet": "Denison Street",
             "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
+            "impactedLanes": [],
             "locationQualifier": "between",
             "mainStreet": "Beauchamp Road",
             "quadrant": "",
