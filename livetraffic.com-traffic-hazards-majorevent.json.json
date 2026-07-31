@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1785456780000,
+  "lastPublished": 1785469680000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1402,78 +1402,6 @@
     },
     {
       "type": "Feature",
-      "id": 283007,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.929288,
-          -31.0900834
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Event website",
-            "linkURL": "https://www.tamworthregion.com.au/event/a-winters-night-01-aug-2026-peel-street-tamworth"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1785380294000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1785582000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1785380361190,
-        "otherAdvice": "<p>Tamworth&#39;s CBD will be transformed into a winter wonderland on Saturday 1 August.</p><p>The event will be held on Peel Street (between Fitzroy and White Streets).</p><p>During the event, motorists will not be able to turn off the Oxley Highway into Peel Street. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1785553200000,
-        "displayName": "SPECIAL EVENT A Winter Night",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Peel Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Oxley Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Tamworth",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 282876,
       "geometry": {
         "type": "Point",
@@ -1645,6 +1573,141 @@
           }
         ],
         "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.214219,
+          -33.8784193
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.208597,
+              -33.830576
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.192466,
+              -33.863673
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.226683,
+              -33.921311
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "TCS Sydney Marathon",
+            "linkURL": "https://www.tcssydneymarathon.com/"
+          },
+          {
+            "linkText": "TfNSW Sydney Marathon event page",
+            "linkURL": "https://transportnsw.info/sydney-marathon"
+          },
+          {
+            "linkText": "TfNSW Interactive Road Closure and Clearway Map - Sydney Marathon",
+            "linkURL": "https://experience.arcgis.com/experience/5ef275e1b4d9476db24c32f62aa32b65"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Significant diversions will be in place for buses while roads are closed across the course. Bus passengers need to plan ahead. Light rail services in the South East and CBD will also be impacted until 2pm. Visit <a href=\"https://transportnsw.info/sydney-marathon\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info/sydney-marathon</a> for details.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Marathon2026_OverallCourse_ClosureClearwayMap",
+            "fileName": "Marathon2026_OverallCourse_ClosureClearwayMap.pdf",
+            "fileType": "PDF",
+            "linkName": "Marathon2026_OverallCourse_ClosureClearwayMap",
+            "sizeInBytes": 6045618,
+            "uniqueFileName": "506223_1785463303900_Marathon2026_OverallCourse_ClosureClearwayMap.pdf"
+          },
+          {
+            "displayName": "Marathon2026_RoadClosureClearways_HarbourNorthMap",
+            "fileName": "Marathon2026_RoadClosureClearways_HarbourNorthMap.pdf",
+            "fileType": "PDF",
+            "linkName": "Marathon2026_RoadClosureClearways_HarbourNorthMap",
+            "sizeInBytes": 3099537,
+            "uniqueFileName": "776877_1785463295765_Marathon2026_RoadClosureClearways_HarbourNorthMap.pdf"
+          },
+          {
+            "displayName": "Marathon2026_RoadClosureClearways_HarbourSouthMap",
+            "fileName": "Marathon2026_RoadClosureClearways_HarbourSouthMap.pdf",
+            "fileType": "PDF",
+            "linkName": "Marathon2026_RoadClosureClearways_HarbourSouthMap",
+            "sizeInBytes": 2665434,
+            "uniqueFileName": "408029_1785463298210_Marathon2026_RoadClosureClearways_HarbourSouthMap.pdf"
+          },
+          {
+            "displayName": "SydneyMarathon2026_DetourMap",
+            "fileName": "SydneyMarathon2026_DetourMap.pdf",
+            "fileType": "PDF",
+            "linkName": "SydneyMarathon2026_DetourMap",
+            "sizeInBytes": 3781999,
+            "uniqueFileName": "653862_1785463406923_SydneyMarathon2026_DetourMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1785463426000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Avoid the area",
+        "adviceB": "Expect delays",
+        "adviceC": "Use public transport",
+        "end": 1788072300000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1785463729439,
+        "otherAdvice": "<p>40,000 participants will take part in the Sydney Marathon and major roads in North Sydney, the Sydney CBD, Pyrmont, Darlinghurst, Moore Park, Centennial Park and Kingsford will be closed between <strong>2am and 4.30pm.</strong></p><p>Travel across the city will be very limited with lengthy detours in place. Sydneysiders are urged to avoid non-essential travel where possible or allow plenty of extra travel time and expect trips to take longer than usual.</p><p><strong>Key closure times by suburb area</strong></p><ul><li><strong>North Sydney </strong>closures between 2am and 12pm including sections of Miller St, Pacific Hwy.</li><li><strong>Sydney Harbour Bridge, Cahill Exp and Western Distributor </strong>closed 3am to 11am. Detour via Harbour Tunnel. Motorists from the Anzac Bridge will be diverted via Bathurst St. Access to the Harbour Tunnel northbound is via the Cross City Tunnel only.</li><li><strong>Sydney CBD, Circular Quay </strong>closures from 4am to 12pm (Macquarie St closed until 4.30pm)</li><li><strong>Millers Point, King St Wharf, Barangaroo and The Rocks </strong>closures between 4am and 11.30am</li><li><strong>Pyrmont and Ultimo </strong>closures between 4am and 11am</li><li><strong>Sydney CBD east </strong>including Macquarie St and The Domain closures between 4am and 4.30pm (Park St closed 5am to 3.30pm)</li><li><strong>Sydney CBD, Darlinghurst to Moore Park </strong>closures including Oxford St and Flinders St from 4am to 4pm</li><li><strong>Moore Park and Centennial Park </strong>closures from 5am to 3.30pm including parts of Moore Park Rd, Lang Rd and Anzac Pde</li><li><strong>South East, Moore Park to Kingsford </strong>closures from 5am to 2pm including parts of Anzac Pde, Dacey Ave and Alison Rd - delays are expected in the Eastern Distributor while these closures are in place.</li></ul><p><strong>Detours</strong>:</p><p>Motorists will only be able to travel east/west across the course via the <strong>Cross City Tunnel which will be toll-free from 5am to 4.30pm</strong> or on surface roads via Gardeners Rd, Bunnerong Rd and Maroubra Rd in the South East. From 1.30pm motorists can also use Dacey Ave/Alison Rd to travel east or west across the course. The Eastern Distributor Anzac Pde entry and exit will be closed, however the Bondi Moore Park Rd exit will remain open this year.</p><p><strong>Widespread special event clearway parking restrictions will also be in effect along and surrounding the course. </strong>Motorists and residents should check signs carefully on the day and on Saturday night as clearways come into effect from 12.01am Sunday morning.</p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1788012000000,
+        "displayName": "Sydney Marathon",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Sydney Harbour Bridge, Western Distributor, Oxford St, Anzac Pde",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Sydney, Sydney CBD, Pyrmont, Darlinghurst, Moore Park, Kingsford",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
         "CategoryIcon": "PublicEvent"
       }
     }
