@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1785690840000,
+  "lastPublished": 1785694140000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -28049,84 +28049,6 @@
     },
     {
       "type": "Feature",
-      "id": 278663,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.8411349,
-          -32.6637948
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "3:30am",
-            "fromDay": "Sunday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1781833691000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": " ",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1785691800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1785462996040,
-        "otherAdvice": "<p>The Twelve Mile Creek Rest Area, off the Pacific Highway at Raymond Terrace will close for one night to all vehicles to allow resurfacing work to be carried out.</p><p>Motorists are advised to use alternative rest areas as needed including Station Creek Rest Area, which is located about 18 to 20 kilometres from Twelve Mile Creek Rest Area, taking about 10 to 15 minutes in travel time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1785657600000,
-        "displayName": "SCHEDULED ROADWORK Rest area resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Twelve Mile Creek rest area",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Twelve Mile Creek",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 283123,
       "geometry": {
         "type": "Point",
@@ -30975,6 +30897,84 @@
             "region": "Sydney",
             "secondLocation": "Pennant Hills Road/M2 Motorway",
             "suburb": "Wahroonga to Carlingford",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8411349,
+          -32.6637948
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "3:30am",
+            "fromDay": "Sunday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1781833691000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": " ",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1785691800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1785691866517,
+        "otherAdvice": "<p>The Twelve Mile Creek Rest Area, off the Pacific Highway at Raymond Terrace will close for one night to all vehicles to allow resurfacing work to be carried out.</p><p>Motorists are advised to use alternative rest areas as needed including Station Creek Rest Area, which is located about 18 to 20 kilometres from Twelve Mile Creek Rest Area, taking about 10 to 15 minutes in travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1785657600000,
+        "displayName": "SCHEDULED ROADWORK Rest area resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Twelve Mile Creek rest area",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Twelve Mile Creek",
             "trafficVolume": ""
           }
         ],
