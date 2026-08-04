@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1785876240000,
+  "lastPublished": 1785882540000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -99,8 +99,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -111,33 +111,33 @@
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": "Prepare to merge",
+        "adviceB": "Expect delays",
+        "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "SMOKE",
-        "lastUpdated": 1785875218513,
+        "lastUpdated": 1785876493097,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
+        "additionalInfo": [
+          "Site Cleared"
         ],
+        "weblinkName": null,
+        "attendingGroups": null,
         "encodedPolylines": [],
         "displayName": "FIRE ALARM",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Wattle Street exit",
+            "crossStreet": "Wattle Street on-ramp",
             "delay": "",
             "impactedLanes": [
               {
                 "affectedDirection": "Westbound",
-                "closedLanes": "1",
-                "description": "Lane 4",
-                "extent": "Lanes closed",
-                "numberOfLanes": "4",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
                 "roadType": ""
               }
             ],
@@ -148,7 +148,7 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Ashfield",
-            "trafficVolume": ""
+            "trafficVolume": "Heavy"
           }
         ],
         "isLocalRoad": "State road",
