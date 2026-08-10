@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1786374870000,
+  "lastPublished": 1786378170000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1488,6 +1488,80 @@
     },
     {
       "type": "Feature",
+      "id": 282670.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8641587,
+          -31.4847316
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1785128972000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1785953421036,
+        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time 24hrs/day.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "EMERGENCY ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Lindsays Gap Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "between",
+            "mainStreet": "New England Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "Seven Creeks Road",
+            "suburb": "Wallabadah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 262178,
       "geometry": {
         "type": "Point",
@@ -1558,80 +1632,6 @@
             "region": "North Coast NSW",
             "secondLocation": "Boggy Creek Road",
             "suburb": "West of Bellingen",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 282670.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8641587,
-          -31.4847316
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1785128972000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": "Allow extra travel time",
-        "incidentKind": "Unplanned",
-        "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1785953421036,
-        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time 24hrs/day.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "EMERGENCY ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lindsays Gap Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "New England Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "Seven Creeks Road",
-            "suburb": "Wallabadah",
             "trafficVolume": ""
           }
         ],
@@ -5138,81 +5138,6 @@
         ],
         "isLocalRoad": "Local road",
         "CategoryIcon": "AdverseWeather"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 284020.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.026983,
-          -33.83786
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1786287153000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Multiple vehicles",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1786289158324,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Multiple vehicles",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Rawson Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "1",
-                "description": "Lane 2",
-                "extent": "Lanes closed",
-                "numberOfLanes": "2",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Auburn",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
       }
     },
     {
