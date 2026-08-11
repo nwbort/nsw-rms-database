@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1786461270000,
+  "lastPublished": 1786464570000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -12558,7 +12558,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -12574,7 +12574,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BREAKDOWN",
-        "lastUpdated": 1786460805537,
+        "lastUpdated": 1786464453577,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -12582,7 +12582,7 @@
         "weblinkName": null,
         "attendingGroups": [
           "Motorway Crew",
-          "Mechanic"
+          "Heavy vehicle tow truck"
         ],
         "encodedPolylines": [],
         "displayName": "BREAKDOWN B-double",
@@ -12598,7 +12598,15 @@
                 "description": "Lane 1",
                 "extent": "Lanes closed",
                 "numberOfLanes": "2",
-                "roadType": "Motorway"
+                "roadType": ""
+              },
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
               }
             ],
             "locationQualifier": "to",
