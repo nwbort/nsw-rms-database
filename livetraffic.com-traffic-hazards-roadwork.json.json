@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1787258790000,
+  "lastPublished": 1787262090000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -31136,6 +31136,89 @@
     },
     {
       "type": "Feature",
+      "id": 284574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.73989,
+          -33.623951
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "New Richmond Bridge - Stage 1",
+            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/new-richmond-bridge-stage-1"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1786590987000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1787252400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1787252446532,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<ul><li>Northbound on Londonderry Rd will be detoured via Wilshire Rd for Richmond or Reynolds Rd to access The Driftway (East).</li><li>Southbound on Londonderry Rd will use Southee Rd.</li><li>Eastbound on The Driftway will use Jockbet St and Wilshire Rd to access Londonderry Rd.</li><li>Westbound on The Driftway will use Luxford Rd to access Londonderry Rd.</li></ul>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1787191320000,
+        "displayName": "SCHEDULED ROADWORK New Richmond Bridge Upgrade (The Driftway) Stage 1",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Londonderry Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "The Driftway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Richmond",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 284712,
       "geometry": {
         "type": "Point",
@@ -31245,345 +31328,6 @@
             "region": "Southern Highlands",
             "secondLocation": "",
             "suburb": "Marulan",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 282668,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.4967407,
-          -28.5501722
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1785128636000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Bridge work",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1787252400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1787252446511,
-        "otherAdvice": "<p>Lane closures in place. Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p><strong>Oversize and overmass (OSOM) vehicles more than 4.6 metres wide</strong> intending to travel through the site should<strong> call the project team</strong> on 0429 037 023<strong> at least 24 hours prior to travel. </strong></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1786348800000,
-        "displayName": "SCHEDULED ROADWORK Bridge work",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Federation Bridge",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Murwillumbah Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Mullumbimby",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258696,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.25285,
-          -33.903993
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765327402000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1787252400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1787252446419,
-        "otherAdvice": "<p>Traffic lights at the intersection of Carrington Rd and Darley Rd will be flashing, and portable traffic devices will allow motorists to pass in one direction at a time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784598060000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "John Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Carrington Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Hooper Street",
-            "suburb": "Randwick",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 233663,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.514826,
-          -28.1767
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Tugun Bypass Tunnel",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/northern-tunnels"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Tunnel",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Tunnel",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Tunnel",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Wednesday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Tunnel",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "7:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1746488972000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": "Use diversions",
-        "end": 1787252400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1787252446858,
-        "otherAdvice": "<p>Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "<p><strong>Mon 17 &amp; Thu 20 August:</strong></p><ul><li><strong>Northbound: </strong>exit at the Gold Coast Hwy onto Tugun Currumbin Rd to rejoin the Pacific Mwy at Currumbin.</li><li><strong>Southbound: </strong>via Tugun Currumbin Rd (Exit 95) onto Gold Coast Hwy to rejoin the Pacific Mwy at Tweed Heads West.</li></ul><p><strong>Tue 18 and Wed 19 August:</strong></p><ul><li><strong>Northbound: </strong>via the Kennedy Dr exit, take Sugarwood Dr to Gold Coast Hwy, then Tugun Currumbin Rd to rejoin M1 Pacific Mwy. </li><li><strong>Southbound: </strong>via Tugun Currumbin Rd (Exit 95) onto Gold Coast Hwy, then Cordyline Dr to rejoin the M1 Pacific Mwy.</li></ul><p>These diversions are suitable for all vehicles.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1786957200000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Tugun Bypass Tunnel",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Tweed Heads",
             "trafficVolume": ""
           }
         ],
@@ -31789,6 +31533,114 @@
     },
     {
       "type": "Feature",
+      "id": 282668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4967407,
+          -28.5501722
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1785128636000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Bridge work",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1787252400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1787252446511,
+        "otherAdvice": "<p>Lane closures in place. Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p><strong>Oversize and overmass (OSOM) vehicles more than 4.6 metres wide</strong> intending to travel through the site should<strong> call the project team</strong> on 0429 037 023<strong> at least 24 hours prior to travel. </strong></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1786348800000,
+        "displayName": "SCHEDULED ROADWORK Bridge work",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Federation Bridge",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Murwillumbah Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Mullumbimby",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 282374,
       "geometry": {
         "type": "Point",
@@ -31875,20 +31727,20 @@
     },
     {
       "type": "Feature",
-      "id": 284574,
+      "id": 233663,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.73989,
-          -33.623951
+          153.514826,
+          -28.1767
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [
           {
-            "linkText": "New Richmond Bridge - Stage 1",
-            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/new-richmond-bridge-stage-1"
+            "linkText": "Tugun Bypass Tunnel",
+            "linkURL": "https://www.transport.nsw.gov.au/projects/current-projects/northern-tunnels"
           }
         ],
         "headline": "",
@@ -31896,11 +31748,41 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "All directions",
+            "roadtype": "Tunnel",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Tunnel",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Tunnel",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "7:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Tunnel",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "8:00pm",
+            "startTime": "7:00pm",
             "toDay": ""
           }
         ],
@@ -31910,49 +31792,167 @@
         "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1786590987000,
+        "created": 1746488972000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Use diversions",
         "end": 1787252400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1787252446532,
-        "otherAdvice": "",
+        "lastUpdated": 1787252446858,
+        "otherAdvice": "<p>Traffic controllers will be on site to direct motorists. </p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p>",
         "arrangementElements": [],
-        "diversions": "<ul><li>Northbound on Londonderry Rd will be detoured via Wilshire Rd for Richmond or Reynolds Rd to access The Driftway (East).</li><li>Southbound on Londonderry Rd will use Southee Rd.</li><li>Eastbound on The Driftway will use Jockbet St and Wilshire Rd to access Londonderry Rd.</li><li>Westbound on The Driftway will use Luxford Rd to access Londonderry Rd.</li></ul>",
+        "diversions": "<p><strong>Mon 17 &amp; Thu 20 August:</strong></p><ul><li><strong>Northbound: </strong>exit at the Gold Coast Hwy onto Tugun Currumbin Rd to rejoin the Pacific Mwy at Currumbin.</li><li><strong>Southbound: </strong>via Tugun Currumbin Rd (Exit 95) onto Gold Coast Hwy to rejoin the Pacific Mwy at Tweed Heads West.</li></ul><p><strong>Tue 18 and Wed 19 August:</strong></p><ul><li><strong>Northbound: </strong>via the Kennedy Dr exit, take Sugarwood Dr to Gold Coast Hwy, then Tugun Currumbin Rd to rejoin M1 Pacific Mwy. </li><li><strong>Southbound: </strong>via Tugun Currumbin Rd (Exit 95) onto Gold Coast Hwy, then Cordyline Dr to rejoin the M1 Pacific Mwy.</li></ul><p>These diversions are suitable for all vehicles.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1787191320000,
-        "displayName": "SCHEDULED ROADWORK New Richmond Bridge Upgrade (The Driftway) Stage 1",
+        "start": 1786957200000,
+        "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Londonderry Road",
+            "crossStreet": "Tugun Bypass Tunnel",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "The Driftway",
+            "mainStreet": "M1 Pacific Motorway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Sydney",
+            "region": "North Coast NSW",
             "secondLocation": "",
-            "suburb": "Richmond",
+            "suburb": "Tweed Heads",
             "trafficVolume": ""
           }
         ],
-        "isLocalRoad": "Local road",
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.25285,
+          -33.903993
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Wednesday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765327402000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1787252400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1787252446419,
+        "otherAdvice": "<p>Traffic lights at the intersection of Carrington Rd and Darley Rd will be flashing, and portable traffic devices will allow motorists to pass in one direction at a time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1784598060000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "John Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Carrington Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Hooper Street",
+            "suburb": "Randwick",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
         "CategoryIcon": "Roadworks"
       }
     },
@@ -32282,12 +32282,90 @@
     },
     {
       "type": "Feature",
-      "id": 284746,
+      "id": 282050.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.147726,
-          -33.939133
+          151.1802232,
+          -33.9134278
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Tunnel",
+            "direction": "Northbound",
+            "finishTime": "5:00am",
+            "fromDay": "Thursday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784549224000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "end": 1789066800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1787253355433,
+        "otherAdvice": "<p>There will be no access to M4 Mwy, Victoria Rd or City West Link from M8 Mwy.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Euston Rd, Campbell Rd, Princes Hwy and Parramatta Rd to M4 Mwy, <strong>or </strong>Broadway, Wattle St, Pyrmont Bridge Rd and Western Dist for access to City West Link or Victoria Rd.</p><p><strong>This is not suitable for B-doubles or vehicles over 4.6m high.</strong></p><p>B-doubles and vehicles over 4.6m can use Gardeners Rd, O&#39;Riordan St, Botany Rd, Henderson Rd, Wyndham St, Gibbons St, Regent St, Cleveland St, City Rd (Princes Hwy) and Parramatta Rd to M4 Mwy, <strong>or </strong>Broadway, Wattle St, Pyrmont Bridge Rd and Western Dist for access to City West Link or Victoria Rd.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1789040700000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M4 Motorway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "M8 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "St Peters to Rozelle",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 284491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.184865,
+          -33.89981
         ],
         "collections": []
       },
@@ -32301,8 +32379,38 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "5:00am",
+            "fromDay": "Sunday",
+            "startTime": "8:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "8:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "8:30pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "11:30pm",
+            "startTime": "8:30pm",
             "toDay": ""
           },
           {
@@ -32312,7 +32420,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "11:30pm",
+            "startTime": "9:00pm",
             "toDay": ""
           }
         ],
@@ -32326,19 +32434,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1786705767000,
+        "created": 1786513984000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Upgrade",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Follow directions on site",
-        "adviceC": " ",
+        "subCategoryA": "Maintenance",
+        "adviceA": "Exercise caution",
+        "adviceB": "Expect delays",
+        "adviceC": "Reduced speed limit",
         "end": 1787253300000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1787253355503,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p><p>Traffic lights at the intersection will be flashing yellow.</p>",
+        "lastUpdated": 1787253355618,
+        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time, and traffic lights at the intersection of Erskineville Rd and Swanson St will be flashing yellow.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -32346,21 +32454,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1787135040000,
-        "displayName": "SCHEDULED ROADWORK post replacement",
+        "start": 1786876200000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Forest Road / Wickham Street",
+            "crossStreet": "Septimus Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway",
+            "locationQualifier": "between",
+            "mainStreet": "Erskineville Road / Swanson Street",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Arncliffe",
+            "secondLocation": "Binning Street",
+            "suburb": "Erskineville",
             "trafficVolume": ""
           }
         ],
@@ -32556,12 +32664,12 @@
     },
     {
       "type": "Feature",
-      "id": 282050.0,
+      "id": 284746,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.1802232,
-          -33.9134278
+          151.147726,
+          -33.939133
         ],
         "collections": []
       },
@@ -32569,114 +32677,6 @@
         "webLinks": [],
         "headline": "",
         "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Tunnel",
-            "direction": "Northbound",
-            "finishTime": "5:00am",
-            "fromDay": "Thursday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784549224000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use diversions",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "end": 1789066800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1787253355433,
-        "otherAdvice": "<p>There will be no access to M4 Mwy, Victoria Rd or City West Link from M8 Mwy.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Euston Rd, Campbell Rd, Princes Hwy and Parramatta Rd to M4 Mwy, <strong>or </strong>Broadway, Wattle St, Pyrmont Bridge Rd and Western Dist for access to City West Link or Victoria Rd.</p><p><strong>This is not suitable for B-doubles or vehicles over 4.6m high.</strong></p><p>B-doubles and vehicles over 4.6m can use Gardeners Rd, O&#39;Riordan St, Botany Rd, Henderson Rd, Wyndham St, Gibbons St, Regent St, Cleveland St, City Rd (Princes Hwy) and Parramatta Rd to M4 Mwy, <strong>or </strong>Broadway, Wattle St, Pyrmont Bridge Rd and Western Dist for access to City West Link or Victoria Rd.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1789040700000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "M4 Motorway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "M8 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "St Peters to Rozelle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 284491,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.184865,
-          -33.89981
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "8:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "8:30pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "8:30pm",
-            "toDay": ""
-          },
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Affected",
@@ -32684,7 +32684,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "8:30pm",
+            "startTime": "11:30pm",
             "toDay": ""
           },
           {
@@ -32694,7 +32694,7 @@
             "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
-            "startTime": "9:00pm",
+            "startTime": "11:30pm",
             "toDay": ""
           }
         ],
@@ -32708,19 +32708,19 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1786513984000,
+        "created": 1786705767000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Exercise caution",
-        "adviceB": "Expect delays",
-        "adviceC": "Reduced speed limit",
+        "subCategoryA": "Upgrade",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Follow directions on site",
+        "adviceC": " ",
         "end": 1787253300000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1787253355618,
-        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time, and traffic lights at the intersection of Erskineville Rd and Swanson St will be flashing yellow.</p>",
+        "lastUpdated": 1787253355503,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p><p>Traffic lights at the intersection will be flashing yellow.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -32728,21 +32728,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1786876200000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1787135040000,
+        "displayName": "SCHEDULED ROADWORK post replacement",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Septimus Street",
+            "crossStreet": "Forest Road / Wickham Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Erskineville Road / Swanson Street",
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Binning Street",
-            "suburb": "Erskineville",
+            "secondLocation": "",
+            "suburb": "Arncliffe",
             "trafficVolume": ""
           }
         ],
