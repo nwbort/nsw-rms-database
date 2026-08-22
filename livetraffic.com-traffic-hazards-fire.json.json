@@ -1,12 +1,78 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1787420280000,
+  "lastPublished": 1787424390000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
   "features": [
+    {
+      "type": "Feature",
+      "id": 285715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0223057,
+          -33.8326772
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1787420265000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": " ",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "SMOKE",
+        "lastUpdated": 1787420864246,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Motorway Crew",
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "SMOKE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "James Ruse Drive",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Clyde",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
     {
       "type": "Feature",
       "id": 285714,
@@ -26,7 +92,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -36,12 +102,12 @@
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Avoid the area",
+        "adviceA": "Exercise caution",
         "adviceB": "Use an alternative route",
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1787418529133,
+        "lastUpdated": 1787423802556,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -54,8 +120,8 @@
         "encodedPolylines": [
           {
             "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "vygnEejqy[BKLc@FOFSFWDM@CPm@HWLc@BGTu@??@IDO@A?C?A"
+            "direction": "ONE_DIRECTION",
+            "coords": "f~gnE{tqy[?BCDAFAFCF?@MJUt@CFMb@IVQl@ABELGVGRGNMb@GPMT"
           }
         ],
         "displayName": "BUILDING FIRE",
@@ -66,7 +132,7 @@
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
+                "affectedDirection": "Westbound",
                 "closedLanes": "",
                 "description": "",
                 "extent": "Closed",
@@ -81,81 +147,6 @@
             "region": "Sydney",
             "secondLocation": "Moate Avenue",
             "suburb": "Brighton-Le-Sands",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 285715,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0223057,
-          -33.8326772
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1787420265000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "SMOKE",
-        "lastUpdated": 1787420266454,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Motorway Crew",
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "SMOKE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "James Ruse Drive",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Westbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Motorway"
-              }
-            ],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway Upper Viaduct",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Clyde",
             "trafficVolume": ""
           }
         ],
