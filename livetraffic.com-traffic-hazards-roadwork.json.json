@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1788445950000,
+  "lastPublished": 1788460650000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -30437,84 +30437,6 @@
     },
     {
       "type": "Feature",
-      "id": 286372,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2034189,
-          -33.8722211
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Westbound",
-            "finishTime": "5:00am",
-            "fromDay": "Every Night",
-            "startTime": "10:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1787817508000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Reduced speed limit",
-        "end": 1788376500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1788376561396,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p>Harbour St, Pier St, William Henry St, Wattle St, Pyrmont Bridge Rd to access Anzac Bridge.</p><p>Druitt St on-ramp to the Western Distributor will remain open.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1788177600000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Anzac Bridge",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Western Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 276798,
       "geometry": {
         "type": "Point",
@@ -30614,6 +30536,84 @@
             "region": "Sydney",
             "secondLocation": "Pennant Hills Road/M2 Motorway",
             "suburb": "Wahroonga to Carlingford",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2034189,
+          -33.8722211
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Westbound",
+            "finishTime": "5:00am",
+            "fromDay": "Every Night",
+            "startTime": "10:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1787817508000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Maintenance",
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Reduced speed limit",
+        "end": 1788376500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1788376561396,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "<p>Harbour St, Pier St, William Henry St, Wattle St, Pyrmont Bridge Rd to access Anzac Bridge.</p><p>Druitt St on-ramp to the Western Distributor will remain open.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1788177600000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Anzac Bridge",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Western Distributor",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
@@ -32266,7 +32266,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
@@ -32284,7 +32284,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1788433118784,
+        "lastUpdated": 1788460007583,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
