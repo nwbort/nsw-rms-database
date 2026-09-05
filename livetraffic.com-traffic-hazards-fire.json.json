@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1788582780000,
+  "lastPublished": 1788598980000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -181,7 +181,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
@@ -197,8 +197,8 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1788582265624,
-        "otherAdvice": "<p><strong>M1 Pacific Mtwy northbound Off-ramp is closed</strong></p><p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p><p><br></p>",
+        "lastUpdated": 1788588562066,
+        "otherAdvice": "<p><strong>M1 Pacific Motorway interchange northbound to Peats Ridge Road is currently closed. Motorists will need to use the Old Pacific Highway instead.</strong></p><p>Smoke in the area may affect visibility. Motorists should drive to the conditions.</p>",
         "arrangementElements": [],
         "diversions": "<p>To exit the M1 Pacific Mtwy northbound use Mount White or Kariong interchange instead.</p>",
         "additionalInfo": [],
@@ -211,24 +211,19 @@
           {
             "levels": "",
             "direction": "ONE_DIRECTION",
-            "coords": "bh_kE{c_z[EAg@Ci@CcA?U@A?CAKA??cAHM@s@FG?mBLO@UBYBa@D]DYBkANm@Hk@JK@g@Jo@NkAXqA^eAZC@a@Na@LQFOFKDE@a@NKDw@\\q@Xw@`@u@^y@`@eAj@_Bx@iAl@aBx@oAn@e@T_@P[NiB|@oCvAA?A@A?A?I?q@\\eAl@m@`@s@f@w@n@u@h@u@t@w@v@_AjA_AhAsAzAa@`@gA|@k@`@YPOLe@TaAb@a@Pc@P_Ab@a@Rg@Zc@Z]Vk@h@c@f@uAzAy@z@k@f@QLOLKH]Ts@`@MF_Ad@{Ap@kBz@_Ab@_Br@yAr@m@X"
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "dz`kE}s~y[A?aAe@]MUK_@Mi@O??g@GmCYi@CeDF??sAA_BKUC??_AEi@Ik@M??OG[KYMUMQMq@e@_@Ye@]q@a@[Q_@Qm@Yw@Wq@QSEg@Mq@Ky@K"
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
             "coords": "hh_kE{c_z["
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "xr}jEas~y[iAl@aBx@oAn@e@T_@P[NiB|@oCvAA?A@A?A?I?q@\\eAl@m@`@s@f@w@n@u@h@u@t@w@v@_AjA_AhA"
           }
         ],
         "displayName": "BUSHFIRE",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "M1 Pacific Motorway",
+            "crossStreet": "Bandaroo Road",
             "delay": "",
             "impactedLanes": [
               {
@@ -245,7 +240,7 @@
             "quadrant": "",
             "queueLength": 0,
             "region": "Central Coast",
-            "secondLocation": "Cooks Road",
+            "secondLocation": "Jones Road",
             "suburb": "Calga",
             "trafficVolume": "Moderate"
           }
