@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1788612180000,
+  "lastPublished": 1788624180000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -27493,6 +27493,93 @@
     },
     {
       "type": "Feature",
+      "id": 282867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9943055,
+          -34.7207554
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "6:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Work_Area",
+            "fileName": "Work_Area.png",
+            "fileType": "PNG",
+            "linkName": "Work_Area",
+            "sizeInBytes": 340791,
+            "uniqueFileName": "649255_1785287132539_Work_Area.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1785812441000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1789714800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1788462004031,
+        "otherAdvice": "<p>The speed limit outside work hours is 80km/h.</p><p>Single lane closures will be in place.</p><p>Access into the northbound Service Centre, heavy vehicle parking area and Marulan town centre will remain open.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1786870800000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hume Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "George St",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Marulan",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 276798,
       "geometry": {
         "type": "Point",
@@ -27582,93 +27669,6 @@
             "region": "Sydney",
             "secondLocation": "Pennant Hills Road/M2 Motorway",
             "suburb": "Wahroonga to Carlingford",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 282867,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.9943055,
-          -34.7207554
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "6:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Work_Area",
-            "fileName": "Work_Area.png",
-            "fileType": "PNG",
-            "linkName": "Work_Area",
-            "sizeInBytes": 340791,
-            "uniqueFileName": "649255_1785287132539_Work_Area.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1785812441000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1789714800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1788462004031,
-        "otherAdvice": "<p>The speed limit outside work hours is 80km/h.</p><p>Single lane closures will be in place.</p><p>Access into the northbound Service Centre, heavy vehicle parking area and Marulan town centre will remain open.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1786870800000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hume Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "George St",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Marulan",
             "trafficVolume": ""
           }
         ],
@@ -30759,12 +30759,12 @@
     },
     {
       "type": "Feature",
-      "id": 282821,
+      "id": 286397,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.8608783,
-          -33.800006
+          150.8513727,
+          -33.8100013
         ],
         "collections": []
       },
@@ -30775,8 +30775,8 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
+            "roadtype": "On-ramp",
+            "direction": "Southbound",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
             "startTime": "9:00pm",
@@ -30785,8 +30785,8 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
+            "roadtype": "On-ramp",
+            "direction": "Southbound",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
             "startTime": "9:00pm",
@@ -30795,8 +30795,8 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
+            "roadtype": "On-ramp",
+            "direction": "Southbound",
             "finishTime": "5:00am",
             "fromDay": "Friday",
             "startTime": "9:00pm",
@@ -30813,21 +30813,21 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1785242351000,
+        "created": 1787827604000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use diversions",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
         "end": 1788548400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1788548447224,
-        "otherAdvice": "",
+        "lastUpdated": 1788548447278,
+        "otherAdvice": "<p>Only this ramp is closing; the motorway will remain open with a reduced speed limit in place.</p>",
         "arrangementElements": [],
-        "diversions": "<p>Wallgrove Rd or Wallgrove Rd and Great Western Hwy as required.</p>",
+        "diversions": "<p>Motorists can travel south on Wallgrove Rd and use The Horsley Dr on-ramp.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
@@ -30842,7 +30842,7 @@
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "to",
-            "mainStreet": "M4 Motorway off-ramp",
+            "mainStreet": "Wallgrove Road/Old Wallgrove Road southbound on-ramp",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
@@ -31181,12 +31181,12 @@
     },
     {
       "type": "Feature",
-      "id": 286397,
+      "id": 282821,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.8513727,
-          -33.8100013
+          150.8608783,
+          -33.800006
         ],
         "collections": []
       },
@@ -31197,8 +31197,8 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "On-ramp",
-            "direction": "Southbound",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
             "startTime": "9:00pm",
@@ -31207,8 +31207,8 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "On-ramp",
-            "direction": "Southbound",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
             "startTime": "9:00pm",
@@ -31217,8 +31217,8 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "On-ramp",
-            "direction": "Southbound",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Friday",
             "startTime": "9:00pm",
@@ -31235,21 +31235,21 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1787827604000,
+        "created": 1785242351000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
+        "adviceA": "Use diversions",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
         "end": 1788548400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1788548447278,
-        "otherAdvice": "<p>Only this ramp is closing; the motorway will remain open with a reduced speed limit in place.</p>",
+        "lastUpdated": 1788548447224,
+        "otherAdvice": "",
         "arrangementElements": [],
-        "diversions": "<p>Motorists can travel south on Wallgrove Rd and use The Horsley Dr on-ramp.</p>",
+        "diversions": "<p>Wallgrove Rd or Wallgrove Rd and Great Western Hwy as required.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
@@ -31264,7 +31264,7 @@
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "to",
-            "mainStreet": "Wallgrove Road/Old Wallgrove Road southbound on-ramp",
+            "mainStreet": "M4 Motorway off-ramp",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
