@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1789479300000,
+  "lastPublished": 1789495800000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -15043,6 +15043,93 @@
     },
     {
       "type": "Feature",
+      "id": 282867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9943055,
+          -34.7207554
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Weekdays",
+            "startTime": "6:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Work_Area",
+            "fileName": "Work_Area.png",
+            "fileType": "PNG",
+            "linkName": "Work_Area",
+            "sizeInBytes": 340791,
+            "uniqueFileName": "649255_1785287132539_Work_Area.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1785812441000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1789714800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1788462004031,
+        "otherAdvice": "<p>The speed limit outside work hours is 80km/h.</p><p>Single lane closures will be in place.</p><p>Access into the northbound Service Centre, heavy vehicle parking area and Marulan town centre will remain open.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1786870800000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hume Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "George St",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Marulan",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 276798,
       "geometry": {
         "type": "Point",
@@ -15132,93 +15219,6 @@
             "region": "Sydney",
             "secondLocation": "Pennant Hills Road/M2 Motorway",
             "suburb": "Wahroonga to Carlingford",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 282867,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.9943055,
-          -34.7207554
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Weekdays",
-            "startTime": "6:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Work_Area",
-            "fileName": "Work_Area.png",
-            "fileType": "PNG",
-            "linkName": "Work_Area",
-            "sizeInBytes": 340791,
-            "uniqueFileName": "649255_1785287132539_Work_Area.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1785812441000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1789714800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1788462004031,
-        "otherAdvice": "<p>The speed limit outside work hours is 80km/h.</p><p>Single lane closures will be in place.</p><p>Access into the northbound Service Centre, heavy vehicle parking area and Marulan town centre will remain open.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1786870800000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hume Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "George St",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Marulan",
             "trafficVolume": ""
           }
         ],
@@ -21808,124 +21808,6 @@
     },
     {
       "type": "Feature",
-      "id": 271347,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.174736,
-          -35.714709
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "4:00am",
-            "fromDay": "Sunday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "4:00am",
-            "fromDay": "Monday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "4:00am",
-            "fromDay": "Tuesday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "4:00am",
-            "fromDay": "Wednesday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "4:00am",
-            "fromDay": "Thursday",
-            "startTime": "6:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776404101000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Resurfacing",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Reduced speed limit",
-        "adviceC": " ",
-        "end": 1792306800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1789063246827,
-        "otherAdvice": "<p>Single lane closures with stop/slow traffic conditions will be in place. Traffic controllers will be on site to direct motorists.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p>Access between Guy Street and the Princes Highway will be closed on 15 and 16 September </p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists will be detoured via Old Princes Highway.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1779051600000,
-        "displayName": "SCHEDULED ROADWORK Resurfacing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Guy St",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "Old Princes Highway",
-            "suburb": "Batemans Bay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 284258,
       "geometry": {
         "type": "Point",
@@ -28248,12 +28130,12 @@
     },
     {
       "type": "Feature",
-      "id": 286847,
+      "id": 287856,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.8460833,
-          -33.7497606
+          151.199496,
+          -33.810583
         ],
         "collections": []
       },
@@ -28263,9 +28145,9 @@
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Southbound",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
             "startTime": "9:00pm",
@@ -28273,60 +28155,70 @@
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Southbound",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Monday",
             "startTime": "9:00pm",
             "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Tuesday",
+            "startTime": "9:00pm",
+            "toDay": ""
           }
         ],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": true,
+        "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1788251265000,
+        "created": 1789106907000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Signage",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
+        "subCategoryA": "Maintenance",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
         "adviceC": " ",
         "end": 1789412400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1789412464102,
-        "otherAdvice": "<p>Only this ramp is closing; the motorway will remain open with a reduced speed limit in place.</p>",
+        "lastUpdated": 1789412464276,
+        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time.</p><p>Traffic lights at the intersection of Willoughby Rd and Garland Rd will be blacked out or flashing yellow.</p>",
         "arrangementElements": [],
-        "diversions": "<p>Richmond Rd, Rooty Hill Rd North to Power St OR Great Western Hwy, Doonside Rd, Eastern Rd, Knox Rd to Power St.</p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1789297200000,
-        "displayName": "SCHEDULED ROADWORK",
+        "start": 1789277820000,
+        "displayName": "SCHEDULED ROADWORK Maintenance",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Power Street",
+            "crossStreet": "Artarmon Road",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "M7 Motorway southbound off-ramp",
+            "locationQualifier": "between",
+            "mainStreet": "Willoughby Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Glendenning",
+            "secondLocation": "Quiamong Road",
+            "suburb": "Willoughby",
             "trafficVolume": ""
           }
         ],
@@ -28424,12 +28316,12 @@
     },
     {
       "type": "Feature",
-      "id": 287856,
+      "id": 286847,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.199496,
-          -33.810583
+          150.8460833,
+          -33.7497606
         ],
         "collections": []
       },
@@ -28439,9 +28331,9 @@
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Southbound",
             "finishTime": "5:00am",
             "fromDay": "Sunday",
             "startTime": "9:00pm",
@@ -28449,70 +28341,60 @@
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Southbound",
             "finishTime": "5:00am",
             "fromDay": "Monday",
             "startTime": "9:00pm",
             "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Tuesday",
-            "startTime": "9:00pm",
-            "toDay": ""
           }
         ],
-        "speedLimit": 40,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1789106907000,
+        "created": 1788251265000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Maintenance",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
+        "subCategoryA": "Signage",
+        "adviceA": "Check signage",
+        "adviceB": "Allow extra travel time",
         "adviceC": " ",
         "end": 1789412400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1789412464276,
-        "otherAdvice": "<p>Portable traffic lights will allow motorists to pass in one direction at a time.</p><p>Traffic lights at the intersection of Willoughby Rd and Garland Rd will be blacked out or flashing yellow.</p>",
+        "lastUpdated": 1789412464102,
+        "otherAdvice": "<p>Only this ramp is closing; the motorway will remain open with a reduced speed limit in place.</p>",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p>Richmond Rd, Rooty Hill Rd North to Power St OR Great Western Hwy, Doonside Rd, Eastern Rd, Knox Rd to Power St.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1789277820000,
-        "displayName": "SCHEDULED ROADWORK Maintenance",
+        "start": 1789297200000,
+        "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Artarmon Road",
+            "crossStreet": "Power Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Willoughby Road",
+            "locationQualifier": "to",
+            "mainStreet": "M7 Motorway southbound off-ramp",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Quiamong Road",
-            "suburb": "Willoughby",
+            "secondLocation": "",
+            "suburb": "Glendenning",
             "trafficVolume": ""
           }
         ],
@@ -30780,107 +30662,6 @@
     },
     {
       "type": "Feature",
-      "id": 286340.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.962151,
-          -34.268429
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "4:00am",
-            "fromDay": "Weekday Nights",
-            "startTime": "8:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Detour_map",
-            "fileName": "Detour_map.png",
-            "fileType": "PNG",
-            "linkName": "Detour_map",
-            "sizeInBytes": 4011517,
-            "uniqueFileName": "999021_1787804231691_Detour_map.png"
-          },
-          {
-            "displayName": "Work_Area",
-            "fileName": "Work_Area.png",
-            "fileType": "PNG",
-            "linkName": "Work_Area",
-            "sizeInBytes": 3693469,
-            "uniqueFileName": "301076_1787804233928_Work_Area.png"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1788123610000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1790877600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1789469811871,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p><strong>Full closures will take place on Lawrence Hargrave Drive near Scarborough Hotel and Scarborough Scenic Lookout between 8pm and 4am on the follow days:</strong></p><ul><li><strong>Monday 14 September</strong></li><li><strong>Tuesday 15 September</strong></li><li><strong>Wednesday16 September and </strong></li><li><strong>Thursday 17 September</strong></li></ul><p> </p>",
-        "arrangementElements": [],
-        "diversions": "<p>When road closures are in place motorists will be detoured via Lady Wakehurst Drive, the Princes Highway and Princes Motorway.</p><p>This diversion is suitable for all vehicles. </p><p>Motorists are advised to allow approximately 45 minutes of additional travel time.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "xbdpEmvkx[a@_@a@_@UUQQSWEGMOKMGKOQCEQWACWa@S[AAAAS]o@cAAAi@{@Wa@W]IQIKEKEIAECGCM?A"
-          }
-        ],
-        "duration": null,
-        "start": 1789380000000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Lawrence Hargrave Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Scarborough",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 288204,
       "geometry": {
         "type": "Point",
@@ -30980,6 +30761,219 @@
             "region": "Sydney",
             "secondLocation": "Catherine Street",
             "suburb": "Lilyfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.174736,
+          -35.714709
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "4:00am",
+            "fromDay": "Sunday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "4:00am",
+            "fromDay": "Monday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "4:00am",
+            "fromDay": "Tuesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "4:00am",
+            "fromDay": "Wednesday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "4:00am",
+            "fromDay": "Thursday",
+            "startTime": "6:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776404101000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Resurfacing",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Reduced speed limit",
+        "adviceC": " ",
+        "end": 1792306800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1789495201833,
+        "otherAdvice": "<p>Single lane closures with stop/slow traffic conditions will be in place. Traffic controllers will be on site to direct motorists.</p><p>Motorists are advised to allow approximately 5 minutes of additional travel time.</p><p>Access between the Old Princes Highway and the Princes Highway will be closed on 24 September.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists will be detoured via Hughes Street or Beach Road.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1779051600000,
+        "displayName": "SCHEDULED ROADWORK Resurfacing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Guy St",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "Old Princes Highway",
+            "suburb": "Batemans Bay",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286340.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.962151,
+          -34.268429
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "4:00am",
+            "fromDay": "Weekday Nights",
+            "startTime": "8:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Detour_map",
+            "fileName": "Detour_map.png",
+            "fileType": "PNG",
+            "linkName": "Detour_map",
+            "sizeInBytes": 4011517,
+            "uniqueFileName": "999021_1787804231691_Detour_map.png"
+          },
+          {
+            "displayName": "Work_Area",
+            "fileName": "Work_Area.png",
+            "fileType": "PNG",
+            "linkName": "Work_Area",
+            "sizeInBytes": 3693469,
+            "uniqueFileName": "301076_1787804233928_Work_Area.png"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1788123610000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1790877600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1789495331616,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p><strong>Full closures will take place on Lawrence Hargrave Drive near Scarborough Hotel and Scarborough Scenic Lookout between 8pm and 4am on the follow days:</strong></p><ul><li><strong>Monday 14 September</strong></li><li><strong>Tuesday 15 September</strong></li><li><strong>Wednesday16 September and </strong></li><li><strong>Thursday 17 September</strong></li></ul><p> </p>",
+        "arrangementElements": [],
+        "diversions": "<p>When road closures are in place motorists will be detoured via Lady Wakehurst Drive, the Princes Highway and Princes Motorway.</p><p>This diversion is suitable for all vehicles. </p><p>Motorists are advised to allow approximately 45 minutes of additional travel time.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1789380000000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Lawrence Hargrave Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Scarborough",
             "trafficVolume": ""
           }
         ],
