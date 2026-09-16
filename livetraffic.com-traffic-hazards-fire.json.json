@@ -1,93 +1,12 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1789518000000,
+  "lastPublished": 1789538700000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
   "features": [
-    {
-      "type": "Feature",
-      "id": 288162,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9594774,
-          -34.0435403
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789438794000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Avoid the area",
-        "adviceB": "Use diversions",
-        "adviceC": "Follow directions on site",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BUSHFIRE",
-        "lastUpdated": 1789442185228,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p>New Illawarra Rd, Allfords Point Rd, Davies Rd, Milperra Rd, Newbridge Rd to rejoin Heathcote Rd southbound.</p><p>This diversion will add approximately 30 minutes of travel time.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW",
-          "Emergency services"
-        ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "~aznE{fmx[Mx@W`AUx@Qf@Sf@Sd@S`@Ud@ABQXEFKPQXa@l@e@t@e@v@QViAjBA@o@bAYb@o@dAu@jAQZIJMTKPa@j@_@h@SVW\\[\\[\\[\\[XYVYVA@KHQN]Va@X_@VYRYNOJKDe@Ta@Rm@Xa@R_@P[NULWJs@\\e@TQHKDOHE@m@Xs@\\{@`@OF_@Pk@Xa@PYLa@RYLIDKBIDEBSFYJQFKBUFq@NMBM@MBK@_@F[BM@k@DS@[?[@WAS?O?a@AUAKAUCA?WCIAMCWEUC_@GMCiBYy@K_@GiBYe@IA?cAQ}AUGAc@Ii@Iy@MEAc@GA?iAQk@ISE{@MmAUgAQYGa@IKCi@Mi@O}@Wi@QA?s@UsAg@CAaC}@CA[Me@Sm@UwBy@?AuAi@k@Se@SUKg@Wc@WEEc@Yq@e@q@o@e@e@s@w@c@m@e@s@_FyHk@}@sAwBgA{AU_@"
-          }
-        ],
-        "displayName": "BUSHFIRE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "New Illawarra Rd",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "just past",
-            "mainStreet": "Heathcote Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Lucas Heights",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
     {
       "type": "Feature",
       "id": 288176,
@@ -160,86 +79,6 @@
             "secondLocation": "Governors Drive",
             "suburb": "Emu Plains",
             "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288167,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2349855,
-          -33.7500882
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "4:00pm",
-            "fromDay": "Tuesday",
-            "startTime": "12:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789443765000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Expect delays",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1789452000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "HAZARD REDUCTION BURN",
-        "lastUpdated": 1789449656283,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1789443660000,
-        "displayName": "HAZARD REDUCTION BURN",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Frenchs Forest Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Wakehurst Parkway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Frenchs Forest",
-            "trafficVolume": "Heavy"
           }
         ],
         "isLocalRoad": "State road",
