@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790010120000,
+  "lastPublished": 1790024520000,
   "layerName": "Incident",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1161,6 +1161,78 @@
     },
     {
       "type": "Feature",
+      "id": 283985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.851513,
+          -31.481217
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1786278900000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Exercise caution",
+        "adviceB": " ",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1789243381818,
+        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Mutawintji Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Fowlers Gap to Mutawintji National Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 283989,
       "geometry": {
         "type": "Point",
@@ -1230,78 +1302,6 @@
             "region": "Far West NSW",
             "secondLocation": "",
             "suburb": "Silverton to Broughams Gate",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 283985,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.851513,
-          -31.481217
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1786278900000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Exercise caution",
-        "adviceB": " ",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1789243381818,
-        "otherAdvice": "<p><strong>The road is open with caution.</strong></p><p>Road conditions for Unincorporated Area of the Western Region are available on 08 8082 6660.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Mutawintji Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Fowlers Gap to Mutawintji National Park",
             "trafficVolume": ""
           }
         ],
@@ -3254,185 +3254,6 @@
     },
     {
       "type": "Feature",
-      "id": 267022,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.2331624,
-          -33.5814227
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "EMERGENCY ROADWORK Road damage MOUNT VICTORIA Great Western Highway at Victoria Pass",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "GreatWesternHwyDetourMap",
-            "fileName": "GreatWesternHwyDetourMap.png",
-            "fileType": "PNG",
-            "linkName": "GreatWesternHwyDetourMap",
-            "sizeInBytes": 912638,
-            "uniqueFileName": "968604_1773898070499_GreatWesternHwyDetourMap.png"
-          },
-          {
-            "displayName": "GreatWesternHighwayProgressUpdate1",
-            "fileName": "GreatWesternHighwayProgressUpdate1.jpeg",
-            "fileType": "JPEG",
-            "linkName": "GreatWesternHighwayProgressUpdate1",
-            "sizeInBytes": 1482961,
-            "uniqueFileName": "506418_1788922492925_GreatWesternHighwayProgressUpdate1.jpeg"
-          },
-          {
-            "displayName": "GreatWesternHighwayProgressUpdate2",
-            "fileName": "GreatWesternHighwayProgressUpdate2.jpeg",
-            "fileType": "JPEG",
-            "linkName": "GreatWesternHighwayProgressUpdate2",
-            "sizeInBytes": 1196848,
-            "uniqueFileName": "545475_1788922499726_GreatWesternHighwayProgressUpdate2.jpeg"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1772690097000,
-        "isMajor": true,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
-        "adviceC": "Allow extra travel time",
-        "incidentKind": "Unplanned",
-        "mainCategory": "EMERGENCY ROADWORK",
-        "lastUpdated": 1789672110828,
-        "otherAdvice": "<p><strong>Great Western Hwy is open between Lithgow and Little Hartley. </strong>The highway is closed between Coxs River Rd and Victoria St.</p><p>Images will be provided within the Attachments section as the project progresses. For more updates on Victoria Pass, head to - <a href=\"https://www.transport.nsw.gov.au/projects/current-projects/victoria-pass-road-closure-on-great-western-highway\" rel=\"noopener noreferrer\" target=\"_blank\">Victoria Pass road closure on the Great Western Highway | Transport for NSW</a></p>",
-        "arrangementElements": [],
-        "diversions": "<p><strong>Eastbound: </strong>Chifley Rd and Darling Causeway.</p><p><strong>Westbound:</strong> Harley Ave, Darling Causeway, Chifley Rd.</p><p>Allow extra travel time. <strong>If travelling during peak periods (Monday to Thursday 8:30 to 10am and 2 to 3:30pm, and Friday 8:30am to 3:30pm), you may need to allow around an additional hour of travel time. </strong></p><p>Through traffic on Great Western Hwy can consider alternative routes such as the Golden Hwy or Hume Hwy.</p><ul><li>Detour is suitable for general access vehicles up to 19 metres long and Performance Based Standards (PBS) Level 1 heavy vehicles up to 20 metres long</li><li>Restricted access heavy vehicle operators who are unable to travel on an approved Notice Network are advised to reroute their journeys.</li><li>Restricted access heavy vehicle operators who are unable to travel on a Notice Network are advised to apply for an amended permit via NHVR Go. </li><li><strong>Please note that Class 1 Oversize and/or Over Mass (OSOM) vehicles and Special Purpose Vehicles (SPV) cannot currently be accommodated on the Chifley Rd/Darling Causeway detour route. </strong></li><li>To check approved Notice Networks, heavy vehicle operators can use the NHVR National Network Map to find an alternative route for their combination: <a href=\"https://www.nhvr.gov.au/road-access/route-planner/national-network-map\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.nhvr.gov.au/road-access/route-planner/national-network-map</a></li></ul><p>Operators who require a NHVR issued Permit are reminded that they must only travel on the roads approved in their Permit.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "pq}kEok{s[FGNQNODGHGNOHEXUPK\\OHEPGNIRGJCJM@AZKf@QXKLIRMT_@J]D]?g@C]IYO_@GGGGGGIEGEIEQIc@UKEEGGGCEMGICIEOKKGOMGGIGGGGGEIGGEIGIEICICGACEKCICKCIEMAKCKACAGCWAKCW?M?MAKCKAK?K?K@M@I@M@W@MFUJUBKFUDO@EDKDKBI@CBEDKBIDIFGNMj@g@^_@NOXYFGDGNQFGFGFIFKDIDI@CDIBIDK?C?ABGDW@GD[De@Jo@Lo@DWBK@M?K?M?KAKCMAKEICKCGEMCEGOWi@O_@ISAACICKEKCKAIIWCKAMAK?A?KAK?Y?E?_@AY?e@AKAYAYAWAKASC_@CUAMAMAWAK?I?CAWAYBq@Fe@\\mBFc@?EBS?U?CAKAKCMCICKEKEKEGEIGGGGIGGGIEGEICICKCIAIA_@EIAICIAIEGEIGGGEGEIEKAKCK?K?K?K@KBKBKDIFIDIDC@CPMHEFERKPKZQ\\O~As@HENIB?FEHEHCRKPI\\OPKRKDE@?HGFGFEFGHGDIFGLQ"
-          }
-        ],
-        "displayName": "EMERGENCY ROADWORK Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Pass",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Highway"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Mount Victoria",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 273239,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.1483208,
-          -29.9736576
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 80,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777937501000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Road damage",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1789672111650,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Local Council"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Road damage",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "El O'Brien Bridge (Barwon River)",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "on",
-            "mainStreet": "Castlereagh Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "",
-            "suburb": "Walgett",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 288426,
       "geometry": {
         "type": "Point",
@@ -3580,304 +3401,6 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "ChangedConditions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288618,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9038698,
-          -34.366845
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789901465000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Follow directions on site",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1789925758794,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "<p>Light vehicles: Rothery St, Princes Hwy, Bellambi Lane to Memorial Dr</p><p>Suitable for vehicles up to 19m and 50 tonnes</p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR.</p><p><br></p><p>Heavy vehicles to use the M1 Princes Mwy</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Bellambi Lane",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Northbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Memorial Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "Rothery Street",
-            "suburb": "Corrimal",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288611,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.135154,
-          -32.624918
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789890235000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "2 cars",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Avoid the area",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1789931439969,
-        "otherAdvice": "<p>Ongoing police investigations are expected to take some time. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Crash Investigation Unit"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH 2 cars",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mitchell Line of Road (Golden Highway)",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "between",
-            "mainStreet": "Putty Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Carrington Street",
-            "suburb": "Mount Thorley",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288564,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7446989,
-          -33.7831589
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 80,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789844825000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Metal",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1789931478601,
-        "otherAdvice": "<p>A reduced speed limit will remain in place until repairs are completed.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Motorway Crew"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Damaged safety fence",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Kent Road overpass",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Both directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "M4 Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Kingswood",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288625,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7314229,
-          -34.1742232
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789929052000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Car towing trailer",
-        "adviceA": "Exercise caution",
-        "adviceB": "Prepare to merge",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "CRASH",
-        "lastUpdated": 1789935597332,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Transport for NSW"
-        ],
-        "encodedPolylines": [],
-        "displayName": "CRASH Car towing trailer",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Moreton Park Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Hume Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Douglas Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Crash"
       }
     },
     {
@@ -8555,152 +8078,6 @@
     },
     {
       "type": "Feature",
-      "id": 288713,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7250114,
-          -32.9170307
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789991961000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Van on fire",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": "Prepare to merge",
-        "incidentKind": "Unplanned",
-        "mainCategory": "HAZARD",
-        "lastUpdated": 1789998040196,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "HAZARD Fire",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Young Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "1",
-                "description": "Lane 1",
-                "extent": "Lanes closed",
-                "numberOfLanes": "3",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "near",
-            "mainStreet": "Turton Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "New Lambton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Hazard"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288719,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.742311,
-          -32.910472
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790000368000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "Power failure",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
-        "lastUpdated": 1790000369110,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "displayName": "TRAFFIC LIGHTS BLACKED OUT Power failure",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Chinchen Street",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "All directions",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Affected",
-                "numberOfLanes": "",
-                "roadType": ""
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Clyde Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Islington",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "TrafficSignals"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 288718,
       "geometry": {
         "type": "Point",
@@ -8791,8 +8168,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -8807,7 +8184,7 @@
         "adviceC": " ",
         "incidentKind": "Unplanned",
         "mainCategory": "TRAFFIC LIGHTS FLASHING YELLOW",
-        "lastUpdated": 1790008960714,
+        "lastUpdated": 1790013199925,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -8843,6 +8220,706 @@
         ],
         "isLocalRoad": "State road",
         "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1483208,
+          -29.9736576
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 80,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777937501000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Road damage",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "incidentKind": "Unplanned",
+        "mainCategory": "HAZARD",
+        "lastUpdated": 1790015345781,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Local Council"
+        ],
+        "encodedPolylines": [],
+        "displayName": "HAZARD Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "El O'Brien Bridge (Barwon River)",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "on",
+            "mainStreet": "Castlereagh Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Far West NSW",
+            "secondLocation": "",
+            "suburb": "Walgett",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2331624,
+          -33.5814227
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "EMERGENCY ROADWORK Road damage MOUNT VICTORIA Great Western Highway at Victoria Pass",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "GreatWesternHwyDetourMap",
+            "fileName": "GreatWesternHwyDetourMap.png",
+            "fileType": "PNG",
+            "linkName": "GreatWesternHwyDetourMap",
+            "sizeInBytes": 912638,
+            "uniqueFileName": "968604_1773898070499_GreatWesternHwyDetourMap.png"
+          },
+          {
+            "displayName": "GreatWesternHighwayProgressUpdate1",
+            "fileName": "GreatWesternHighwayProgressUpdate1.jpeg",
+            "fileType": "JPEG",
+            "linkName": "GreatWesternHighwayProgressUpdate1",
+            "sizeInBytes": 1482961,
+            "uniqueFileName": "506418_1788922492925_GreatWesternHighwayProgressUpdate1.jpeg"
+          },
+          {
+            "displayName": "GreatWesternHighwayProgressUpdate2",
+            "fileName": "GreatWesternHighwayProgressUpdate2.jpeg",
+            "fileType": "JPEG",
+            "linkName": "GreatWesternHighwayProgressUpdate2",
+            "sizeInBytes": 1196848,
+            "uniqueFileName": "545475_1788922499726_GreatWesternHighwayProgressUpdate2.jpeg"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1772690097000,
+        "isMajor": true,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": "Allow extra travel time",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1790015345950,
+        "otherAdvice": "<p><strong>Great Western Hwy is open between Lithgow and Little Hartley. </strong>The highway is closed between Coxs River Rd and Victoria St.</p><p>Images will be provided within the Attachments section as the project progresses. For more updates on Victoria Pass, head to - <a href=\"https://www.transport.nsw.gov.au/projects/current-projects/victoria-pass-road-closure-on-great-western-highway\" rel=\"noopener noreferrer\" target=\"_blank\">Victoria Pass road closure on the Great Western Highway | Transport for NSW</a></p>",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Eastbound: </strong>Chifley Rd and Darling Causeway.</p><p><strong>Westbound:</strong> Harley Ave, Darling Causeway, Chifley Rd.</p><p>Allow extra travel time. <strong>If travelling during peak periods (Monday to Thursday 8:30 to 10am and 2 to 3:30pm, and Friday 8:30am to 3:30pm), you may need to allow around an additional hour of travel time. </strong></p><p>Through traffic on Great Western Hwy can consider alternative routes such as the Golden Hwy or Hume Hwy.</p><ul><li>Detour is suitable for general access vehicles up to 19 metres long and Performance Based Standards (PBS) Level 1 heavy vehicles up to 20 metres long</li><li>Restricted access heavy vehicle operators who are unable to travel on an approved Notice Network are advised to reroute their journeys.</li><li>Restricted access heavy vehicle operators who are unable to travel on a Notice Network are advised to apply for an amended permit via NHVR Go. </li><li><strong>Please note that Class 1 Oversize and/or Over Mass (OSOM) vehicles and Special Purpose Vehicles (SPV) cannot currently be accommodated on the Chifley Rd/Darling Causeway detour route. </strong></li><li>To check approved Notice Networks, heavy vehicle operators can use the NHVR National Network Map to find an alternative route for their combination: <a href=\"https://www.nhvr.gov.au/road-access/route-planner/national-network-map\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.nhvr.gov.au/road-access/route-planner/national-network-map</a></li></ul><p>Operators who require a NHVR issued Permit are reminded that they must only travel on the roads approved in their Permit.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "pq}kEok{s[FGNQNODGHGNOHEXUPK\\OHEPGNIRGJCJM@AZKf@QXKLIRMT_@J]D]?g@C]IYO_@GGGGGGIEGEIEQIc@UKEEGGGCEMGICIEOKKGOMGGIGGGGGEIGGEIGIEICICGACEKCICKCIEMAKCKACAGCWAKCW?M?MAKCKAK?K?K@M@I@M@W@MFUJUBKFUDO@EDKDKBI@CBEDKBIDIFGNMj@g@^_@NOXYFGDGNQFGFGFIFKDIDI@CDIBIDK?C?ABGDW@GD[De@Jo@Lo@DWBK@M?K?M?KAKCMAKEICKCGEMCEGOWi@O_@ISAACICKEKCKAIIWCKAMAK?A?KAK?Y?E?_@AY?e@AKAYAYAWAKASC_@CUAMAMAWAK?I?CAWAYBq@Fe@\\mBFc@?EBS?U?CAKAKCMCICKEKEKEGEIGGGGIGGGIEGEICICKCIAIA_@EIAICIAIEGEIGGGEGEIEKAKCK?K?K?K@KBKBKDIFIDIDC@CPMHEFERKPKZQ\\O~As@HENIB?FEHEHCRKPI\\OPKRKDE@?HGFGFEFGHGDIFGLQ"
+          }
+        ],
+        "displayName": "EMERGENCY ROADWORK Road damage",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Pass",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Highway"
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Great Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Mount Victoria",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8414687,
+          -33.9498835
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790019733000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Prepare to merge",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1790019917414,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW",
+          "Tow Truck"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Cowpasture Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "2",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "just past",
+            "mainStreet": "Camden Valley Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Horningsea Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8487643,
+          -33.7329176
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790020198000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "2 cars",
+        "adviceA": "Prepare to merge",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1790021605831,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH 2 cars",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M7 Motorway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Richmond Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Glendenning",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.80309,
+          -34.568033
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790020496000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1790021711309,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tongarra Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Albion Park Rail",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7250114,
+          -32.9170307
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1789991961000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Reduce your speed",
+        "adviceC": "Prepare to merge",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EMERGENCY ROADWORK",
+        "lastUpdated": 1790022998419,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "EMERGENCY ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Young Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "2",
+                "description": "Lane 1, Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "near",
+            "mainStreet": "Turton Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "New Lambton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Hazard"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9394003,
+          -33.9415667
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790022431000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Car",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BREAKDOWN",
+        "lastUpdated": 1790023096762,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BREAKDOWN Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Heathcote Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Lane 1",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "M5 Motorway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Moorebank",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Breakdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.742311,
+          -32.910472
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790000368000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "Power failure",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "TRAFFIC LIGHTS BLACKED OUT",
+        "lastUpdated": 1790023185334,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Utility Company"
+        ],
+        "encodedPolylines": [],
+        "displayName": "TRAFFIC LIGHTS BLACKED OUT Power failure",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Chinchen Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "All directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Clyde Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Islington",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "TrafficSignals"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8560549,
+          -33.7891936
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790022559000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "CRASH",
+        "lastUpdated": 1790023703436,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Motorway Crew"
+        ],
+        "encodedPolylines": [],
+        "displayName": "CRASH Truck, Car",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "M7 Motorway",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Northbound",
+                "closedLanes": "1",
+                "description": "Breakdown lane",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": "Off-ramp"
+              }
+            ],
+            "locationQualifier": "to",
+            "mainStreet": "Great Western Highway on-ramp",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Eastern Creek",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Crash"
       }
     }
   ]
