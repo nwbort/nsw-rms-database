@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790361330000,
+  "lastPublished": 1790374860000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1970,17 +1970,26 @@
     },
     {
       "type": "Feature",
-      "id": 288140.0,
+      "id": 288138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.1128047,
-          -33.7148738
+          150.1684522,
+          -33.4794537
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          },
+          {
+            "linkText": "Pinch Point Journey Planner",
+            "linkURL": "https://www.myjourneynsw.info/"
+          }
+        ],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
@@ -2004,8 +2013,8 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790193647115,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected from Wahroonga to Calga on the M1 Pacific Motorway during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
+        "lastUpdated": 1790193647123,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected through Lithgow during peak holiday travel periods due to the closure of Great Western Highway at Victoria Pass.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p><p>For more information about the work we are undertaking at Victoria Pass,<a href=\"https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass\" target=\"_blank\"> click here.</a></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2018,16 +2027,16 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "Mort Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "-",
-            "mainStreet": "M1 Pacific Motorway",
+            "mainStreet": "Chifley Road",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Sydney",
+            "region": "Blue Mountains",
             "secondLocation": "",
-            "suburb": "Wahroonga to Calga",
+            "suburb": "Lithgow",
             "trafficVolume": ""
           }
         ],
@@ -2113,26 +2122,17 @@
     },
     {
       "type": "Feature",
-      "id": 288138,
+      "id": 288140.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.1684522,
-          -33.4794537
+          151.1128047,
+          -33.7148738
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
@@ -2156,8 +2156,8 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790193647123,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected through Lithgow during peak holiday travel periods due to the closure of Great Western Highway at Victoria Pass.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p><p>For more information about the work we are undertaking at Victoria Pass,<a href=\"https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass\" target=\"_blank\"> click here.</a></p>",
+        "lastUpdated": 1790193647115,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected from Wahroonga to Calga on the M1 Pacific Motorway during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2170,16 +2170,16 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Mort Street",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "-",
-            "mainStreet": "Chifley Road",
+            "mainStreet": "M1 Pacific Motorway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Blue Mountains",
+            "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Lithgow",
+            "suburb": "Wahroonga to Calga",
             "trafficVolume": ""
           }
         ],
@@ -3029,6 +3029,73 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2779857,
+          -31.2754334
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790366405000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Reduce your speed",
+        "adviceC": "Exercise caution",
+        "end": 1790919000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790366406170,
+        "otherAdvice": "<p>The Coonabarabran Pony Club Street Parade will be held on Friday 2 October 2026. The parade will commence at the Coonabarabran Showground on Edward St and will proceed onto the Newell Hwy (Edward St) for the main parade. The Newell Hwy is expected to be closed from 3pm to 3.30pm. Detours in place for all vehicles.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>All vehicles will be detoured for both north and south traffic via Saleyards Rd / Gardener St, Namoi St, Edward St. Note Edward St will be closed up to 5 minutes whilst the parade travels from the showground and onto the highway.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790917200000,
+        "displayName": "Coonabarabran Pony Club Parade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Edwards Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Dalgarno Street",
+            "suburb": "Coonabarabran",
             "trafficVolume": ""
           }
         ],
