@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790299830000,
+  "lastPublished": 1790322630000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -2182,6 +2182,82 @@
     },
     {
       "type": "Feature",
+      "id": 288138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1684522,
+          -33.4794537
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          },
+          {
+            "linkText": "Pinch Point Journey Planner",
+            "linkURL": "https://www.myjourneynsw.info/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790193646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791809100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790193647123,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected through Lithgow during peak holiday travel periods due to the closure of Great Western Highway at Victoria Pass.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p><p>For more information about the work we are undertaking at Victoria Pass,<a href=\"https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass\" target=\"_blank\"> click here.</a></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790172000000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mort Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Chifley Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Lithgow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 288140.0,
       "geometry": {
         "type": "Point",
@@ -2325,12 +2401,12 @@
     },
     {
       "type": "Feature",
-      "id": 288138,
+      "id": 288144,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.1684522,
-          -33.4794537
+          149.818504,
+          -35.452746
         ],
         "collections": []
       },
@@ -2351,7 +2427,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
@@ -2368,8 +2444,8 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790193647123,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected through Lithgow during peak holiday travel periods due to the closure of Great Western Highway at Victoria Pass.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p><p>For more information about the work we are undertaking at Victoria Pass,<a href=\"https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass\" target=\"_blank\"> click here.</a></p>",
+        "lastUpdated": 1790193831059,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Nowra, Jervis Bay, and Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2382,16 +2458,16 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Mort Street",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Chifley Road",
+            "locationQualifier": "at",
+            "mainStreet": "Kings Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Blue Mountains",
+            "region": "Southern Highlands",
             "secondLocation": "",
-            "suburb": "Lithgow",
+            "suburb": "Braidwood",
             "trafficVolume": ""
           }
         ],
@@ -2544,82 +2620,6 @@
             "region": "Blue Mountains",
             "secondLocation": "",
             "suburb": "Blackheath",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288144,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.818504,
-          -35.452746
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790193646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791809100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790193831059,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Nowra, Jervis Bay, and Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790172000000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Kings Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Braidwood",
             "trafficVolume": ""
           }
         ],
@@ -2883,109 +2883,6 @@
     },
     {
       "type": "Feature",
-      "id": 288058,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.03585,
-          -35.517495
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Henty Machinery Field Days",
-            "linkURL": "https://hmfd.com.au"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Tuesday",
-            "startTime": "8:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Wednesday",
-            "startTime": "8:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Thursday",
-            "startTime": "8:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789353225000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Expect delays",
-        "end": 1790233200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790233202536,
-        "otherAdvice": "<p>The Henty Machinery Field Days Tuesday will be held from 22-24 September and is one of the largest exhibitions of agricultural machinery and associated products in rural Australia. The event attracts in excess of 800 exhibitors and more than 60,000 people during the three-day event.</p><p>Access to the event is via a single road (Henty-Cookardinia Rd).</p><p>Traffic controllers will be on-site to direct motorists.</p><p>Alternating (stop/slow) traffic conditions will be in place on the Olympic Hwy at Cookardinia Rd.</p><p>A speed reduction will be in place on the Olympic Hwy and Cookardinia Rd, check signage and exercise caution in the area.</p><p><strong>Local road closures will be in place on:</strong></p><ul><li>Ivor Street - detour via Lyne and Allan Street</li><li>Salden Street - Local traffic only</li><li>Olympic Highway between Fox Street and Fourth Street is closed - Local access only to Graham Street, First Street, Second Street and Third Street</li><li>Back Henty Road</li></ul><p>Motorists are advised to allow for additional travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790028000000,
-        "displayName": "Henty Machinery Field Days",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Sladen Street East",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Olympic Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "The Murray",
-            "secondLocation": "",
-            "suburb": "Henty",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 289017,
       "geometry": {
         "type": "Point",
@@ -3049,6 +2946,89 @@
             "region": "Riverina",
             "secondLocation": "",
             "suburb": "Barellan",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.897193,
+          -34.426636
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Wollongong Culture Mix",
+            "linkURL": "https://wollongong.nsw.gov.au/community/art-and-culture/culture-mix"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Saturday",
+            "startTime": "11:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790310115000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": " ",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1790409600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790310116005,
+        "otherAdvice": "<p>Road closures of Kembla Street between Burelli Street and Market Street, and Crown Street between Corrimal Street and Kembla Street will be in place for the Wollongong Culture Mix. </p><p>Traffic controllers will be on site to direct motorists. </p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "<p>Southbound motorists will be detoured via Market Street, Corrimal Street and Burelli Street. </p><p>Northbound motorists will be detoured via Stewart Street, Burelli Street, Corrimal Street and Market Street</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790384400000,
+        "displayName": "Wollongong Culture Mix",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Burelli Street, Market Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Kembla Street & Crown Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "Corrimal Street",
+            "suburb": "Wollongong",
             "trafficVolume": ""
           }
         ],
