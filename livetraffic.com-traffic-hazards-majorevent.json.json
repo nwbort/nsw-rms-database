@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790556360000,
+  "lastPublished": 1790578560000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1640,150 +1640,6 @@
     },
     {
       "type": "Feature",
-      "id": 288941,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.5015057,
-          -33.336666
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Run Fest event website",
-            "linkURL": "https://www.runfest.com.au/locations/running-events-central-coast"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790137566000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduced speed limit",
-        "end": 1790478000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790478008102,
-        "otherAdvice": "<p>This year&#39;s Run Fest will be held on Sunday 27 September. The speed limit on the Central Coast Highway/Wilfred Barrett Drive will be reduced to 40km/h for the safety of event participants. </p><p>There will be a number of local road closures between 4am-11am including Bent Street, Oakland Ave and The Entrance Road. </p><p>Traffic controllers will be on site to direct motorists. </p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790454600000,
-        "displayName": "SPECIAL EVENT Run Fest",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hargraves Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Central Coast Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "The Entrance North",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 289030.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1190947,
-          -30.2915834
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Big Boys Toys Expo",
-            "linkURL": "https://bigboystoysexpo.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790220717000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1790488800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790488809985,
-        "otherAdvice": "<p><strong>The expo will be held on Saturday 26 and Sunday 27 September at the Coffs Harbour Showground. </strong></p><p>Traffic may be heavier than usual on the Pacific Hwy as attendees travel to and from the event.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790377200000,
-        "displayName": "Big Boys Toys Expo",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Coffs Harbour Showground",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Coffs Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 288140.0,
       "geometry": {
         "type": "Point",
@@ -2417,6 +2273,89 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "North Sydney to Parramatta Park via Pyrmont",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0499821,
+          -34.2885297
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Griffith's Biggest Lap",
+            "linkURL": "https://griffithsbiggestlap.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "All directions",
+            "finishTime": "8:30pm",
+            "fromDay": "Saturday",
+            "startTime": "4:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790559374000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Exercise caution",
+        "end": 1791028800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790559495668,
+        "otherAdvice": "<p>The Griffith Biggest Lap is an event to celebrate the love for cars and the unique culture of Griffith’s car enthusiasts held on Saturday 3 October from 4pm to 8.30pm.</p><p>Banna Way and Benerembah St will be closed between Jondaryan Ave and Kookora St, and detours will be in place.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists travelling from the south, west and east will be detoured via Kookora St, Yambil St, and Jondaryan Ave.</p><p>Motorists travelling from the north will be detoured via Wakaden St, Kooringal Ave, Kookora St and Yambil St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790991000000,
+        "displayName": "SPECIAL EVENT Griffith's Biggest Lap",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Jondaryan Avenue",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Banna Avenue",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "Kookora Street",
+            "suburb": "Griffith",
             "trafficVolume": ""
           }
         ],
