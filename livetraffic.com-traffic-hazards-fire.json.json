@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790697060000,
+  "lastPublished": 1790714760000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -90,80 +90,6 @@
     },
     {
       "type": "Feature",
-      "id": 289522,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.271862,
-          -33.761915
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790695159000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "incidentKind": "Unplanned",
-        "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1790695223220,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services"
-        ],
-        "encodedPolylines": [],
-        "displayName": "BUILDING FIRE",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Winbourne Road",
-            "delay": "",
-            "impactedLanes": [
-              {
-                "affectedDirection": "Southbound",
-                "closedLanes": "",
-                "description": "",
-                "extent": "Closed",
-                "numberOfLanes": "",
-                "roadType": "Road"
-              }
-            ],
-            "locationQualifier": "at",
-            "mainStreet": "Pittwater Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Brookvale",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Fire"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 289412,
       "geometry": {
         "type": "Point",
@@ -180,7 +106,7 @@
             "linkURL": "https://maps.nhvr.gov.au/"
           }
         ],
-        "headline": "BUILDING FIRE LAKEMBA Canterbury Road between Dennis Street and Haldon Street",
+        "headline": "EARLIER BUILDING FIRE LAKEMBA Canterbury Road between Dennis Street and Haldon Street",
         "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
@@ -200,9 +126,9 @@
         "adviceB": "Plan your journey",
         "adviceC": "Allow extra travel time",
         "incidentKind": "Unplanned",
-        "mainCategory": "BUILDING FIRE",
-        "lastUpdated": 1790696464302,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions. </p>",
+        "mainCategory": "EARLIER BUILDING FIRE",
+        "lastUpdated": 1790712223336,
+        "otherAdvice": "<p>Ongoing investigations and clean-up are expected to take some time. </p>",
         "arrangementElements": [],
         "diversions": "<p>Light vehicles can divert via local streets.</p><p>Heavy vehicles can consider using Punchbowl Rd and Georges River Rd, or the M5 Mwy instead.</p>",
         "additionalInfo": [],
@@ -218,7 +144,7 @@
             "coords": "~janEoacy[o@aDMo@Ia@Qy@Ow@?AMi@Q_AOw@"
           }
         ],
-        "displayName": "BUILDING FIRE",
+        "displayName": "EARLIER BUILDING FIRE",
         "roads": [
           {
             "conditionTendency": "",
@@ -242,6 +168,81 @@
             "secondLocation": "Haldon Street",
             "suburb": "Lakemba",
             "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2724299,
+          -33.7613531
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790695159000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Prepare to merge",
+        "adviceC": "Exercise caution",
+        "incidentKind": "Unplanned",
+        "mainCategory": "EARLIER BUILDING FIRE",
+        "lastUpdated": 1790714542719,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "EARLIER BUILDING FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Winbourne Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Southbound",
+                "closedLanes": "2",
+                "description": "Lane 1, Lane 2",
+                "extent": "Lanes closed",
+                "numberOfLanes": "3",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pittwater Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Brookvale",
+            "trafficVolume": "Moderate"
           }
         ],
         "isLocalRoad": "State road",
