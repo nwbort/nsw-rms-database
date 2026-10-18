@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1792321890000,
+  "lastPublished": 1792334190000,
   "layerName": "Roadwork",
   "rights": {
     "copyright": "Transport for NSW",
@@ -14597,12 +14597,12 @@
     },
     {
       "type": "Feature",
-      "id": 284590.0,
+      "id": 288046,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.057109,
-          -33.776567
+          150.9845292,
+          -33.944505
         ],
         "collections": []
       },
@@ -14612,39 +14612,29 @@
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
-            "startTime": "9:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "9:00pm",
+            "startTime": "10:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "9:00pm",
+            "startTime": "10:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
             "startTime": "10:00pm",
@@ -14652,11 +14642,21 @@
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
             "finishTime": "5:00am",
-            "fromDay": "Friday",
+            "fromDay": "Sunday",
+            "startTime": "10:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Off-ramp",
+            "direction": "Westbound",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
             "startTime": "10:00pm",
             "toDay": ""
           }
@@ -14667,45 +14667,45 @@
         "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1786598785000,
+        "created": 1789347472000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "Intersection upgrade",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Follow directions on site",
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
         "adviceC": "Allow extra travel time",
-        "end": 1793988900000,
+        "end": 1792433700000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1791482446859,
-        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p><br></p>",
+        "lastUpdated": 1791482446572,
+        "otherAdvice": "<p>Only this ramp will be closed; the motorway will remain open with a lane closure and reduced speed limit in place.</p>",
         "arrangementElements": [],
-        "diversions": "",
+        "diversions": "<p>The River Rd and Milperra Rd to Henry Lawson Dr; or Heathcote Rd and Newbridge Rd to Henry Lawson Dr.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1791865320000,
-        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
+        "start": 1791889200000,
+        "displayName": "SCHEDULED ROADWORK",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Rembrandt Street",
+            "crossStreet": "Henry Lawson Drive",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Carlingford Road",
+            "locationQualifier": "to",
+            "mainStreet": "M5 Motorway westbound off-ramp",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Pennant Parade",
-            "suburb": "Epping",
+            "secondLocation": "",
+            "suburb": "Milperra",
             "trafficVolume": ""
           }
         ],
@@ -14833,12 +14833,12 @@
     },
     {
       "type": "Feature",
-      "id": 288046,
+      "id": 284590.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9845292,
-          -33.944505
+          151.057109,
+          -33.776567
         ],
         "collections": []
       },
@@ -14848,29 +14848,39 @@
         "periods": [
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00am",
+            "fromDay": "Monday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Tuesday",
-            "startTime": "10:00pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Wednesday",
-            "startTime": "10:00pm",
+            "startTime": "9:00pm",
             "toDay": ""
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
             "finishTime": "5:00am",
             "fromDay": "Thursday",
             "startTime": "10:00pm",
@@ -14878,21 +14888,11 @@
           },
           {
             "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
             "finishTime": "5:00am",
-            "fromDay": "Sunday",
-            "startTime": "10:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Off-ramp",
-            "direction": "Westbound",
-            "finishTime": "5:00am",
-            "fromDay": "Monday",
+            "fromDay": "Friday",
             "startTime": "10:00pm",
             "toDay": ""
           }
@@ -14903,45 +14903,45 @@
         "ended": false,
         "isNewIncident": false,
         "publicTransport": "",
-        "impactingNetwork": true,
+        "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1789347472000,
+        "created": 1786598785000,
         "isMajor": false,
         "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Plan your journey",
+        "subCategoryA": "Intersection upgrade",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Follow directions on site",
         "adviceC": "Allow extra travel time",
-        "end": 1792433700000,
+        "end": 1793988900000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1791482446572,
-        "otherAdvice": "<p>Only this ramp will be closed; the motorway will remain open with a lane closure and reduced speed limit in place.</p>",
+        "lastUpdated": 1791482446859,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time.</p><p><br></p>",
         "arrangementElements": [],
-        "diversions": "<p>The River Rd and Milperra Rd to Henry Lawson Dr; or Heathcote Rd and Newbridge Rd to Henry Lawson Dr.</p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1791889200000,
-        "displayName": "SCHEDULED ROADWORK",
+        "start": 1791865320000,
+        "displayName": "SCHEDULED ROADWORK Intersection upgrade",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Henry Lawson Drive",
+            "crossStreet": "Rembrandt Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "M5 Motorway westbound off-ramp",
+            "locationQualifier": "between",
+            "mainStreet": "Carlingford Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Milperra",
+            "secondLocation": "Pennant Parade",
+            "suburb": "Epping",
             "trafficVolume": ""
           }
         ],
@@ -17332,84 +17332,6 @@
     },
     {
       "type": "Feature",
-      "id": 289729,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.546017,
-          -33.692371
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "",
-            "fromDay": "Every Day",
-            "startTime": "all day",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1791658863000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1792692000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1791658863753,
-        "otherAdvice": "",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1792314000000,
-        "displayName": "SCHEDULED ROADWORK",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Grose Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "near",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Faulconbridge",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "Roadworks"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 289733,
       "geometry": {
         "type": "Point",
@@ -17488,12 +17410,12 @@
     },
     {
       "type": "Feature",
-      "id": 290318,
+      "id": 289729,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.384564,
-          -33.724633
+          150.546017,
+          -33.692371
         ],
         "collections": []
       },
@@ -17507,7 +17429,7 @@
             "roadtype": "",
             "direction": "Both directions",
             "finishTime": "",
-            "fromDay": "Every Night",
+            "fromDay": "Every Day",
             "startTime": "all day",
             "toDay": ""
           }
@@ -17522,7 +17444,7 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1791658862000,
+        "created": 1791658863000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
@@ -17533,7 +17455,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SCHEDULED ROADWORK",
-        "lastUpdated": 1791658863754,
+        "lastUpdated": 1791658863753,
         "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
@@ -17547,7 +17469,7 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Tableland Road",
+            "crossStreet": "Grose Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "near",
@@ -17556,7 +17478,7 @@
             "queueLength": 0,
             "region": "Blue Mountains",
             "secondLocation": "",
-            "suburb": "Wentworth Falls",
+            "suburb": "Faulconbridge",
             "trafficVolume": ""
           }
         ],
@@ -17675,6 +17597,84 @@
             "region": "Blue Mountains",
             "secondLocation": "",
             "suburb": "Springwood",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Roadworks"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.384564,
+          -33.724633
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "",
+            "fromDay": "Every Night",
+            "startTime": "all day",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791658862000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1792692000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SCHEDULED ROADWORK",
+        "lastUpdated": 1791658863754,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792314000000,
+        "displayName": "SCHEDULED ROADWORK",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tableland Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "near",
+            "mainStreet": "Great Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Wentworth Falls",
             "trafficVolume": ""
           }
         ],
