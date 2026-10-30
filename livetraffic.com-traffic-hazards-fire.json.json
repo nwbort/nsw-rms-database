@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1793325330000,
+  "lastPublished": 1793349630000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
@@ -9,12 +9,12 @@
   "features": [
     {
       "type": "Feature",
-      "id": 292719,
+      "id": 292871,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.3730852,
-          -32.4335391
+          151.03605,
+          -33.9385879
         ],
         "collections": []
       },
@@ -22,7 +22,7 @@
         "webLinks": [],
         "headline": "",
         "periods": [],
-        "speedLimit": 80,
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -32,36 +32,34 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1793232656000,
+        "created": 1793330042000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduced speed limit",
+        "adviceA": "Expect delays",
+        "adviceB": " ",
         "adviceC": " ",
         "incidentKind": "Unplanned",
-        "mainCategory": "GRASS FIRE",
-        "lastUpdated": 1793246135984,
-        "otherAdvice": "<p>Smoke in the area may affect visibility. Motorists should drive to the conditions.</p>",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1793333627259,
+        "otherAdvice": "",
         "arrangementElements": [],
         "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": [
-          "Emergency services",
-          "Rural Fire Service",
-          "Transport for NSW"
+        "additionalInfo": [
+          "Site Cleared"
         ],
+        "weblinkName": null,
+        "attendingGroups": null,
         "encodedPolylines": [],
-        "displayName": "GRASS FIRE",
+        "displayName": "BUILDING FIRE",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Tomingley",
+            "crossStreet": "Gow Street",
             "delay": "",
             "impactedLanes": [
               {
-                "affectedDirection": "Both directions",
+                "affectedDirection": "Southbound",
                 "closedLanes": "",
                 "description": "",
                 "extent": "Affected",
@@ -69,13 +67,87 @@
                 "roadType": ""
               }
             ],
-            "locationQualifier": "between",
-            "mainStreet": "Newell Highway",
+            "locationQualifier": "just past",
+            "mainStreet": "Fairford Road",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Dubbo",
-            "suburb": "Tomingley",
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Padstow",
+            "trafficVolume": "Heavy"
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 292910.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8469013,
+          -33.8109973
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1793345533000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Prepare to merge",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "GRASS FIRE",
+        "lastUpdated": 1793349020770,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services"
+        ],
+        "encodedPolylines": [],
+        "displayName": "GRASS FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mini Link Road",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "1",
+                "description": "Left turn lane",
+                "extent": "Lanes closed",
+                "numberOfLanes": "6",
+                "roadType": ""
+              }
+            ],
+            "locationQualifier": "at",
+            "mainStreet": "Old Wallgrove Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Eastern Creek",
             "trafficVolume": ""
           }
         ],
