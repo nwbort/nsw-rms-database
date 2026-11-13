@@ -1,10 +1,86 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1794557010000,
+  "lastPublished": 1794587100000,
   "layerName": "Fire",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 294305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.029259,
+          -33.8389325
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1794583671000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "incidentKind": "Unplanned",
+        "mainCategory": "BUILDING FIRE",
+        "lastUpdated": 1794585258948,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": [
+          "Emergency services",
+          "Transport for NSW"
+        ],
+        "encodedPolylines": [],
+        "displayName": "BUILDING FIRE",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Junction Street",
+            "delay": "",
+            "impactedLanes": [
+              {
+                "affectedDirection": "Eastbound",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+              }
+            ],
+            "locationQualifier": "near",
+            "mainStreet": "Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Auburn",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "Fire"
+      }
+    }
+  ]
 }
